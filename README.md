@@ -1,2 +1,2 @@
 # plane-alert-db
-A list of interesting aircraft picked up 
+A list of interesting aircraft to pick up on ADSB
