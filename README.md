@@ -12,11 +12,12 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 
 # To do / Ideas
 
-Add more Military/Research/One off Aircraft
-National Display Teams (e.g. Red Arrows, Blue Angels)
-Heads of State
-Drones and Spy Aircraft
-'Covert' aircraft hiding their true purpose/ownership
+- Add more Military/Research/One off Aircraft
+- National Display Teams (e.g. Red Arrows, Blue Angels)
+- Heads of State
+- Drones and Spy Aircraft
+- 'Covert' aircraft hiding their true purpose/ownership
+
 Any other idea's welcome.
 
 
