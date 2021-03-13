@@ -4,13 +4,10 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 
 # Current Content
 
-plane-alert-db.txt - My personal alert list, a combination of all the other lists.
-
-briz-planes.txt - Aircraft picked up by my personal ABSB station
-
-Qatar-Amiri-Flight.txt - A private VIP airline for the Qatari Royal Family
-
-uk-NPAS.txt - United Kingdom National Police Aviation Service. Includes Helicopters and 4 Vulcanair P.68R aircraft.
+- plane-alert-db.txt - My personal alert list, a combination of all the other lists.
+- briz-planes.txt - Aircraft picked up by my personal ABSB station
+- Qatar-Amiri-Flight.txt - A private VIP airline for the Qatari Royal Family
+- uk-NPAS.txt - United Kingdom National Police Aviation Service. Includes Helicopters and 4 Vulcanair P.68R aircraft.
 
 
 # To do / Ideas
