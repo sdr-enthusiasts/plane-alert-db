@@ -1,11 +1,6 @@
 # plane-alert-db
-This project contains several lists of 'interesting' aircraft, formatted as a CSV files. 
+This project contains several lists of 'interesting' aircraft, formatted as a CSV files. These files are designed to work with the excellent https://github.com/kx1t/docker-planefence and take the form ICAO,Ident,Operator,Type
 
-The format of the files should be 
-
-ICAO,Ident,Operator,Type
-
-These files are designed to work with the excellent https://github.com/kx1t/docker-planefence
 
 # Current Content
 
@@ -13,6 +8,7 @@ plane-alert-db.txt - My personal alert list, a combination of all the other list
 briz-planes.txt - Aircraft picked up by my personal ABSB station
 Qatar-Amiri-Flight.txt - A private VIP airline for the Qatari Royal Family
 uk-NPAS.txt - United Kingdom National Police Aviation Service. Includes Helicopters and 4 Vulcanair P.68R aircraft.
+
 
 # To do / Ideas
 
