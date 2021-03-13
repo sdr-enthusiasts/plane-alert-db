@@ -10,6 +10,7 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 - briz-planes.txt - Aircraft picked up by my personal ABSB station
 - Qatar-Amiri-Flight.txt - A private VIP airline for the Qatari Royal Family
 - uk-NPAS.txt - United Kingdom National Police Aviation Service. Includes Helicopters and 4 Vulcanair P.68R aircraft.
+- Queens-Helis.txt - Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
 
 
 # To do / Ideas
