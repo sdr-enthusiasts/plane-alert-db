@@ -1,5 +1,7 @@
 # plane-alert-db
-This project contains several lists of 'interesting' aircraft, formatted as a CSV files. These files are designed to work with the excellent https://github.com/kx1t/docker-planefence and take the form ICAO,Ident,Operator,Type
+This project contains several lists of 'interesting' aircraft, formatted as a CSV files. These files are designed to work with the excellent https://github.com/kx1t/docker-planefence and take the form 
+
+- ICAO,Ident,Operator,Type
 
 
 # Current Content
