@@ -1,2 +1,2 @@
 # plane-alert-db
-A list of interesting aircraft to pick up on ADSB
+This project contains several lists of 'interesting' aircraft, formatted as a CSV file. 
