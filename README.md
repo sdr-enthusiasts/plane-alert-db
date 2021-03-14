@@ -8,9 +8,10 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 
 - plane-alert-db.txt - My personal alert list, a combination of all the other lists.
 - briz-planes.txt - Aircraft picked up by my personal ADSB station
-- Qatar-Amiri-Flight.txt - A private VIP airline for the Qatari Royal Family
+- qatar-amiri-flight.txt - A private VIP airline for the Qatari Royal Family
 - uk-NPAS.txt - United Kingdom National Police Aviation Service. Includes Helicopters and 4 Vulcanair P.68R aircraft.
-- Royal-Aircraft.txt - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
+- royal-aircraft.txt - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
+- bahrain-amari-flight.txt - Bahrain Government Airline
 
 
 # To do / Ideas
