@@ -9,6 +9,7 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 - bahrain-amari-flight.txt - Bahrain Government Airline
 - briz-planes.txt - Aircraft picked up by my personal ADSB station
 - community-list.txt - Open list to add your suggestion to
+- military-contractors.txt - From refueing to operating fake flying cell phone towers, this list has it all.
 - plane-alert-db.txt - My personal alert list, a combination of all the other lists.
 - qatar-amiri-flight.txt - A private VIP airline for the Qatari Royal Family
 - royal-aircraft.txt - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
