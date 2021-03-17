@@ -25,6 +25,7 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 - Drones and Spy Aircraft
 - 'Covert' aircraft hiding their true purpose/ownership
 - Old and Rare
+- Aircraft with special history (e.g. Chinook Bravo November)
 
 Any other idea's welcome.
 
