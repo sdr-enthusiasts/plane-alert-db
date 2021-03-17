@@ -7,6 +7,7 @@ This project contains several lists of 'interesting' aircraft, formatted as a CS
 # Current Content
 
 - bahrain-amari-flight.txt - Bahrain Government Airline
+- bbmf.txt - The Battle of Britain Memorial Flight
 - briz-planes.txt - Aircraft picked up by my personal ADSB station
 - community-list.txt - Open list to add your suggestion to
 - military-contractors.txt - From refueing to operating fake flying cell phone towers, this list has it all.
