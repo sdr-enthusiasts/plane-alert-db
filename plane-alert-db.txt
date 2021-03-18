@@ -80,8 +80,6 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,Spotte
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Odd,Spotted
 5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere me now,Spotted
 AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Odd,Spotted
-710195,HZ-MF7,Saudi Ministry of Finance,Boeing 787 8 BBJ,Civ,Government,Spotted
-71032C,HZ-HMED,Saudi Royal Flight,Boeing 757 23A,Gov,Government,Spotted
 407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,"Jump Johny, Jump",Spotted
 4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,Air Ambo,Spotted
 4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,Air Ambo,Spotted
@@ -200,27 +198,46 @@ A8107D,N619DE,US Department of Energy,Bell 407,Gov,Specialist,Nuclear
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,Nuclear
 N7232R,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,Nuclear
 894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,Dictator Alert
-894011,A9CBDF,Bahrain Defence Force,Avro 146RJ85,Gov,Dictator Alert,Dictator Alert
-894014,A9CHMK,Bahrain Amiri Flight,Boeing 7474P8,Gov,Dictator Alert,Dictator Alert
-894016,A9CHWR,Bahrain Defence Force,Avro 146RJ85,Gov,Dictator Alert,Dictator Alert
-894042,A9CAWL,Bahrain Defence Force,Avro 146RJ100,Gov,Dictator Alert,Dictator Alert
-89404D,A9CHMH,Bahrain Amiri Flight,Boeing 7674FSER,Gov,Dictator Alert,Dictator Alert
+894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Dictator Alert
+894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,Dictator Alert
+894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Dictator Alert
+894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,Dictator Alert
+89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,Dictator Alert
 894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,Dictator Alert
 894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Dictator Alert
 89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,Dictator Alert
-894081,A9CISA,Bahrain Defence Force,Boeing 737NG86JW,Gov,Dictator Alert,Dictator Alert
+894081,A9CISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,Dictator Alert
 06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,Dictator Alert
 06A00F,A7AAG,Government of Qatar,A320-232,Gov,Dictator Alert,Dictator Alert
-06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319133X,Gov,Dictator Alert,Dictator Alert
-06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330202,Gov,Dictator Alert,Dictator Alert
-06A021,A7HHH,Qatar Amiri Flight,Airbus A340541,Gov,Dictator Alert,Dictator Alert
+06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,Dictator Alert
+06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Dictator Alert
+06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,Dictator Alert
 06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,Dictator Alert
-06A038,A7HHM,Qatar Amiri Flight,Airbus A330202,Gov,Dictator Alert,Dictator Alert
-06A05A,A7AAH,Qatar Amiri Flight,Airbus A340313X,Gov,Dictator Alert,Dictator Alert
+06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Dictator Alert
+06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,Dictator Alert
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,Dictator Alert
-06A0A2,A7HHE,Qatar Amiri Flight,Boeing 7478KBBBJ,Gov,Dictator Alert,Dictator Alert
-06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319133LR,Gov,Dictator Alert,Dictator Alert
-06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320232X,Gov,Dictator Alert,Dictator Alert
-06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319115X,Gov,Dictator Alert,Dictator Alert
-06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320232SL,Gov,Dictator Alert,Dictator Alert
-06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 7478KBBBJ,Gov,Dictator Alert,Dictator Alert
+06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Dictator Alert
+06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319-133LR,Gov,Dictator Alert,Dictator Alert
+06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,Dictator Alert
+06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319-115X,Gov,Dictator Alert,Dictator Alert
+06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,Dictator Alert
+06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Dictator Alert
+71002D,HZSK1,Saudi Private FLITE Charters,Gulfstream Aerospace G4SP,Gov,Dictator Alert,Dictator Alert
+710038,HZAKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,Dictator Alert
+710100,HZMF1,Saudi Ministry of Finance,Boeing 737-NG7FGWBBJ,Gov,Dictator Alert,Dictator Alert
+710195,HZMF7,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Dictator Alert
+71019B,HZMF8,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Dictator Alert
+7101E3,HZMF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,Dictator Alert
+7101E4,HZWBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,Dictator Alert
+7101E7,HZMF3,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Dictator Alert
+7101E9,HZMF4,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Dictator Alert
+7101F0,HZMF5,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Dictator Alert
+7101F1,HZWBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,Dictator Alert
+71022B,HZMF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,Dictator Alert
+710321,HZHM1A,Government of Saudi Arabia,Boeing 747-3G1,Gov,Dictator Alert,Dictator Alert
+710322,HZHM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Dictator Alert
+71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,Dictator Alert,Dictator Alert
+710333,HZHM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,Dictator Alert
+710334,HZHMS2,Government of Saudi Arabia,Airbus A340-213X,Gov,Dictator Alert,Dictator Alert
+710336,HZHM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Dictator Alert
+7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,Mil,Dictator Alert,Dictator Alert
