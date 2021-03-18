@@ -28,7 +28,7 @@
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Choppa,Spotted
 894081,A9C-ISA,Bahrain Amiri Flight,Boeing 737NG,Gov,Government,Spotted
 A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Spotted
-50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Old,Spotted
+50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Ere me now,Spotted
 400978,G-FPLD,Cobham Flight Inspection,Beechcraft King Air B200,Civ,Specialist,Spotted
 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Spotted
 407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,Air Ambo,Spotted
@@ -60,7 +60,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,Spotte
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,Odd,Spotted
 4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,How does it fly ?,Spotted
 06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330202,Mil,Government,Spotted
-43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,Hawk T1,Mil,Fighter,Spotted
+43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,Hawk T1,Mil,Pass the sick bag,Spotted
 407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Cool,Spotted
 4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Spotted
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Mil,Government,Spotted
@@ -80,7 +80,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,Spotte
 43C565,ZK034,Royal Air Force,Hawk T2,Mil,Fighter,Spotted
 43C7A5,ZK428,Royal Air Force,Typhoon FGR4,Mil,Fighter,Spotted
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Odd,Spotted
-5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Old,Spotted
+5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere me now,Spotted
 AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Odd,Spotted
 710195,HZ-MF7,Saudi Ministry of Finance,Boeing 787 8 BBJ,Civ,Government,Spotted
 71032C,HZ-HMED,Saudi Royal Flight,Boeing 757 23A,Gov,Government,Spotted
@@ -116,11 +116,11 @@ ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye in the Sky,Spott
 15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Spotted
 4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,Spotted
 4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,Spotted
-40668B,G-WPDA,Western Power Distribution,Eurocopter EC135 P1,Civ,Choppa,Spotted
-40668C,G-WPDB,Western Power Distribution,Eurocopter EC135 P1,Civ,Choppa,Spotted
-4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Choppa,Spotted
-4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Choppa,Spotted
-406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Choppa,Spotted
+40668B,G-WPDA,Western Power Distribution,Eurocopter EC135 P1,Civ,Big Bird,Spotted
+40668C,G-WPDB,Western Power Distribution,Eurocopter EC135 P1,Civ,Big Bird,Spotted
+4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Big Bird,Spotted
+4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Big Bird,Spotted
+406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Big Bird,Spotted
 406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,Air Ambo,Spotted
 400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,Military Contractors
 40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,Military Contractors
@@ -194,7 +194,7 @@ A20F84,N2317,US National Nuclear Security Administration,Beech 300 Super King Ai
 A20FCA,N2319,US National Nuclear Security Administration,Beech 300 Super King Air 350,Gov,Specialist,Nuclear
 ADACC6,N980ST,US National Nuclear Security Administration,Boeing 737-400C,Gov,Specialist,Nuclear
 ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Specialist,Nuclear
-A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,Specialist,Nuclear
+A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,mmm Neutrons,Nuclear
 A0441D,N116SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Nuclear
 A047D4,N117SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Nuclear
 A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Specialist,Nuclear
