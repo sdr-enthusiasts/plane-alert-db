@@ -37,7 +37,6 @@ A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Spotted
 4009CD,G-FRAK,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Spotted
 4009D2,G-FRAR,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Spotted
 4009D5,G-FRAU,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Spotted
-06A1E4,A7AAG,Government of Qatar,A320-232,Mil,Government,Spotted
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,Air Ambo,Spotted
 43C925,XE688,Hawker Hunter Aviation,Hunter T.72,Mil,Old,Spotted
 A9E51E,N737AT,Hillwood Airways,Boeing 737NG BBJ,Civ,Ooh Get You,Spotted
@@ -59,7 +58,6 @@ A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How does it fly ?,Spotted
 A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,Spotted
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,Odd,Spotted
 4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,How does it fly ?,Spotted
-06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330202,Mil,Government,Spotted
 43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,Hawk T1,Mil,Pass the sick bag,Spotted
 407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Cool,Spotted
 4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Spotted
@@ -177,7 +175,7 @@ ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye in the Sky,Spott
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,UK National Police Air Service
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,UK National Police Air Service
 4078A4,G-POLW,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,UK National Police Air Service
-43C38F,ZA947,Battle of Britiain Memorial Flight,C47A Dakota,Mil,Old,Battle of Britiain Memorial Flight
+43C38F,ZA947,Battle of Britiain Memorial Flight,C47A Dakota,Mil,History,Battle of Britiain Memorial Flight
 43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Battle of Britiain Memorial Flight
 43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Battle of Britiain Memorial Flight
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Battle of Britiain Memorial Flight
@@ -201,3 +199,28 @@ A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Specialist,Nucl
 A8107D,N619DE,US Department of Energy,Bell 407,Gov,Specialist,Nuclear
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,Nuclear
 N7232R,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,Nuclear
+894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,Dictator Alert
+894011,A9CBDF,Bahrain Defence Force,Avro 146RJ85,Gov,Dictator Alert,Dictator Alert
+894014,A9CHMK,Bahrain Amiri Flight,Boeing 7474P8,Gov,Dictator Alert,Dictator Alert
+894016,A9CHWR,Bahrain Defence Force,Avro 146RJ85,Gov,Dictator Alert,Dictator Alert
+894042,A9CAWL,Bahrain Defence Force,Avro 146RJ100,Gov,Dictator Alert,Dictator Alert
+89404D,A9CHMH,Bahrain Amiri Flight,Boeing 7674FSER,Gov,Dictator Alert,Dictator Alert
+894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,Dictator Alert
+894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Dictator Alert
+89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,Dictator Alert
+894081,A9CISA,Bahrain Defence Force,Boeing 737NG86JW,Gov,Dictator Alert,Dictator Alert
+06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,Dictator Alert
+06A00F,A7AAG,Government of Qatar,A320-232,Gov,Dictator Alert,Dictator Alert
+06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319133X,Gov,Dictator Alert,Dictator Alert
+06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330202,Gov,Dictator Alert,Dictator Alert
+06A021,A7HHH,Qatar Amiri Flight,Airbus A340541,Gov,Dictator Alert,Dictator Alert
+06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,Dictator Alert
+06A038,A7HHM,Qatar Amiri Flight,Airbus A330202,Gov,Dictator Alert,Dictator Alert
+06A05A,A7AAH,Qatar Amiri Flight,Airbus A340313X,Gov,Dictator Alert,Dictator Alert
+06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,Dictator Alert
+06A0A2,A7HHE,Qatar Amiri Flight,Boeing 7478KBBBJ,Gov,Dictator Alert,Dictator Alert
+06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319133LR,Gov,Dictator Alert,Dictator Alert
+06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320232X,Gov,Dictator Alert,Dictator Alert
+06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319115X,Gov,Dictator Alert,Dictator Alert
+06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320232SL,Gov,Dictator Alert,Dictator Alert
+06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 7478KBBBJ,Gov,Dictator Alert,Dictator Alert
