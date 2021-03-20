@@ -1,17 +1,17 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag,Category
-43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,Tanker
-3F7B3C,14+04,German Air Force,Bombardier BD-700 Global Express,Mil,FlBschftBMVg,VIP Transport
-3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,CHX2,Helicopter
-AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,US Forces,Small Turboprop
-3E010A,D-HRPA,Polizei Rheinland-Pfalz,Eurocopter EC135-P2,Civ,Police,Helicopter
-AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,US Forces,Unknown
-3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Civ,Police,Helicopter
-3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring stuff,Small Turboprop
-3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,UFO
-3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,CHX90,Helicopter
-3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Civ,IBIS7,Small Turboprop
-3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145,Civ,IBIS2,Helicopter
-AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,US Forces,Small Turboprop
-3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,BMW,Not a car
-3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,CHX112,Helicopter
-AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,US Forces,Small Turboprop
+ICAO,Ident,Operator,Type,CMPG,$Tag,Tag2,Category
+43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,,Tanker
+3F7B3C,14+04,German Air Force,Bombardier BD-700 Global Express,Mil,FlBschftBMVg,,VIP Transport
+3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,CHX2,,Helicopter
+AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,US Forces,,Small Turboprop
+3E010A,D-HRPA,Polizei Rheinland-Pfalz,Eurocopter EC135-P2,Civ,Police,,Helicopter
+AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,US Forces,,Unknown
+3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Civ,Police,,Helicopter
+3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring stuff,,Small Turboprop
+3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,,UFO
+3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,CHX90,,Helicopter
+3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Civ,IBIS7,,Small Turboprop
+3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145,Civ,IBIS2,,Helicopter
+AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,US Forces,,Small Turboprop
+3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,BMW,,Not a car
+3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,CHX112,,Helicopter
+AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,US Forces,,Small Turboprop
