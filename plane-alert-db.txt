@@ -42,7 +42,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizje
 407814,G-HMGA,HM Coastguard,Beechcraft King Air B200,Civ,Specialist,,Coastguard
 407843,G-HMGB,HM Coastguard,Beechcraft King Air B200,Civ,Specialist,,Coastguard
 406DDB,G-MCGJ,HM Coastguard,Sikorsky S-92A,Civ,Choppa,,Coastguard
-403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Civ,Eye in the Sky,"You aint seen me, right ?",Coastguard
+403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Civ,Eye in the Sky,You aint seen me - right ?,Coastguard
 894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,,Dictator Alert
 89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,,Dictator Alert
 894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
@@ -164,10 +164,10 @@ A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,Faults,Flying Rust Bucket,Jus
 4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,,M*A*S*H
 4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,,M*A*S*H
 406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,Air Ambo,,M*A*S*H
-400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,"You aint seen me, right ?",Military Contractors
-40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,"You aint seen me, right ?",Military Contractors
-40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,"You aint seen me, right ?",Military Contractors
-40729E,G-SCMR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,"You aint seen me, right ?",Military Contractors
+400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+40729E,G-SCMR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
 400A76,G-CIFE,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 400F3D,G-FSEU,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 401046,G-WCCP,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
@@ -210,14 +210,14 @@ C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air 
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Pol,Police Squad,Choppa,Police Forces
 3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Pol,Eye in the Sky,Police Squad,Police Forces
 3E010A,D-HRPA,Polizei Rheinland-Pfalz,Eurocopter EC135-P2,Pol,Police Squad,Choppa,Police Forces
-43C2B2,ZZ416,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C61D,ZZ504,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C908,ZZ507,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C125,ZG998,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C129,ZG997,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C2B7,ZH001,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C2BA,ZH004,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender T.3,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
-43C388,ZG848,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Islander R.1,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
+43C2B2,ZZ416,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C61D,ZZ504,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C908,ZZ507,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C125,ZG998,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C129,ZG997,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B7,ZH001,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2BA,ZH004,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender T.3,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C388,ZG848,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Islander R.1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C435,XX280,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C439,XX285,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C45C,XX329,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
@@ -230,8 +230,8 @@ C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air 
 43C5F8,ZH901,Royal Air Force,Boeing-Vertol Chinook HC.5,Mil,Choppa,,RAF
 43C7D7,ZK560,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,,RAF
 43C4C3,ZA684,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,,RAF
-43C09C,ZJ691,Royal Air Force,Bombardier Sentinel R.1,Pol,Eye in the Sky,"You aint seen me, right ?",RAF
-43C39F,ZH101,Royal Air Force,E3/Awacs,Mil,Eye in the Sky,"You aint seen me, right ?",RAF
+43C09C,ZJ691,Royal Air Force,Bombardier Sentinel R.1,Pol,Eye in the Sky,You aint seen me - right ?,RAF
+43C39F,ZH101,Royal Air Force,E3/Awacs,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C54F,ZK012,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C561,ZK030,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C565,ZK034,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
@@ -384,7 +384,7 @@ ADFEB4,73-1677,United States Air Force,Boeing E4b Nightwatch,Mil,Eye in the Sky,
 AE01CE,62-4134,United States Air Force,Boeing RC-135W,Mil,Eye in the Sky,,USAF
 AE01D2,62-4125,United States Air Force,Boeing RC-135W,Mil,Eye in the Sky,,USAF
 AE13E5,62-3582,United States Air Force,Boeing WC-135C,Mil,mmm Neutrons,,USAF
-AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,"You aint seen me, right ?",,USAF
+AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,You aint seen me - right ?,,USAF
 AE01B9,84-0083,United States Air Force,Gates C-21A,Mil,Government,Bizjet,USAF
 AE0406,99-0402,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
 AE0978,01-1976,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
@@ -402,9 +402,9 @@ AE4A60,166696,United States Navy,Boeing C-40A,Mil,Specialist,,USAF
 AE1252,165836,United States Navy,Boeing C-40A,Mil,Government,,USAF
 AE03DE,164762,United States Navy,Lockheed C-130T Hercules,Mil,Absolute Unit,,USAF
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye in the Sky,,USAF
-AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,"You aint seen me, right ?",,USAF
-AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,"You aint seen me, right ?",,USAF
-AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,"You aint seen me, right ?",,USAF
+AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,You aint seen me - right ?,,USAF
+AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,You aint seen me - right ?,,USAF
+AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,You aint seen me - right ?,,USAF
 43C8EA,ZM516,Defense Helicopter Flying School,Eurocopter EC135,Mil,Choppa,Learner Driver,Watch me fly
 43C8F5,ZM527,Defense Helicopter Flying School,Eurocopter EC135,Mil,Choppa,Learner Driver,Watch me fly
 43C8E3,ZM509,Defense Helicopter Flying School,Eurocopter EC135-T3,Mil,Choppa,Learner Driver,Watch me fly
