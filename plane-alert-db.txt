@@ -10,11 +10,13 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,Tag 2,Category
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not a car,As Seen on TV
 A83D76,N63XF,Comcast Corp,Gulfstream Aerospace G650 ER,Civ,Bizjet,Choppa,As seen on TV
 A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream Aerospace GVII-G600,Civ,Ooh Get You,,As seen on TV
+A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream Aerospace G280,Civ,Bizjet,,As Seen on TV
 ACC647,N922H,Honeywell International Inc,Gulfstream Aerospace G650,Civ,Bizjet,,As seen on TV
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,Civ,Bizjet,,As seen on TV
 43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Digger,Bizjet,As seen on TV
 A4AD69,N400J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
 AAE2A5,N800J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
+4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Ooh Get You,Bizjet,As Seen on TV
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Ooh Get You,Bizjet,As seen on TV
 43E907,M-TSRI,Timpson Ltd,Hawker Beechcraft Corp King Air C90GTX,Civ,Bizjet,,As seen on TV
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,,Battle of Britiain Memorial Flight
@@ -62,7 +64,7 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 710333,HZHM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,,Dictator Alert
 710322,HZHM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong raaaaaange,Dictator Alert
 710336,HZHM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong raaaaaange,Dictator Alert
-71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,Dictator Alert,M*A*S*H,Dictator Alert
+71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,Dictator Alert,M*A*S*H,M*A*S*H
 7101E4,HZWBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,,Dictator Alert
 7101F1,HZWBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,,Dictator Alert
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,,Dictator Alert
@@ -80,7 +82,6 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
 06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,,Dictator Alert
 710038,HZAKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,,Dictator Alert
-7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream Aerospace G450,Mil,Dictator Alert,M*A*S*H,Dictator Alert
 7101E3,HZMF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,,Dictator Alert
 710100,HZMF1,Saudi Ministry of Finance,Boeing 737-NG7FGWBBJ,Gov,Dictator Alert,,Dictator Alert
 71022B,HZMF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,,Dictator Alert
@@ -97,8 +98,8 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 394A63,F-GSTD,Airbus Transport International,A300 B4-608ST Beluga,Civ,Absolute Unit,How does it fly ?,Distinctive
 394A65,F-GSTF,Airbus Transport International,A300 B4-608ST Beluga,Civ,Absolute Unit,How does it fly ?,Distinctive
 395D68,F-GXLI,Airbus Transport International,Airbus A330 743L,Civ,Absolute Unit,How does it fly ?,Distinctive
-3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How does it fly ?,,Distinctive
-3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How does it fly ?,,Distinctive
+3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How does it fly ?,Shiny,Distinctive
+3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How does it fly ?,Shiny,Distinctive
 508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorov'ye,Distinctive
 50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorov'ye,Distinctive
 508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,Civ,Absolute Unit,Cool,Distinctive
@@ -107,14 +108,14 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 43C925,XE688,Hawker Hunter Aviation,Hunter T.72,Mil,Old,Fighter,Distinctive
 406C65,G-JWMA ,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,"Jump Johnny, Jump",Distinctive
 50815D,UR-CAJ,Meridian,Antonov An-12 BK,Civ,Ere me now,Vashe Zdorov'ye,Distinctive
-AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,"I thought you was a pilot not an astronaut",Distinctive
-AA0DB8,N747NA,NASA,Boeing 747 SP21,Mil,Nasa,"I thought you was a pilot not an astronaut",Distinctive
+AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,I thought you was a pilot not an astronaut,Distinctive
+AA0DB8,N747NA,NASA,Boeing 747 SP21,Mil,Nasa,I thought you was a pilot not an astronaut,Distinctive
 ACD5A1,N926NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All about that Wingspan,Distinctive
 ACD958,N927NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All about that Wingspan,Distinctive
 ACDD0F,N928NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All about that Wingspan,Distinctive
-AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,"I thought you was a pilot not an astronaut",Distinctive
-AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,"I thought you was a pilot not an astronaut",Distinctive
-AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,"I thought you was a pilot not an astronaut",Distinctive
+AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,I thought you was a pilot not an astronaut,Distinctive
+AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,I thought you was a pilot not an astronaut,Distinctive
+AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,I thought you was a pilot not an astronaut,Distinctive
 4049FA,G-CCJK,Private,Aerostar Yak-52,Civ,Vashe Zdorov'ye,Old,Distinctive
 A947B9,N69745,Private,Stinson Reliant V-77,Civ,You came here in that thing ?,Old,Distinctive
 4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,You came here in that thing ?,Vashe Zdorov'ye,Distinctive
@@ -133,7 +134,7 @@ A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,
 4009D2,G-FRAR,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Target Practice,Dogs with Jobs
 4009D5,G-FRAU,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Target Practice,Dogs with Jobs
 405588,G-RIDA,National Grid Electricity Transmission,Eurocopter Twin Squirrel AS.355 NP,Civ,Wichita Lineman,,Dogs with Jobs
-40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,,Dogs with Jobs
+40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,,Watch me Fly
 43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,Hawk T1,Mil,Pass the sick bag,,Dogs with Jobs
 407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs
 C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs
@@ -152,18 +153,23 @@ AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot
 4072C9,G-JRER,Private,Tecnam P.2006T,Civ,Odd,,Just Because
 A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,Faults,Flying Rust Bucket,Just Because
 A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,Faults,Flying Rust Bucket,Just Because
-406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,,M*A*S*H
-407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,Air Ambo,,M*A*S*H
-3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,M*A*S*H,,M*A*S*H
-3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,,M*A*S*H
-405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,Air Ambo,,M*A*S*H
-4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,Air Ambo,,M*A*S*H
-406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,Air Ambo,,M*A*S*H
-4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,Air Ambo,,M*A*S*H
-4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,Air Ambo,,M*A*S*H
-4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,,M*A*S*H
-4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,,M*A*S*H
-406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,Air Ambo,,M*A*S*H
+406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,M*A*S*H,M*A*S*H
+407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,Air Ambo,M*A*S*H,M*A*S*H
+3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
+3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
+3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H
+405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,Air Ambo,M*A*S*H,M*A*S*H
+4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,Air Ambo,M*A*S*H,M*A*S*H
+406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,Air Ambo,M*A*S*H,M*A*S*H
+7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream Aerospace G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H
+7103F5,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,Air Ambo,M*A*S*H,M*A*S*H
+4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,Air Ambo,M*A*S*H,M*A*S*H
+4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,M*A*S*H,M*A*S*H
+4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,M*A*S*H,M*A*S*H
+406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,Air Ambo,M*A*S*H,M*A*S*H
 400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
 40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
 40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
@@ -187,8 +193,8 @@ A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,Faults,Flying Rust Bucket,Jus
 401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye in the Sky,,Military Contractors
 405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye in the Sky,,Military Contractors
 4069D9,G-LBSB,Transferred to MOD,Beechcraft Corp King Air 350C,Civ,Eye in the Sky,,Military Contractors
-A0441D,N116SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,,Nuclear
-A047D4,N117SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,,Nuclear
+A0441D,N116SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Covert,Nuclear
+A047D4,N117SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Covert,Nuclear
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,,Nuclear
 N7232R,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,,Nuclear
 A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Specialist,,Nuclear
@@ -205,6 +211,7 @@ ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Spe
 4CA41D,282,Irish Air Corps,Pilatus PC-XII Spectre,Mil,Eye in the Sky,,Other Air Forces
 A70773,N552GD,Israeli Air Force,Gulfstream Aerospace G550,Mil,Ooh Get You,Bizjet,Other Air Forces
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air Forces
+C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air Forces
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou sont les bagages?,,Other Navies
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145,Pol,Eye in the Sky,Police Squad,Police Forces
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Pol,Police Squad,Choppa,Police Forces
@@ -223,7 +230,11 @@ C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air 
 43C45C,XX329,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C463,XX339,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,,RAF
+43C5E9,ZM415,Royal Air Force,Airbus Military A400M Atlas C.1,Mil,Cargo,,RAF
+43C6F8,ZZ335,Royal Air Force,Airbus Voyager KC.3,Mil,Fill her up,,RAF
 43C759,ZZ512,Royal Air Force,Augusta Westland Wildcat AH.1,Mil,Choppa,,RAF
+43C6B8,ZZ177,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,RAF
+43C1C6,ZZ176,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,RAF
 43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye in the Sky,Specialist,RAF
 43C4C7,ZD984,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
 43C4BA,ZA718,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
@@ -375,6 +386,8 @@ AE4EEC,22586,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here
 AE5409,21125,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
 AE117A,02-1108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,USAF
 AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,USAF
+AE0816,00-0180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE117E,02-1112,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,Government,,USAF
 AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,Government,,USAF
 AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Government,,USAF
