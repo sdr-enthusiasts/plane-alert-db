@@ -24,9 +24,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Bizjets	\- Fancy pants planes for fancy pants people
 - Community \- Suggested by you. Aircraft start here and move other other categories
 - Dictator Alert \- People of potentially questionable morals and values
-- M*A*S*H	\- Air Ambulance and Medical Flights
+- M\*A\*S\*H	\- Air Ambulance and Medical Flights
 - Military Contractors \- Why do the dirty work when someone else can do it for you ?
-- Nuclear	Nuclear Emergency \- Support Team etc
+- Nuclear \-	Nuclear Emergency  Support Team etc
 - RAF	\- Aircraft of the Royal Air Force
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family
 - Royal Navy	\- Aircraft of the Royal Navy
