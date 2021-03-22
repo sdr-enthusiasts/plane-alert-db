@@ -1,11 +1,25 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag 1,Tag 2,Category
+ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category
 407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do a barrel roll,Pass the sick bag,Aerobatic Teams
 4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Do a barrel roll,Aerobatic Teams
 400E1F,G-OFFO,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
+400E22,G-ZEXL,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
 400E20,G-ZXCL,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
 400E21,G-ZXEL,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
-400E22,G-ZEXL,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
 40655A,G-ZXLL,The Blades,Extra EA-300,Civ,Do a barrel roll,,Aerobatic Teams
+43C0EE,xx177,The Red Arrows (RAF),Hawk T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C0F6,xx188,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C40D,xx219,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C418,xx232,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C421,xx242,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C422,xx244,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C423,xx245,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C434,xx278,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C44A,xx310,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C44B,xx311,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C453,xx319,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C456,xx322,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C457,xx323,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
+43C459,xx325,The Red Arrows (RAF),HawK T1a,Mil,Do a barrel roll,Turn and Burn,Aerobatic Teams
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Choppa,Army Air Corp
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not a car,As Seen on TV
 A83D76,N63XF,Comcast Corp,Gulfstream Aerospace G650 ER,Civ,Bizjet,Choppa,As seen on TV
@@ -21,8 +35,8 @@ AAE2A5,N800J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen 
 43E907,M-TSRI,Timpson Ltd,Hawker Beechcraft Corp King Air C90GTX,Civ,Bizjet,,As seen on TV
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,,Battle of Britiain Memorial Flight
 43C38F,ZA947,Battle of Britiain Memorial Flight,C47A Dakota,Mil,History,,Battle of Britiain Memorial Flight
-43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,,Battle of Britiain Memorial Flight
 43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,,Battle of Britiain Memorial Flight
+43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,,Battle of Britiain Memorial Flight
 43C390,LF363,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
 43C391,PZ865,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
 43C393,P7350,Battle of Britiain Memorial Flight,Spitfire Iia,Mil,History,,Battle of Britiain Memorial Flight
@@ -34,6 +48,7 @@ AAE2A5,N800J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen 
 A324A9,N301SR,Essar Shipping and Logistics Ltd,Boeing 737NG 7JV BBJ/W,Civ,Bizjet,Absolute Unit,Bizjets
 A9E51E,N737AT,Hillwood Airways,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizjets
 424BA9,M-NSTR,LS Aircraft Limited,Bombardier Global 7500,Civ,Bizjet,,Bizjets
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,Civ,How does it fly ?,,Bizjets
 A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How does it fly ?,,Bizjets
 A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizjets
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How does it fly ?,,Bizjets
@@ -49,8 +64,8 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizje
 89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,,Dictator Alert
 894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
 894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
-894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
 89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
+894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
 894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,,Dictator Alert
 894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
 894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
@@ -64,12 +79,11 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 710333,HZHM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,,Dictator Alert
 710322,HZHM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong raaaaaange,Dictator Alert
 710336,HZHM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong raaaaaange,Dictator Alert
-71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,Dictator Alert,M*A*S*H,M*A*S*H
 7101E4,HZWBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,,Dictator Alert
 7101F1,HZWBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,,Dictator Alert
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,,Dictator Alert
-06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
 06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
+06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
 06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,,Dictator Alert
 06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,,Dictator Alert
 06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
@@ -78,8 +92,8 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,,Dictator Alert
 06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,,Dictator Alert
 06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,,Dictator Alert
-06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
 06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
+06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
 06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,,Dictator Alert
 710038,HZAKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,,Dictator Alert
 7101E3,HZMF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,,Dictator Alert
@@ -106,6 +120,7 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Ere me now,Old,Distinctive
 508179,UR-CJN,Cavok Air,Antonov An-12 TB,Civ,Ere me now,Old,Distinctive
 43C925,XE688,Hawker Hunter Aviation,Hunter T.72,Mil,Old,Fighter,Distinctive
+A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,Civ,Cargo,Brrrrrrrrrrrrrrr,Distinctive
 406C65,G-JWMA ,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,"Jump Johnny, Jump",Distinctive
 50815D,UR-CAJ,Meridian,Antonov An-12 BK,Civ,Ere me now,Vashe Zdorov'ye,Distinctive
 AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,I thought you was a pilot not an astronaut,Distinctive
@@ -122,10 +137,13 @@ A947B9,N69745,Private,Stinson Reliant V-77,Civ,You came here in that thing ?,Old
 510099,EW-450TR,Rada Airlines,Ilyushin IL-62 MGR,Civ,Cargo,Vashe Zdorov'ye,Distinctive
 5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere me now,Vashe Zdorov'ye,Distinctive
 AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Jesus he knows me,Old,Distinctive
+ADFDF8,828000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive
+ADFDF9,929000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive
 15407C,RA-82044,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorov'ye,Distinctive
 15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorov'ye,Distinctive
 5083A2,UR-CQD,Vulkan Air,Antonov An-26 B,Civ,Vashe Zdorov'ye,Vashe Zdorov'ye,Distinctive
 3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,,Dogs with Jobs
+7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye in the Sky,Dogs with Jobs
 A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,Dogs with Jobs
 400978,G-FPLD,Cobham Flight Inspection,Beechcraft King Air B200,Civ,Specialist,Measuring Stick,Dogs with Jobs
 3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring Stick,,Dogs with Jobs
@@ -133,8 +151,8 @@ A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,
 4009CD,G-FRAK,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Target Practice,Dogs with Jobs
 4009D2,G-FRAR,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Target Practice,Dogs with Jobs
 4009D5,G-FRAU,FR Aviation Ltd,Dassault Falcon 20 EW,Civ,Specialist,Target Practice,Dogs with Jobs
+AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot Hot Hot,Dogs with Jobs
 405588,G-RIDA,National Grid Electricity Transmission,Eurocopter Twin Squirrel AS.355 NP,Civ,Wichita Lineman,,Dogs with Jobs
-40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,,Watch me Fly
 43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,Hawk T1,Mil,Pass the sick bag,,Dogs with Jobs
 407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs
 C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs
@@ -151,35 +169,38 @@ AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot
 40721E,G-HITI,Elstree Ink,Airbus Helicopters Squirrel AS.350 B3e,Civ,Choppa,,Just Because
 400DED,G-RULE,Private,Robinson R44 Raven II,Civ,You came here in that thing ?,Choppa,Just Because
 4072C9,G-JRER,Private,Tecnam P.2006T,Civ,Odd,,Just Because
-A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,Faults,Flying Rust Bucket,Just Because
-A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,Faults,Flying Rust Bucket,Just Because
-406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,M*A*S*H,M*A*S*H
-407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,Air Ambo,M*A*S*H,M*A*S*H
+A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You came here in that thing ?,Flying Rust Bucket,Just Because
+A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,You came here in that thing ?,Flying Rust Bucket,Just Because
+406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
+40793d,G-DAAS,Devon Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H
+407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,M*A*S*H,Air Ambo,M*A*S*H
 3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
 3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
 3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H
-405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,Air Ambo,M*A*S*H,M*A*S*H
-4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,Air Ambo,M*A*S*H,M*A*S*H
-406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,Air Ambo,M*A*S*H,M*A*S*H
+71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H
+C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H
+4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H
+406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,M*A*S*H,Air Ambo,M*A*S*H
 7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream Aerospace G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H
 7103F5,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
-7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Air Ambo,M*A*S*H
 710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H
-4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,Air Ambo,M*A*S*H,M*A*S*H
-4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,Air Ambo,M*A*S*H,M*A*S*H
-4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,M*A*S*H,M*A*S*H
-4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,Air Ambo,M*A*S*H,M*A*S*H
-406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,Air Ambo,M*A*S*H,M*A*S*H
-400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,M*A*S*H,Air Ambo,M*A*S*H
+4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,M*A*S*H,Air Ambo,M*A*S*H
+4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H
+4071AB,G-WOBR,Welsh Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H
+406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,M*A*S*H,Air Ambo,M*A*S*H
 40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
-40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
 40729E,G-SCMR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
+400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Eye in the Sky,You aint seen me - right ?,Military Contractors
 400A76,G-CIFE,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 400F3D,G-FSEU,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
-401046,G-WCCP,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
+405F85,G-IASM,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 4012AD,G-IMEA,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 4055B7,G-JASS,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
-405F85,G-IASM,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
+401046,G-WCCP,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye in the Sky,,Military Contractors
 400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Eye in the Sky,,Military Contractors
 4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Eye in the Sky,,Military Contractors
 406848,G-UKAL,Aero Lease UK (Police),Reims-Cessna F406 Caravan II,Civ,Eye in the Sky,,Military Contractors
@@ -187,9 +208,10 @@ A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,Faults,Flying Rust Bucket,Jus
 406D26,G-VYGK,AirTanker,Airbus A330 243,Civ,Fill her up,,Military Contractors
 406D27,G-VYGL,AirTanker,Airbus A330 243,Civ,Fill her up,,Military Contractors
 406E9F,G-VYGM,AirTanker,Airbus A330 243,Civ,Fill her up,,Military Contractors
-406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Eye in the Sky,,Military Contractors
 4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Eye in the Sky,,Military Contractors
-41CE02,G-BSAH,Gama Aviation (UK) Ltd,Britten-Norman Islander R.1,Civ,Eye in the Sky,,Military Contractors
+406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Eye in the Sky,,Military Contractors
+400D24,G-BJEC,Gama Aviation (UK) Ltd,Britten-Norman BN-2T Islander CC2B,Civ,Covert,Eye in the Sky,Military Contractors
+41CE02,G-BSAH,Gama Aviation (UK) Ltd,Britten-Norman Islander R.1,Civ,Covert,Eye in the Sky,Military Contractors
 401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye in the Sky,,Military Contractors
 405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye in the Sky,,Military Contractors
 4069D9,G-LBSB,Transferred to MOD,Beechcraft Corp King Air 350C,Civ,Eye in the Sky,,Military Contractors
@@ -208,8 +230,10 @@ ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Spe
 3B7544,F-UJCS,French Air Force,Airbus A330 243,Gov,Government,Ou sont les bagages?,Other Air Forces
 3E854F,10+03,German Air Force,Airbus A350 941,Mil,Shiny,,Other Air Forces
 3F7B3C,14+04,German Air Force,Bombardier BD-700 Global Express,Mil,Bizjet,,Other Air Forces
+4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,Mil,Top(ish) Gun,,Other Air Forces
 4CA41D,282,Irish Air Corps,Pilatus PC-XII Spectre,Mil,Eye in the Sky,,Other Air Forces
 A70773,N552GD,Israeli Air Force,Gulfstream Aerospace G550,Mil,Ooh Get You,Bizjet,Other Air Forces
+706217,KAF342,Kuwait Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air Forces
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air Forces
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou sont les bagages?,,Other Navies
@@ -220,32 +244,48 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air 
 43C2B2,ZZ416,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C61D,ZZ504,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C908,ZZ507,14 Squadron ISR (RAF),Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
-43C125,ZG998,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C384,ZG844,651 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C129,ZG997,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C125,ZG998,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C2B7,ZH001,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C2BA,ZH004,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender T.3,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C388,ZG848,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Islander R.1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C385,ZG845,652 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C386,ZG846,653 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C387,ZG847,654 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B3,ZZ417,655 Squadron (Joint Special Forces Aviation Wing),B350C Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B4,ZZ418,656 Squadron (Joint Special Forces Aviation Wing),B350C Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B5,ZZ419,657 Squadron (Joint Special Forces Aviation Wing),B350C Shadow R1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B8,ZH002,659 Squadron (Joint Special Forces Aviation Wing),BN2T Defender AL2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C2B9,ZH003,660 Squadron (Joint Special Forces Aviation Wing),BN2T Defender AL2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C435,XX280,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C439,XX285,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C45C,XX329,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
 43C463,XX339,736 Naval Air Squadron,Hawk T1a,Mil,Top(ish) Gun,,RAF
+43C383,ZH537,BN2T Islander CC2,BN2T Islander CC2,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,,RAF
 43C5E9,ZM415,Royal Air Force,Airbus Military A400M Atlas C.1,Mil,Cargo,,RAF
 43C6F8,ZZ335,Royal Air Force,Airbus Voyager KC.3,Mil,Fill her up,,RAF
 43C759,ZZ512,Royal Air Force,Augusta Westland Wildcat AH.1,Mil,Choppa,,RAF
-43C6B8,ZZ177,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,RAF
 43C1C6,ZZ176,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,RAF
+43C6B8,ZZ177,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,RAF
 43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye in the Sky,Specialist,RAF
-43C4C7,ZD984,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
 43C4BA,ZA718,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
+43C4C7,ZD984,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
 43C5F8,ZH901,Royal Air Force,Boeing-Vertol Chinook HC.5,Mil,Choppa,,RAF
 43C7D7,ZK560,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,,RAF
 43C4C3,ZA684,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,,RAF
 43C09C,ZJ691,Royal Air Force,Bombardier Sentinel R.1,Pol,Eye in the Sky,You aint seen me - right ?,RAF
-43C39F,ZH101,Royal Air Force,E3/Awacs,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C39F,ZH101,Royal Air Force,E3D Sentry AEW1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C3A1,ZH103,Royal Air Force,E3D Sentry AEW1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C3A2,ZH104,Royal Air Force,E3D Sentry AEW1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C3A4,ZH106,Royal Air Force,E3D Sentry AEW1,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 43C54F,ZK012,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C561,ZK030,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C565,ZK034,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
+43C38C,ZZ664,Royal Air Force,RC135W Airseeker,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C39C,ZZ665,Royal Air Force,RC135W Airseeker,Mil,Eye in the Sky,You aint seen me - right ?,RAF
+43C39D,ZZ666,Royal Air Force,RC135W Airseeker,Mil,Eye in the Sky,You aint seen me - right ?,RAF
 406F50,GZ-100,32 The Royal Squadron RAF,Agusta Westland AW109SP,Mil,Yes Ma'am,,Royal Aircraft
 43C146,ZE700,33 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Ma'am,,Royal Aircraft
 43C147,ZE701,34 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Ma'am,,Royal Aircraft
@@ -254,6 +294,7 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air 
 406BC6,G-XXEC,The Queens Helicopter flight ,Agusta Westland A109S,Civ,Yes Ma'am,,Royal Aircraft
 405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Ma'am,,Royal Aircraft
 406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Ma'am,,Royal Aircraft
+43C070,ZJ121,Royal Navy,EH Industries EH.101 Merlin HC.4,Mil,Got it where it counts,Choppa,Royal Navy
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
 A4E6C5,N415AT,Department Of Justice (DOJ),Bell 407,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
@@ -340,35 +381,47 @@ A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept of Justi
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
 AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept of Justice,Eye in the Sky,Sock Puppet
+406100,G-DCPB,National Police Air Service,Airbus Helicopters H145,Pol,Eye in the Sky,,UK National Police Air Service
 400F28,G-MPSA,National Police Air Service,Airbus Helicopters H145,Pol,Eye in the Sky,,UK National Police Air Service
 400F29,G-MPSB,National Police Air Service,Airbus Helicopters H145,Pol,Eye in the Sky,,UK National Police Air Service
 400F2A,G-MPSC,National Police Air Service,Airbus Helicopters H145,Pol,Eye in the Sky,,UK National Police Air Service
-406100,G-DCPB,National Police Air Service,Airbus Helicopters H145,Pol,Eye in the Sky,,UK National Police Air Service
+4061E4,G-CPAO,National Police Air Service,Eurocopter EC135 P2,Pol,Eye in the Sky,,UK National Police Air Service
 4010AC,G-EMID,National Police Air Service,Eurocopter EC135 P2,Pol,Eye in the Sky,,UK National Police Air Service
 405F1D,G-SUFK,National Police Air Service,Eurocopter EC135 P2,Pol,Eye in the Sky,,UK National Police Air Service
-4061E4,G-CPAO,National Police Air Service,Eurocopter EC135 P2,Pol,Eye in the Sky,,UK National Police Air Service
-40481E,G-POLG,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
-406176,G-HEOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
-4062D2,G-POLA,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
-4062D8,G-TVHB,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
-406343,G-NWOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
 40639D,G-CPAS,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
-400A64,G-POLJ,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
+406176,G-HEOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
+406343,G-NWOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
+4062D2,G-POLA,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
+40481E,G-POLG,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
+4062D8,G-TVHB,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye in the Sky,,UK National Police Air Service
+40499A,G-POLB,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
+404715,G-POLC,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
+404A2E,G-POLD,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
 401255,G-POLF,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
 404714,G-POLH,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
-404715,G-POLC,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
+400A64,G-POLJ,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
 40472C,G-POLU,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
-40499A,G-POLB,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
-404A2E,G-POLD,National Police Air Service,Eurocopter EC135 T2,Pol,Eye in the Sky,,UK National Police Air Service
-4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
-4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
 4078A4,G-POLW,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
+4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
+4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,Pol,Eye in the Sky,,UK National Police Air Service
 405EC4,G-DOSC,Acrobat Ltd,Diamond Aircraft Twin Star DA42MPP,Gov,Eye in the Sky,Covert,Under Observation
 4012A1,G-VALK,ALTO Aerospace Ltd,Beech King Air B200,Gov,U Wot m8 ?,,Under Observation
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,Britten-Norman Defender 4000 BN-2T-4R,Civ,Specialist,,Under Observation
 407757,G-OUEG,Catreus,Bombardier Global 6000,Civ,U Wot m8 ?,,Under Observation
 406EEC,G-RSXP,Catreus,Textron Aviation Citation XLS+,Civ,U Wot m8 ?,,Under Observation
+407B57,G-WKTO,DEA,Beech E90 King Air,Civ,Covert,Eye in the Sky,Under Observation
+400E85,G-DJET,DEA,Diamond Aircraft DA42,Civ,U Wot m8 ?,Eye in the Sky,Under Observation
+406726,G-PAPE,DEA,Diamond Aircraft DA42,Civ,U Wot m8 ?,Eye in the Sky,Under Observation
+40686F,G-YDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8 ?,Eye in the Sky,Under Observation
+406809,G-ZDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8 ?,Eye in the Sky,Under Observation
+406658,G-DMPP,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye in the Sky,Under Observation
+406661,G-EMPP,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye in the Sky,Under Observation
+40759B,G-WKTG,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye in the Sky,Under Observation
+407637,G-WKTH,DEA,Diamond Aircraft DA62MPP,Civ,Covert,Eye in the Sky,Under Observation
+40785B,G-WKTI,DEA,Diamond Aircraft DA62MPP,Civ,Covert,Eye in the Sky,Under Observation
+406870,G-DMNG,DEA,Diamond Aircraft Twin Star DA42M-NG,Civ,Covert,Eye in the Sky,Under Observation
+43ED4B,2-WKTJ,DEA,Raytheon Aircraft Company King Air B350,Civ,Covert,Eye in the Sky,Under Observation
 3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,U Wot m8 ?,Under Observation
 AAF2C6,N804X,Northrop Grumman Systems,Bombardier CRJ-700,Civ,Odd,U Wot m8 ?,Under Observation
 43ED51,2-EMBR,Ortac AOC Ltd,Embraer Phenom 300 E,Civ,U Wot m8 ?,,Under Observation
@@ -378,41 +431,44 @@ AAF2C6,N804X,Northrop Grumman Systems,Bombardier CRJ-700,Civ,Odd,U Wot m8 ?,Unde
 407359,G-RVVE,RVL Aviation Ltd,SAAB 340 F,Civ,U Wot m8 ?,,Under Observation
 4076FE,G-REXA,RVL Aviation Ltd,Textron Aviation King Air 200GT,Civ,U Wot m8 ?,,Under Observation
 407990,G-SADB,Skyborne Aviation,Diamond Aircraft Twin Star DA42MPP,Civ,Eye in the Sky,U Wot m8 ?,Under Observation
-40665B,G-COBS,Thales UK Ltd,Diamond Aircraft Twin Star DA42M-NG,Civ,U Wot m8 ?,,Under Observation
+4404D6,OE-FMF,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye in the Sky,Under Observation
+440377,OE-VDO,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye in the Sky,Under Observation
+440378,OE-VDP,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye in the Sky,Under Observation
+40665B,G-COBS,Thales UK Ltd,Diamond Aircraft Twin Star DA42MPP,Civ,U Wot m8 ?,,Under Observation
+AE4ECE,10-1952,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
+AE5409,21125,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
+AE4EEC,22586,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
 AE4EEA,08-0047,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
 AE4EEB,09-0042,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
-AE4ECE,10-1952,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
-AE4EEC,22586,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
-AE5409,21125,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You came here in that thing ?,,USAF
-AE117A,02-1108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,USAF
 AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,USAF
-AE0816,00-0180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE117A,02-1108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,,USAF
 AE117E,02-1112,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
-AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,Government,,USAF
+AE0816,00-0180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,Government,,USAF
+AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,Government,,USAF
 AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Government,,USAF
 AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Government,,USAF
 AE115D,01-2015,United States Air Force,Boeing C-40B,Mil,Government,,USAF
 ADFEB4,73-1677,United States Air Force,Boeing E4b Nightwatch,Mil,Eye in the Sky,,USAF
-AE01CE,62-4134,United States Air Force,Boeing RC-135W,Mil,Eye in the Sky,,USAF
 AE01D2,62-4125,United States Air Force,Boeing RC-135W,Mil,Eye in the Sky,,USAF
+AE01CE,62-4134,United States Air Force,Boeing RC-135W,Mil,Eye in the Sky,,USAF
 AE13E5,62-3582,United States Air Force,Boeing WC-135C,Mil,mmm Neutrons,,USAF
 AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,You aint seen me - right ?,,USAF
 AE01B9,84-0083,United States Air Force,Gates C-21A,Mil,Government,Bizjet,USAF
-AE0406,99-0402,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
 AE0978,01-1976,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
+AE0406,99-0402,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
 AE206D,06-0500,United States Air Force,Gulfstream Aerospace C-37B,Mil,Government,Bizjet,USAF
 AE0565,85-0008,United States Air Force,Lockheed C-5M Galaxy,Mil,Absolute Unit,,USAF
-AE0949,68-10329,United States Air Force,Lockheed U-2S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
-AE094B,68-10336,United States Air Force,Lockheed U-2S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
-AE0968,80-1094,United States Air Force,Lockheed U-2S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
+AE0949,68-10329,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
+AE094B,68-10336,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
 AE094C,68-10337,United States Air Force,Lockheed U2-S,Mil,Eye in the Sky,,USAF
 AE095E,80-1083,United States Air Force,Lockheed U2-S,Mil,Eye in the Sky,,USAF
+AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh in the Sky,All about that Wingspan,USAF
 AE684E,168850,United States Air Force,Poseiden P8,Mil,Eye in the Sky,,USAF
 AE01CA,63-9792,United States Air Force,RC-135V Joint Rivet,Mil,Eye in the Sky,,USAF
+AE1252,165836,United States Navy,Boeing C-40A,Mil,Government,,USAF
 AE29FE,166695,United States Navy,Boeing C-40A,Mil,Specialist,,USAF
 AE4A60,166696,United States Navy,Boeing C-40A,Mil,Specialist,,USAF
-AE1252,165836,United States Navy,Boeing C-40A,Mil,Government,,USAF
 AE03DE,164762,United States Navy,Lockheed C-130T Hercules,Mil,Absolute Unit,,USAF
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye in the Sky,,USAF
 AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,You aint seen me - right ?,,USAF
@@ -425,18 +481,19 @@ AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,You aint seen me - righ
 4005A9,G-ETPK,Empire Test Pilots School,Avro 146 RJ70,Mil,Learner Driver,,Watch me fly
 4074C9,G-ETPA,Empire Test Pilots School,Pilatus PC-21,Mil,Learner Driver,,Watch me fly
 4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Mil,Learner Driver,,Watch me fly
+40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,,Watch me Fly
 43C8D6,ZM335,Royal Air Force,Embraer Phenom 100,Mil,Do a barrel roll,,Watch me fly
 43C618,ZZ500,Royal Navy,Hawker Beechcraft Corp King Air Avenger T.1,Mil,Government,,Watch me fly
 4066A3,G-KBWP,Private,Schempp-Hirth Arcus T,Civ,Whoosh,Where is the engine ?,Who needs an Engine ?
 4038D5,G-BVKU,Private,Slingsby T.61 F Falke Venture T.3,Civ,All about that Wingspan,Whoosh,Who needs an Engine ?
-43C6CB,ZK315,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
-43C799,ZK339,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
-43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
-43C7A5,ZK428,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
-43C6D4,ZK321,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Chappy !,,Zoomies
 43C73E,ZJ946,Royal Air Force,Eurofighter Typhoon FGR4,Mil,I feel the need....,,Zoomies
 43C740,ZK309,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Chappy !,,Zoomies
+43C6CB,ZK315,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
+43C6D4,ZK321,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Chappy !,,Zoomies
+43C799,ZK339,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
+43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
 43C79E,ZK376,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Turn and Burn,,Zoomies
+43C7A5,ZK428,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,,Zoomies
 43C7AF,ZK438,Royal Air Force,Eurofighter Typhoon FGR4,Mil,I feel the need....,,Zoomies
 43C811,ZM142,Royal Air Force,F35B Lightning II,Mil,Fighter,How much ?,Zoomies
 43C818,ZM150,Royal Air Force,F35B Lightning II,Mil,Fighter,How much ?,Zoomies
