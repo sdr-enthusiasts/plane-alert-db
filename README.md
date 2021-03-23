@@ -26,13 +26,14 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Coastguard \- Coastguard Aircraft
 - Community \- Suggested by you. Aircraft start here and move other other categories
 - Dictator Alert \- People of potentially questionable morals and values
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria
+- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications
 - Governments \- Aircraft registired to Governments
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations
 - Just Because \- I don't know why I like you, but I do.
 - M\*A\*S\*H \- Air Ambulance and Medical Flights
 - Military Contractors \- Why do the dirty work when someone else can do it for you ?
+- Must be nice \- Billionaires, not millionaires, daaaahling
 - Nuclear \- Nuclear Emergency Support Team etc
 - Other Air Forces \- Air Force aircarft that are not RAF or USAF
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy
@@ -53,25 +54,11 @@ Think of categories like groups, with similar or related aircraft listed togethe
 # Current Content
 
 - plane-alert-db.txt - The list of interesting aircaft, with tags and categories.
-  - Bahrain Amiri Flight (Government Airline)
-  - Qatar Amiri Flight.txt - A private VIP airline for the Qatari Royal Family
-  - The Battle of Britain Memorial Flight
-  - Government of Saudi Arabia Aircraft
-  - United Kingdom National Police Aviation Service
-  - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight.
-  - US National Nuclear Security Administration
-  - US Department of Energy
-  - US Department of Justice
-  - NASA
-  - Random interesting aircaft e.g. AN124
-- community-list.txt - Open list to add your suggestions to. These will be moved to the main list in time.
-  
+- community-list.txt - Open list to add your suggestions to. These will be moved to the main list in time.  
 - archive - lists in out of date formats
-
   - military-contractors.txt - From refueing to operating fake flying cell phone towers, this list has it all.
   - royal-aircraft.txt - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
   - uk-NPAS.txt . Includes Helicopters and 4 Vulcanair P.68R aircraft.
-
 
 
 # To do / Ideas
@@ -87,11 +74,6 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - NASA Aircraft
 - Input from non-english speaking countries
 - film/tv/famous (Airwolf etc)
+- UK Border force
 
 Any other idea's welcome.
-
-
-
-
-
-
