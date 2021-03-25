@@ -13,6 +13,11 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 
 in the eample above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
 
+# Current Content
+
+- plane-alert-db.txt - The list of interesting aircaft, with tags and categories.
+- community-list.txt - Open list to add your suggestions to. These will be moved to the main list in time.  
+
 
 # Description of Categories	   
 
@@ -49,16 +54,6 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Watch me Fly \- Flying and Training Schools
 - Who needs an Engine ? \- Gliders etc
 - Zoomies \- Fast jets, fighters. Anything that moves fast.
-
-
-# Current Content
-
-- plane-alert-db.txt - The list of interesting aircaft, with tags and categories.
-- community-list.txt - Open list to add your suggestions to. These will be moved to the main list in time.  
-- archive - lists in out of date formats
-  - military-contractors.txt - From refueing to operating fake flying cell phone towers, this list has it all.
-  - royal-aircraft.txt - RAF 32 Squadron and Helicopters operated by The Queen's Helicopter Flight. HRH Queen Elizabeth II.
-  - uk-NPAS.txt . Includes Helicopters and 4 Vulcanair P.68R aircraft.
 
 
 # To do / Ideas
