@@ -49,7 +49,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - RAF \- Aircraft of the Royal Air Force
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family
 - Royal Navy \- Aircraft of the Royal Navy
-- Sock Puppet \- Someone Pretending to be something they are not
+- Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft
 - Spotted \- Aircraft spotted by my ADSB station. Aircraft start here and move other other categories
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby
 - Under Observation \- Up to something dodgy, maybe
