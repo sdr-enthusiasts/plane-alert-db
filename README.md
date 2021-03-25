@@ -45,6 +45,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Other Air Forces \- Air Force aircarft that are not RAF or USAF
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy
 - Police Forces \- Your friendly neighbourhood flying <insert local colloquialism here>
+- Quango \- Nato, United Nations, World Bank etc
 - RAF \- Aircraft of the Royal Air Force
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family
 - Royal Navy \- Aircraft of the Royal Navy
