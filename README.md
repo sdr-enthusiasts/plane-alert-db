@@ -74,3 +74,15 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - UK Border force
 
 Any other idea's welcome.
+
+# Data Sources
+
+This data has been gathered from far too many sources to mention, but some sites have been *really* useful.
+
+https://www.flightdb.net/index.php
+
+http://www.rotorspot.nl/
+
+http://www.dtvmovements.co.uk/
+
+http://www.ads-b.nl/
