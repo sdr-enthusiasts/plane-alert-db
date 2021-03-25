@@ -13,6 +13,8 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 
 in the eample above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
 
+\*CMPG = Civilian, Military, Police, Government
+
 # Current Content
 
 - plane-alert-db.txt - The list of interesting aircaft, with tags and categories.
