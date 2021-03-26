@@ -47,7 +47,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Nuclear \- Nuclear Emergency Support Team etc (12)
 - Other Air Forces \- Air Force aircarft that are not RAF or USAF (15)
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (1)
-- Police Forces \- Your friendly neighbourhood flying <insert local colloquialism here> (3)
+- Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (3)
 - Quango \- Nato, United Nations, World Bank etc (15)
 - RAF \- Aircraft of the Royal Air Force (47)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
