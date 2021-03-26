@@ -1,1 +1,297 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag,Tag2,Category
+ICAO,Ident,Operator,Type,#CMPG,$Tag,#$Tag2,Category
+498422,2801,Czech Air Force,Airbus A319-115CJ,Mil,Czech Air Force,Not a bus,Other Air Forces
+477FF7,607,Hungarian Air Force,Dassault Falcon 7X,Mil,Hungarian Air Force,VIP,Other Air Forces
+AE04F2,84-00162,US Army,Beechcraft C-12U-3 Huron,Mil,USAF,Not so VIP,USAF
+AE0136,97-00105,US Military,UC-35A Citation,Mil,USAF,VIP,USAF
+AE04AB,99-00102,US Army,Cessna UC-35A Citation Ultra,Mil,USAF,VIP,USAF
+3E0A3E,D-HVBQ,Bundespolizei,Eurocopter EC135 T2+,Pol,Freeze,Chopper,Police Forces
+AE293B,07-8614,US Military,C-130J Super Hercules,Mil,Tag1,Heavy Duty,USAF
+4680D1,HAF352C,Hellenic Air Force,Embraer ERJ-135,Mil,Hellenic Air Force,VIP,Other Air Forces
+3f727c,54+08,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f7588,54+09,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f79f9,54+07,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3e9bf7,54+02,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3ea1cc,54+04,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3ea653,54+05,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f4368,54+01,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f7001,54+06,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f551d,15+02,German Air Force,ACJ319 133X,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f8517,10+23,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f8518,10+24,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f8519,10+25,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f851a,10+26,German Air Force,A310 304F,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f851b,10+27,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f7dc1,15+01,German Air Force,ACJ319 133X,Mil,Luftwaffe,Not a bus,Other Air Forces
+3e8e96,,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3e89e7,16+02,German Air Force,A340 313X,Mil,Luftwaffe,Not a bus,Other Air Forces
+3ea048,5426,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3eb1a6,16+01,German Air Force,A340 313X,Mil,Luftwaffe,Not a bus,Other Air Forces
+3f6682,54+11,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3e95ca,14+05,German Air Force,Global 6000,Mil,Luftwaffe,VIP,Other Air Forces
+3f64f6,54+21,German Air Force,A400M,Mil,Luftwaffe,Danger Zone,Zoomies
+3f6533,14+03,German Air Force,Global 5000,Mil,Luftwaffe,VIP,Other Air Forces
+3f7d5e,46+51,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f06,30+06,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f0a,30+10,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f0b,30+11,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f0c,30+12,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f0e,30+14,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9591,43+45,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f95c6,43+98,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9606,44+06,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9610,44+16,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9674,45+16,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f967a,45+22,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9687,45+35,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9622,44+34,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f963a,44+58,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96a4,45+64,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f963d,44+61,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9640,44+64,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9641,44+65,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9645,44+69,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9648,44+72,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f964e,44+78,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f964f,44+79,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f965a,44+90,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9664,45+00,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f966d,45+09,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9671,45+13,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f9672,45+14,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f96a6,45+66,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96a7,45+67,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96a8,45+68,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96a9,45+69,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96aa,45+70,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f9714,46+20,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96b0,45+76,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9717,46+23,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96b9,45+85,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9723,46+35,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96c0,45+92,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f995d,50+93,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3faa2c,84+44,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa2d,84+45,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa2e,84+46,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa2f,84+47,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa31,84+49,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa32,84+50,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa33,84+51,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa34,84+52,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa35,84+53,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa36,84+54,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa44,84+68,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa47,84+71,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa61,84+97,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa4a,84+74,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa4c,84+76,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa81,85+01,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa82,85+02,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa52,84+82,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa85,85+05,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa55,84+85,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa56,84+86,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa57,84+87,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa58,84+88,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa59,84+89,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa5a,84+90,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa5c,84+92,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa5e,84+94,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa5f,84+95,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa39,84+57,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3f7ab3,30+68,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f7b3c,14+04,German Air Force,Global 5000,Mil,Luftwaffe,VIP,Other Air Forces
+3f7620,46+24,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8d6c,31+05,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f14,30+20,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f17,30+23,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f18,30+24,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f19,30+25,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f1b,30+27,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f1c,30+28,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f21,30+33,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f28,30+40,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f03,30+03,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8f0f,30+15,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9592,43+46,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9596,43+50,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f95c5,43+97,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f9565,43+01,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f956e,43+10,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f957d,43+25,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9584,43+32,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f958a,43+38,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f958e,43+42,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f961d,44+29,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f961e,44+30,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9696,45+50,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96c2,45+94,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9702,46+02,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9705,46+05,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f9707,46+07,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f970a,46+10,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f970b,46+11,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f970c,46+12,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f970f,46+15,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9712,46+18,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96ab,45+71,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9716,46+22,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96b1,45+77,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3f971c,46+28,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f96be,45+90,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9724,46+36,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9726,46+38,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9728,46+40,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f972d,46+45,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9730,46+48,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9930,50+48,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9931,50+49,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9933,50+51,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9935,50+53,German Air Force,VFW Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9936,50+54,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9937,50+55,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9939,50+57,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f993a,50+58,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f993b,50+59,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f993d,50+61,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9922,50+34,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9923,50+35,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9924,50+36,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9926,50+38,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9928,50+40,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9929,50+41,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f992a,50+42,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f992c,50+44,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f992d,50+45,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f992e,50+46,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9733,46+51,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9734,46+52,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9738,46+56,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9739,46+57,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f9911,50+17,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f991d,50+29,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9921,50+33,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9941,50+65,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9942,50+66,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9943,50+67,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9945,50+69,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9946,50+70,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9947,50+71,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9948,50+72,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9949,50+73,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f994a,50+74,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f994b,50+75,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f994d,50+77,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f994f,50+79,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9951,50+81,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9953,50+83,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9956,50+86,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9957,50+87,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9958,50+88,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f995a,50+90,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f995b,50+91,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f995c,50+92,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9960,50+96,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9961,50+97,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9983,51+03,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9984,51+04,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9986,51+06,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f9988,51+08,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f998a,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f998c,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f998d,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3fa360,70+96,German Air Force,UH-1D Iroquois,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa05,84+05,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa06,84+06,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa0d,84+13,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa0f,84+15,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa12,84+18,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa19,84+25,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa1a,84+26,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa1c,84+28,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa1d,84+29,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa1f,84+31,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa21,84+33,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa22,84+34,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa25,84+37,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa26,84+38,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa27,84+39,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa2b,84+43,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa3e,84+62,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa40,84+64,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa41,84+65,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa42,84+66,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa43,84+67,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3fb101,99+01,German Air Force,EuroHawk RQ-4B,Mil,Luftwaffe,Eye in the sky,UAV
+3fb103,98+03,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3e819e,43+29,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3e8bce,46+54,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3e92ac,4X-XX,German Air Force,Panavia Tornado ???,Mil,Luftwaffe,Danger Zone,Zoomies
+3e936c,30+35,German Air Force,Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3e98d9,45+88,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3ebd41,14+06,German Air Force,Global 6000,Mil,Luftwaffe,VIP,Other Air Forces
+3ebe12,14+07,German Air Force,Global 6000,Mil,Luftwaffe,VIP,Other Air Forces
+3e8629,4X+XX,German Air Force,Panavia Tornado ???,Mil,Luftwaffe,Danger Zone,Zoomies
+3e87c9,43+29,German Air Force,Panavia Tornado,Mil,Luftwaffe,Danger Zone,Zoomies
+3e9f6a,45+57,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3ea2d7,44+33,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3ea437,46+32,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3ea836,30+75,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3eab46,46+44,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3eb4fa,30+30,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3eb90f,50+82,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,Other Air Forces
+3f4305,44+70,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f4e27,14+02,German Air Force,Global 5000,Mil,Luftwaffe,VIP,Other Air Forces
+3f58ae,14+01,German Air Force,Global 5000,Mil,Luftwaffe,VIP,Other Air Forces
+3f5e33,46+50,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f5c84,31+04,German Air Force,Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3f5b0f,30+84,German Air Force,Eurofighter Typhoon ,Mil,Luftwaffe,Danger Zone,Zoomies
+3f5fbb,46+25,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3faa60,84+96,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa49,84+73,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa4b,84+75,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa80,85+00,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa4f,84+79,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa84,85+04,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa54,84+84,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa87,85+07,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa8a,85+10,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa8c,85+12,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faac0,98+59,German Air Force,Panavia Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3fac9e,45+88,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3faa3a,84+58,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa3b,84+59,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa3c,84+60,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3faa3f,84+63,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,Other Air Forces
+3fb138,46+38,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3fb13b,98+59,German Air Force,Tornado IDS(T),Mil,Luftwaffe,Danger Zone,Zoomies
+3fb13c,98+60,German Air Force,Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3fb14f,98+79,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3fb159,98+77,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f97fd,15+04,German Air Force,A321-231(CJ),Mil,Luftwaffe,Not a bus,Other Air Forces
+3e8b41,54+13,German Air Force,A400M-180,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+40491e,G-STCH,German Air Force,FIESELER F156A-1 Storch,Mil,Luftwaffe,I am old,Historic
+3f4ba9,54+20,German Air Force,A400M-180,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f66b0,54+32,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,Other Air Forces
+3f6b1d,45+57,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f81dc,44+21,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f75dc,46+54,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f8ed6,12+03,German Air Force,CL-600-2A12 Challenger 601,Mil,Luftwaffe,VIP,Other Air Forces
+3fb107,98+07,German Air Force,Eurofighter Typhoon,Mil,Luftwaffe,Danger Zone,Zoomies
+3e9335,Unknown,German Air Force,Eurofighter Typhoon T,Mil,Luftwaffe,Danger Zone,Zoomies
+3ea567,46+36,German Air Force,Tornado Ecr,Mil,Luftwaffe,Danger Zone,Zoomies
+3eb1e3,43+48,German Air Force,Panavia Tornado,Mil,Luftwaffe,Danger Zone,Zoomies
+3eb1f8,44+21,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3e8a4f,45+57,German Air Force,Panavia Tornado,Mil,Luftwaffe,Danger Zone,Zoomies
+3e8a58,44+23,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3eab37,46+49,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3ead21,43+92,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f4d9f,46+54,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f575b,46+36,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3f581f,4X+XX,German Air Force,Panavia Tornado IDS,Mil,Luftwaffe,Danger Zone,Zoomies
+3f5f35,44+75,German Air Force,Pananvia Tornado,Mil,Luftwaffe,Danger Zone,Zoomies
+3fbaf9,46+35,German Air Force,Panavia Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3fbc98,46+49,German Air Force,Panavia Tornado,Mil,Luftwaffe,Danger Zone,Zoomies
+3fbfa1,46+55,German Air Force,Tornado ECR,Mil,Luftwaffe,Danger Zone,Zoomies
+3df28b,625,German Air Force,Bo.105 M,Mil,Luftwaffe,Chopper,Other Air Forces
+3ce139,D-CMPD,German Air Force,Beechcraft B200GT King Air,Mil,Luftwaffe,Not so VIP,Other Air Forces
