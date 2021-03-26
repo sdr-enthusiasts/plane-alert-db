@@ -21,12 +21,15 @@ ICAO,Ident,Operator,Type,#CMPG,$Tag,#$Tag2,Category
 43C457,xx323,The Red Arrows (RAF),HawK T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams
 43C459,xx325,The Red Arrows (RAF),HawK T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams
 43C257,ZJ194,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Choppa,Army Air Corp
-43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Choppa,Army Air Corp
+43CF30,ZZ391,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp
+43CF32,ZZ393,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp
 43C6C3,ZZ409,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Tomahawk,Choppa,Army Air Corp
 43C6C4,ZZ410,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Choppa,,Army Air Corp
 43C761,ZZ520,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Choppa,,Army Air Corp
+43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Choppa,Army Air Corp
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV
 A83D76,N63XF,Comcast Corp,Gulfstream Aerospace G650 ER,Civ,Bizjet,Choppa,As seen on TV
+A62C34,N497XP,DFS Furniture Company,Raytheon Aircraft Company 400 XP,Civ,Sale Must End Soon,,As Seen on TV
 A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream Aerospace GVII-G600,Civ,Ooh Get You,,As seen on TV
 A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream Aerospace G280,Civ,Bizjet,,As Seen on TV
 ACC647,N922H,Honeywell International Inc,Gulfstream Aerospace G650,Civ,Bizjet,,As seen on TV
@@ -34,31 +37,32 @@ ACC647,N922H,Honeywell International Inc,Gulfstream Aerospace G650,Civ,Bizjet,,A
 43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Digger,Bizjet,As seen on TV
 A4AD69,N400J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
 AAE2A5,N800J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
+AC404F,N889LS,Las Vegas Sands Corp,Boeing 737NG 73T/W BBJ,Civ,Ooh Get You,Bizjet,As Seen on TV
 4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Ooh Get You,Bizjet,As Seen on TV
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Ooh Get You,Bizjet,As seen on TV
 43E907,M-TSRI,Timpson Ltd,Hawker Beechcraft Corp King Air C90GTX,Civ,Bizjet,,As seen on TV
-3C5C41,D-AGBA,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV
-3C5C42,D-AGBB,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV
 3C5C45,D-AGBE,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
 3C5C46,D-AGBF,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
 AE5C8E,D-AGBG,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
 3C5C48,D-AGBH,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
 3C5C49,D-AGBI,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
+4001DB,VP-CLB,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
+3C5C41,D-AGBA,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV
+3C5C42,D-AGBB,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV
 3CF774,D-CVAA,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV
 3CF775,D-CVAB,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV
-4001DB,VP-CLB,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV
-43C394,AB910,Battle of Britiain Memorial Flight,Spitfire LFVb,Mil,History,,Battle of Britiain Memorial Flight
-43C390,LF363,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
-43C395,MK356,Battle of Britiain Memorial Flight,Spitfire LFIXe,Mil,History,,Battle of Britiain Memorial Flight
-43C393,P7350,Battle of Britiain Memorial Flight,Spitfire Iia,Mil,History,,Battle of Britiain Memorial Flight
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,,Battle of Britiain Memorial Flight
-43C397,PM631,Battle of Britiain Memorial Flight,Spitfire PRXIX,Mil,History,,Battle of Britiain Memorial Flight
-43C398,PS915,Battle of Britiain Memorial Flight,Spitfire PRXIX,Mil,History,,Battle of Britiain Memorial Flight
-43C391,PZ865,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
-43C396,TE311,Battle of Britiain Memorial Flight,Spitfire LFIXe,Mil,History,,Battle of Britiain Memorial Flight
+43C38F,ZA947,Battle of Britiain Memorial Flight,C47A Dakota,Mil,History,,Battle of Britiain Memorial Flight
 43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,,Battle of Britiain Memorial Flight
 43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,,Battle of Britiain Memorial Flight
-43C38F,ZA947,Battle of Britiain Memorial Flight,C47A Dakota,Mil,History,,Battle of Britiain Memorial Flight
+43C390,LF363,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
+43C391,PZ865,Battle of Britiain Memorial Flight,Hurricane Iic,Mil,History,,Battle of Britiain Memorial Flight
+43C393,P7350,Battle of Britiain Memorial Flight,Spitfire Iia,Mil,History,,Battle of Britiain Memorial Flight
+43C395,MK356,Battle of Britiain Memorial Flight,Spitfire LFIXe,Mil,History,,Battle of Britiain Memorial Flight
+43C396,TE311,Battle of Britiain Memorial Flight,Spitfire LFIXe,Mil,History,,Battle of Britiain Memorial Flight
+43C394,AB910,Battle of Britiain Memorial Flight,Spitfire LFVb,Mil,History,,Battle of Britiain Memorial Flight
+43C397,PM631,Battle of Britiain Memorial Flight,Spitfire PRXIX,Mil,History,,Battle of Britiain Memorial Flight
+43C398,PS915,Battle of Britiain Memorial Flight,Spitfire PRXIX,Mil,History,,Battle of Britiain Memorial Flight
 A324A9,N301SR,Essar Shipping and Logistics Ltd,Boeing 737NG 7JV BBJ/W,Civ,Bizjet,Absolute Unit,Bizjets
 A9E51E,N737AT,Hillwood Airways,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizjets
 424BA9,M-NSTR,LS Aircraft Limited,Bombardier Global 7500,Civ,Bizjet,,Bizjets
@@ -68,57 +72,234 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizje
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,,Bizjets
 06A1C9,A7-CGD,Qatar Executive,Gulfstream Aerospace G650 ER,Civ,Ooh Get You,,Bizjets
 06A1CA,A7-CGE,Qatar Executive,Gulfstream Aerospace G650 ER,Civ,Ooh Get You,,Bizjets
+406DE9,G-MCGT,HM Coastguard,AgustaWestland AW.189,Civ,Eye In The Sky,,Coastguard
+406DED,G-MCGX,HM Coastguard,AgustaWestland AW.189,Gov,Eye In The Sky,,Coastguard
 407814,G-HMGA,HM Coastguard,Beechcraft King Air B200,Civ,Specialist,,Coastguard
 407843,G-HMGB,HM Coastguard,Beechcraft King Air B200,Civ,Specialist,,Coastguard
 406DDB,G-MCGJ,HM Coastguard,Sikorsky S-92A,Civ,Choppa,,Coastguard
-406DE9,G-MCGT,HM Coastguard,AgustaWestland AW.189,Civ,Eye In The Sky,,Coastguard
-406DED,G-MCGX,HM Coastguard,AgustaWestland AW.189,Gov,Eye In The Sky,,Coastguard
 403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Civ,Eye In The Sky,You Aint Seen Me Right,Coastguard
-89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
-894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
-89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,,Dictator Alert
+508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
+50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
+508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,Civ,Absolute Unit,Cool,Da Comrade
+50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Ere Me Now,Old,Da Comrade
+508179,UR-CJN,Cavok Air,Antonov An-12 TB,Civ,Ere Me Now,Old,Da Comrade
+5080D5,UR-CSJ,Eleron,Antonov An-26 B,Civ,Got It Where It Counts,,Da Comrade
+50815D,UR-CAJ,Meridian,Antonov An-12 BK,Civ,Ere Me Now,Vashe Zdorovye,Da Comrade
+4049FA,G-CCJK,Private,Aerostar Yak-52,Civ,Vashe Zdorovye,Old,Da Comrade
+4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Da Comrade
+510099,EW-450TR,Rada Airlines,Ilyushin IL-62 MGR,Civ,Cargo,Vashe Zdorovye,Da Comrade
+5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere Me Now,Vashe Zdorovye,Da Comrade
+15407C,RA-82044,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
+15407E,RA-82046,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
+15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
+5083A2,UR-CQD,Vulkan Air,Antonov An-26 B,Civ,Vashe Zdorovye,Vashe Zdorovye,Da Comrade
+89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320232,Gov,Dictator Alert,,Dictator Alert
+8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737NG8EXBBJ2,Gov,Dictator Alert,,Dictator Alert
+896060,A6YAS,Abu Dhabi Amiri Flight,Boeing 747 4F6,Gov,Dictator Alert,,Dictator Alert
+896101,A6UAE,Abu Dhabi Amiri Flight,Boeing 747-48E(M),Gov,Dictator Alert,,Dictator Alert
+8962E9,A6PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,Gov,Dictator Alert,,Dictator Alert
+896264,A6ALN,Abu Dhabi Amiri Flight,Boeing 7772ANER,Gov,Dictator Alert,,Dictator Alert
+89629F,A6SIL,Abu Dhabi Amiri Flight,Boeing 77735RER,Gov,Dictator Alert,,Dictator Alert
+89636E,A6PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,,Dictator Alert
+78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,,Dictator Alert
+7BC006,B-2479,Air China,Boeing 747-89L,Gov,Dictator Alert,,Dictator Alert
+72779A,P-885,Air Koryo,Ilyushin IL-62M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert
+00415C,Z-WPE,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,,Dictator Alert
+00412D,Z-WPF,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,,Dictator Alert
+600801,4K-8888,Azerbaijan Government,Airbus A319-115(CJ),Gov,Dictator Alert,,Dictator Alert
 894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,,Dictator Alert
+89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,,Dictator Alert
+894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
+894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
+89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
+894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
 894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,,Dictator Alert
 894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
 894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
 894081,A9CISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,,Dictator Alert
+152A60,RA-76384,CEIBA Cargo,Ilyushin IL-76TD-90VD,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+495238,CSTQX,Ceiba Intercontinental,Boeing 7772FBLR,Gov,Dictator Alert,,Dictator Alert
+0D80AE,YV1004,Conviasa,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
+0D81EC,YV3016,Conviasa,Embraer EMB-190STD,Gov,Dictator Alert,,Dictator Alert
+0D8373,YV2984,Conviasa/ Venezuelan Government,Airbus A319-133X,Gov,Dictator Alert,,Dictator Alert
+09A042,C5NBB,Corporate,Canadair CL-600-2B16 Challenger 601-3A,Gov,Dictator Alert,,Dictator Alert
 AA3410,N757AF,DJT Operations,Boeing 757-200,Civ,Orange Danger,Original Nuttah,Dictator Alert
 A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator Alert
+8961DB,A6RJ1,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,,Dictator Alert
+8961DC,A6RJ2,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,,Dictator Alert
+89605A,A6HRS,Dubai Air Wing,Boeing 737NG7E0BBJ,Gov,Dictator Alert,,Dictator Alert
+896103,A6HEH,Dubai Air Wing,Boeing 737NG8AJBBJ2,Gov,Dictator Alert,,Dictator Alert
+89615A,A6MRS,Dubai Air Wing,Boeing 737NG8E0BBJ2,Gov,Dictator Alert,,Dictator Alert
+89607A,A6MRM,Dubai Air Wing,Boeing 737NG8ECBBJ2,Gov,Dictator Alert,,Dictator Alert
+896430,A6FZZ,Dubai Air Wing,Boeing 737NG8KNWBBJ2,Gov,Dictator Alert,,Dictator Alert
+896272,A6GGP,Dubai Air Wing,Boeing 747412F,Gov,Dictator Alert,,Dictator Alert
+8960B4,A6HRM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,,Dictator Alert
+8960AE,A6MMM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,,Dictator Alert
+8961B4,A6COM,Dubai Air Wing,Boeing 747433SCD,Gov,Dictator Alert,,Dictator Alert
 89652F,A6-HHH,Dubai Air Wing,Gulfstream Aerospace G650,Mil,Dictator Alert,Bizjet,Dictator Alert
+896438,A6HHH,Dubai Air Wing,Gulfstream G650,Gov,Dictator Alert,,Dictator Alert
+0428DD,3C-LLX,Ebony Shine International,Gulfstream Aerospace GV,Gov,Dictator Alert,,Dictator Alert
+896302,A6CJE,Emirates Airline,Airbus ACJ319115,Gov,Dictator Alert,,Dictator Alert
+4850BE,P4RMA,Gen Haftar Libya private lease,Mystere Falcon 900,Gov,Dictator Alert,,Dictator Alert
+485920,PHGOV,Gov of NL Royal Fam Jet,Boeing 737600BBJ,Gov,Dictator Alert,,Dictator Alert
+40013D,VP-BAT,Goverment of Qatar,Boeing 747SP-21,Gov,Dictator Alert,,Dictator Alert
+0A402D,7TVPP,Government of Algeria,Airbus A340541,Gov,Dictator Alert,,Dictator Alert
+0A404C,7TVPE,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,,Dictator Alert
+0A404D,7TVPF,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,,Dictator Alert
+0A4009,7TVPC,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
+0A400A,7TVPM,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
+0A4005,7TVPR,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
+0A4006,7TVPS,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
+0A400B,7TVPG,Government of Algeria,Gulfstream Aerospace GV,Gov,Dictator Alert,,Dictator Alert
+0900B5,D2-EEB,Government of Angola,Bombardier Dash 8-Q402,Gov,Dictator Alert,,Dictator Alert
+090088,D2-ANG,Government of Angola,Bombardier Global Express XRS,Gov,Dictator Alert,,Dictator Alert
+600BC0,4K-AI08,Government of Azerbaijan,Airbus A340ACJ642X,Gov,Dictator Alert,,Dictator Alert
+600BE8,4K-AI01,Government of Azerbaijan,Boeing 76732LER,Gov,Dictator Alert,,Dictator Alert
+51002B,EW-001PA,Government of Belarus,Boeing 737NG8EVWBBJ2,Gov,Dictator Alert,,Dictator Alert
+51005E,EW-001PB,Government of Belarus,Boeing 76732KER,Gov,Dictator Alert,,Dictator Alert
+510001,EW-85815,Government of Belarus,Tupolev Tu-154M,Gov,Dictator Alert,,Dictator Alert
+034002,TJ-AAW,Government of Cameroon,Gulfstream III,Gov,Dictator Alert,,Dictator Alert
+084006,TT-ABE,Government of Chad,ATR 42-300,Gov,Dictator Alert,,Dictator Alert
+084F00,TT-ABC,Government of Chad,Mc Donnell Douglas DC-987,Gov,Dictator Alert,,Dictator Alert
+08CE96,9Q-CLK,Government of Democratic Republic of Congo,Boeing 707-138B,Gov,Dictator Alert,,Dictator Alert
+08CBCB,9Q-CDC,Government of Democratic Republic of Congo,Boeing 727-30,Gov,Dictator Alert,,Dictator Alert
+08CBAB,9Q-CGC,Government of Democratic Republic of Congo,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
+04200A,3C-EGE,Government of Equatorial Guinea,Boeing 737NG7FBBBJW,Gov,Dictator Alert,,Dictator Alert
+042001,3C-ONM,Government of Equatorial Guinea,Dassault Falcon 900B,Gov,Dictator Alert,,Dictator Alert
+89624B,A6HMS,Government of Fujairah,Airbus A320232,Gov,Dictator Alert,,Dictator Alert
+03E00A,TR-KPR,Government of Gabon,Boeing 777-236,Gov,Dictator Alert,,Dictator Alert
+03E003,TR-LEX,Government of Gabon,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
+03E004,TR-KSP,Government of Gabon,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
+03E015,TR-KGM,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
+03E004,TR-KSP,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
+09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,Gov,Dictator Alert,,Dictator Alert
+09A01B,C5-GAF,Government of Gambia,Boeing 727-95,Gov,Dictator Alert,,Dictator Alert
+73040,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Ali Khamenei,Dictator Alert
+424918,VQ-BDD,Government of Jordan,Airbus A318-112(CJ) Elite,Gov,Dictator Alert,,Dictator Alert
+4243E4,VQ-BMZ,Government of Jordan,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
+6830ED,UPA3001,Government of Kazakhstan,Airbus A330243,Gov,Dictator Alert,,Dictator Alert
+6830A5,UPA2001,Government of Kazakhstan,Airbus ACJ320214X,Gov,Dictator Alert,,Dictator Alert
+683037,UPB5701,Government of Kazakhstan,Boeing 7572M6,Gov,Dictator Alert,,Dictator Alert
+706024,9K-AKD,Government of Kuwait,Airbus A320212,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+70604A,9K-GBB,Government of Kuwait,Airbus A340542,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706047,9K-GEA,Government of Kuwait,Airbus ACJ319115X,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+70604C,9K-GCC,Government of Kuwait,Boeing 737NG9BQBBJ3,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+70604B,9K-GAA,Government of Kuwait,Boeing 7478JKBBJ,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706048,9K-GFA,Government of Kuwait,Gulfstream Aerospace G550,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706203,9K-GGA,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706053,9K-GGB,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706054,9K-GGC,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706055,9K-GGD,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+70601E,9K-AJD,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+70601F,9K-AJE,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706020,9K-AJF,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+018021,5A-ONE,Government of Libya,Airbus A340 213,Gov,Dictator Alert,,Dictator Alert
+018019,5A-DCN,Government of Libya,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
+062F2E,5UGRN,Government of Niger,Boeing 737NG75UWBBJ,Gov,Dictator Alert,,Dictator Alert
 06A00F,A7AAG,Government of Qatar,A320-232,Gov,Dictator Alert,,Dictator Alert
-710333,HZHM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,,Dictator Alert
-710321,HZHM1A,Government of Saudi Arabia,Boeing 747-3G1,Gov,Dictator Alert,,Dictator Alert
-710322,HZHM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong Raaaaaange,Dictator Alert
-710336,HZHM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Loooong Raaaaaange,Dictator Alert
-710334,HZHMS2,Government of Saudi Arabia,Airbus A340-213X,Gov,Dictator Alert,,Dictator Alert
-7101E4,HZWBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,,Dictator Alert
-7101F1,HZWBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,,Dictator Alert
-06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,,Dictator Alert
-06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,,Dictator Alert
+710334,HZ-HMS2,Government of Saudi Arabia,Airbus A340-213X,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+710321,HZ-HM1A,Government of Saudi Arabia,Boeing 747-3G1,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+710333,HZ-HM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+710322,HZ-HM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+710336,HZ-HM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+71032C,HZ-HMED,Government of Saudi Arabia,Boeing 757-23A,Gov,M*A*S*H,Mohammed bin Salman,Dictator Alert
+39AE68,FHLTI,Government of Togo,Dassault Falcon 7X,Gov,Dictator Alert,,Dictator Alert
+088005,5VTAI,Government of Togo,Fokker F28 1000,Gov,Dictator Alert,,Dictator Alert
+60185A,EZA007,Government of Turkmenistan,Boeing 737NG7GLW,Gov,Dictator Alert,,Dictator Alert
+601861,EZA777,Government of Turkmenistan,Boeing 77722KLR,Gov,Dictator Alert,,Dictator Alert
+60183E,EZB024,Government of Turkmenistan,Bombardier Challenger870,Gov,Dictator Alert,,Dictator Alert
+042003,3C-LGE,Guinea Ecuatorial Aire Lines SA,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
+042819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),Gov,Dictator Alert,,Dictator Alert
+7101E4,HZ-WBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+6831ED,74008,Kazakhstan Border Guards,Antonov An-74TK-200,Gov,Dictator Alert,,Dictator Alert
+7101F1,HZ-WBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,Gov,Dictator Alert,,Dictator Alert
+155BEA,RA-89066,MChS Rossii,Sukhoi Superjet 100-95B,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+155BEB,RA-89067,MChS Rossii,Sukhoi Superjet 100-95LR,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+730543,EP-AJC,Meraj Airlines,Airbus A320-232,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
+730400,EP-AGB,Meraj Airlines,Airbus A321-231,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
+730541,EP-AJA,Meraj Airlines,Airbus A340-313,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
+484362,P4KAZ,Mint Juleps Investments,Boeing 737NG7EJWBBJ,Gov,Dictator Alert,,Dictator Alert
+70C057,A4OAA,Oman Royal Flight,Airbus A320232,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C0BA,A4OAJ,Oman Royal Flight,Airbus ACJ319133X,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C04D,A4OOMN,Oman Royal Flight,Boeing 747430,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C0B7,A4OHMS,Oman Royal Flight,Boeing 7478H0BBJ,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C020,A4OSO,Oman Royal Flight,Boeing 747SP27,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C0B3,A4OAD,Oman Royal Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C0B4,A4OAE,Oman Royal Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,,Dictator Alert
+0D8181,YV2763,Petroleos de Venezuela SA,Beech1900D,Gov,Dictator Alert,,Dictator Alert
+0D819B,YV2865,Petroleos De Venezuela SA,Beech1900D,Gov,Dictator Alert,,Dictator Alert
+0D8106,YV1118,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
+0D80FF,YV2565,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
+0D8163,YV2716,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
+0D8169,YV2734,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
+0D8173,YV2738,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
+0D8100,YV2567,Petroleos de Venezuela SA,Bombardier Learjet 45XR,Gov,Dictator Alert,,Dictator Alert
+0D809F,YV2040,Petroleos de Venezuela SA,Dassault Aviation Falcon 900B,Gov,Dictator Alert,,Dictator Alert
+0D80EE,YV1128,Petroleos de Venezuela SA,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
+0D8167,YV2726,Petroleos de Venezuela SA,Dassault Falcon 900B,Gov,Dictator Alert,,Dictator Alert
+0D80E9,YV2485,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
+0D80EC,YV2486,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
+0D82E8,YV3360,Petroleos de Venezuela SA,Falcon 2000EX,Gov,Dictator Alert,,Dictator Alert
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,,Dictator Alert
-06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
-06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
-06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,,Dictator Alert
-06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,,Dictator Alert
-06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
 06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
 06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
+06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,,Dictator Alert
+06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,,Dictator Alert
+06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
+06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319-115X,Gov,Dictator Alert,,Dictator Alert
+06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319-133LR,Gov,Dictator Alert,,Dictator Alert
+06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,,Dictator Alert
 06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,,Dictator Alert
 06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,,Dictator Alert
-06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319-133LR,Gov,Dictator Alert,,Dictator Alert
-06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319-115X,Gov,Dictator Alert,,Dictator Alert
-710038,HZAKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,,Dictator Alert
-710100,HZMF1,Saudi Ministry of Finance,Boeing 737-NG7FGWBBJ,Gov,Dictator Alert,,Dictator Alert
-7101E3,HZMF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,,Dictator Alert
-7101E7,HZMF3,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,,Dictator Alert
-7101E9,HZMF4,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,,Dictator Alert
-7101F0,HZMF5,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,,Dictator Alert
-71022B,HZMF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,,Dictator Alert
-710195,HZMF7,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,,Dictator Alert
-71019B,HZMF8,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,,Dictator Alert
-71002D,HZSK1,Saudi Private FLITE Charters,Gulfstream Aerospace G4SP,Gov,Dictator Alert,,Dictator Alert
+06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
+06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
+06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,,Dictator Alert
+14F114,RA-61716,Russia State Transport Company,Antonov An-148100EA,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14F118,RA-61720,Russia State Transport Company,Antonov An-148100EA,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+15770C,RA-96012,Russia State Transport Company,Ilyushin IL-96300,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157710,RA-96016,Russia State Transport Company,Ilyushin IL-96300,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157711,RA-96017,Russia State Transport Company,Ilyushin IL-96300,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157713,RA-96019,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157714,RA-96020,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157715,RA-96021,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+155BCF,RA-89039,Russia State Transport Company,Sukhoi Superjet10095B,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+150171,RA-65905,Russia State Transport Company,Tupolev Tu-134A-3,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+150177,RA-65911,Russia State Transport Company,Tupolev Tu-134A-3,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14FC05,RA-64517,Russia State Transport Company,Tupolev Tu-214PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14FC08,RA-64520,Russia State Transport Company,Tupolev Tu-214PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14FC0A,RA-64522,Russia State Transport Company,Tupolev Tu-214SUS,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14FC0C,RA-64524,Russia State Transport Company,Tupolev Tu-214SUS,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+1557A0,RA-87968,Russia State Transport Company,Yakovlev Yak-40,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+1557A4,RA-87972,Russia State Transport Company,Yakovlev Yak-40,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+157766,RA-96102,Russian Air Force,Ilyushin IL-96VVIP,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+14FC0B,RA-64523,Russian FSB,Tupolev Tu-214VPU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
+710038,HZ-AKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101E3,HZ-MF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+710100,HZ-MF1,Saudi Ministry of Finance,Boeing 737-NG7FGWBBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+71022B,HZ-MF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,,Dictator Alert
+710195,HZ-MF7,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+71019B,HZ-MF8,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101E7,HZ-MF3,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+71002D,HZ-SK1,Saudi Private FLITE Charters,Gulfstream Aerospace G4SP,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+0D80A4,YV1129,Servicio Autonomo de Coordinacion de Transporte Aereo,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
+896063,A6ESH,Sharjah Rulers Flight,Airbus ACJ319132,Gov,Dictator Alert,,Dictator Alert
+896436,A6SHJ,Sharjah Rulers Flight,Airbus ACJ320232XSL,Gov,Dictator Alert,,Dictator Alert
+51100D,STPRM,Sudanese Police Air Wing,Antonov An-72100D,Gov,Dictator Alert,,Dictator Alert
+600B78,4K-AZ888,SW Business Aviation,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
+600806,4K-AI06,SW Business Aviation,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
+600BC4,4K-AI88,SW Business Aviation,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
+424238,VP-BBF,SW Business Aviation,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
+778561,YKAKA,Syrianair,Airbus A320-232,Gov,Dictator Alert,,Dictator Alert
+3CE2D2,YV3083,Venezuela Air Force,Dornier D228,Gov,Dictator Alert,,Dictator Alert
+3CC011,YV3000,Venezuela Air Force,Dornier228NG,Gov,Dictator Alert,,Dictator Alert
+0D8032,207,Venezuelan Air Force,Boeing 737-200,Gov,Dictator Alert,,Dictator Alert
+0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
+424565,VQ-BSK,Worldwide Aircraft Holding Company,Boeing 747-8ZV (BBJ),Gov,Dictator Alert,,Dictator Alert
 4069E7,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive
 406C5D,G-OSRB,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive
 394A60,F-GSTA,Airbus Transport International,A300 B4-608ST Beluga,Civ,Absolute Unit,How Does It Fly,Distinctive
@@ -128,35 +309,22 @@ A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator
 395D68,F-GXLI,Airbus Transport International,Airbus A330 743L,Civ,Absolute Unit,How Does It Fly,Distinctive
 3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How Does It Fly,Shiny,Distinctive
 3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How Does It Fly,Shiny,Distinctive
-50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorovye,Distinctive
-508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Distinctive
-508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,Civ,Absolute Unit,Cool,Distinctive
-508179,UR-CJN,Cavok Air,Antonov An-12 TB,Civ,Ere Me Now,Old,Distinctive
-50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Ere Me Now,Old,Distinctive
 43C925,XE688,Hawker Hunter Aviation,Hunter T.72,Mil,Old,Fighter,Distinctive
 403AF7,G-BWGF,Horizon Flight Training,British Aircraft Corporation Jet Provost T.5A,Civ,Old,Flying Rust Bucket,Distinctive
 A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,Civ,Cargo,Brrrrrrrrrrrrrrr,Distinctive
 406C65,G-JWMA ,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,Jump Johnny Jump,Distinctive
-50815D,UR-CAJ,Meridian,Antonov An-12 BK,Civ,Ere Me Now,Vashe Zdorovye,Distinctive
+AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 AA0DB8,N747NA,NASA,Boeing 747 SP21,Mil,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
-AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
-AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
-AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 ACD5A1,N926NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All About That Wingspan,Distinctive
 ACD958,N927NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All About That Wingspan,Distinctive
 ACDD0F,N928NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All About That Wingspan,Distinctive
-AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
-4049FA,G-CCJK,Private,Aerostar Yak-52,Civ,Vashe Zdorovye,Old,Distinctive
+AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
+AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
+AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive
-4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Distinctive
-510099,EW-450TR,Rada Airlines,Ilyushin IL-62 MGR,Civ,Cargo,Vashe Zdorovye,Distinctive
-5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere Me Now,Vashe Zdorovye,Distinctive
 AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Jesus He Knows Me,Old,Distinctive
 ADFDF8,828000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive
 ADFDF9,929000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive
-15407C,RA-82044,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Distinctive
-15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Distinctive
-5083A2,UR-CQD,Vulkan Air,Antonov An-26 B,Civ,Vashe Zdorovye,Vashe Zdorovye,Distinctive
 3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,,Dogs with Jobs
 7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,Dogs with Jobs
 A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,Dogs with Jobs
@@ -174,6 +342,295 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
 4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
 406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
+3F8517,10+23,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,GAF
+3F8518,10+24,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,GAF
+3F8519,10+25,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,GAF
+3F851B,10+27,German Air Force,A310 304,Mil,Luftwaffe,Not a bus,GAF
+3F851A,10+26,German Air Force,A310 304F,Mil,Luftwaffe,Not a bus,GAF
+3F97FD,15+04,German Air Force,A321-231(CJ),Mil,Luftwaffe,Not a bus,GAF
+3EB1A6,16+01,German Air Force,A340 313X,Mil,Luftwaffe,Not a bus,GAF
+3E89E7,16+02,German Air Force,A340 313X,Mil,Luftwaffe,Not a bus,GAF
+3EA048,5426,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F4368,54+01,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3E9BF7,54+02,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3EA1CC,54+04,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3EA653,54+05,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F7001,54+06,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F79F9,54+07,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F727C,54+08,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F7588,54+09,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F6682,54+11,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3F64F6,54+21,German Air Force,A400M,Mil,Zoomies,Danger Zone,GAF
+3E8E96,54+34,German Air Force,A400M,Mil,Luftwaffe,Heavy Duty,GAF
+3E8B41,54+13,German Air Force,A400M-180,Mil,Luftwaffe,Heavy Duty,GAF
+3F4BA9,54+20,German Air Force,A400M-180,Mil,Luftwaffe,Heavy Duty,GAF
+3F66B0,54+32,German Air Force,A400M-180,Mil,Luftwaffe,Heavy Duty,GAF
+3F7DC1,15+01,German Air Force,ACJ319 133X,Mil,Luftwaffe,Not a bus,GAF
+3F551D,15+02,German Air Force,ACJ319 133X,Mil,Luftwaffe,Not a bus,GAF
+3E854F,10+03,German Air Force,Airbus A350 941,Mil,Shiny,,GAF
+3CE139,D-CMPD,German Air Force,Beechcraft B200GT King Air,Mil,Luftwaffe,Not so VIP,GAF
+3DF28B,625,German Air Force,Bo.105 M,Mil,Luftwaffe,Chopper,GAF
+3F58AE,14+01,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF
+3F4E27,14+02,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF
+3F6533,14+03,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF
+3F7B3C,14+04,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF
+3E95CA,14+05,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF
+3EBD41,14+06,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF
+3EBE12,14+07,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF
+3FAA05,84+05,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA06,84+06,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA12,84+18,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA1C,84+28,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA1D,84+29,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA1F,84+31,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA21,84+33,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA22,84+34,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA26,84+38,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA2B,84+43,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA2C,84+44,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA2E,84+46,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA31,84+49,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA32,84+50,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA36,84+54,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA39,84+57,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA3A,84+58,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA3B,84+59,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA3C,84+60,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA3E,84+62,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA3F,84+63,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA41,84+65,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA47,84+71,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA4A,84+74,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA4B,84+75,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA4C,84+76,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA54,84+84,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA57,84+87,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA58,84+88,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA59,84+89,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA5A,84+90,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA5C,84+92,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA5E,84+94,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA5F,84+95,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA61,84+97,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA82,85+02,German Air Force,CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA25,84+37,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA27,84+39,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA2F,84+47,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA44,84+68,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA56,84+86,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA84,85+04,German Air Force,CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA1A,84+26,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA35,84+53,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA52,84+82,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA60,84+96,German Air Force,CH-53GE Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA0D,84+13,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA0F,84+15,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA19,84+25,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA2D,84+45,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA33,84+51,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA34,84+52,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA40,84+64,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA42,84+66,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA43,84+67,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA49,84+73,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA4F,84+79,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA55,84+85,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA80,85+00,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA81,85+01,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA85,85+05,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA87,85+07,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA8A,85+10,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3FAA8C,85+12,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
+3F8ED6,12+03,German Air Force,CL-600-2A12 Challenger 601,Mil,Luftwaffe,VIP,GAF
+3FB101,99+01,German Air Force,EuroHawk RQ-4B,Mil,UAV,Eye in the sky,GAF
+40491E,G-STCH,German Air Force,FIESELER F156A-1 Storch,Mil,History,I am old,GAF
+3E87C9,43+29,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3EB1E3,43+48,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3F5F35,44+75,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3E8A4F,45+57,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3FBC98,46+49,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3E92AC,4X-XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3E8629,4X+XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
+3F9717,46+23,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F7620,46+24,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F5FBB,46+25,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F971C,46+28,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3EA437,46+32,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3FBAF9,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9723,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F575B,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9724,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3EA567,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3FB138,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9726,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9728,46+40,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3EAB46,46+44,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F972D,46+45,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9730,46+48,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3EAB37,46+49,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F5E33,46+50,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F7D5E,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9733,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9734,46+52,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F75DC,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F4D9F,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3E8BCE,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3FBFA1,46+55,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9738,46+56,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F9739,46+57,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3FB159,98+77,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3FB14F,98+79,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF
+3F957D,43+25,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3E819E,43+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9584,43+32,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F958A,43+38,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9592,43+46,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9596,43+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3EAD21,43+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F95C6,43+98,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9606,44+06,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9610,44+16,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F81DC,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3EB1F8,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3E8A58,44+23,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F961D,44+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F961E,44+30,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3EA2D7,44+33,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9622,44+34,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F963A,44+58,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F963D,44+61,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9640,44+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9641,44+65,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9645,44+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F4305,44+70,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F964E,44+78,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F964F,44+79,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F965A,44+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9664,45+00,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F966D,45+09,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F967A,45+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9687,45+35,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9696,45+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F6B1D,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3E9F6A,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96A4,45+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96A6,45+66,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96A7,45+67,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96A8,45+68,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96A9,45+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96AB,45+71,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96B0,45+76,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96B9,45+85,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3FAC9E,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3E98D9,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96BE,45+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96C0,45+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F96C2,45+94,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9702,46+02,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F970A,46+10,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F970B,46+11,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F970C,46+12,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F970F,46+15,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9712,46+18,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9714,46+20,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9716,46+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F581F,4X+XX,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3FB13C,98+60,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF
+3F9565,43+01,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F956E,43+10,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F958E,43+42,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9591,43+45,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F95C5,43+97,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9648,44+72,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9671,45+13,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9672,45+14,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9674,45+16,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F96AA,45+70,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F96B1,45+77,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9705,46+05,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9707,46+07,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3FAAC0,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3FB13B,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF
+3F9911,50+17,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F991D,50+29,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9921,50+33,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9922,50+34,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9923,50+35,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9924,50+36,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9926,50+38,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9928,50+40,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9929,50+41,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F992A,50+42,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F992C,50+44,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F992D,50+45,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F992E,50+46,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9930,50+48,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9931,50+49,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9933,50+51,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9936,50+54,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9937,50+55,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9939,50+57,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F993A,50+58,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F993B,50+59,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F993D,50+61,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9941,50+65,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9942,50+66,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9943,50+67,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9945,50+69,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9946,50+70,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9947,50+71,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9948,50+72,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9949,50+73,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F994A,50+74,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F994B,50+75,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F994D,50+77,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F994F,50+79,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9951,50+81,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3EB90F,50+82,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9953,50+83,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9956,50+86,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9957,50+87,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9958,50+88,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F995A,50+90,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F995B,50+91,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F995C,50+92,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F995D,50+93,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9960,50+96,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9961,50+97,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9983,51+03,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9984,51+04,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9986,51+06,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F9988,51+08,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F998A,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F998C,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+3F8F06,30+06,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0B,30+11,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0C,30+12,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0F,30+15,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F17,30+23,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F19,30+25,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F1C,30+28,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3EB4FA,30+30,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F21,30+33,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F28,30+40,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F7AB3,30+68,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3EA836,30+75,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F5B0F,30+84,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F5C84,31+04,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8D6C,31+05,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3E9335,3X+XX,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3FB107,98+07,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F03,30+03,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3F8F0A,30+10,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3F8F0E,30+14,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3F8F14,30+20,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3F8F18,30+24,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3F8F1B,30+27,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3E936C,30+35,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3FB103,98+03,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
+3FA360,70+96,German Air Force,UH-1D Iroquois,Mil,Luftwaffe,Chopper,GAF
+3F9935,50+53,German Air Force,VFW Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
 010058,SU-BNP,Government of Egypt,Gulfstream Aerospace GIV SP,Gov,Government,,Governments
 505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,,Governments
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Mil,Government,Boris,Governments
@@ -181,28 +638,27 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Jesus He Knows Me,Jesus he Knows me
 AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot m8,Just Because
 40721E,G-HITI,Elstree Ink,Airbus Helicopters Squirrel AS.350 B3e,Civ,Choppa,,Just Because
-4072C9,G-JRER,Private,Tecnam P.2006T,Civ,Odd,,Just Because
 400DED,G-RULE,Private,Robinson R44 Raven II,Civ,You Came Here In That Thing,Choppa,Just Because
+4072C9,G-JRER,Private,Tecnam P.2006T,Civ,Odd,,Just Because
 3D069D,D-EATH,Private Owner,Piper PA28,Civ,Wheelbarrow,Jesus He Knows Me,Just Because
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Flying Brick,Foutje Bedankt,Just Because
-A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because
 A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because
+A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because
 4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H
 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
 40793d,G-DAAS,Devon Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H
 407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,M*A*S*H,Air Ambo,M*A*S*H
-3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H
-3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
 3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
-71032C,HZHMED,Government of Saudi Arabia,Boeing 757-23A,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
+3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H
 C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H
 406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,M*A*S*H,Air Ambo,M*A*S*H
-710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H
 7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream Aerospace G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H
 7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
-7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Air Ambo,M*A*S*H
+7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H
 4043F8,G-SASR,Specialist Aviation Services Ltd,MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
 4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,M*A*S*H,Air Ambo,M*A*S*H
 4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,M*A*S*H,Air Ambo,M*A*S*H
@@ -219,33 +675,33 @@ C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Ci
 405F85,G-IASM,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye In The Sky,,Military Contractors
 4012AD,G-IMEA,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye In The Sky,,Military Contractors
 4055B7,G-JASS,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye In The Sky,,Military Contractors
+401046,G-WCCP,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye In The Sky,,Military Contractors
 400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Eye In The Sky,,Military Contractors
 4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Eye In The Sky,,Military Contractors
-401046,G-WCCP,2 Excel Aviation (Broadsword),Beechcraft King AIr B200,Civ,Eye In The Sky,,Military Contractors
 406848,G-UKAL,Aero Lease UK (Police),Reims-Cessna F406 Caravan II,Civ,Eye In The Sky,,Military Contractors
 406B79,G-VYGJ,AirTanker,Airbus A330 243,Civ,Fill Her Up,,Military Contractors
 406D26,G-VYGK,AirTanker,Airbus A330 243,Civ,Fill Her Up,,Military Contractors
 406D27,G-VYGL,AirTanker,Airbus A330 243,Civ,Fill Her Up,,Military Contractors
 406E9F,G-VYGM,AirTanker,Airbus A330 243,Civ,Fill Her Up,,Military Contractors
 406AD0,G-FFMV,Draken Europe,DA42M-NG Guardian,Civ,Specialist,Target Practice,Military Contractors
-4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors
-400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
-4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
-4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
-4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors
-4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
-4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
-4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
-4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
 4009D3,G-FRAS,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors
 4009D4,G-FRAT,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors
 4009D5,G-FRAU,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors
+4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
+4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
+4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
+4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors
+4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors
+4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors
+400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
+4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
+4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors
 4009D6,G-FRAW,Draken Europe,Dassault Falcon 20ECM,Civ,Specialist,Target Practice,Military Contractors
 407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Military Contractors
-400D24,G-BJEC,Gama Aviation (UK) Ltd,Britten-Norman BN-2T Islander CC2B,Civ,Covert,Eye In The Sky,Military Contractors
-41CE02,G-BSAH,Gama Aviation (UK) Ltd,Britten-Norman Islander R.1,Civ,Covert,Eye In The Sky,Military Contractors
 4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Eye In The Sky,,Military Contractors
 406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Eye In The Sky,,Military Contractors
+400D24,G-BJEC,Gama Aviation (UK) Ltd,Britten-Norman BN-2T Islander CC2B,Civ,Covert,Eye In The Sky,Military Contractors
+41CE02,G-BSAH,Gama Aviation (UK) Ltd,Britten-Norman Islander R.1,Civ,Covert,Eye In The Sky,Military Contractors
 401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye In The Sky,,Military Contractors
 405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Eye In The Sky,,Military Contractors
 4069D9,G-LBSB,Transferred to MOD,Beechcraft Corp King Air 350C,Civ,Eye In The Sky,,Military Contractors
@@ -253,34 +709,38 @@ C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Ci
 43E9CD,M-KSSN,Osni Sawiris,Gulfstream G650,Civ,Bizjet,Vanity Plate,Must be nice
 A0441D,N116SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Covert,Nuclear
 A047D4,N117SR,US Department of Energy,Airbus Helicopters H145,Gov,Specialist,Covert,Nuclear
-A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Specialist,,Nuclear
-A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,mmm Neutrons,,Nuclear
-A8107D,N619DE,US Department of Energy,Bell 407,Gov,Specialist,,Nuclear
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,,Nuclear
 A9B15F,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Specialist,,Nuclear
+A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Specialist,,Nuclear
+A8107D,N619DE,US Department of Energy,Bell 407,Gov,Specialist,,Nuclear
+A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,mmm Neutrons,,Nuclear
 A20F61,N2316,US National Nuclear Security Administration,Beech 300 Super King Air 350,Gov,Specialist,,Nuclear
 A20F84,N2317,US National Nuclear Security Administration,Beech 300 Super King Air 350,Gov,Specialist,,Nuclear
 A20FCA,N2319,US National Nuclear Security Administration,Beech 300 Super King Air 350,Gov,Specialist,,Nuclear
 ADACC6,N980ST,US National Nuclear Security Administration,Boeing 737-400C,Gov,Specialist,,Nuclear
 ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Specialist,,Nuclear
 44F42B,CH-11,Belgian Air Component,Lockheed C-130H Hercules,Mil,Waffles,Wrong Turn At Albuquerque,Other Air Forces
-3B7725,103,French Air Force,Embraer 121 Xingu AA,Mil,Ou Sont Les Bagages,,Other Air Forces
-3B77EC,146,French Air Force,SOCATA TBM 700 A,Mil,Ou Sont Les Bagages,,Other Air Forces
+498422,2801,Czech Air Force,Airbus A319-115CJ,Mil,Czech Air Force,Not A Bus,Other Air Forces
 3B76AE,F-RARF,French Air Force,Airbus A330 223,Mil,Ou Sont Les Bagages,Fill Her Up,Other Air Forces
 3B7544,F-UJCS,French Air Force,Airbus A330 243,Gov,Government,Ou Sont Les Bagages,Other Air Forces
-3E854F,10+03,German Air Force,Airbus A350 941,Mil,Shiny,,Other Air Forces
-3F7B3C,14+04,German Air Force,Bombardier BD-700 Global Express,Mil,Bizjet,,Other Air Forces
+3B7725,103,French Air Force,Embraer 121 Xingu AA,Mil,Ou Sont Les Bagages,,Other Air Forces
+3B77EC,146,French Air Force,SOCATA TBM 700 A,Mil,Ou Sont Les Bagages,,Other Air Forces
+3B9BAF,74,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,,Other Air Forces
+4680D1,HAF352C,Hellenic Air Force,Embraer ERJ-135,Mil,Hellenic Air Force,VIP,Other Air Forces
+477FF7,607,Hungarian Air Force,Dassault Falcon 7X,Mil,Hungarian Air Force,VIP,Other Air Forces
 4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,Mil,Luck of the Irish,,Other Air Forces
 4CA1E9,262,Irish Air Corps,Pilatus PC-9M,Mil,Luck of the Irish,,Other Air Forces
 4CA41D,282,Irish Air Corps,Pilatus PC-XII Spectre,Mil,Luck of the Irish,,Other Air Forces
 A70773,N552GD,Israeli Air Force,Gulfstream Aerospace G550,Mil,Ooh Get You,Bizjet,Other Air Forces
 706217,KAF342,Kuwait Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces
+7061F5,KAF326,Kuwait Air Force,Lockheed KC-130J Hercules,Mil,Wrong Turn At Albuquerque,You Lost Mate,Other Air Forces
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air Forces
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air Forces
 480C06,G-988,Royal Netherlands Air Force,Lockheed C-130H Hercules,Mil,Chonky Boy,Foutje Bedankt,Other Air Forces
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,,Other Navies
-3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Pol,Eye In The Sky,Police Squad,Police Forces
+3E0A3E,D-HVBQ,Bundespolizei,Eurocopter EC135 T2+,Pol,Freeze,Chopper,Police Forces
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Pol,Police Squad,Choppa,Police Forces
+3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Pol,Eye In The Sky,Police Squad,Police Forces
 3E010A,D-HRPA,Polizei Rheinland-Pfalz,Eurocopter EC135-P2,Pol,Police Squad,Choppa,Police Forces
 4D03C0,LX-N90442,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango
 4D03C1,LX-N90443,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango
@@ -301,11 +761,11 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air 
 43C61D,ZZ504,14 Squadron ISR (RAF),Shadow R1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C908,ZZ507,14 Squadron ISR (RAF),Shadow R1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C384,ZG844,651 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
-43C388,ZG848,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Islander R.1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C129,ZG997,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C125,ZG998,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C2B7,ZH001,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender R.2,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C2BA,ZH004,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Defender T.3,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
+43C388,ZG848,651 Squadron (Joint Special Forces Aviation Wing),Britten-Norman Islander R.1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C385,ZG845,652 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C386,ZG846,653 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C387,ZG847,654 Squadron (Joint Special Forces Aviation Wing),BN2T Islander AL1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
@@ -319,28 +779,28 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air 
 43C45C,XX329,736 Naval Air Squadron,Hawk T1a,Mil,Top..ish Gun,,RAF
 43C463,XX339,736 Naval Air Squadron,Hawk T1a,Mil,Top..ish Gun,,RAF
 43C383,ZH537,BN2T Islander CC2,BN2T Islander CC2,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
-43C4C3,ZA684,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,,RAF
-43C4BE,ZA714,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Loud,RAF
+43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,,RAF
+43C5E9,ZM415,Royal Air Force,Airbus Military A400M Atlas C.1,Mil,Cargo,,RAF
+43C6F8,ZZ335,Royal Air Force,Airbus Voyager KC.3,Mil,Fill Her Up,,RAF
+43C759,ZZ512,Royal Air Force,Augusta Westland Wildcat AH.1,Mil,Choppa,,RAF
+43C1C6,ZZ176,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF
+43C6B8,ZZ177,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF
+43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,Specialist,RAF
+43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,,RAF
 43C4BA,ZA718,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
 43C4C7,ZD984,Royal Air Force,Boeing-Vertol Chinook HC.4,Mil,Choppa,,RAF
+43C5F8,ZH901,Royal Air Force,Boeing-Vertol Chinook HC.5,Mil,Choppa,,RAF
+43C7D7,ZK560,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,,RAF
+43C4C3,ZA684,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,,RAF
+43C4BE,ZA714,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Loud,RAF
+43C09C,ZJ691,Royal Air Force,Bombardier Sentinel R.1,Pol,Eye In The Sky,You Aint Seen Me Right,RAF
 43C39F,ZH101,Royal Air Force,E3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C3A1,ZH103,Royal Air Force,E3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C3A2,ZH104,Royal Air Force,E3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C3A4,ZH106,Royal Air Force,E3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
-43C5F8,ZH901,Royal Air Force,Boeing-Vertol Chinook HC.5,Mil,Choppa,,RAF
-43C09C,ZJ691,Royal Air Force,Bombardier Sentinel R.1,Pol,Eye In The Sky,You Aint Seen Me Right,RAF
 43C54F,ZK012,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C561,ZK030,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
 43C565,ZK034,Royal Air Force,Hawk T2,Mil,Fighter,,RAF
-43C7D7,ZK560,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,,RAF
-43C5E9,ZM415,Royal Air Force,Airbus Military A400M Atlas C.1,Mil,Cargo,,RAF
-43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,Specialist,RAF
-43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,,RAF
-43C1C6,ZZ176,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF
-43C6B8,ZZ177,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF
-43C6F6,ZZ333,Royal Air Force,Airbus KC2 Voyager,Mil,Refuel,,RAF
-43C6F8,ZZ335,Royal Air Force,Airbus Voyager KC.3,Mil,Fill Her Up,,RAF
-43C759,ZZ512,Royal Air Force,Augusta Westland Wildcat AH.1,Mil,Choppa,,RAF
 43C38C,ZZ664,Royal Air Force,RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C39C,ZZ665,Royal Air Force,RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
 43C39D,ZZ666,Royal Air Force,RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF
@@ -349,17 +809,18 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,,Other Air 
 43C147,ZE701,34 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,,Royal Aircraft
 43C704,ZE707,35 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,,Royal Aircraft
 43C705,ZE708,36 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,,Royal Aircraft
-405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,,Royal Aircraft
 406BC6,G-XXEC,The Queens Helicopter flight ,Agusta Westland A109S,Civ,Yes Maam,,Royal Aircraft
+405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,,Royal Aircraft
 406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,,Royal Aircraft
+43C32A,ZH864,AgustaWestland AW101 AEW2 'Crowsnest',AgustaWestland AW101 AEW2 'Crowsnest',Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy
 43C070,ZJ121,Royal Navy,EH Industries EH.101 Merlin HC.4,Mil,Got It Where It Counts,Choppa,Royal Navy
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A4E6C5,N415AT,Department Of Justice (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A36932,N319KS,Fvx Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AAF9D8,N806TH,Fvx Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADBAD9,N984JS,Fvx Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AB5C81,N831EM,Jeal Air (DOJ),British Aerospace 125-750,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A1EC96,N223EM,Kqm Aviation (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A327E1,N302MP,Kqm Aviation (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
@@ -370,90 +831,92 @@ AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Ju
 A2B573,N274BB,Lcb Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A41050,N361DB,Lcb Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A4349B,N370JH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A46F56,N385RB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A66261,N510KS,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A6C75D,N536GR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A71AB8,N557PG,National Aircraft Leasing (DOJ),Cessna 560,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A7E68F,N608SH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A81E30,N622FH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A8464D,N632MR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A846DD,N632TK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC8B2B,N907WK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ACC6B5,N922MK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-AD3019,N949RL,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-AD4B3C,N956D,National Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AD645E,N962JB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AD64DB,N962PB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-AD8CAF,N972SM,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+AD4B3C,N956D,National Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADC362,N986W,National Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A71AB8,N557PG,National Aircraft Leasing (DOJ),Cessna 560,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+AD3019,N949RL,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+AD8CAF,N972SM,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A6286B,N496WW,National Aircraft Leasing Corporation (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A9C265,N728MP,National Aircraft Leasing Corporation (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A34C1A,N311SB,Nbr Aviation (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A6718E,N514NY,Nbr Aviation (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADC1C3,N986DK,Nbr Aviation (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A0AE77,N143GM,Nby Productions (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A51A7C,N428MT,Nby Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC97AB,N910LF,Nby Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADAFFE,N981MR,Nby Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A0AE77,N143GM,Nby Productions (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A2F6FD,N290RM,Ng Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A6A3DC,N527KM,Ng Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A6D306,N539MY,Ng Research (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ACC2EC,N921LS,Ng Research (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADAF83,N981GT,Northwest Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A1100A,N168GP,Obr Leasing (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A36622,N318SJ,Obr Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A4BC6E,N404KR,Obr Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A622CD,N495BJ,Obr Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A7EEC5,N610AG,Obr Leasing (DOJ),Cessna 206H Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC9E93,N912EX,Obr Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A67138,N514KM,Otv Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A7EEC5,N610AG,Obr Leasing (DOJ),Cessna 206H Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A622CD,N495BJ,Obr Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A83822,N629ET,Otv Leasing (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AB0D1B,N811AH,Otv Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ADC293,N986MT,Otv Leasing (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A67138,N514KM,Otv Leasing (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A5B556,N467TS,Psl Surveys (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC19C5,N879WM,Psl Surveys (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ACAEF9,N916WR,Psl Surveys (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AD56F0,N959JT,Psl Surveys (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A0AE7C,N143GS,Pxw Services (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A1488A,N182EM,Pxw Services (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A29A7D,N267RH,Pxw Services (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A68960,N520EP,Pxw Services (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A8A872,N657TP,Pxw Services (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A0AE7C,N143GS,Pxw Services (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A37A7D,N323LP,Rkt Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A59D5B,N461AJ,Rkt Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC872B,N906TM,Rkt Productions (DOJ),Cessna 182T Skylane,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A1CD07,N215KS,Sbs Prgm Ofc (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757-223,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
+A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757-223,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757-223,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A9A74E,N721AL,Us Dept Of Justice (DOJ),Bombardier DHC-8-Q-402,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
 AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet
-4061E4,G-CPAO,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-40639D,G-CPAS,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 406100,G-DCPB,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-4010AC,G-EMID,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-406176,G-HEOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 400F28,G-MPSA,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 400F29,G-MPSB,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 400F2A,G-MPSC,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+4061E4,G-CPAO,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+4010AC,G-EMID,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+405F1D,G-SUFK,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+40639D,G-CPAS,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+406176,G-HEOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 406343,G-NWOI,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 4062D2,G-POLA,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+40481E,G-POLG,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
+4062D8,G-TVHB,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 40499A,G-POLB,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 404715,G-POLC,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 404A2E,G-POLD,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 401255,G-POLF,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-40481E,G-POLG,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 404714,G-POLH,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 400A64,G-POLJ,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 40472C,G-POLU,National Police Air Service,Eurocopter EC135 T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
@@ -461,33 +924,31 @@ AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justic
 4078A4,G-POLW,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-405F1D,G-SUFK,National Police Air Service,Eurocopter EC135 P2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
-4062D8,G-TVHB,National Police Air Service,Eurocopter EC135 P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 405EC4,G-DOSC,Acrobat Ltd,Diamond Aircraft Twin Star DA42MPP,Gov,Eye In The Sky,Covert,Under Observation
 4012A1,G-VALK,ALTO Aerospace Ltd,Beech King Air B200,Gov,U Wot m8,,Under Observation
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,Britten-Norman Defender 4000 BN-2T-4R,Civ,Specialist,,Under Observation
 407757,G-OUEG,Catreus,Bombardier Global 6000,Civ,U Wot m8,,Under Observation
 406EEC,G-RSXP,Catreus,Textron Aviation Citation XLS+,Civ,U Wot m8,,Under Observation
-43ED4B,2-WKTJ,DEA,Raytheon Aircraft Company King Air B350,Civ,Covert,Eye In The Sky,Under Observation
+407B57,G-WKTO,DEA,Beech E90 King Air,Civ,Covert,Eye In The Sky,Under Observation
 400E85,G-DJET,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
-406870,G-DMNG,DEA,Diamond Aircraft Twin Star DA42M-NG,Civ,Covert,Eye In The Sky,Under Observation
+406726,G-PAPE,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
+40686F,G-YDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
+406809,G-ZDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
 406658,G-DMPP,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye In The Sky,Under Observation
 406661,G-EMPP,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye In The Sky,Under Observation
-406726,G-PAPE,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
 40759B,G-WKTG,DEA,Diamond Aircraft DA42MPP,Civ,Covert,Eye In The Sky,Under Observation
 407637,G-WKTH,DEA,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation
 40785B,G-WKTI,DEA,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation
-407B57,G-WKTO,DEA,Beech E90 King Air,Civ,Covert,Eye In The Sky,Under Observation
-40686F,G-YDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
-406809,G-ZDEA,DEA,Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation
+406870,G-DMNG,DEA,Diamond Aircraft Twin Star DA42M-NG,Civ,Covert,Eye In The Sky,Under Observation
+43ED4B,2-WKTJ,DEA,Raytheon Aircraft Company King Air B350,Civ,Covert,Eye In The Sky,Under Observation
 3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,U Wot m8,Under Observation
 AAF2C6,N804X,Northrop Grumman Systems,Bombardier CRJ-700,Civ,Odd,U Wot m8,Under Observation
 43ED51,2-EMBR,Ortac AOC Ltd,Embraer Phenom 300 E,Civ,U Wot m8,,Under Observation
-400CA9,G-FIND,RVL Aviation Ltd,Reims/Cessna F406 Caravan II,Civ,U Wot m8,,Under Observation
 400CAD,G-MIND,RVL Aviation Ltd,Cessna 404 Titan,Civ,U Wot m8,,Under Observation
-4076FE,G-REXA,RVL Aviation Ltd,Textron Aviation King Air 200GT,Civ,U Wot m8,,Under Observation
+400CA9,G-FIND,RVL Aviation Ltd,Reims/Cessna F406 Caravan II,Civ,U Wot m8,,Under Observation
 407118,G-RVLY,RVL Aviation Ltd,Reims/Cessna F406 Caravan II,Civ,U Wot m8,,Under Observation
 407359,G-RVVE,RVL Aviation Ltd,SAAB 340 F,Civ,U Wot m8,,Under Observation
+4076FE,G-REXA,RVL Aviation Ltd,Textron Aviation King Air 200GT,Civ,U Wot m8,,Under Observation
 407990,G-SADB,Skyborne Aviation,Diamond Aircraft Twin Star DA42MPP,Civ,Eye In The Sky,U Wot m8,Under Observation
 4404D6,OE-FMF,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation
 440377,OE-VDO,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation
@@ -498,63 +959,68 @@ AE640B,07-1933,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came He
 AE4ECE,10-1952,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
 AE5409,21125,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
 AE4EEC,22586,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
-AE0978,01-1976,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
-AE115D,01-2015,United States Air Force,Boeing C-40B,Mil,Government,,USAF
-AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Government,,USAF
-AE684E,168850,United States Air Force,Poseiden P8,Mil,Eye In The Sky,,USAF
-AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,Government,,USAF
-AE4BE6,1392915,United States Air Force,Lockheed MC-130J,Mil,Eye In The Sky,Chonky Boy,USAF
-AE4E19,1399550,United States Air Force,Lockheed MC-130,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
+AE571E,12-1964,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,How Does It Fly,You Came Here In That Thing,USAF
+AE4EEA,08-0047,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
+AE4EEB,09-0042,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
 AE0816,00-0180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE117A,02-1108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE117E,02-1112,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
-AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,Government,,USAF
-AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Government,,USAF
-AE206D,06-0500,United States Air Force,Gulfstream Aerospace C-37B,Mil,Government,Bizjet,USAF
-AE4EEA,08-0047,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
-AE4EEB,09-0042,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,,USAF
 AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,Government,,USAF
+AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,Government,,USAF
+AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Government,,USAF
+AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Government,,USAF
+AE115D,01-2015,United States Air Force,Boeing C-40B,Mil,Government,,USAF
+ADFEB4,73-1677,United States Air Force,Boeing E4b Nightwatch,Mil,Eye In The Sky,,USAF
 AE0388,61-0292,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF
 AE0669,62-3540,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF
-AE13E5,62-3582,United States Air Force,Boeing WC-135C,Mil,mmm Neutrons,,USAF
 AE01D2,62-4125,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,,USAF
 AE01CE,62-4134,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,,USAF
-AE01CA,63-9792,United States Air Force,RC-135V Joint Rivet,Mil,Eye In The Sky,,USAF
+AE13E5,62-3582,United States Air Force,Boeing WC-135C,Mil,mmm Neutrons,,USAF
+AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,You Aint Seen Me Right,,USAF
+AE01B9,84-0083,United States Air Force,Gates C-21A,Mil,Government,Bizjet,USAF
+AE0978,01-1976,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
+AE0406,99-0402,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
+AE206D,06-0500,United States Air Force,Gulfstream Aerospace C-37B,Mil,Government,Bizjet,USAF
+AE0565,85-0008,United States Air Force,Lockheed C-5M Galaxy,Mil,Absolute Unit,Cargo,USAF
+AE4E19,1399550,United States Air Force,Lockheed MC-130,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
+AE4BE6,1392915,United States Air Force,Lockheed MC-130J,Mil,Eye In The Sky,Chonky Boy,USAF
 AE0949,68-10329,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
 AE094B,68-10336,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
 AE094C,68-10337,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF
-ADFEB4,73-1677,United States Air Force,Boeing E4b Nightwatch,Mil,Eye In The Sky,,USAF
 AE095E,80-1083,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF
 AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
-AE01B9,84-0083,United States Air Force,Gates C-21A,Mil,Government,Bizjet,USAF
-AE0565,85-0008,United States Air Force,Lockheed C-5M Galaxy,Mil,Absolute Unit,Cargo,USAF
-AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,You Aint Seen Me Right,,USAF
-AE0406,99-0402,United States Air Force,Gulfstream Aerospace C-37A,Mil,Government,Bizjet,USAF
+AE684E,168850,United States Air Force,Poseiden P8,Mil,Eye In The Sky,,USAF
+AE01CA,63-9792,United States Air Force,RC-135V Joint Rivet,Mil,Eye In The Sky,,USAF
 AE118A,02-01863,United States Army,Gulfstream Aerospace C-37A,Mil,Bizjet,,USAF
-AE03DE,164762,United States Navy,Lockheed C-130T Hercules,Mil,Absolute Unit,Cargo,USAF
 AE1252,165836,United States Navy,Boeing C-40A,Mil,Government,,USAF
 AE29FE,166695,United States Navy,Boeing C-40A,Mil,Specialist,,USAF
 AE4A60,166696,United States Navy,Boeing C-40A,Mil,Specialist,,USAF
 AE5718,168980,United States Navy,Boeing C-40A,Mil,Government,,USAF
+AE03DE,164762,United States Navy,Lockheed C-130T Hercules,Mil,Absolute Unit,Cargo,USAF
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye In The Sky,,USAF
-AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,,USAF
 AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,You Aint Seen Me Right,,USAF
+AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,,USAF
+AE04F2,84-00162,US Army,Beechcraft C-12U-3 Huron,Mil,USAF,Not so VIP,USAF
+AE04AB,99-00102,US Army,Cessna UC-35A Citation Ultra,Mil,USAF,VIP,USAF
 AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,,USAF
-43C8E3,ZM509,Defense Helicopter Flying School,Eurocopter EC135-T3,Mil,Choppa,Learner Driver,Watch me fly
+AE293B,07-8614,US Military,C-130J Super Hercules,Mil,Cargo,Heavy Duty,USAF
+AE0136,97-00105,US Military,UC-35A Citation,Mil,USAF,VIP,USAF
 43C8EA,ZM516,Defense Helicopter Flying School,Eurocopter EC135,Mil,Choppa,Learner Driver,Watch me fly
 43C8F5,ZM527,Defense Helicopter Flying School,Eurocopter EC135,Mil,Choppa,Learner Driver,Watch me fly
-4074C9,G-ETPA,Empire Test Pilots School,Pilatus PC-21,Civ,Learner Driver,,Watch me fly
-4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Civ,Learner Driver,,Watch me fly
-40738A,G-ETPC,Empire Test Pilots School,Grob G-120 TP-A,Civ,Shiny,Pass The Sick Bag,Watch me Fly
+43C8E3,ZM509,Defense Helicopter Flying School,Eurocopter EC135-T3,Mil,Choppa,Learner Driver,Watch me fly
 40740C,G-ETPE,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,Learner Driver,Watch me fly
 40740D,G-ETPF,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,Pass The Sick Bag,,Watch me Fly
 4005A9,G-ETPK,Empire Test Pilots School,Avro 146 RJ70,Civ,Learner Driver,,Watch me fly
 406CDB,G-ETPM,Empire Test Pilots School,Diamond Aircraft Twin Star DA42M-NG,Civ,Pass The Sick Bag,,Watch me Fly
+40738A,G-ETPC,Empire Test Pilots School,Grob G-120 TP-A,Civ,Shiny,Pass The Sick Bag,Watch me Fly
+4074C9,G-ETPA,Empire Test Pilots School,Pilatus PC-21,Civ,Learner Driver,,Watch me fly
+4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Civ,Learner Driver,,Watch me fly
 40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,Choppa,,Watch me Fly
 43C8D6,ZM335,Royal Air Force,Embraer Phenom 100,Mil,Do A Barrel Roll,,Watch me fly
 43C618,ZZ500,Royal Navy,Hawker Beechcraft Corp King Air Avenger T.1,Mil,Government,,Watch me fly
-4038D5,G-BVKU,Private,Slingsby T.61 F Falke Venture T.3,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?
 4066A3,G-KBWP,Private,Schempp-Hirth Arcus T,Civ,Whoosh,Where Is The Engine,Who needs an Engine ?
+4038D5,G-BVKU,Private,Slingsby T.61 F Falke Venture T.3,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?
 43C73E,ZJ946,Royal Air Force,Eurofighter Typhoon FGR4,Mil,I Feel The Need....,,Zoomies
 43C740,ZK309,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Chappy,,Zoomies
 43C6A3,ZK312,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Cool,I Feel The Need....,Zoomies
