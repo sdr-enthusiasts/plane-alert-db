@@ -56,7 +56,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (39)
 - Must be nice \- Billionaires, not millionaires, daaaahling (2)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircarft that are not RAF or USAF (15)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (15)
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (1)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (3)
 - Quango \- Nato, United Nations, World Bank etc (15)
