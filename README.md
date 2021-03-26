@@ -15,7 +15,7 @@ in the eample above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 wil
 
 \*CMPG = Civilian, Military, Police, Government
 
-# plane-alert-db
+# Planefence
 To use this list with Planefence, simply configure your planefence.config setup to include the following line:
 
 - PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.txt
