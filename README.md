@@ -17,6 +17,8 @@ in the eample above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 wil
 
 # Current Content
 
+The list contains **568** unique aircraft in **32** different categories
+
 - [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircaft, with tags and categories.
 - [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
 
