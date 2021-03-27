@@ -126,6 +126,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Special Convertions e.g. Engine testbeds
 - Duxford and other historic flight collections
 - Historic Aircraft Flight Trust
+- Low volume Airliners / Special Models
 
 Any other idea's welcome.
 
