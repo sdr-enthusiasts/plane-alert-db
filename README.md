@@ -103,7 +103,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Australian Aircraft called firebird (fire spotter and fighters)
 - Erickson air cranes / SH64 (what is the list of names)
 - Japanese Flying Boats Shin Maywa US-2/US 1 (US2 are 9901 through 9907 - mode s ?)
-- Adversary Squadrons (e.g. Drakken International)
+- Private Adversary Squadrons
 - Operators of old Jets/Fighters (e.g. Hawker Huner Aviation)
 - Callspan Corp In-Flight Simulators
 - GAMA Avaiation (ex RAF spy planes)
