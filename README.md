@@ -76,18 +76,56 @@ Think of categories like groups, with similar or related aircraft listed togethe
 
 # To do / Ideas
 
-- Add more Military/Research/One-off Aircraft
-- National Display Teams (e.g. Red Arrows, Blue Angels)
-- Heads of State
-- Drones and Spy Aircraft
-- 'Covert' aircraft hiding their true purpose/ownership
-- Old and Rare
-- Aircraft with special history (e.g. Chinook Bravo November)
-- Firefighting aircraft
-- NASA Aircraft
-- Input from non-english speaking countries
-- film/tv/famous (Airwolf etc)
-- UK Border force
+- RAF Typhoon Display Team
+- US Dept of Interior
+- US Dept of Energy
+- Other US Gov Depts
+- Check Saudi Armed Forces Medical Services is complete
+- Check Empire Test Pilots School is complete
+- Firefighting Aircraft / Companies
+- Police Scotland Air Support Unit (NI Equivalent)
+- B737 with Gravel Kits - Nolinor, Air Inuit, Canada North, Chron Aviation
+- Defense Helicopter Flying School
+- Identify more Aircraft owned by Religious organisations
+- Acrobat Ltd (Uk Gov Sock puppet ?)
+- UK Ministry of Defence
+- UK Border Force
+- Shuttleworth Collection
+- Other Warbirds
+- List of DA42 / DA62 MPP Operators
+- Thales UK
+- Qinetiq
+- Survey / Mappiing Aircarft
+- Other sureveillance aircraft types
+- 750 Naval Air Squadron (Observers)
+- Cal Fire
+- Coulson Aviation
+- Australian Aircraft called firebird (fire spotter and fighters)
+- Erickson air cranes / SH64 (what is the list of names)
+- Japanese Flying Boats Shin Maywa US-2/US 1 (US2 are 9901 through 9907 - mode s ?)
+- Adversary Squadrons (e.g. Drakken International)
+- Operators of old Jets/Fighters (e.g. Hawker Huner Aviation)
+- Callspan Corp In-Flight Simulators
+- GAMA Avaiation (ex RAF spy planes)
+- Flying Hospitals (eye Hospital ?)
+- UK Coast Guard
+- Other Coast Guards
+- Air Ambulances (Wikipedia List)
+- Big Russian Helis
+- Kamov KA32's
+- Babcock MCS Spain (and any other countries)
+- Lewis Hamilton Jet(s)
+- Open Skies Flights
+- Eurpoean Union
+- Scienctific / Weather planes
+- Flight Precision Ltd (and Similar)
+- United Nations
+- World Bank etc
+- Red Cross / MSF
+- Network Rail Helicopter(s)
+- Special Convertions e.g. Engine testbeds
+- Duxford and other historic flight collections
+- Historic Aircraft Flight Trust
 
 Any other idea's welcome.
 
