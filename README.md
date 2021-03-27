@@ -127,6 +127,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Duxford and other historic flight collections
 - Historic Aircraft Flight Trust
 - Low volume Airliners / Special Models
+- Multinational MRTT Fleet
 
 Any other idea's welcome.
 
