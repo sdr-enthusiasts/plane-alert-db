@@ -129,6 +129,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Low volume Airliners / Special Models
 - Multinational MRTT Fleet
 - Fly Navy Heritage Trust
+- Football Teams and other sporting organisations
 
 Any other idea's welcome.
 
