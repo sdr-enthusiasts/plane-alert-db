@@ -1,4 +1,4 @@
-ICAO,Ident,Operator,Type,#CMPG,$Tag,#$Tag2,Category
+ICAO,Ident,Operator,Type,CMPG,#$Tag 1,#$Tag 2,Category
 407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams
 4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Do A Barrel Roll,Aerobatic Teams
 400E1F,G-OFFO,The Blades,Extra EA-300,Civ,Do A Barrel Roll,,Aerobatic Teams
@@ -28,15 +28,15 @@ ICAO,Ident,Operator,Type,#CMPG,$Tag,#$Tag2,Category
 43C761,ZZ520,Army Air Corps,AgustaWestland Wildcat AH.1,Mil,Choppa,,Army Air Corp
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Choppa,Army Air Corp
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV
-A83D76,N63XF,Comcast Corp,Gulfstream Aerospace G650 ER,Civ,Bizjet,Choppa,As seen on TV
+A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Choppa,As seen on TV
 A62C34,N497XP,DFS Furniture Company,Raytheon Aircraft Company 400 XP,Civ,Sale Must End Soon,,As Seen on TV
 A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream Aerospace GVII-G600,Civ,Ooh Get You,,As seen on TV
-A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream Aerospace G280,Civ,Bizjet,,As Seen on TV
-ACC647,N922H,Honeywell International Inc,Gulfstream Aerospace G650,Civ,Bizjet,,As seen on TV
+A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream G280,Civ,Bizjet,,As Seen on TV
+ACC647,N922H,Honeywell International Inc,Gulfstream G650,Civ,Bizjet,,As seen on TV
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,Civ,Bizjet,,As seen on TV
 43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Digger,Bizjet,As seen on TV
-A4AD69,N400J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
-AAE2A5,N800J,Johnson & Johnson,Gulfstream Aerospace G650 ER,Civ,Bizjet,,As seen on TV
+A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,,As seen on TV
+AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,,As seen on TV
 AC404F,N889LS,Las Vegas Sands Corp,Boeing 737NG 73T/W BBJ,Civ,Ooh Get You,Bizjet,As Seen on TV
 4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Ooh Get You,Bizjet,As Seen on TV
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Ooh Get You,Bizjet,As seen on TV
@@ -70,8 +70,8 @@ A9E51E,N737AT,Hillwood Airways,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizjets
 A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How Does It Fly,,Bizjets
 A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizjets
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,,Bizjets
-06A1C9,A7-CGD,Qatar Executive,Gulfstream Aerospace G650 ER,Civ,Ooh Get You,,Bizjets
-06A1CA,A7-CGE,Qatar Executive,Gulfstream Aerospace G650 ER,Civ,Ooh Get You,,Bizjets
+06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,Civ,Ooh Get You,,Bizjets
+06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,Civ,Ooh Get You,,Bizjets
 406DE9,G-MCGT,HM Coastguard,AgustaWestland AW.189,Civ,Eye In The Sky,,Coastguard
 406DED,G-MCGX,HM Coastguard,AgustaWestland AW.189,Gov,Eye In The Sky,,Coastguard
 407814,G-HMGA,HM Coastguard,Beechcraft King Air B200,Civ,Specialist,,Coastguard
@@ -93,169 +93,168 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737NG BBJ,Civ,Ooh Get You,,Bizje
 15407E,RA-82046,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
 15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
 5083A2,UR-CQD,Vulkan Air,Antonov An-26 B,Civ,Vashe Zdorovye,Vashe Zdorovye,Da Comrade
-89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320232,Gov,Dictator Alert,,Dictator Alert
-8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737NG8EXBBJ2,Gov,Dictator Alert,,Dictator Alert
-896060,A6YAS,Abu Dhabi Amiri Flight,Boeing 747 4F6,Gov,Dictator Alert,,Dictator Alert
-896101,A6UAE,Abu Dhabi Amiri Flight,Boeing 747-48E(M),Gov,Dictator Alert,,Dictator Alert
-8962E9,A6PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,Gov,Dictator Alert,,Dictator Alert
-896264,A6ALN,Abu Dhabi Amiri Flight,Boeing 7772ANER,Gov,Dictator Alert,,Dictator Alert
-89629F,A6SIL,Abu Dhabi Amiri Flight,Boeing 77735RER,Gov,Dictator Alert,,Dictator Alert
-89636E,A6PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,,Dictator Alert
-78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,,Dictator Alert
-7BC006,B-2479,Air China,Boeing 747-89L,Gov,Dictator Alert,,Dictator Alert
+89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320232,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737NG8EXBBJ2,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+896060,A6YAS,Abu Dhabi Amiri Flight,Boeing 747 4F6,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+896101,A6UAE,Abu Dhabi Amiri Flight,Boeing 747-48E(M),Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+8962E9,A6PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+896264,A6ALN,Abu Dhabi Amiri Flight,Boeing 7772ANER,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+89629F,A6SIL,Abu Dhabi Amiri Flight,Boeing 77735RER,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+89636E,A6PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert
+78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,Xi Jinping,Dictator Alert
+7BC006,B-2479,Air China,Boeing 747-89L,Gov,Dictator Alert,Xi Jinping,Dictator Alert
 72779A,P-885,Air Koryo,Ilyushin IL-62M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert
-00415C,Z-WPE,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,,Dictator Alert
-00412D,Z-WPF,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,,Dictator Alert
-600801,4K-8888,Azerbaijan Government,Airbus A319-115(CJ),Gov,Dictator Alert,,Dictator Alert
-894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,,Dictator Alert
-89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,,Dictator Alert
-894055,A9CBHR,Bahrain Amiri Flight,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
-894060,A9CBRN,Bahrain Amiri Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
-89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-894001,A9CBRF,Bahrain Amiri Flight,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,,Dictator Alert
-894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
-894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,,Dictator Alert
-894081,A9CISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,,Dictator Alert
-152A60,RA-76384,CEIBA Cargo,Ilyushin IL-76TD-90VD,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
-495238,CSTQX,Ceiba Intercontinental,Boeing 7772FBLR,Gov,Dictator Alert,,Dictator Alert
-0D80AE,YV1004,Conviasa,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
-0D81EC,YV3016,Conviasa,Embraer EMB-190STD,Gov,Dictator Alert,,Dictator Alert
-0D8373,YV2984,Conviasa/ Venezuelan Government,Airbus A319-133X,Gov,Dictator Alert,,Dictator Alert
-09A042,C5NBB,Corporate,Canadair CL-600-2B16 Challenger 601-3A,Gov,Dictator Alert,,Dictator Alert
+00415C,Z-WPE,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert
+00412D,Z-WPF,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert
+894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894055,A9CBHR,Bahrain Amiri Flight,Gulfstream G450,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894060,A9CBRN,Bahrain Amiri Flight,Gulfstream G550,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894001,A9CBRF,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+894081,A9CISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert
+152A60,RA-76384,CEIBA Cargo,Ilyushin IL-76TD-90VD,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+495238,CSTQX,Ceiba Intercontinental,Boeing 7772FBLR,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+0D80AE,YV1004,Conviasa,Airbus A340211,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D81EC,YV3016,Conviasa,Embraer EMB-190STD,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8373,YV2984,Conviasa/ Venezuelan Government,Airbus A319-133X,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
 AA3410,N757AF,DJT Operations,Boeing 757-200,Civ,Orange Danger,Original Nuttah,Dictator Alert
-A9B67C,N725DT,DT Endeavour,CESSNA 750,Civ,Orange Danger,Original Nuttah,Dictator Alert
-8961DB,A6RJ1,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,,Dictator Alert
-8961DC,A6RJ2,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,,Dictator Alert
-89605A,A6HRS,Dubai Air Wing,Boeing 737NG7E0BBJ,Gov,Dictator Alert,,Dictator Alert
-896103,A6HEH,Dubai Air Wing,Boeing 737NG8AJBBJ2,Gov,Dictator Alert,,Dictator Alert
-89615A,A6MRS,Dubai Air Wing,Boeing 737NG8E0BBJ2,Gov,Dictator Alert,,Dictator Alert
-89607A,A6MRM,Dubai Air Wing,Boeing 737NG8ECBBJ2,Gov,Dictator Alert,,Dictator Alert
-896430,A6FZZ,Dubai Air Wing,Boeing 737NG8KNWBBJ2,Gov,Dictator Alert,,Dictator Alert
-896272,A6GGP,Dubai Air Wing,Boeing 747412F,Gov,Dictator Alert,,Dictator Alert
-8960B4,A6HRM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,,Dictator Alert
-8960AE,A6MMM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,,Dictator Alert
-8961B4,A6COM,Dubai Air Wing,Boeing 747433SCD,Gov,Dictator Alert,,Dictator Alert
-89652F,A6-HHH,Dubai Air Wing,Gulfstream Aerospace G650,Mil,Dictator Alert,Bizjet,Dictator Alert
-896438,A6HHH,Dubai Air Wing,Gulfstream G650,Gov,Dictator Alert,,Dictator Alert
-0428DD,3C-LLX,Ebony Shine International,Gulfstream Aerospace GV,Gov,Dictator Alert,,Dictator Alert
-896302,A6CJE,Emirates Airline,Airbus ACJ319115,Gov,Dictator Alert,,Dictator Alert
-4850BE,P4RMA,Gen Haftar Libya private lease,Mystere Falcon 900,Gov,Dictator Alert,,Dictator Alert
-485920,PHGOV,Gov of NL Royal Fam Jet,Boeing 737600BBJ,Gov,Dictator Alert,,Dictator Alert
-40013D,VP-BAT,Goverment of Qatar,Boeing 747SP-21,Gov,Dictator Alert,,Dictator Alert
-0A402D,7TVPP,Government of Algeria,Airbus A340541,Gov,Dictator Alert,,Dictator Alert
-0A404C,7TVPE,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,,Dictator Alert
-0A404D,7TVPF,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,,Dictator Alert
-0A4009,7TVPC,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
-0A400A,7TVPM,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
-0A4005,7TVPR,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
-0A4006,7TVPS,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
-0A400B,7TVPG,Government of Algeria,Gulfstream Aerospace GV,Gov,Dictator Alert,,Dictator Alert
-0900B5,D2-EEB,Government of Angola,Bombardier Dash 8-Q402,Gov,Dictator Alert,,Dictator Alert
-090088,D2-ANG,Government of Angola,Bombardier Global Express XRS,Gov,Dictator Alert,,Dictator Alert
-600BC0,4K-AI08,Government of Azerbaijan,Airbus A340ACJ642X,Gov,Dictator Alert,,Dictator Alert
-600BE8,4K-AI01,Government of Azerbaijan,Boeing 76732LER,Gov,Dictator Alert,,Dictator Alert
-51002B,EW-001PA,Government of Belarus,Boeing 737NG8EVWBBJ2,Gov,Dictator Alert,,Dictator Alert
-51005E,EW-001PB,Government of Belarus,Boeing 76732KER,Gov,Dictator Alert,,Dictator Alert
-510001,EW-85815,Government of Belarus,Tupolev Tu-154M,Gov,Dictator Alert,,Dictator Alert
-034002,TJ-AAW,Government of Cameroon,Gulfstream III,Gov,Dictator Alert,,Dictator Alert
-084006,TT-ABE,Government of Chad,ATR 42-300,Gov,Dictator Alert,,Dictator Alert
-084F00,TT-ABC,Government of Chad,Mc Donnell Douglas DC-987,Gov,Dictator Alert,,Dictator Alert
-08CE96,9Q-CLK,Government of Democratic Republic of Congo,Boeing 707-138B,Gov,Dictator Alert,,Dictator Alert
-08CBCB,9Q-CDC,Government of Democratic Republic of Congo,Boeing 727-30,Gov,Dictator Alert,,Dictator Alert
-08CBAB,9Q-CGC,Government of Democratic Republic of Congo,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
-04200A,3C-EGE,Government of Equatorial Guinea,Boeing 737NG7FBBBJW,Gov,Dictator Alert,,Dictator Alert
-042001,3C-ONM,Government of Equatorial Guinea,Dassault Falcon 900B,Gov,Dictator Alert,,Dictator Alert
-89624B,A6HMS,Government of Fujairah,Airbus A320232,Gov,Dictator Alert,,Dictator Alert
-03E00A,TR-KPR,Government of Gabon,Boeing 777-236,Gov,Dictator Alert,,Dictator Alert
-03E003,TR-LEX,Government of Gabon,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
-03E004,TR-KSP,Government of Gabon,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,,Dictator Alert
-03E015,TR-KGM,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
-03E004,TR-KSP,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,,Dictator Alert
-09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,Gov,Dictator Alert,,Dictator Alert
-09A01B,C5-GAF,Government of Gambia,Boeing 727-95,Gov,Dictator Alert,,Dictator Alert
+A9B67C,N725DT,DT Endeavour,Cessna750,Civ,Orange Danger,Original Nuttah,Dictator Alert
+8961DB,A6RJ1,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+8961DC,A6RJ2,Dubai Air Wing,Avro 146RJ85,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+89605A,A6HRS,Dubai Air Wing,Boeing 737NG7E0BBJ,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+896103,A6HEH,Dubai Air Wing,Boeing 737NG8AJBBJ2,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+89615A,A6MRS,Dubai Air Wing,Boeing 737NG8E0BBJ2,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+89607A,A6MRM,Dubai Air Wing,Boeing 737NG8ECBBJ2,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+896430,A6FZZ,Dubai Air Wing,Boeing 737NG8KNWBBJ2,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+896272,A6GGP,Dubai Air Wing,Boeing 747412F,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+8960B4,A6HRM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+8960AE,A6MMM,Dubai Air Wing,Boeing 747422,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+8961B4,A6COM,Dubai Air Wing,Boeing 747433SCD,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+89652F,A6-HHH,Dubai Air Wing,Gulfstream G650,Mil,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+896438,A6HHH,Dubai Air Wing,Gulfstream G650,Gov,Dictator Alert,Rashid Al Maktoum,Dictator Alert
+0428DD,3C-LLX,Ebony Shine International (Equatorial Guinea),Gulfstream G-V,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+896302,A6CJE,Emirates Airline,Airbus ACJ319115,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert
+4850BE,P4RMA,Gen Haftar (Libya),Mystere Falcon 900,Gov,Dictator Alert,,Dictator Alert
+40013D,VP-BAT,Goverment of Qatar,Boeing 747SP-21,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+0A402D,7TVPP,Government of Algeria,Airbus A340541,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A404C,7TVPE,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A404D,7TVPF,Government of Algeria,Avionsde Transport Regional ATR72600,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A4009,7TVPC,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A400A,7TVPM,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A4005,7TVPR,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A4006,7TVPS,Government of Algeria,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0A400B,7TVPG,Government of Algeria,Gulfstream G-V,Gov,Dictator Alert,Abdelmadjid Tebboune,Dictator Alert
+0900B5,D2-EEB,Government of Angola,Bombardier Dash 8-Q402,Gov,Dictator Alert,Agostinho Neto,Dictator Alert
+090088,D2-ANG,Government of Angola,Bombardier Global Express XRS,Gov,Dictator Alert,Agostinho Neto,Dictator Alert
+600801,4K-8888,Government of Azerbaijan,Airbus A319-115(CJ),Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+600BC0,4K-AI08,Government of Azerbaijan,Airbus A340ACJ642X,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+600BE8,4K-AI01,Government of Azerbaijan,Boeing 76732LER,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+51002B,EW-001PA,Government of Belarus,Boeing 737NG8EVWBBJ2,Gov,Dictator Alert,Alexander Lukashenko,Dictator Alert
+51005E,EW-001PB,Government of Belarus,Boeing 76732KER,Gov,Dictator Alert,Alexander Lukashenko,Dictator Alert
+510001,EW-85815,Government of Belarus,Tupolev Tu-154M,Gov,Dictator Alert,Alexander Lukashenko,Dictator Alert
+034002,TJ-AAW,Government of Cameroon,Gulfstream III,Gov,Dictator Alert,Paul Biya,Dictator Alert
+084006,TT-ABE,Government of Chad,ATR 42-300,Gov,Dictator Alert,Idriss Déby,Dictator Alert
+084F00,TT-ABC,Government of Chad,Mc Donnell Douglas DC-987,Gov,Dictator Alert,Idriss Déby,Dictator Alert
+08CE96,9Q-CLK,Government of Democratic Republic of Congo,Boeing 707-138B,Gov,Dictator Alert,Félix Tshisekedi,Dictator Alert
+08CBCB,9Q-CDC,Government of Democratic Republic of Congo,Boeing 727-30,Gov,Dictator Alert,Félix Tshisekedi,Dictator Alert
+08CBAB,9Q-CGC,Government of Democratic Republic of Congo,Gulfstream IV,Gov,Dictator Alert,Félix Tshisekedi,Dictator Alert
+04200A,3C-EGE,Government of Equatorial Guinea,Boeing 737NG7FBBBJW,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+042001,3C-ONM,Government of Equatorial Guinea,Dassault Falcon 900B,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+89624B,A6HMS,Government of Fujairah,Airbus A320232,Gov,Dictator Alert,Mohammed Al Sharqi,Dictator Alert
+03E00A,TR-KPR,Government of Gabon,Boeing 777-236,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
+03E003,TR-LEX,Government of Gabon,Dassault Falcon 900EX,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
+03E004,TR-KSP,Government of Gabon,Gulfstream Aerospace GIVSP,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
+03E015,TR-KGM,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
+03E004,TR-KSP,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
+09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,Gov,Dictator Alert,Adama Barrow,Dictator Alert
+09A01B,C5-GAF,Government of Gambia,Boeing 727-95,Gov,Dictator Alert,Adama Barrow,Dictator Alert
 73040,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Ali Khamenei,Dictator Alert
-424918,VQ-BDD,Government of Jordan,Airbus A318-112(CJ) Elite,Gov,Dictator Alert,,Dictator Alert
-4243E4,VQ-BMZ,Government of Jordan,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-6830ED,UPA3001,Government of Kazakhstan,Airbus A330243,Gov,Dictator Alert,,Dictator Alert
-6830A5,UPA2001,Government of Kazakhstan,Airbus ACJ320214X,Gov,Dictator Alert,,Dictator Alert
-683037,UPB5701,Government of Kazakhstan,Boeing 7572M6,Gov,Dictator Alert,,Dictator Alert
+424918,VQ-BDD,Government of Jordan,Airbus A318-112(CJ) Elite,Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert
+4243E4,VQ-BMZ,Government of Jordan,Gulfstream G650,Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert
+6830ED,UPA3001,Government of Kazakhstan,Airbus A330243,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert
+6830A5,UPA2001,Government of Kazakhstan,Airbus ACJ320214X,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert
+683037,UPB5701,Government of Kazakhstan,Boeing 7572M6,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert
 706024,9K-AKD,Government of Kuwait,Airbus A320212,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 70604A,9K-GBB,Government of Kuwait,Airbus A340542,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 706047,9K-GEA,Government of Kuwait,Airbus ACJ319115X,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 70604C,9K-GCC,Government of Kuwait,Boeing 737NG9BQBBJ3,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 70604B,9K-GAA,Government of Kuwait,Boeing 7478JKBBJ,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-706048,9K-GFA,Government of Kuwait,Gulfstream Aerospace G550,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-706203,9K-GGA,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-706053,9K-GGB,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-706054,9K-GGC,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-706055,9K-GGD,Government of Kuwait,Gulfstream Aerospace G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 70601E,9K-AJD,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 70601F,9K-AJE,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
 706020,9K-AJF,Government of Kuwait,Gulfstream G-V,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
-018021,5A-ONE,Government of Libya,Airbus A340 213,Gov,Dictator Alert,,Dictator Alert
-018019,5A-DCN,Government of Libya,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
-062F2E,5UGRN,Government of Niger,Boeing 737NG75UWBBJ,Gov,Dictator Alert,,Dictator Alert
-06A00F,A7AAG,Government of Qatar,A320-232,Gov,Dictator Alert,,Dictator Alert
+706048,9K-GFA,Government of Kuwait,Gulfstream G550,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706203,9K-GGA,Government of Kuwait,Gulfstream G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706053,9K-GGB,Government of Kuwait,Gulfstream G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706054,9K-GGC,Government of Kuwait,Gulfstream G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+706055,9K-GGD,Government of Kuwait,Gulfstream G650,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,Dictator Alert
+018021,5A-ONE,Government of Libya,Airbus A340 213,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Dictator Alert
+018019,5A-DCN,Government of Libya,Dassault Falcon 900EX,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Dictator Alert
+062F2E,5UGRN,Government of Niger,Boeing 737NG75UWBBJ,Gov,Dictator Alert,Mahamadou Issoufou,Dictator Alert
+06A00F,A7AAG,Government of Qatar,A320-232,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
 710334,HZ-HMS2,Government of Saudi Arabia,Airbus A340-213X,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710321,HZ-HM1A,Government of Saudi Arabia,Boeing 747-3G1,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710333,HZ-HM1,Government of Saudi Arabia,Boeing 747-468,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710322,HZ-HM1B,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710336,HZ-HM1C,Government of Saudi Arabia,Boeing 747SP-68,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 71032C,HZ-HMED,Government of Saudi Arabia,Boeing 757-23A,Gov,M*A*S*H,Mohammed bin Salman,Dictator Alert
-39AE68,FHLTI,Government of Togo,Dassault Falcon 7X,Gov,Dictator Alert,,Dictator Alert
-088005,5VTAI,Government of Togo,Fokker F28 1000,Gov,Dictator Alert,,Dictator Alert
-60185A,EZA007,Government of Turkmenistan,Boeing 737NG7GLW,Gov,Dictator Alert,,Dictator Alert
-601861,EZA777,Government of Turkmenistan,Boeing 77722KLR,Gov,Dictator Alert,,Dictator Alert
-60183E,EZB024,Government of Turkmenistan,Bombardier Challenger870,Gov,Dictator Alert,,Dictator Alert
-042003,3C-LGE,Guinea Ecuatorial Aire Lines SA,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
-042819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),Gov,Dictator Alert,,Dictator Alert
+39AE68,FHLTI,Government of Togo,Dassault Falcon 7X,Gov,Dictator Alert,Faure Gnassingbé,Dictator Alert
+088005,5VTAI,Government of Togo,Fokker F28 1000,Gov,Dictator Alert,Faure Gnassingbé,Dictator Alert
+60185A,EZA007,Government of Turkmenistan,Boeing 737NG7GLW,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,Dictator Alert
+601861,EZA777,Government of Turkmenistan,Boeing 77722KLR,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,Dictator Alert
+60183E,EZB024,Government of Turkmenistan,Bombardier Challenger 870,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,Dictator Alert
+042003,3C-LGE,Guinea Ecuatorial Aire Lines SA,Dassault Falcon 50,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
+042819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert
 7101E4,HZ-WBT5,HRH Prince Awaleed Bin Talal,British Aerospace BAe 125-800A,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-6831ED,74008,Kazakhstan Border Guards,Antonov An-74TK-200,Gov,Dictator Alert,,Dictator Alert
+6831ED,74008,Kazakhstan Border Guards,Antonov An-74TK-200,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert
 7101F1,HZ-WBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,Gov,Dictator Alert,,Dictator Alert
+01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Dictator Alert
 155BEA,RA-89066,MChS Rossii,Sukhoi Superjet 100-95B,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
 155BEB,RA-89067,MChS Rossii,Sukhoi Superjet 100-95LR,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
 730543,EP-AJC,Meraj Airlines,Airbus A320-232,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
 730400,EP-AGB,Meraj Airlines,Airbus A321-231,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
 730541,EP-AJA,Meraj Airlines,Airbus A340-313,Gov,Dictator Alert,Ali Khamenei,Dictator Alert
-484362,P4KAZ,Mint Juleps Investments,Boeing 737NG7EJWBBJ,Gov,Dictator Alert,,Dictator Alert
+484362,P4-KAZ,Mint Juleps Investments (Azerbajan),Boeing 737NG7EJWBBJ,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
 70C057,A4OAA,Oman Royal Flight,Airbus A320232,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
 70C0BA,A4OAJ,Oman Royal Flight,Airbus ACJ319133X,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
 70C04D,A4OOMN,Oman Royal Flight,Boeing 747430,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
 70C0B7,A4OHMS,Oman Royal Flight,Boeing 7478H0BBJ,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
 70C020,A4OSO,Oman Royal Flight,Boeing 747SP27,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
-70C0B3,A4OAD,Oman Royal Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
-70C0B4,A4OAE,Oman Royal Flight,Gulfstream Aerospace G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
-AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,,Dictator Alert
-0D8181,YV2763,Petroleos de Venezuela SA,Beech1900D,Gov,Dictator Alert,,Dictator Alert
-0D819B,YV2865,Petroleos De Venezuela SA,Beech1900D,Gov,Dictator Alert,,Dictator Alert
-0D8106,YV1118,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
-0D80FF,YV2565,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
-0D8163,YV2716,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
-0D8169,YV2734,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
-0D8173,YV2738,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,,Dictator Alert
-0D8100,YV2567,Petroleos de Venezuela SA,Bombardier Learjet 45XR,Gov,Dictator Alert,,Dictator Alert
-0D809F,YV2040,Petroleos de Venezuela SA,Dassault Aviation Falcon 900B,Gov,Dictator Alert,,Dictator Alert
-0D80EE,YV1128,Petroleos de Venezuela SA,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
-0D8167,YV2726,Petroleos de Venezuela SA,Dassault Falcon 900B,Gov,Dictator Alert,,Dictator Alert
-0D80E9,YV2485,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
-0D80EC,YV2486,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,,Dictator Alert
-0D82E8,YV3360,Petroleos de Venezuela SA,Falcon 2000EX,Gov,Dictator Alert,,Dictator Alert
-06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,,Dictator Alert
-06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
-06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,,Dictator Alert
-06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,,Dictator Alert
-06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,,Dictator Alert
-06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,,Dictator Alert
-06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319-115X,Gov,Dictator Alert,,Dictator Alert
-06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319-133LR,Gov,Dictator Alert,,Dictator Alert
-06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,,Dictator Alert
-06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,,Dictator Alert
-06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,,Dictator Alert
-06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
-06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,,Dictator Alert
-06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,,Dictator Alert
+70C0B3,A4OAD,Oman Royal Flight,Gulfstream G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+70C0B4,A4OAE,Oman Royal Flight,Gulfstream G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert
+AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8181,YV2763,Petroleos de Venezuela SA,Beech1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D819B,YV2865,Petroleos De Venezuela SA,Beech1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8106,YV1118,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D80FF,YV2565,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8163,YV2716,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8169,YV2734,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8173,YV2738,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8100,YV2567,Petroleos de Venezuela SA,Bombardier Learjet 45XR,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D809F,YV2040,Petroleos de Venezuela SA,Dassault Aviation Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D80EE,YV1128,Petroleos de Venezuela SA,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8167,YV2726,Petroleos de Venezuela SA,Dassault Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D80E9,YV2485,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D80EC,YV2486,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D82E8,YV3360,Petroleos de Venezuela SA,Falcon 2000EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+09A042,C5NBB,Private (Gambia),Canadair CL-600-2B16 Challenger 601-3A,Gov,Dictator Alert,Adama Barrow,Dictator Alert
+06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A021,A7HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A001,A7HHK,Qatar Amiri Flight,Airbus A340211,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A0D6,A7MHH,Qatar Amiri Flight,Airbus ACJ319-115X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A0A3,A7MED,Qatar Amiri Flight,Airbus ACJ319-133LR,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
+06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10 Global Express,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert
 14F114,RA-61716,Russia State Transport Company,Antonov An-148100EA,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
 14F118,RA-61720,Russia State Transport Company,Antonov An-148100EA,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
 15770C,RA-96012,Russia State Transport Company,Ilyushin IL-96300,Gov,Dictator Alert,Vladimir Putin,Dictator Alert
@@ -279,27 +278,27 @@ AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,,Dictator
 7101E3,HZ-MF2,Saudi Ministry of Finance,Boeing 737-NG7AJWBBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710100,HZ-MF1,Saudi Ministry of Finance,Boeing 737-NG7FGWBBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 71022B,HZ-MF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,,Dictator Alert
+A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 710195,HZ-MF7,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 71019B,HZ-MF8,Saudi Ministry of Finance,Boeing 787-8BBJ,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-7101E7,HZ-MF3,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream Aerospace G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101E7,HZ-MF3,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
+7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
 71002D,HZ-SK1,Saudi Private FLITE Charters,Gulfstream Aerospace G4SP,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert
-0D80A4,YV1129,Servicio Autonomo de Coordinacion de Transporte Aereo,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
-896063,A6ESH,Sharjah Rulers Flight,Airbus ACJ319132,Gov,Dictator Alert,,Dictator Alert
-896436,A6SHJ,Sharjah Rulers Flight,Airbus ACJ320232XSL,Gov,Dictator Alert,,Dictator Alert
-51100D,STPRM,Sudanese Police Air Wing,Antonov An-72100D,Gov,Dictator Alert,,Dictator Alert
-600B78,4K-AZ888,SW Business Aviation,Gulfstream Aerospace G450,Gov,Dictator Alert,,Dictator Alert
-600806,4K-AI06,SW Business Aviation,Gulfstream Aerospace G550,Gov,Dictator Alert,,Dictator Alert
-600BC4,4K-AI88,SW Business Aviation,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-424238,VP-BBF,SW Business Aviation,Gulfstream Aerospace G650,Gov,Dictator Alert,,Dictator Alert
-778561,YKAKA,Syrianair,Airbus A320-232,Gov,Dictator Alert,,Dictator Alert
-3CE2D2,YV3083,Venezuela Air Force,Dornier D228,Gov,Dictator Alert,,Dictator Alert
-3CC011,YV3000,Venezuela Air Force,Dornier228NG,Gov,Dictator Alert,,Dictator Alert
-0D8032,207,Venezuelan Air Force,Boeing 737-200,Gov,Dictator Alert,,Dictator Alert
-0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,Gov,Dictator Alert,,Dictator Alert
-424565,VQ-BSK,Worldwide Aircraft Holding Company,Boeing 747-8ZV (BBJ),Gov,Dictator Alert,,Dictator Alert
+0D80A4,YV1129,Servicio Autonomo de Coordinacion de Transporte Aereo,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+896063,A6ESH,Sharjah Rulers Flight,Airbus ACJ319132,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert
+896436,A6SHJ,Sharjah Rulers Flight,Airbus ACJ320232XSL,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert
+51100D,STPRM,Sudanese Police Air Wing,Antonov An-72100D,Gov,Dictator Alert,Sovereignty Council,Dictator Alert
+600B78,4K-AZ888,SW Business Aviation (Azerbajan),Gulfstream G450,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+600806,4K-AI06,SW Business Aviation (Azerbajan),Gulfstream G550,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+600BC4,4K-AI88,SW Business Aviation (Azerbajan),Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+424238,VP-BBF,SW Business Aviation (Azerbajan),Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert
+778561,YKAKA,Syrianair,Airbus A320-232,Gov,Dictator Alert,Bashar al-Assad,Dictator Alert
+3CE2D2,YV3083,Venezuela Air Force,Dornier D228,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+3CC011,YV3000,Venezuela Air Force,Dornier228NG,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8032,207,Venezuelan Air Force,Boeing 737-200,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert
+424565,VQ-BSK,Worldwide Aircraft Holding (Turkey),Boeing 747-8ZV (BBJ),Gov,Dictator Alert,Recep Tayyip Erdoğan,Dictator Alert
 4069E7,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive
 406C5D,G-OSRB,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive
 394A60,F-GSTA,Airbus Transport International,A300 B4-608ST Beluga,Civ,Absolute Unit,How Does It Fly,Distinctive
@@ -442,6 +441,31 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3FAA8A,85+10,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
 3FAA8C,85+12,German Air Force,CH-53GS Stallion,Mil,Luftwaffe,Chopper,GAF
 3F8ED6,12+03,German Air Force,CL-600-2A12 Challenger 601,Mil,Luftwaffe,VIP,GAF
+3F8F06,30+06,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0B,30+11,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0C,30+12,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F0F,30+15,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F17,30+23,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F19,30+25,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F1C,30+28,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3EB4FA,30+30,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F21,30+33,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F28,30+40,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F7AB3,30+68,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3EA836,30+75,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F5B0F,30+84,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F5C84,31+04,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8D6C,31+05,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3E9335,3X+XX,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3FB107,98+07,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF
+3F8F03,30+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3F8F0A,30+10,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3F8F0E,30+14,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3F8F14,30+20,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3F8F18,30+24,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3F8F1B,30+27,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3E936C,30+35,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
+3FB103,98+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF
 3FB101,99+01,German Air Force,EuroHawk RQ-4B,Mil,UAV,Eye in the sky,GAF
 40491E,G-STCH,German Air Force,FIESELER F156A-1 Storch,Mil,History,I am old,GAF
 3E87C9,43+29,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF
@@ -604,33 +628,9 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3F998A,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
 3F998C,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
 3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
-3F8F06,30+06,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F0B,30+11,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F0C,30+12,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F0F,30+15,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F17,30+23,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F19,30+25,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F1C,30+28,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3EB4FA,30+30,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F21,30+33,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F28,30+40,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F7AB3,30+68,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3EA836,30+75,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F5B0F,30+84,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F5C84,31+04,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8D6C,31+05,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3E9335,3X+XX,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3FB107,98+07,German Air Force,Typhoon,Mil,Zoomies,Danger Zone,GAF
-3F8F03,30+03,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3F8F0A,30+10,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3F8F0E,30+14,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3F8F14,30+20,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3F8F18,30+24,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3F8F1B,30+27,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3E936C,30+35,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
-3FB103,98+03,German Air Force,Typhoon T,Mil,Zoomies,Danger Zone,GAF
 3FA360,70+96,German Air Force,UH-1D Iroquois,Mil,Luftwaffe,Chopper,GAF
 3F9935,50+53,German Air Force,VFW Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF
+485920,PHGOV,Gov of NL Royal Fam Jet,Boeing 737600BBJ,Gov,Foutje Bedankt,Bizjet,Governments
 010058,SU-BNP,Government of Egypt,Gulfstream Aerospace GIV SP,Gov,Government,,Governments
 505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,,Governments
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Mil,Government,Boris,Governments
@@ -654,10 +654,10 @@ A3026F,N293UP,United Parcel Service (UPS),MD11,Civ,You Came Here In That Thing,F
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H
 C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H
-406B4D,G-NIAA,Northern Ireland Air Ambulance,Beech King Air B200,Civ,M*A*S*H,Air Ambo,M*A*S*H
-7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream Aerospace G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H
-7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
-7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream Aerospace GV,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+406B4D,G-NIAA,Northern Ireland Air Ambulance,Beechcraft King Air B200,Civ,M*A*S*H,Air Ambo,M*A*S*H
+7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream G-V,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream G-V,Gov,M*A*S*H,Dictator Alert,M*A*S*H
+7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H
 710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H
 4043F8,G-SASR,Specialist Aviation Services Ltd,MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
 4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,M*A*S*H,Air Ambo,M*A*S*H
@@ -731,7 +731,7 @@ ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Spe
 4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,Mil,Luck of the Irish,,Other Air Forces
 4CA1E9,262,Irish Air Corps,Pilatus PC-9M,Mil,Luck of the Irish,,Other Air Forces
 4CA41D,282,Irish Air Corps,Pilatus PC-XII Spectre,Mil,Luck of the Irish,,Other Air Forces
-A70773,N552GD,Israeli Air Force,Gulfstream Aerospace G550,Mil,Ooh Get You,Bizjet,Other Air Forces
+A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air Forces
 706217,KAF342,Kuwait Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces
 7061F5,KAF326,Kuwait Air Force,Lockheed KC-130J Hercules,Mil,Wrong Turn At Albuquerque,You Lost Mate,Other Air Forces
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,,Other Air Forces
@@ -925,7 +925,7 @@ AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justic
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service
 405EC4,G-DOSC,Acrobat Ltd,Diamond Aircraft Twin Star DA42MPP,Gov,Eye In The Sky,Covert,Under Observation
-4012A1,G-VALK,ALTO Aerospace Ltd,Beech King Air B200,Gov,U Wot m8,,Under Observation
+4012A1,G-VALK,ALTO Aerospace Ltd,Beechcraft King Air B200,Gov,U Wot m8,,Under Observation
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,Britten-Norman Defender 4000 BN-2T-4R,Civ,Specialist,,Under Observation
 407757,G-OUEG,Catreus,Bombardier Global 6000,Civ,U Wot m8,,Under Observation
 406EEC,G-RSXP,Catreus,Textron Aviation Citation XLS+,Civ,U Wot m8,,Under Observation
