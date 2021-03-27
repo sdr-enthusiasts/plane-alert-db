@@ -128,6 +128,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Historic Aircraft Flight Trust
 - Low volume Airliners / Special Models
 - Multinational MRTT Fleet
+- Fly Navy Heritage Trust
 
 Any other idea's welcome.
 
