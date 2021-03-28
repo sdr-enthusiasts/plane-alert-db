@@ -109,7 +109,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - GAMA Avaiation (ex RAF spy planes)
 - Flying Hospitals (eye Hospital ?)
 - UK Coast Guard
-- Other Coast Guards
+- Other Coast Guards (e.g. USCG)
 - Air Ambulances (Wikipedia List)
 - Big Russian Helis
 - Kamov KA32's
