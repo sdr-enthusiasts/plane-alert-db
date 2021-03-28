@@ -130,6 +130,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Multinational MRTT Fleet
 - Fly Navy Heritage Trust
 - Football Teams and other sporting organisations
+- Beechcraft RC-12 Guardrail
 
 Any other idea's welcome.
 
