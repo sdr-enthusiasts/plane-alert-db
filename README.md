@@ -49,7 +49,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Dictator Alert \- People of potentially questionable morals and values (206)
 - Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (25)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (17)
-- Football  \- Actual, Aussie Rules or American,. We don't descriminate. (1)
+- Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (289)
 - Governments \- Aircraft registired to Governments (4)
 - Historic \- It's older than I am, and most likely has a prop. (7)
