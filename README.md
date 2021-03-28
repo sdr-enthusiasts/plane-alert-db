@@ -28,7 +28,7 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **1195** unique aircraft in **36** different categories.
+The list contains **1243** unique aircraft in **36** different categories.
 
 - [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircaft, with tags and categories.
 - [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
