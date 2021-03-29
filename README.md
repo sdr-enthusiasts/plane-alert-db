@@ -51,7 +51,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (17)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (289)
-- Governments \- Aircraft registired to Governments (4)
+- Governments \- Aircraft registered to Governments (4)
 - Historic \- It's older than I am, and most likely has a prop. (7)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (1)
 - Just Because \- I don't know why I like you, but I do. (7)
@@ -59,6 +59,8 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (37)
 - Must be nice \- Billionaires, not millionaires, daaaahling (0)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
+- Orange Danger \- America's Orange president, 2016-2020
+- Original Nuttah \- ?
 - Other Air Forces \- Air Force aircraft that are not RAF or USAF (49)
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (10)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (4)
@@ -67,6 +69,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
 - Royal Navy \- Aircraft of the Royal Navy (2)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (86)
+- U Wot m8 \- ?
 - UAV \- It's not natural, I tell 'ya (1)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
 - Under Observation \- Up to something dodgy, maybe (30)
