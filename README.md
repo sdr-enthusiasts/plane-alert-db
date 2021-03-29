@@ -97,7 +97,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - List of DA42 / DA62 MPP Operators
 - Thales UK
 - Qinetiq
-- Survey / Mappiing Aircarft
+- Survey / Mapping Aircarft
 - Other sureveillance aircraft types
 - 750 Naval Air Squadron (Observers)
 - Cal Fire
