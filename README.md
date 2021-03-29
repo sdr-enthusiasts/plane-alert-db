@@ -11,7 +11,7 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 - "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
 - "#$"\- Don't show on the website, but tweet as a #hashtag
 
-in the eample above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
+in the example above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
 
 \*CMPG = Civilian, Military, Police, Government
 
@@ -30,9 +30,9 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 The list contains **1243** unique aircraft in **36** different categories.
 
-- [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircaft, with tags and categories.
+- [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags and categories.
 - [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
-- [dictator-alert.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/dictator-alert.txt) - A seperate list with only Dictators. These aircaft are also included in the main list.
+- [dictator-alert.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/dictator-alert.txt) - A seperate list with only Dictators. These aircraft are also included in the main list.
 
 
 # Description of Categories	   
@@ -49,9 +49,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Dictator Alert \- People of potentially questionable morals and values (206)
 - Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (25)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (17)
-- Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
+- Football  \- Actual, Aussie Rules or American. We don't discriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (289)
-- Governments \- Aircraft registired to Governments (4)
+- Governments \- Aircraft registered to Governments (4)
 - Historic \- It's older than I am, and most likely has a prop. (7)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (1)
 - Just Because \- I don't know why I like you, but I do. (7)
@@ -59,6 +59,8 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (37)
 - Must be nice \- Billionaires, not millionaires, daaaahling (0)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
+- Orange Danger \- America's Orange president, 2016-2020
+- Original Nuttah \- ?
 - Other Air Forces \- Air Force aircraft that are not RAF or USAF (49)
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (10)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (4)
@@ -67,6 +69,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
 - Royal Navy \- Aircraft of the Royal Navy (2)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (86)
+- U Wot m8 \- ?
 - UAV \- It's not natural, I tell 'ya (1)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
 - Under Observation \- Up to something dodgy, maybe (30)
@@ -97,8 +100,8 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - List of DA42 / DA62 MPP Operators
 - Thales UK
 - Qinetiq
-- Survey / Mappiing Aircarft
-- Other sureveillance aircraft types
+- Survey / Mapping Aircarft
+- Other surveillance aircraft types
 - 750 Naval Air Squadron (Observers)
 - Cal Fire
 - Coulson Aviation
