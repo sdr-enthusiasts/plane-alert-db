@@ -45,6 +45,7 @@ ACC647,N922H,Honeywell International Inc,Gulfstream G650,Civ,Bizjet,Ooh Get You,
 43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Bizjet,Digger,As seen on TV
 A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV
+A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,Civ,Bizjet,Not so VIP,As Seen on TV
 AC404F,N889LS,Las Vegas Sands Corp,Boeing 737-NG 73T/W BBJ,Civ,Bizjet,Ooh Get You,As Seen on TV
 4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,As seen on TV
@@ -93,6 +94,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute U
 406EE7,G-MCGY,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard
 406F2D,G-MCGZ,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard
 403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard
+AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coastguard
 508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
 50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade
 508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,Civ,Absolute Unit,Cool,Da Comrade
@@ -187,7 +189,7 @@ A9B67C,N725DT,DT Endeavour,Cessna 750,Civ,Orange Danger,Original Nuttah,Dictator
 03E015,TR-KGM,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert
 09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,Gov,Dictator Alert,Adama Barrow,Dictator Alert
 09A01B,C5-GAF,Government of Gambia,Boeing 727-95,Gov,Dictator Alert,Adama Barrow,Dictator Alert
-73040,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Ali Khamenei,Dictator Alert
+7304E1,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Ali Khamenei,Dictator Alert
 424918,VQ-BDD,Government of Jordan,Airbus ACJ319-115 (Elite),Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert
 4243E4,VQ-BMZ,Government of Jordan,Gulfstream G650,Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert
 6830ED,UPA3001,Government of Kazakhstan,Airbus A330-243,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert
@@ -326,7 +328,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 43C925,XE688,Hawker Hunter Aviation,Hawker Hunter T.72,Mil,Old,Fighter,Distinctive
 403AF7,G-BWGF,Horizon Flight Training,BAC Jet Provost T.5A,Civ,Old,Flying Rust Bucket,Distinctive
 A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,Civ,Cargo,Brrrrrrrrrrrrrrr,Distinctive
-406C65,G-JWMA ,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,Jump Johnny Jump,Distinctive
+406C65,G-JWMA,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,Jump Johnny Jump,Distinctive
 AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 AA0DB8,N747NA,NASA,Boeing 747-SP21,Mil,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 ACD5A1,N926NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All About That Wingspan,Distinctive
@@ -335,6 +337,7 @@ ACDD0F,N928NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,All About That Wing
 AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
 AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,I Thought You Was A Pilot Not An Astronaut,Distinctive
+38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,Civ,Vomit Comet,Pass The Sick Bag,Distinctive
 A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive
 AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Jesus He Knows Me,Old,Distinctive
 ADFDF8,828000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive
@@ -356,7 +359,7 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
 4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
 406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs
-43EA62,M-LCFC ,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football 
+43EA62,M-LCFC,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football 
 3F8517,10+23,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF
 3F8518,10+24,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF
 3F8519,10+25,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF
@@ -650,6 +653,11 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 010058,SU-BNP,Government of Egypt,Gulfstream GIVSP,Gov,Government,Must Be Nice,Governments
 505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Mil,Government,Boris,Governments
+ADFEB7,,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
+ADFEB8,,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
+ADFEB9,SAM432,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
+ADFEBA,SAM140,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
+A97316,N708JH,United States Department Of Justice (DOJ),Gulfstream G550,Gov,Bizjet,You Aint Seen Me Right,Governments
 40687C,G-SHWN,Boultbee Aviation,North American P-51D Mustang,Civ,War Bird,Shiny,Historic
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,Civ,Old,Speak Up Sonny,Historic
@@ -782,8 +790,23 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air
 706217,KAF342,Kuwait Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces
 7061F5,KAF326,Kuwait Air Force,Lockheed KC-130J Hercules,Mil,Wrong Turn At Albuquerque,You Lost Mate,Other Air Forces
 480C40,T-054,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Other Air Forces
+C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B37D,15005,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3B9,15003,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3C3,15004,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2AFC7,177702,Royal Canadian Air Force,Boeing CC-177 Globemaster III,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3D7,177701,Royal Canadian Air Force,Boeing CC-177 Globemaster III,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3EB,177703,Royal Canadian Air Force,Boeing CC-177 Globemaster III,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3F5,177704,Royal Canadian Air Force,Boeing CC-177 Globemaster III,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B3FF,177705,Royal Canadian Air Force,Boeing CC-177 Globemaster III,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,Mil,Bizjet,Must Be Nice,Other Air Forces
+C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,Must Be Nice,Other Air Forces
+C2B52B,130601,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B535,130602,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B571,130608,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B599,130612,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
+C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces
 480C01,NAF40,Royal Netherlands Air Force,Douglas DC-10 KDC-10,Mil,Fill Her Up,Tiger Tokens,Other Air Forces
 480C1A,NAF11,Royal Netherlands Air Force,Gulfstream IV,Mil,Bizjet,Must Be Nice,Other Air Forces
 480C06,G-988,Royal Netherlands Air Force,Lockheed C-130H Hercules,Mil,Chonky Boy,Foutje Bedankt,Other Air Forces
@@ -797,6 +820,9 @@ C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,Must Be Nic
 3B9BDF,3,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies
 3B9BFE,30,French Navy,Dassault Falcon 50,Mil,Vive La France,Bizjet,Other Navies
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Ooh La La,Other Navies
+481040,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies
+481041,N-088,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies
+48104F,N-318,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies
 3E0A3E,D-HVBQ,Bundespolizei,Eurocopter EC135 T2+,Pol,Freeze,Chopper,Police Forces
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Pol,Police Squad,Choppa,Police Forces
 3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Pol,Eye In The Sky,Police Squad,Police Forces
@@ -1136,31 +1162,319 @@ AE4EEC,22586,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here
 AE5409,21125,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,How Does It Fly,USAF
 AE571E,12-1964,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,How Does It Fly,You Came Here In That Thing,USAF
 AE640B,07-1933,United States Air Force,Bell/Boeing CV-22B Osprey,Mil,You Came Here In That Thing,How Does It Fly,USAF
+AE5870,BUSH11,United States Air Force,Boeing B-52H Stratofortress,Mil,BUFF,No Fighting This Is The War Room,USAF
+477FF2,BARTK99,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0676,RCH433,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0677,RCH153,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0679,RCH140,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE07CE,RCH806,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07D1,,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07D3,RCH870,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07D5,,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07D6,RCH467,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07D7,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07DD,RCH822,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07DF,RCH417,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07E4,RCH740,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07E7,RCH351,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07EF,RCH892,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07F0,,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07F4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07F6,RCH636,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07F8,RCH268,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07F9,RCH575,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07FA,RCH559,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07FD,RCH270,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07FE,RCH809,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE07FF,RCH558,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0800,RCH1815,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0802,RCH224,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0803,RCH832,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0804,RCH108,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0805,RCH152,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0806,RCH837,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0808,RCH925,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE080F,,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF
+AE0811,RCH894,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0812,RCH840,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0813,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0814,RCH936,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE0816,00-0180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE0817,RCH487,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE08BE,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE08CF,RCH148,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE08E3,RCH511,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10B5,RCH537,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10B6,RCH818,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10B7,RCH867,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10B8,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10BA,RCH319,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10BB,RCH180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10BC,RCH835,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10BD,RCH801,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10BF,RCH395,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE10C0,RCH106,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1170,RCH741,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1172,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1173,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1178,RCH832,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1179,RCH151,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE117A,02-1108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE117B,RCH826,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE117D,RCH834,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE117E,02-1112,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1197,RCH566,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1198,RCH264,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1199,RCH114,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE119A,RCH885,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE119B,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE119C,RCH155,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE119D,RCH110,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1234,RCH390,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1235,RCH251,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1236,RCH564,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1238,RCH136,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123A,RCH880,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123B,RCH554,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123C,RCH803,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123D,RCH557,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123E,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE123F,RCH374,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1241,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1242,RCH813,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1448,RCH107,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1449,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE144C,RCH234,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE144D,RCH300,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE144E,RCH180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1450,RCH839,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1451,RCH508,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1452,RCH502,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1454,RCH296,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1455,RCH101,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1456,RCH894,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1457,RCH372,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1458,RCH143,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE145B,RCH509,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE145C,RCH898,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE145E,RCH711,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE145F,RCH486,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1460,RCH170,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1462,RCH597,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1463,RCH884,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1464,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1465,RCH434,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1467,RCH275,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1468,RCH416,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1469,RCH200,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE146A,RCH204,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE146B,RCH253,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE146C,RCH455,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE146E,RCH410,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE146F,RCH181,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1471,RCH861,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE1472,RCH925,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C2,RCH1818,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C3,RCH1815,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C4,RCH890,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C5,RCH975,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C6,RCH895,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C7,RCH379,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C8,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE20C9,RCH260,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA3,RCH899,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA5,RCH212,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA6,RCH983,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA8,RCH810,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FA9,RCH595,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FAB,RCH891,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FAC,RCH257,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FAD,RCH801,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FAE,RCH166,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FAF,RCH979,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE2FB0,RCH500,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE49C2,,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE49C5,RCH982,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE49C6,RCH790,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE49C7,RCH415,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE49C8,RCH852,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4D66,RCH721,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4D67,RCH296,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4D68,RCH500,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4D69,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4D6A,RCH190,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4F12,RCH422,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4F13,RCH140,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4F15,RCH610,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE4F16,RCH537,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
+AE54B3,RCH420,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,USAF
+AE0446,,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,USAF
 AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,USAF
-AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Government,Specialist,USAF
-AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Government,Specialist,USAF
+AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE0945,,United States Air Force,Boeing C-40B,Mil,Government,Office In The Sky,USAF
 AE115D,01-2015,United States Air Force,Boeing C-40B,Mil,Government,Office In The Sky,USAF
-ADFEB4,73-1677,United States Air Force,Boeing E4b Nightwatch,Mil,Eye In The Sky,Its The End Of The World And I Know It,USAF
+AE11F6,SAM013,United States Air Force,Boeing C-40B,Mil,Government,Office In The Sky,USAF
+AE11F8,,United States Air Force,Boeing C-40B,Mil,Government,Office In The Sky,USAF
+AE1165,BOXER44,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE1167,,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE11FA,BOXER41,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE17EF,SPAR16,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE189A,,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE189C,,United States Air Force,Boeing C-40C,Mil,Bizjet,Cargo,USAF
+AE11D8,BROLLY3,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+B191D8,,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE1491,,United States Air Force,Boeing E-8C J-STARS,Mil,Quarterback,One Ping Only Vasily,USAF
+ADFEB4,73-1677,United States Air Force,Boeing E4B Nightwatch,Mil,Eye In The Sky,Its The End Of The World And I Know It,USAF
+ADFEB6,TITAN25,United States Air Force,Boeing E4B Nightwatch,Mil,Eye In The Sky,Its The End Of The World And I Know It,USAF
 AE040D,162782,United States Air Force,Boeing E6B Mercury,Mil,Specialist,Kung Fu Grip,USAF
+AC837E,QID23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0139,GOLD23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE013D,RCH792,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE013E,RCH790,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0140,RCH240,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0151,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0153,RCH898,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0237,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE023B,QID11,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0264,QID04,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE037E,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
 AE0388,61-0292,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF
+AE0390,QID659,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0471,RCH894,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE047A,RCH899,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE047F,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0480,BLUE22,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04B0,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04C5,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04E0,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04E1,CLEAN82,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04FB,QID101,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE04FE,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0532,RCH806,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0593,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0599,RCH807,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE059F,RCH845,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE05A7,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE05A8,QID935,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE05AC,RCH463,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE05B1,QID43,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE0629,SPUR81,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE064E,QID32,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
 AE0669,62-3540,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF
+AE0798,RCH799,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE07BF,RCH841,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE07C1,,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE07C2,RCH800,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF
+AE013C,QID23,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE0240,QID54,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE0425,,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE04C1,RCH899,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE04C6,RCH982,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE04F5,RCH800,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE0655,,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE0659,QID818,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF
+AE5BC8,RCH171,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Chonky Boy,USAF
+AE5E0B,RCH046,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Chonky Boy,USAF
+AE5E11,,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Chonky Boy,USAF
+AE5E13,RCH046,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Chonky Boy,USAF
 AE684E,168850,United States Air Force,Boeing Poseiden P8,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
+AE01C3,OLIVE55,United States Air Force,Boeing RC-135V Joint Rivet,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
 AE01CA,63-9792,United States Air Force,Boeing RC-135V Joint Rivet,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
 AE01CE,62-4134,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
+AE01CF,,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
 AE01D2,62-4125,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
 AE13E5,62-3582,United States Air Force,Boeing WC-135C,Mil,mmm Neutrons,Its The End Of The World And I Know It,USAF
-AE4D27,2593893,United States Air Force,Bombardier E-11A,Mil,Quarterback,Id Get That Seen Too,USAF
+AE4D27,2593893,United States Air Force,Bombardier E-11A,Mil,BACN,Quarterback,USAF
+AE4DE1,,United States Air Force,Bombardier E-11A,Mil,BACN,Quarterback,USAF
 AE0133,97-00102,United States Air Force,Cessna 560 Citation Ultra,Mil,You Aint Seen Me Right,Eye In The Sky,USAF
+AE68BB,12-3085,United States Air Force,Dornier C-146A,Mil,Private Airline,USAF,USAF
+ADFEAC,RCH596,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+ADFEAD,,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE01DD,,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE020D,BLUE41,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0216,GOLD75,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0217,RCH023,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE021C,RCH688,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE021D,RCH400,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE021E,RCH024,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE021F,RCH153,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0222,BLUE71,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0223,RCH733,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0225,RCH429,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0227,RCH620,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE022A,,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0233,RCH420,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE0234,TEAM56,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AE6A6D,RCH324,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF
+AF351F,F35LTNG,United States Air Force,F35 Lightning II,Mil,Fighter,Zoomies,USAF
+AE0193,VALOR11,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF
+AE01AE,FALCN63,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF
+AE01B0,VALOR42,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF
 AE01B9,84-0083,United States Air Force,Gates Learjet C-21A,Mil,Government,Bizjet,USAF
-AE0406,99-0402,United States Air Force,Gulfstream C-37A,Mil,Government,Bizjet,USAF
-AE0978,01-1976,United States Air Force,Gulfstream C-37A,Mil,Government,Bizjet,USAF
-AE206D,06-0500,United States Air Force,Gulfstream C-37B,Mil,Government,Bizjet,USAF
+AE010D,SAM951,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE010E,SAM326,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE0406,99-0402,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE04F9,SAM025,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE087F,,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE0978,01-1976,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE115E,SPAR99,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE206D,06-0500,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE4A81,SAM265,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE4DDD,SAM716,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE6961,,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE6962,,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE1389,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE138A,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE1441,RCH703,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE1442,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE1444,RCH537,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE1532,RCH101,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE1536,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE2208,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE4BDD,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE4E0F,RCH320,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE54C6,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE54CD,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE54D5,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE5963,STRIX67,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE5F0B,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE5F0D,RCH322,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE5F12,,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE6205,RCH709,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE055C,RCH202,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE055D,RCH681,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE055E,RCH874,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0560,,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0561,RCH895,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0562,RCH679,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0563,RCH558,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0564,RCH777,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
 AE0565,85-0008,United States Air Force,Lockheed C-5M Galaxy,Mil,Absolute Unit,Cargo,USAF
+AE0567,RCH887,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE056A,RCH801,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE056B,RCH495,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE056C,RCH809,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE056F,,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0575,RCH833,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0576,RCH615,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0577,RCH440,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0579,RCH888,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE057A,RCH802,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE057C,RCH702,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE057D,RCH529,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE057F,RCH165,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0580,RCH655,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0581,RCH613,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0582,RCH463,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0586,RCH303,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0587,RCH835,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0588,RCH743,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE0589,RCH695,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
+AE058A,RCH885,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF
 AE4E19,1399550,United States Air Force,Lockheed MC-130,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
 AE4BE6,1392915,United States Air Force,Lockheed MC-130J,Mil,Eye In The Sky,Chonky Boy,USAF
 AE0949,68-10329,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
@@ -1168,22 +1482,55 @@ AE094B,68-10336,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,A
 AE094C,68-10337,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF
 AE095E,80-1083,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF
 AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF
+AE2817,,United States Airforce,McDonnell Douglas F15C Eagle,Mil,Fighter,Zoomies,USAF
 AE58B5,11-00268,United States Army,Beechcraft Corp MC-12S Liberty,Mil,Eye In The Sky,You Aint Seen Me Right,USAF
 AE0405,97-01944,United States Army,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
 AE118A,02-01863,United States Army,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
-AE13D1,04-01778,United States Army,Gulfstream C-37B,Mil,Government,Bizjet,USAF
-AE1252,165836,United States Navy,Boeing C-40A,Mil,Government,Specialist,USAF
+AE13D1,04-01778,United States Army,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE1439,,United States Marine Corps,Cessna UC-35D Citation,Mil,USMC,Bizjet,USAF
+AE2F9B,,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE5B6B,,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE6043,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE6044,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF
+AE04D7,CNV4829,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE04DA,CNV4082,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE1252,165836,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE29FD,CNV4313,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
 AE29FE,166695,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
 AE4A60,166696,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
-AE5718,168980,United States Navy,Boeing C-40A,Mil,Government,Specialist,USAF
+AE5718,168980,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE5719,CNV6614,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE571A,CNV4124,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE638D,CNV4621,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE638E,CNV4843,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
+AE6790,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE679E,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE67AA,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE67BB,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE67E3,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE6805,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE683A,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE68A5,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE68A9,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+BA686F,,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,USAF
+AE01C1,CATBRD1,United States Navy,Gulfstream C-20G,Mil,Bizjet,Must Be Nice,USAF
+AE10C2,VV100,United States Navy,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF
+AE1258,,United States Navy,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+AE151A,VV377,United States Navy,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
+29CBB8,,United States Navy,Lockheed C-130T Hercules,Mil,Cargo,Absolute Unit,USAF
 AE03DE,164762,United States Navy,Lockheed C-130T Hercules,Mil,Absolute Unit,Cargo,USAF
+AE03E5,,United States Navy,Lockheed C-130T Hercules,Mil,Cargo,Absolute Unit,USAF
+AE03E6,CNV3362,United States Navy,Lockheed C-130T Hercules,Mil,Cargo,Absolute Unit,USAF
+AE03E9,,United States Navy,Lockheed C-130T Hercules,Mil,Cargo,Absolute Unit,USAF
+AE03ED,,United States Navy,Lockheed C-130T Hercules,Mil,Cargo,Absolute Unit,USAF
+AE03D5,CNV6722,United States Navy,Lockheed KC-130T-30 Hercules,Mil,Fill Her Up,Tiger Tokens,USAF
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,Mil,Eye In The Sky,U Wot m8,USAF
 AE04F4,84-0165,US Army,Beechcraft C-12F Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF
 AE0402,84-00157,US Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF
 AE04F2,84-00162,US Army,Beechcraft C-12U-3 Huron,Mil,USAF,Not so VIP,USAF
-AE04AB,99-00102,US Army,Cessna UC-35A Citation Ultra,Mil,USAF,VIP,USAF
+AE0136,97-00105,US Army,Cessna UC-35A Citation,Mil,USAF,Bizjet,USAF
+AE04AB,99-00102,US Army,Cessna UC-35A Citation,Mil,USAF,Bizjet,USAF
 AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF
-AE0136,97-00105,US Military,Cessna UC-35A Citation,Mil,USAF,VIP,USAF
 AE293B,07-8614,US Military,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,USAF
 43E9FE,M-AGIK,JMI Aviation Management Ltd,Dassault Falcon 900LX,Civ,Ooh Get You,How Does It Fly,Vanity Plate
 424BA9,M-NSTR,LS Aircraft Limited,Bombardier Global 7500,Civ,Bizjet,Ooh Get You,Vanity Plate
@@ -1191,6 +1538,7 @@ AE293B,07-8614,US Military,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,U
 43E9CD,M-KSSN,Osni Sawiris,Gulfstream G650,Civ,Bizjet,Vanity Plate,Vanity Plate
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Vanity Plate
 43EA85,M-RBIG,Volantair LP Inc,Bombardier Learjet 45,Civ,Culture Beat,Must Be Nice,Vanity Plate
+3D9963,D-GEIL,Private,Piper PA-34-220T Seneca V,Civ,Hot Hot Hot Hot,Vanity Plate,Vanity Plate
 4009E6,ZJ708,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 43C1E6,ZJ707,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 43C5FC,ZJ242,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly
