@@ -101,7 +101,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Thales UK
 - Qinetiq
 - Survey / Mapping Aircarft
-- Other sureveillance aircraft types
+- Other surveillance aircraft types
 - 750 Naval Air Squadron (Observers)
 - Cal Fire
 - Coulson Aviation
