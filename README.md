@@ -94,7 +94,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - UK Border Force
 - Shuttleworth Collection
 - Other Warbirds
-- List of DA42 / DA62 MPP Operators
+- List of DA42 MPP / DA62 MPP Operators
 - Thales UK
 - Qinetiq
 - Survey / Mapping Aircarft
@@ -135,6 +135,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Beechcraft RC-12 Guardrail
 - Aircraft operated by Comlux
 - Icelandic Coastguard
+- Meteorological research flights
 
 Any other idea's welcome.
 
