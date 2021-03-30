@@ -124,7 +124,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - United Nations
 - World Bank etc
 - Red Cross / MSF
-- Network Rail Helicopter(s)
+- <strike>Network Rail Helicopter(s)</strike>
 - Special Convertions e.g. Engine testbeds
 - Duxford and other historic flight collections
 - Historic Aircraft Flight Trust
