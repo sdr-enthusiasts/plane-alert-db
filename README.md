@@ -134,6 +134,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
 - Aircraft operated by Comlux
+- Icelandic Coastguard
 
 Any other idea's welcome.
 
