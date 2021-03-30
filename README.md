@@ -133,6 +133,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Fly Navy Heritage Trust
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
+- Aircraft operated by Comlux
 
 Any other idea's welcome.
 
