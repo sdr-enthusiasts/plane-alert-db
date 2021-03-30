@@ -136,6 +136,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Aircraft operated by Comlux
 - Icelandic Coastguard
 - Meteorological research flights
+- A10 Thunderbolt II
 
 Any other idea's welcome.
 
