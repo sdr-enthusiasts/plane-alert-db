@@ -39,7 +39,7 @@ The list contains **1639** unique aircraft in **37** different categories.
 
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
-- Aerobatic Teams \- Red Arrows, Blue Angels etc (22)
+- Aerobatic Teams \- Red Arrows, Blue Angels, etc (22)
 - Army Air Corp \- UK Army Air Corp. Mainly Helicopters (13)
 - As Seen on TV \- Companies and Brands (27)
 - Battle of Britiain Memorial Flight \- Historic British aircraft from WW2 (12)
@@ -142,6 +142,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - A10 Thunderbolt II
 - Film and Televison Companies
 - News Choppers
+- RCAF Snowbirds
+- RAAF Roulettes
 
 Any other idea's welcome.
 
