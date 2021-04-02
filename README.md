@@ -151,6 +151,10 @@ Any other idea's welcome.
 
 This data has been gathered from far too many sources to mention, but some sites have been *really* useful.
 
+https://whatisflying.com/en/database/aircraft-types
+
+https://github.com/jbroutier/whatisflying-db
+
 https://www.flightdb.net/index.php
 
 http://www.rotorspot.nl/
