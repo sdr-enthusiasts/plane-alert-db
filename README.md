@@ -1,7 +1,7 @@
 # plane-alert-db
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent https://github.com/kx1t/docker-planefence and takes the form 
 
-- ICAO,Ident,Operator,Type,CMPG,$Tag,#$Tag2,Category
+- ICAO,Ident,Operator,Type,CMPG,$Tag,$#Tag2,Category
 
 e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,M\*A\*S\*H 
 
@@ -9,7 +9,7 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 
 - "$" \- Tweet this column as #hashtag
 - "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
-- "#$"\- Don't show on the website, but tweet as a #hashtag
+- "$#"\- tweet as a #hashtag but don't show on the website
 
 in the example above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
 
