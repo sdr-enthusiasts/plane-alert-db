@@ -140,6 +140,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Icelandic Coastguard
 - Meteorological research flights
 - A10 Thunderbolt II
+- Film and Televison Companies
+- News Choppers
 
 Any other idea's welcome.
 
