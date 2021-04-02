@@ -97,7 +97,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute U
 406DDB,G-MCGJ,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard
 406EE7,G-MCGY,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard
 406F2D,G-MCGZ,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard
-G-MCGV,406DEB,HM Coastguard ,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard
+406DEB,G-MCGV,HM Coastguard ,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard
 403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard
 4CC468,TF-SIF,Icelandic Coast Guard,Bombardier DHC-8 314Q,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard
 AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coastguard
@@ -353,12 +353,14 @@ ADFDF9,929000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distin
 3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,Chopper,Dogs with Jobs
 300641,I-VICC,Aeronike ltd,Vulcanair P.68R,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs
 7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,Dogs with Jobs
+401387,G-TVHD,Arena Aviation,Eurocopter Twin Squirrel AS.355 NP,Civ,Is This My Good Side,Specialist,Dogs with Jobs
 45B5D3,OY-MNS,Bioflight,Vulcanair P.68C,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs
 A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,Dogs with Jobs
 400978,G-FPLD,Cobham Flight Inspection,Beechcraft King Air B200,Civ,Specialist,Measuring Stick,Dogs with Jobs
 3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs
 4071F8,G-DVOR,Flight Calibration Services,Diamond Aircraft DA62,Civ,Specialist,Measuring Stick,Dogs with Jobs
 4076F1,G-TACN,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs
+407908,G-VNAV,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs
 AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot Hot Hot,Dogs with Jobs
 40081A,G-LUXE,Meteorological Research Flight,BAe 146-301,Civ,Measuring Stick,Cool,Dogs with Jobs
 406897,G-RIDB,National Grid Electricity Transmission,Bell 429 Global Ranger,Civ,Wichita Lineman,Choppa,Dogs with Jobs
@@ -676,6 +678,10 @@ ADFEB7,TBC,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,G
 ADFEB8,TBC,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
 ADFEB9,SAM432,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
 ADFEBA,SAM140,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments
+AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,150th Special Operations Squadron,Covert,Governments
+AE0443,00-9001,United States Air Force,Boeing C-32B,Gov,CIA,State Dept,Governments
+AE0446,TBC,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,Governments
+AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,State Dept,Covert,Governments
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments
 40687C,G-SHWN,Boultbee Aviation,North American P-51D Mustang,Civ,War Bird,Shiny,Historic
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic
@@ -683,6 +689,7 @@ A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Gove
 43C32F,VR930,Fly Navy Heritage Trust,Sea Fury FB11,Civ,Old,Speak Up Sonny,Historic
 43C332,XP820,Historic Aircraft Flight Trust,DHC2 Beaver AL1,Civ,Old,Speak Up Sonny,Historic
 40155A,G-ARMC,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic
+40522C,G-CERD,Private,OGMA DHC-1 Chipmunk T.20,Civ,Jump Johnny Jump,Obrigado,Historic
 403D79,G-ILDA,Private,Supermarine Spitfire T.IX,Civ,War Bird,Speak Up Sonny,Historic
 4022B9,G-PRXI,Propshop,Supermarine Spitfire PR.XI,Civ,War Bird,Speak Up Sonny,Historic
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Jesus He Knows Me,Jesus he Knows me
@@ -694,10 +701,10 @@ C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Just Becaus
 A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because
 A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because
 4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H
-G-PICU,407386,Children's Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H
+407386,G-PICU,Children's Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H
 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
-G-CRWL,407933,Cornwall Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H
-G-CIOS,406B1E,Cornwall Air Ambulance Trust,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
+407933,G-CRWL,Cornwall Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H
+406B1E,G-CIOS,Cornwall Air Ambulance Trust,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H
 40793D,G-DAAS,Devon Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H
 407152,G-DSAA,Dorset and Somerset Air Ambulance,Leonardo AW169,Civ,M*A*S*H,Air Ambo,M*A*S*H
 3E167A,D-HZSC,DRF Luftrettung,Aerospatiale SA-365N2 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H
@@ -1342,9 +1349,6 @@ AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute
 AE4F15,RCH610,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE4F16,RCH537,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
 AE54B3,RCH420,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF
-AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,150th Special Operations Squadron,Covert,USAF
-AE0446,TBC,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,USAF
-AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,State Dept,Covert,USAF
 AE04D8,165830,United States Air Force,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
 AE503D,05-0730,United States Air Force,Boeing C-40A,Mil,Bizjet,Not A Bus,USAF
 AE0945,TBC,United States Air Force,Boeing C-40B,Mil,Government,Office In The Sky,USAF
@@ -1590,6 +1594,7 @@ AE293B,07-8614,US Military,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,U
 4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Civ,L-Plate,Pass The Sick Bag,Watch me fly
 40740E,G-ETPG,QinetiQ,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Pass The Sick Bag,Watch me Fly
 40740F,G-ETPH,QinetiQ,Airbus Helicopters Squirrel AS.350 B3e,Civ,L-Plate,Pass The Sick Bag,Watch me fly
+43C8E7,ZM513,Royal Air Force,Airbus Helicopters Juno HT.1,Mil,Training Wheels,Choppa,Watch me Fly
 43C8D5,ZM334,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 43C8D6,ZM335,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 43C8D7,ZM336,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly
@@ -1599,6 +1604,7 @@ AE293B,07-8614,US Military,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,U
 43C61A,ZZ502,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 43C61B,ZZ503,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly
 405F48,G-DSMA,DSMA Flying Group,P & M Aviation QuikR,Civ,You Came Here In That Thing,Nope,Who needs an Engine ?
+4031E6,G-SAGA,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?
 4069BC,G-CHYB,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?
 4066A3,G-KBWP,Private,Schempp-Hirth Arcus T,Civ,Whoosh,Where Is The Engine,Who needs an Engine ?
 4038D5,G-BVKU,Private,Slingsby T.61 F Falke Venture T.3,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?
