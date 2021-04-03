@@ -106,7 +106,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Cal Fire
 - Coulson Aviation
 - Australian Aircraft called firebird (fire spotter and fighters)
-- Erickson air cranes / SH64 (what is the list of names)
+- S-64 Skycrane - list only partially completed (what is the list of names)
 - Japanese Flying Boats Shin Maywa US-2/US 1 (US2 are 9901 through 9907 - mode s ?)
 - Private Adversary Squadrons
 - Operators of old Jets/Fighters (e.g. Hawker Huner Aviation)
