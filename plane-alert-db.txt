@@ -1,39 +1,40 @@
 ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
-406481,G-PMIZ,Private,Amateur Built Pitts Special P-12,Civ,Do A Barrel Roll,Old,Aerobatic Teams,
-407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Do A Barrel Roll,Aerobatic Teams,
-400E1F,G-OFFO,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-400E20,G-ZXCL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-400E21,G-ZXEL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-400E22,G-ZEXL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-40655A,G-ZXLL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,
-43C0EE,xx177,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C0F6,xx188,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C40D,xx219,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C418,xx232,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C421,xx242,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C422,xx244,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C423,xx245,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C434,xx278,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C44A,xx310,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C44B,xx311,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C453,xx319,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C456,xx322,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C457,xx323,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C459,xx325,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,
-43C257,ZJ194,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C6C4,ZZ410,Army Air Corps,AgustaWestland Apache AH.10,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C761,ZZ520,Army Air Corps,AgustaWestland Apache AH.11,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C259,ZJ196,Army Air Corps,AgustaWestland Apache AH.2,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C26D,ZJ216,Army Air Corps,AgustaWestland Apache AH.3,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C272,ZJ221,Army Air Corps,AgustaWestland Apache AH.4,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C274,ZJ223,Army Air Corps,AgustaWestland Apache AH.5,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43CF30,ZZ391,Army Air Corps,AgustaWestland Apache AH.6,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43CF32,ZZ393,Army Air Corps,AgustaWestland Apache AH.7,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C6BE,ZZ404,Army Air Corps,AgustaWestland Apache AH.8,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
-43C6C3,ZZ409,Army Air Corps,AgustaWestland Apache AH.9,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
+406481,G-PMIZ,Private,Amateur Built Pitts Special P-12,Civ,Do A Barrel Roll,Old,Aerobatic Teams,https://en.wikipedia.org/wiki/Pitts_Special
+407315,G-IIIF,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,http://www.matadorsaerobaticteam.com/
+407316,G-IIFI,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,http://www.matadorsaerobaticteam.com/
+4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,Civ,Cool,Do A Barrel Roll,Aerobatic Teams,https://theblades.com/
+400E1F,G-OFFO,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+400E20,G-ZXCL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+400E21,G-ZXEL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+400E22,G-ZEXL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+40655A,G-ZXLL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+43C0EE,xx177,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C0F6,xx188,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C40D,xx219,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C418,xx232,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C421,xx242,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C422,xx244,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C423,xx245,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C434,xx278,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C44A,xx310,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C44B,xx311,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C453,xx319,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C456,xx322,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C457,xx323,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C459,xx325,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
+43C257,ZJ194,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C6C4,ZZ410,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C761,ZZ520,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C259,ZJ196,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C26D,ZJ216,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C272,ZJ221,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C274,ZJ223,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43CF30,ZZ391,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43CF32,ZZ393,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C6BE,ZZ404,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C6C3,ZZ409,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C72D,ZJ248,Army Air Corps,Eurocopter Squirrel AS.350 HT2,Mil,Chopper,Kung Fu Grip,Army Air Corp,
-43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,
+43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV,
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Choppa,As seen on TV,
 A62C34,N497XP,DFS Furniture Company,Raytheon Aircraft Company 400 XP,Civ,Bizjet,Sale Must End Soon,As Seen on TV,
@@ -44,8 +45,8 @@ ACC647,N922H,Honeywell International Inc,Gulfstream G650,Civ,Bizjet,Ooh Get You,
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,Civ,Bizjet,Ooh Get You,As seen on TV,
 43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Bizjet,Digger,As seen on TV,
 A63AB8,N500J,Johnson & Johnson,Gulfstream G550,Civ,Bizjet,Must Be Nice,As seen on TV,https://www.jnj.com/
-A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,
-AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,
+A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,https://www.jnj.com/
+AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,https://www.jnj.com/
 A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,Civ,Bizjet,Not so VIP,As Seen on TV,
 AC404F,N889LS,Las Vegas Sands Corp,Boeing 737-NG 73T/W BBJ,Civ,Bizjet,Ooh Get You,As Seen on TV,
 43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Bizjet,Must Be Nice,As Seen on TV,
@@ -62,18 +63,55 @@ AE5C8E,D-AGBG,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselga
 3C5C42,D-AGBB,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV,
 3CF774,D-CVAA,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,
 3CF775,D-CVAB,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,
-43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C38F,ZA947,Battle of Britiain Memorial Flight,Douglas C47A Dakota,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C390,LF363,Battle of Britiain Memorial Flight,Hawker Hurricane Iic,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C391,PZ865,Battle of Britiain Memorial Flight,Hawker Hurricane Iic,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C393,P7350,Battle of Britiain Memorial Flight,Supermarine Spitfire Iia,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C395,MK356,Battle of Britiain Memorial Flight,Supermarine Spitfire LFIXe,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C396,TE311,Battle of Britiain Memorial Flight,Supermarine Spitfire LFIXe,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C394,AB910,Battle of Britiain Memorial Flight,Supermarine Spitfire LFVb,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C397,PM631,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
-43C398,PS915,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,
+43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C38F,ZA947,Battle of Britiain Memorial Flight,Douglas C47A Dakota,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C390,LF363,Battle of Britiain Memorial Flight,Hawker Hurricane Iic,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C391,PZ865,Battle of Britiain Memorial Flight,Hawker Hurricane Iic,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C393,P7350,Battle of Britiain Memorial Flight,Supermarine Spitfire Iia,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C395,MK356,Battle of Britiain Memorial Flight,Supermarine Spitfire LFIXe,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C396,TE311,Battle of Britiain Memorial Flight,Supermarine Spitfire LFIXe,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C394,AB910,Battle of Britiain Memorial Flight,Supermarine Spitfire LFVb,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C397,PM631,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+43C398,PS915,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
+A0D90E,N154AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1008D,N164AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1209E,N172AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A12455,N173AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A12F7A,N176AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1621E,N189AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1770A,N194AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1D386,N217AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A1D73D,N218AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A23B27,N243AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A24A03,N247AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A943AE,N6962R,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A97153,N7073C,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+AD4EAB,N957AC,Erickson Air-Crane,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A0E7EA,N158AC,Erickson Air-Crane,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A0EBA1,N159AC,Erickson Air-Crane,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A11CE7,N171AC,Erickson Air-Crane,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A4CB13,N408HL,Heavy Lift Helicopters,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A54E4D,N44094,Heavy Lift Helicopters,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+AAC0034,N792HT,Helicopter Transport Services,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+AAC3EB,N793HT,Helicopter Transport Services,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+AACB59,N795HT,Helicopter Transport Services,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A98F61,N715HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A99318,N716HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A99A86,N718HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A99E3D,N917HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A9A44D,N720HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A9A804,N721HT,Helicopter Transport Services,CH-54B Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+71CC42,HL9442,Korean Forest Service,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+71CC43,HL9443,Korean Forest Service,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+71CC44,HL9444,Korean Forest Service,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A4D1AF,HL9650,Korean Forest Service,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+ACA12C,N9125M,Siller Helicopters Inc,CH-54A Tarhe,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A4BADE,N4035S,Siller Helicopters Inc,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A4BB24,N4037S,Siller Helicopters Inc,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A22284,I-CFAM,Vigili del Fuoco,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
+A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
 400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,
 4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,
 ABDE66,N864HD,Aircraft Guaranty Corp Trustee,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,
@@ -443,13 +481,13 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3FB103,98+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
 3FB101,99+01,German Air Force,EuroHawk RQ-4B,Mil,UAV,Eye in the sky,GAF,
 40491E,G-STCH,German Air Force,Fieseler F156A-1 Storch,Mil,History,I am old,GAF,
-3E8629,4X+XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3E87C9,43+29,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3E8A4F,45+57,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3E92AC,4X-XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3EB1E3,43+48,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3F5F35,44+75,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
-3FBC98,46+49,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,
+3E8629,4X+XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E87C9,43+29,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E8A4F,45+57,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E92AC,4X-XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EB1E3,43+48,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F5F35,44+75,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FBC98,46+49,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3FAA05,84+05,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
 3FAA06,84+06,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
 3FAA12,84+18,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
@@ -514,106 +552,106 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
 3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
 3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3E8BCE,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3EA437,46+32,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3EA567,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3EAB37,46+49,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3EAB46,46+44,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F4D9F,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F575B,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F5E33,46+50,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F5FBB,46+25,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F75DC,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F7620,46+24,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F7D5E,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9717,46+23,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F971C,46+28,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9723,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9724,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9726,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9728,46+40,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F972D,46+45,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9730,46+48,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9733,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9734,46+52,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9738,46+56,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3F9739,46+57,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3FB138,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3FB14F,98+79,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3FB159,98+77,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3FBAF9,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3FBFA1,46+55,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,
-3E819E,43+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3E8A58,44+23,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3E98D9,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3E9F6A,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3EA2D7,44+33,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3EAD21,43+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3EB1F8,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F4305,44+70,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F581F,4X+XX,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F6B1D,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F81DC,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F957D,43+25,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9584,43+32,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F958A,43+38,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9592,43+46,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9596,43+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F95C6,43+98,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9606,44+06,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9610,44+16,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F961D,44+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F961E,44+30,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9622,44+34,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F963A,44+58,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F963D,44+61,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9640,44+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9641,44+65,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9645,44+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F964E,44+78,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F964F,44+79,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F965A,44+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9664,45+00,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F966D,45+09,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F967A,45+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9687,45+35,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9696,45+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96A4,45+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96A6,45+66,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96A7,45+67,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96A8,45+68,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96A9,45+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96AB,45+71,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96B0,45+76,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96B9,45+85,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96BE,45+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96C0,45+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F96C2,45+94,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9702,46+02,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F970A,46+10,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F970B,46+11,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F970C,46+12,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F970F,46+15,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9712,46+18,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9714,46+20,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9716,46+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3FAC9E,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3FB13C,98+60,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,
-3F9565,43+01,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F956E,43+10,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F958E,43+42,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9591,43+45,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F95C5,43+97,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9648,44+72,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9671,45+13,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9672,45+14,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9674,45+16,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F96AA,45+70,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F96B1,45+77,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9705,46+05,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3F9707,46+07,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3FAAC0,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
-3FB13B,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,
+3E8BCE,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EA437,46+32,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EA567,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EAB37,46+49,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EAB46,46+44,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F4D9F,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F575B,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F5E33,46+50,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F5FBB,46+25,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F75DC,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F7620,46+24,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F7D5E,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9717,46+23,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F971C,46+28,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9723,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9724,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9726,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9728,46+40,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F972D,46+45,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9730,46+48,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9733,46+51,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9734,46+52,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9738,46+56,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9739,46+57,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FB138,46+38,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FB14F,98+79,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FB159,98+77,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FBAF9,46+35,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FBFA1,46+55,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E819E,43+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E8A58,44+23,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E98D9,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3E9F6A,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EA2D7,44+33,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EAD21,43+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3EB1F8,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F4305,44+70,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F581F,4X+XX,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F6B1D,45+57,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F81DC,44+21,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F957D,43+25,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9584,43+32,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F958A,43+38,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9592,43+46,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9596,43+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F95C6,43+98,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9606,44+06,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9610,44+16,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F961D,44+29,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F961E,44+30,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9622,44+34,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F963A,44+58,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F963D,44+61,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9640,44+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9641,44+65,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9645,44+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F964E,44+78,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F964F,44+79,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F965A,44+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9664,45+00,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F966D,45+09,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F967A,45+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9687,45+35,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9696,45+50,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96A4,45+64,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96A6,45+66,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96A7,45+67,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96A8,45+68,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96A9,45+69,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96AB,45+71,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96B0,45+76,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96B9,45+85,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96BE,45+90,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96C0,45+92,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96C2,45+94,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9702,46+02,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F970A,46+10,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F970B,46+11,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F970C,46+12,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F970F,46+15,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9712,46+18,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9714,46+20,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9716,46+22,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FAC9E,45+88,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FB13C,98+60,German Air Force,Tornado IDS,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9565,43+01,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F956E,43+10,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F958E,43+42,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9591,43+45,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F95C5,43+97,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9648,44+72,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9671,45+13,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9672,45+14,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9674,45+16,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96AA,45+70,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F96B1,45+77,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9705,46+05,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3F9707,46+07,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FAAC0,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
+3FB13B,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3EB90F,50+82,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
 3F9911,50+17,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
 3F991D,50+29,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
@@ -1672,6 +1710,6 @@ AE293B,07-8614,US Military,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,U
 43C7AF,ZK438,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,
 43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,
 43CAF0,ZK342,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,
-43C817,ZM141,Royal Air Force,F35 Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
+43C817,ZM141,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
 43C811,ZM142,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
 43C813,ZM150,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
