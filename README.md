@@ -146,6 +146,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - RAAF Roulettes
 - Helicopter Transport Services
 - Arena Aviation
+- Slagboom & Peeters nv (Aeriual Surveys)
 
 Any other idea's welcome.
 
