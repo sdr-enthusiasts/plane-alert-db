@@ -144,6 +144,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - News Choppers
 - RCAF Snowbirds
 - RAAF Roulettes
+- Helicopter Transport Services
+- Arena Aviation
 
 Any other idea's welcome.
 
