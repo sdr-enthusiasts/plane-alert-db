@@ -158,6 +158,7 @@ AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coa
 15407C,RA-82044,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
 15407E,RA-82046,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
 15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
+15409E,RA-82078,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
 5083A2,UR-CQD,Vulkan Air,Antonov An-26 B,Civ,Vashe Zdorovye,Vashe Zdorovye,Da Comrade,https://vulkanair.com/
 89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320-212,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737-NG8EXBBJ2,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships/
@@ -217,7 +218,7 @@ A9B67C,N725DT,DT Endeavour,Cessna 750,Civ,Orange Danger,Original Nuttah,Dictator
 0900B5,D2-EEB,Government of Angola,Bombardier Dash 8-Q402,Gov,Dictator Alert,Agostinho Neto,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 090088,D2-ANG,Government of Angola,Bombardier Global Express XRS,Gov,Dictator Alert,Agostinho Neto,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 600801,4K-8888,Government of Azerbaijan,Airbus ACJ319-115,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships/
-600BC0,4K-AI08,Government of Azerbaijan,Airbus ACJA340-642X,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships/
+600BC0,4K-AI08,Government of Azerbaijan,Airbus ACJ340-642X,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 600BE8,4K-AI01,Government of Azerbaijan,Boeing 76732LER,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 51002B,EW-001PA,Government of Belarus,Boeing 737-NG8EVWBBJ2,Gov,Dictator Alert,Alexander Lukashenko,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 51005E,EW-001PB,Government of Belarus,Boeing 76732KER,Gov,Dictator Alert,Alexander Lukashenko,Dictator Alert,https://data.dictatoralert.org/dictatorships/
@@ -351,6 +352,10 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 71002D,HZ-SK1,Saudi Private FLITE Charters,Gulfstream G4SP,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
+710277,HZ-AS99,Saudi Royal Flight,Airbus A318-100 ACJ,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
+710094,HZ-AS44,Saudi Royal Flight,Airbus A320-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
+710096,HZ-AS45,Saudi Royal Flight,Airbus A320-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
+71010B,HZ-124,Saudi Special Flight Services,Airbus A340-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 0D80A4,YV1129,Servicio Autonomo de Coordinacion de Transporte Aereo,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 896063,A6ESH,Sharjah Rulers Flight,Airbus ACJ319-132,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships/
 896436,A6SHJ,Sharjah Rulers Flight,Airbus ACJ320-232XSL,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships/
@@ -767,6 +772,7 @@ A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came He
 3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H,https://www.drf-luftrettung.de/
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://greatwesternairambulance.com/
 C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H,https://latitude2009.com/
+C04082,C-FYLD,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H,https://latitude2009.com/
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,
 4D028E,LX-ONE,Luxembourg Air Ambulance,Bombardier Learjet 45 XR,Civ,Air Ambo,Id Get That Seen Too,M*A*S*H,
 406B4D,G-NIAA,Northern Ireland Air Ambulance,Beechcraft King Air B200,Civ,M*A*S*H,Air Ambo,M*A*S*H,
@@ -821,7 +827,17 @@ C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Ci
 401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Eye In The Sky,Military Contractors,
 405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Eye In The Sky,Military Contractors,
 4069D9,G-LBSB,Transferred to MOD,Beechcraft Corp King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,
+484499,P4-MLO,Comlux Aviation,Airbus A330-200,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com/
+4D2052,9H-TBN,Comlux Aviation,Airbus ACJ319-100,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com/
+4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com/
+4D2295,9H-ATB,Comlux Aviation,Airbus ACJ320neo,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com/
+484361,P4-CLA,Comlux Aviation,Boeing 767-200,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com/
 4850A1,P4-XTL,Comlux Aviation,Boeing BBJ 777 200-LR,Civ,Not A Bus,Ooh Get You,Must be nice,https://aviapages.com/aircraft/p4-xtl/
+6831F8,UP-C8505,Comlux Aviation (Kazakhstan),Bombardier CRJ-200,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com/
+6831D7,UP-EM007,Comlux Aviation (Kazakhstan),Embraer ERJ-135,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com/
+6831E9,UP-EM010,Comlux Aviation (Kazakhstan),Embraer ERJ-135,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com/
+683262,UP-EM008,Comlux Aviation (Kazakhstan),Embraer ERJ-135,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com/
+68323D,UP-SJ001,Comlux Aviation (Kazakhstan),Sukhoi Superjet 100,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com/
 AA6922,N770BB,Yucaipa Companies LLC,Boeing 757-2J4W,Civ,How Much,Ooh Get You,Must be nice,
 A0441D,N116SR,US Department of Energy,Airbus Helicopters H145,Gov,Covert,Chopper,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A047D4,N117SR,US Department of Energy,Airbus Helicopters H145,Gov,Covert,Chopper,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
@@ -880,6 +896,8 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air
 7061F5,KAF326,Kuwait Air Force,Lockheed KC-130J Hercules,Mil,Wrong Turn At Albuquerque,You Lost Mate,Other Air Forces,https://en.wikipedia.org/wiki/Kuwait_Air_Force
 44F681,CT-01,Luxembourg Armed Forces,Airbus A400M,Mil,Cargo,Chonky Boy,Other Air Forces,https://en.wikipedia.org/wiki/Luxembourg_Army#Luxembourg_Army_Air_Force
 480C40,T-054,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
+480C41,T-055,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
+480C42,T-056,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,M*A*S*H,Other Air Forces,http://www.occar.int/first-mmf-medical-evacuation-aircraft-accepted
 48D961,2,Polish Air Force,Gulfstream G550,Mil,Bizjet,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Polish_Air_Force
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B37D,15005,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
@@ -895,6 +913,7 @@ C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,Mil,To Be Faaaaaaaaaaa
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,Mil,Bizjet,Must Be Nice,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B52B,130601,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B535,130602,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
+C2B549,130604,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B571,130608,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B599,130612,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
@@ -1224,7 +1243,7 @@ AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justic
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,Britten-Norman Defender 4000 BN-2T-4R,Civ,Specialist,Eye In The Sky,Under Observation,
 407757,G-OUEG,Catreus,Bombardier Global 6000,Civ,U Wot m8,Eye In The Sky,Under Observation,
 406EEC,G-RSXP,Catreus,Textron Aviation Citation XLS+,Civ,U Wot m8,Eye In The Sky,Under Observation,
-48411C,P4-787,Comlux Aviation,Boeing 787-8,Civ,Loooong Raaaaaange,Must Be Nice,Under Observation,
+48411C,P4-787,Comlux Aviation,Boeing 787-8,Civ,Loooong Raaaaaange,Must Be Nice,Under Observation,https://onemileatatime.com/boeing-787-flies-20-hours-nonstop/?utm_campaign=coschedule&utm_source=facebook_page&utm_medium=One%20Mile%20at%20a%20Time&utm_content=Mysterious%20Boeing%20787%20Flies%2020%2B%20Hours%20Nonstop
 407B57,G-WKTO,Diamond Executive Aviation (DEA),Beech E90 King Air,Civ,Covert,Eye In The Sky,Under Observation,
 407BDF,G-WKTS,Diamond Executive Aviation (DEA),Beech E90 King Air,Civ,Covert,Eye In The Sky,Under Observation,
 400E85,G-DJET,Diamond Executive Aviation (DEA),Diamond Aircraft DA42,Civ,U Wot m8,Eye In The Sky,Under Observation,
@@ -1709,6 +1728,7 @@ ADFD76,91-00506,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,U
 403AA4,G-MYWW,Private,Cyclone Airsports Pegasus Quantum 15,Civ,Ultralight,You Came Here In That Thing,You came here in that thing ?,
 4015BB,G-ASFX,Private,Druine Turbulent D.31,Civ,Eensy Weensy,Got It Where It Counts,You came here in that thing ?,
 40676E,G-CHGA,Private,P & M Aviation Quik GTR,Civ,Ultralight,You Came Here In That Thing,You came here in that thing ?,
+4061E2,G-KBOJ,Private,RotorSport UK MTO Sport,Civ,Ultralight,You Came Here In That Thing,You came here in that thing ?,https://photos.smugmug.com/General-Aviation/Rotorsport-UK/Rotorsport-UK-MTO-Sport/i-G6Rnqc5/2/c5a27272/M/8R9U7228-M.jpg
 40799F,G-LFLF,Private,RotorSport UK MTO Sport 2017,Civ,Ultralight,You Came Here In That Thing,You came here in that thing ?,
 43C494,ZJ914,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C4A9,ZJ935,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
