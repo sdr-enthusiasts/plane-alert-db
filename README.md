@@ -133,8 +133,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Duxford and other historic flight collections
 - Historic Aircraft Flight Trust
 - Low volume Airliners / Special Models
-- Multinational MRTT Fleet
-- Fly Navy Heritage Trust
+- <strike>Multinational MRTT Fleet</strike>
+- </strike>Fly Navy Heritage Trust</strike>
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
 - Aircraft operated by Comlux
