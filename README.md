@@ -133,7 +133,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Low volume Airliners / Special Models
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
-- Icelandic Coastguard
 - Meteorological research flights
 - A10 Thunderbolt II
 - Film and Televison Companies
@@ -148,6 +147,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Fly Navy Heritage Trust</strike>
 - <strike>Check Saudi Armed Forces Medical Services is complete</strike>
 - <strike>Aircraft operated by Comlux</strike>
+- <strike>Icelandic Coastguard</strike>
 
 Any other idea's welcome.
 
