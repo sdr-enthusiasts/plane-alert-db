@@ -86,7 +86,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - US Dept of Interior
 - US Dept of Energy
 - Other US Gov Depts
-- Check Saudi Armed Forces Medical Services is complete
 - Check Empire Test Pilots School is complete
 - Firefighting Aircraft / Companies
 - Police Scotland Air Support Unit (NI Equivalent)
@@ -128,13 +127,10 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - United Nations
 - World Bank etc
 - Red Cross / MSF
-- <strike>Network Rail Helicopter(s)</strike>
 - Special Convertions e.g. Engine testbeds
 - Duxford and other historic flight collections
 - Historic Aircraft Flight Trust
 - Low volume Airliners / Special Models
-- <strike>Multinational MRTT Fleet</strike>
-- </strike>Fly Navy Heritage Trust</strike>
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
 - Aircraft operated by Comlux
@@ -148,6 +144,10 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Helicopter Transport Services
 - Arena Aviation
 - Slagboom & Peeters nv (Aerial Surveys)
+- <strike>Network Rail Helicopter(s)</strike>
+- <strike>Multinational MRTT Fleet</strike>
+- <strike>Fly Navy Heritage Trust</strike>
+- <strike>Check Saudi Armed Forces Medical Services is complete</strike>
 
 Any other idea's welcome.
 
