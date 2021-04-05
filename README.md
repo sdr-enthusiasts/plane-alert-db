@@ -28,7 +28,7 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **1737** unique aircraft in **39** different categories.
+The list contains **1757** unique aircraft in **39** different categories.
 
 - [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags and categories.
 - [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
@@ -133,7 +133,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Low volume Airliners / Special Models
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
-- Aircraft operated by Comlux
 - Icelandic Coastguard
 - Meteorological research flights
 - A10 Thunderbolt II
@@ -148,6 +147,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
 - <strike>Check Saudi Armed Forces Medical Services is complete</strike>
+- <strike>Aircraft operated by Comlux</strike>
 
 Any other idea's welcome.
 
