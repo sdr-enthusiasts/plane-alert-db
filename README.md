@@ -149,6 +149,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Check Saudi Armed Forces Medical Services is complete</strike>
 - <strike>Aircraft operated by Comlux</strike>
 - <strike>Icelandic Coastguard</strike>
+- <strike>The Flying Bulls</strike>
 
 Any other idea's welcome.
 
