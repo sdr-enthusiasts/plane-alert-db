@@ -142,6 +142,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Helicopter Transport Services
 - Arena Aviation
 - Slagboom & Peeters nv (Aerial Surveys)
+- Air Affairs Australia
+- ADAC Germany
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
