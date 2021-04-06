@@ -87,7 +87,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - US Dept of Interior
 - US Dept of Energy
 - Other US Gov Depts
-- Check Empire Test Pilots School is complete
 - Firefighting Aircraft / Companies
 - Police Scotland Air Support Unit (NI Equivalent)
 - B737 with Gravel Kits - Nolinor, Air Inuit, Canada North, Chron Aviation
@@ -150,6 +149,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Aircraft operated by Comlux</strike>
 - <strike>Icelandic Coastguard</strike>
 - <strike>The Flying Bulls</strike>
+- <strike>Check Empire Test Pilots School is complete</strike>
 
 Any other idea's welcome.
 
