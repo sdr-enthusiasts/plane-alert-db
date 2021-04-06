@@ -8,6 +8,28 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 400E21,G-ZXEL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
 400E22,G-ZEXL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
 40655A,G-ZXLL,The Blades,Extra EA-300,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://theblades.com/
+3E1CEA,D-ICDM,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4407F4,OE-FRB,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4407F5,OE-FAS,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+440836,OE-FDM,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4408E8,OE-ADM,The Flying Bulls,Beech T-34 Mentor,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4405EB,OE-XDM,The Flying Bulls,Bell 47 G-3B-1,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+A02A6D,N11FX,The Flying Bulls,Bell Cobra TAH-1F,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+3E0282,D-HSDM,The Flying Bulls,BO 105C,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+3E0526,D-HTDM,The Flying Bulls,BO 105C,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+3E07CA,D-HUDM,The Flying Bulls,BO 105S,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+ADD6B1,N991DM,The Flying Bulls,Cessna 337 Skymaster,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+440264,OE-EDM,The Flying Bulls,Cessna CE 208 Apmhibian,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4406BC,OE-LDM,The Flying Bulls,Douglas DC-6B,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+44018B,OE-XFB,The Flying Bulls,Eurocopter EC135,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+440383,OE-CRB,The Flying Bulls,Extra EA-300,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+A64B8C,N50429,The Flying Bulls,Fairchild PT-19,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+A2574B,N25Y,The Flying Bulls,Lockheed P-38 Lightning,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+A7F8F0,N6123C,The Flying Bulls,North American B-25J Mitchell,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+440322,OE-ESA,The Flying Bulls,North American T-28B,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+440136,OE-EMD,The Flying Bulls,Pilatus Porter PC-6,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+A92949,N69KL,The Flying Bulls,Sukhoi SU-29,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+440323,OE-EAS,The Flying Bulls,Vought F4U Corsair,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 43C0EE,xx177,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
 43C0F6,xx188,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
 43C40D,xx219,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
@@ -37,33 +59,33 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 3C992C,D-BFIL,Atlas Spare Parts GmbH,Embraer Legacy 450,Civ,Digger,Bizjet,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV,https://www.bmwgroup.com/en.html
-A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Choppa,As seen on TV,
-A62C34,N497XP,DFS Furniture Company,Raytheon Aircraft Company 400 XP,Civ,Bizjet,Sale Must End Soon,As Seen on TV,
-A88E0D,N650PP,Gaseosas Posada Tobon SA Postobon SA,Bombardier Challenger 650,Civ,Bizjet,Wrong Turn At Albuquerque,As Seen on TV,
-A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream GVII-G500,Civ,Bizjet,Ooh Get You,As seen on TV,
-A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream G280,Civ,Bizjet,Ooh Get You,As Seen on TV,
-ACC647,N922H,Honeywell International Inc,Gulfstream G650,Civ,Bizjet,Ooh Get You,As seen on TV,
-43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,Civ,Bizjet,Ooh Get You,As seen on TV,
-43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Bizjet,Digger,As seen on TV,
+A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Choppa,As seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
+A62C34,N497XP,DFS Furniture Company,Raytheon Aircraft Company 400 XP,Civ,Bizjet,Sale Must End Soon,As Seen on TV,https://www.youtube.com/watch?v=DGkhTEZWle4
+A88E0D,N650PP,Gaseosas Posada Tobon SA Postobon SA,Bombardier Challenger 650,Civ,Bizjet,Wrong Turn At Albuquerque,As Seen on TV,https://www.postobon.com/
+A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream GVII-G500,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.gulfstream.com/en/
+A2CEA4,N280GU,Gulfstream Aerospace LP,Gulfstream G280,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.gulfstream.com/en/
+ACC647,N922H,Honeywell International Inc,Gulfstream G650,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.honeywell.com/us/en
+43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.youtube.com/watch?v=7-EVAH3HaB0
+43E9D5,M-JCBB,JC Bamford Excavators,Gulfstream G650,Civ,Bizjet,Digger,As seen on TV,https://youtu.be/nLuoCl8ZA2M?t=8
 A63AB8,N500J,Johnson & Johnson,Gulfstream G550,Civ,Bizjet,Must Be Nice,As seen on TV,https://www.jnj.com/
 A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,https://www.jnj.com/
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,https://www.jnj.com/
-A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,Civ,Bizjet,Not so VIP,As Seen on TV,
-AC404F,N889LS,Las Vegas Sands Corp,Boeing 737-NG 73T/W BBJ,Civ,Bizjet,Ooh Get You,As Seen on TV,
-43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Bizjet,Must Be Nice,As Seen on TV,
-4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,
-4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,As seen on TV,
-43E907,M-TSRI,Timpson Ltd,Beechcraft Corp King Air C90GTX,Civ,Bizjet,Ooh Get You,As seen on TV,
-3C5C45,D-AGBE,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3C5C46,D-AGBF,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3C5C48,D-AGBH,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3C5C49,D-AGBI,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-4001DB,VP-CLB,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-AE5C8E,D-AGBG,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3C5C41,D-AGBA,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3C5C42,D-AGBB,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV,
-3CF774,D-CVAA,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,
-3CF775,D-CVAB,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,
+A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,Civ,Bizjet,Not so VIP,As Seen on TV,https://www.youtube.com/watch?v=dvYvQeNeq3A
+AC404F,N889LS,Las Vegas Sands Corp,Boeing 737-NG 73T/W BBJ,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.youtube.com/watch?v=BQtn9q_wjdE
+43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Bizjet,Must Be Nice,As Seen on TV,https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLiizLDJg9OLPzUzOSEzNUchXyElNLKoEAHlfCPw&q=michael+o+leary&oq=michael+o+&aqs=chrome.1.69i57j46l4j69i60l3.3711j0j9&sourceid=chrome&ie=UTF-8
+4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.shell.co.uk/business-customers/shell-aviation.html
+4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.flyingbulls.at/en/
+43E907,M-TSRI,Timpson Ltd,Beechcraft Corp King Air C90GTX,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.timpson.co.uk/
+3C5C45,D-AGBE,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3C5C46,D-AGBF,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3C5C48,D-AGBH,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3C5C49,D-AGBI,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+4001DB,VP-CLB,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+AE5C8E,D-AGBG,Volkswagen Air Service GmbH,Dassault Falcon 7X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3C5C41,D-AGBA,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3C5C42,D-AGBB,Volkswagen Air Service GmbH,Dassault Falcon 8X,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3CF774,D-CVAA,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+3CF775,D-CVAB,Volkswagen Air Service GmbH,Pilatus PC-24,Civ,Bizjet,Dieselgate,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
 43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
 43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
@@ -131,7 +153,7 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute U
 06A1D6,A7-CGR,Qatar Executive,Gulfstream GVII-G500,Civ,Ooh Get You,Private Airline,Bizjets,https://www.qatarexec.com.qa/
 06A1D7,A7-CGS,Qatar Executive,Gulfstream GVII-G500,Civ,Ooh Get You,Private Airline,Bizjets,https://www.qatarexec.com.qa/
 400143,VP-BWR,USAL Ltd,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,https://live.staticflickr.com/4426/36458778366_cee1b0574c_b.jpg
-3B7B22,F-ZBGO,Douane (French Customs),Beechcraft Corp King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,
+3B7B22,F-ZBGO,Douane (French Customs),Beechcraft Corp King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr/
 406DE9,G-MCGT,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
 406DEA,G-MCGU,HM Coastguard,AgustaWestland AW.189,Gov,Choppa,Mae West,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
 406DED,G-MCGX,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
@@ -143,18 +165,20 @@ A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute U
 406DEB,G-MCGV,HM Coastguard ,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
 403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
 4CC468,TF-SIF,Icelandic Coast Guard,Bombardier DHC-8 314Q,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
+4CC51C,TF-EIR,Icelandic Coast Guard,Eurocopter EC225 Super Puma,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
+4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
-508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,
-50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,
+508003,UR-82029,Antonov Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
+50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
 508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,Civ,Absolute Unit,Cool,Da Comrade,https://www.youtube.com/watch?v=6sggQqdvqHs
 50822D,UR-CNN,Cavok Air,Antonov An-12 B,Civ,Ere Me Now,Old,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 508179,UR-CJN,Cavok Air,Antonov An-12 TB,Civ,Ere Me Now,Old,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5080D5,UR-CSJ,Eleron,Antonov An-26 B,Civ,Got It Where It Counts,Vashe Zdorovye,Da Comrade,
+5080D5,UR-CSJ,Eleron,Antonov An-26 B,Civ,Got It Where It Counts,Vashe Zdorovye,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
 50815D,UR-CAJ,Meridian,Antonov An-12 BK,Civ,Ere Me Now,Vashe Zdorovye,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-4049FA,G-CCJK,Private,Aerostar Yak-52,Civ,Vashe Zdorovye,Old,Da Comrade,
-4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Da Comrade,
-510099,EW-450TR,Rada Airlines,Ilyushin IL-62 MGR,Civ,Cargo,Vashe Zdorovye,Da Comrade,
-5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere Me Now,Vashe Zdorovye,Da Comrade,
+4049FA,G-CCJK,Private,Aerostar Yak-52,Civ,Vashe Zdorovye,Old,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4069C9,G-YAKJ,Private Owner,Yakovlev Yak-18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
+510099,EW-450TR,Rada Airlines,Ilyushin IL-62 MGR,Civ,Cargo,Vashe Zdorovye,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-62
+5100C7,EW-484TI,Ruby Star Airways,Antonov An-12 BP,Civ,Ere Me Now,Vashe Zdorovye,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 15407C,RA-82044,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
 15407E,RA-82046,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
 15407F,RA-82047,Volga-Dnepr Airlines,Antonov An-124 100,Civ,Absolute Unit,Vashe Zdorovye,Da Comrade,https://www.volga-dnepr.com/en/
@@ -380,6 +404,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 38FCBB,F-GXLG,Airbus Transport International,Airbus A330-743L Beluga XL,Civ,Absolute Unit,How Does It Fly,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga_XL
 395D67,F-GXLH,Airbus Transport International,Airbus A330-743L Beluga XL,Civ,Absolute Unit,How Does It Fly,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga_XL
 395D68,F-GXLI,Airbus Transport International,Airbus A330-743L Beluga XL,Civ,Absolute Unit,How Does It Fly,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga_XL
+A046CB,N117GA,Berlin Airlift Historical Foundation,Boeing C-97G Stratofreighter,Civ,Angel of Deliverance,The Last of Us,Distinctive,http://www.spiritoffreedom.org/yc97a.html
 43C925,XE688,Hawker Hunter Aviation,Hawker Hunter T.72,Mil,Old,Fighter,Distinctive,https://hunterteam.com/
 403AF7,G-BWGF,Horizon Flight Training,BAC Jet Provost T.5A,Civ,Old,Flying Rust Bucket,Distinctive,https://www.horizonaircraftservices.com/
 A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,Civ,Cargo,Brrrrrrrrrrrrrrr,Distinctive,http://www.lynden.com/lac/
@@ -422,6 +447,7 @@ AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot
 400D1C,G-NETR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
 400FE8,G-NLSE,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
 4068E8,G-NLDR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
+48988E,SP-GEO,Opegieka,Vulcanair P.68C,Civ,Trundle Wheel,Measuring Stick,Dogs with Jobs,https://opegieka.pl/
 400E5E,G-AWNT,Pixair Survey SAS,BN-2A Islander-2A,Civ,Magic Roundabout,Is This My Good Side,Dogs with Jobs,
 43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,BAe Hawk T1,Mil,Pass The Sick Bag,Specialist,Dogs with Jobs,
 407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs,
@@ -880,6 +906,7 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,Mil,Bizjet,Must Be Nice,Ot
 4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,Mil,Luck of the Irish,Billy Murphy,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps/
 4CA1E9,262,Irish Air Corps,Pilatus PC-9M,Mil,Luck of the Irish,Billy Murphy,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps/
 4CA41D,282,Irish Air Corps,Pilatus PC-XII Spectre,Mil,Luck of the Irish,Billy Murphy,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps/
+738B42,295,Israeli Air Force,Boeing 707 366C,Mil,Fill Her Up,I Am Old,Other Air Forces,
 738A01,IAF207,Israeli Air Force,Boeing 707 3L6C,Mil,We Make Your Planes Better,Speak Up Sonny,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A41,IAF120,Israeli Air Force,Boeing KC-707 3P1C,Mil,We Make Your Planes Better,Speak Up Sonny,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
@@ -1720,8 +1747,11 @@ ADFD76,91-00506,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,U
 4031E6,G-SAGA,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,
 406636,G-CGXW,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,https://en.wikipedia.org/wiki/Grob_G_109
 4069BC,G-CHYB,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,
+407626,G-OASM,Private,HpH 304 Shark ES,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
 405319,G-CJOD,Private,Rolladen-Schneider LS8 18,Civ,Whoosh,All About That Wingspan,Who needs an Engine ?,https://cdn.jetphotos.com/full/5/24787_1563980927.jpg
 4066A3,G-KBWP,Private,Schempp-Hirth Arcus T,Civ,Whoosh,Where Is The Engine,Who needs an Engine ?,
+406887,G-SAXL,Private,Schempp-Hirth Duo Discus xLT,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
+405870,G-CHGG,Private,Schempp-Hirth Standard Cirrus,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
 406FFB,G-CLRS,Private,Schleicher ASG 29 27-18E,Civ,Whoosh,Where Is The Engine,Who needs an Engine ?,https://en.wikipedia.org/wiki/Schleicher_ASG_29
 4038D5,G-BVKU,Private,Slingsby T.61 F Falke Venture T.3,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
 405F48,G-DSMA,DSMA Flying Group,P & M Aviation QuikR,Civ,You Came Here In That Thing,Nope,You came here in that thing ?,
