@@ -100,7 +100,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Other Warbirds
 - List of DA42 MPP / DA62 MPP Operators
 - Thales UK
-- Qinetiq
 - Survey / Mapping Aircarft
 - Other surveillance aircraft types
 - 750 Naval Air Squadron (Observers)
@@ -157,6 +156,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Icelandic Coastguard</strike>
 - <strike>The Flying Bulls</strike>
 - <strike>Check Empire Test Pilots School is complete</strike>
+- <strike>Qinetiq</strike>
 
 Any other idea's welcome.
 
