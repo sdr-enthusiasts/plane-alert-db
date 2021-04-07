@@ -12,22 +12,26 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 4407F4,OE-FRB,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 4407F5,OE-FAS,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 440836,OE-FDM,The Flying Bulls,Alpha Jet,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+4405CD,OE-CKW,The Flying Bulls,Aviat Husky,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 4408E8,OE-ADM,The Flying Bulls,Beech T-34 Mentor,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 4405EB,OE-XDM,The Flying Bulls,Bell 47 G-3B-1,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
 A02A6D,N11FX,The Flying Bulls,Bell Cobra TAH-1F,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
 3E0282,D-HSDM,The Flying Bulls,BO 105C,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
 3E0526,D-HTDM,The Flying Bulls,BO 105C,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
 3E07CA,D-HUDM,The Flying Bulls,BO 105S,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+44066E,OE-XSY,The Flying Bulls,Bristol 171 Sycamore,Civ,Do A Barrel Roll,Alright Me Baber,Aerobatic Teams,https://www.flyingbulls.at/en/
 ADD6B1,N991DM,The Flying Bulls,Cessna 337 Skymaster,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 440264,OE-EDM,The Flying Bulls,Cessna CE 208 Apmhibian,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 4406BC,OE-LDM,The Flying Bulls,Douglas DC-6B,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 44018B,OE-XFB,The Flying Bulls,Eurocopter EC135,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
+440886,OE-ETV,The Flying Bulls,Eurocopter Squirrel AS.350 HT2,Civ,Do A Barrel Roll,Chopper,Aerobatic Teams,https://www.flyingbulls.at/en/
 440383,OE-CRB,The Flying Bulls,Extra EA-300,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 A64B8C,N50429,The Flying Bulls,Fairchild PT-19,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 A2574B,N25Y,The Flying Bulls,Lockheed P-38 Lightning,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 A7F8F0,N6123C,The Flying Bulls,North American B-25J Mitchell,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 440322,OE-ESA,The Flying Bulls,North American T-28B,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 440136,OE-EMD,The Flying Bulls,Pilatus Porter PC-6,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
+44042B,OE-AMM,The Flying Bulls,PT-17 Stearman,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 A92949,N69KL,The Flying Bulls,Sukhoi SU-29,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 440323,OE-EAS,The Flying Bulls,Vought F4U Corsair,Civ,Do A Barrel Roll,Already Has Wings,Aerobatic Teams,https://www.flyingbulls.at/en/
 43C0EE,xx177,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
@@ -46,6 +50,7 @@ A92949,N69KL,The Flying Bulls,Sukhoi SU-29,Civ,Do A Barrel Roll,Already Has Wing
 43C459,xx325,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows/
 43C257,ZJ194,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C259,ZJ196,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C25B,ZJ198,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C26D,ZJ216,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C272,ZJ221,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C274,ZJ223,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
@@ -55,8 +60,10 @@ A92949,N69KL,The Flying Bulls,Sukhoi SU-29,Civ,Do A Barrel Roll,Already Has Wing
 43C761,ZZ520,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43CF30,ZZ391,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43CF32,ZZ393,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C764,ZZ523,Army Air Corps,Augusta-Westland Wildcat AH.1,Mil,Choppa,Brrrrrrrrrrrrrrr,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
 43C72D,ZJ248,Army Air Corps,Eurocopter Squirrel AS.350 HT2,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C07D,XW847,Army Air Corps,Westland/Aerospatiale Gazelle SA.341 AH.1,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
 3C992C,D-BFIL,Atlas Spare Parts GmbH,Embraer Legacy 450,Civ,Digger,Bizjet,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV,https://www.bmwgroup.com/en.html
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Choppa,As seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
@@ -136,15 +143,15 @@ A4BB24,N4037S,Siller Helicopters Inc,S-64E Skycrane,Civ,Skycrane,Thunderbird 2,B
 A1822F,I-CFAI,Vigili del Fuoco,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
 A22284,I-CFAM,Vigili del Fuoco,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
 A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
-400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,
-4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,
-ABDE66,N864HD,Aircraft Guaranty Corp Trustee,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,
-A324A9,N301SR,Essar Shipping and Logistics Ltd,Boeing 737-NG 7JV BBJ/W,Civ,Bizjet,Absolute Unit,Bizjets,
-A9E51E,N737AT,Hillwood Airways,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,
-3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,
-A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,
-A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,
-3D069D,D-EATH,Private Owner,Piper PA-28,Civ,Wheelbarrow,Jesus He Knows Me,Bizjets,
+400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,https://www.2excelaviation.com/our-activity/
+4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,https://www.2excelaviation.com/our-activity/
+ABDE66,N864HD,Aircraft Guaranty Corp Trustee,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
+A324A9,N301SR,Essar Shipping and Logistics Ltd,Boeing 737-NG 7JV BBJ/W,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+A9E51E,N737AT,Hillwood Airways,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
+A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://www.hondajet.com/
+A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+3D069D,D-EATH,Private Owner,Piper PA-28,Civ,Wheelbarrow,Jesus He Knows Me,Bizjets,https://en.wikipedia.org/wiki/Death_(Discworld)
 06A1C6,A7-CGA,Qatar Executive,Gulfstream G650 ER,Civ,Loooong Raaaaaange,Private Airline,Bizjets,https://www.qatarexec.com.qa/
 06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,Civ,Ooh Get You,Private Airline,Bizjets,https://www.qatarexec.com.qa/
 06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,Civ,Ooh Get You,Private Airline,Bizjets,https://www.qatarexec.com.qa/
@@ -418,111 +425,107 @@ AD337B,N95NA,NASA,Gulfstream G-V,Gov,Nasa,Sce To Aux,Distinctive,https://www.nas
 AAF954,N806NA,NASA,Lockheed ER2,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov/
 AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov/
 AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov/
-38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,Civ,Vomit Comet,Pass The Sick Bag,Distinctive,
-402F0E,G-BRFB,Private,Rutan Long-Ez,Civ,Whoosh,Shiny,Distinctive,
-40118A,G-TWSR,Private,Silence Aircraft Twister,Civ,Shiny,Whoosh,Distinctive,
-A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive,
-AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Jesus He Knows Me,Old,Distinctive,
-ADFDF8,828000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,
-ADFDF9,929000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,
+38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,Civ,Vomit Comet,Pass The Sick Bag,Distinctive,https://www.airzerog.com/the-airbus-a310-zero-g/
+402F0E,G-BRFB,Private,Rutan Long-Ez,Civ,Whoosh,Shiny,Distinctive,https://en.wikipedia.org/wiki/Rutan_Long-EZ
+40118A,G-TWSR,Private,Silence Aircraft Twister,Civ,Shiny,Whoosh,Distinctive,https://silence-aircraft.de/en/aircraft/
+A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive,https://en.wikipedia.org/wiki/Stinson_Reliant
+ADFDF8,828000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
+ADFDF9,929000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
 400DE5,G-HIJK,Acrobat Ltd (Met Office),Cessna 421C Golden Eagle,Gov,Nice Waether For Ducks,Measuring Stick,Dogs with Jobs,https://www.airport-data.com/images/aircraft/000/783/783107.jpg
-3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,Chopper,Dogs with Jobs,
-300641,I-VICC,Aeronike ltd,Vulcanair P.68R,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,
-7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,Dogs with Jobs,
+3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,Chopper,Dogs with Jobs,https://luftrettung.adac.de/
+7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au/
 401387,G-TVHD,Arena Aviation,Eurocopter Twin Squirrel AS.355 NP,Civ,Is This My Good Side,Specialist,Dogs with Jobs,https://www.arena-aircraft.com/
 403C0C,G-INTV,Arena Aviation,Eurocopter Twin Squirrel AS.355 NP,Civ,Is This My Good Side,Specialist,Dogs with Jobs,https://www.arena-aircraft.com/
-45B5D3,OY-MNS,Bioflight,Vulcanair P.68C,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,
-A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,Dogs with Jobs,
-400978,G-FPLD,Cobham Flight Inspection,Beechcraft King Air B200,Civ,Specialist,Measuring Stick,Dogs with Jobs,
-3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,
-4071F8,G-DVOR,Flight Calibration Services,Diamond Aircraft DA62,Civ,Specialist,Measuring Stick,Dogs with Jobs,
-4076F1,G-TACN,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,
-407908,G-VNAV,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,
+A3301A,N304VS,Calspan Corporation,Gates Learjet 25G,Civ,Specialist,Flying Brick,Dogs with Jobs,https://www.calspan.com/
+400978,G-FPLD,Cobham Flight Inspection,Beechcraft King Air B200,Civ,Specialist,Measuring Stick,Dogs with Jobs,https://www.cobham.com/
+3CCE70,D-CFME,Flight Calibration Services,Beechcraft 350 Super King Air,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com/
+4071F8,G-DVOR,Flight Calibration Services,Diamond Aircraft DA62,Civ,Specialist,Measuring Stick,Dogs with Jobs,http://www.flight-cal.com/
+4076F1,G-TACN,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com/
+407908,G-VNAV,Flight Calibration Services,Diamond Aircraft DA62,Civ,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com/
 3F9AE8,57+05,German Navy,Dornier D228,Mil,What Is That Smell,Marineflieger,Dogs with Jobs,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/A2630-Germany-DO228-9835-RIAT2013.JPG/2560px-A2630-Germany-DO228-9835-RIAT2013.JPG
 3F9C84,57+04,German Navy,Dornier D228,Mil,What Is That Smell,Marineflieger,Dogs with Jobs,https://cdn.jetphotos.com/full/6/70510_1613061242.jpg
-AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot Hot Hot,Dogs with Jobs,
-40081A,G-LUXE,Meteorological Research Flight,BAe 146-301,Civ,Measuring Stick,Cool,Dogs with Jobs,
-406897,G-RIDB,National Grid Electricity Transmission,Bell 429 Global Ranger,Civ,Wichita Lineman,Choppa,Dogs with Jobs,
-405588,G-RIDA,National Grid Electricity Transmission,Eurocopter Twin Squirrel AS.355 NP,Civ,Wichita Lineman,Chopper,Dogs with Jobs,
-400D1C,G-NETR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
-400FE8,G-NLSE,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
-4068E8,G-NLDR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,
-48988E,SP-GEO,Opegieka,Vulcanair P.68C,Civ,Trundle Wheel,Measuring Stick,Dogs with Jobs,https://opegieka.pl/
-400E5E,G-AWNT,Pixair Survey SAS,BN-2A Islander-2A,Civ,Magic Roundabout,Is This My Good Side,Dogs with Jobs,
-43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,BAe Hawk T1,Mil,Pass The Sick Bag,Specialist,Dogs with Jobs,
-407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs,
-C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,
-40668B,G-WPDA,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,
-40668C,G-WPDB,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,
-4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,
-4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,
-406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,
-485EC3,PH-ZCZ,Zeusch Aviation,Beechcraft King Air B200,Civ,Measuring Stick,Magic Roundabout,Dogs with Jobs,
-43EA62,M-LCFC,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football ,
-3F8517,10+23,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,
-3F8518,10+24,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,
-3F8519,10+25,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,
-3F851B,10+27,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,
-3F851A,10+26,German Air Force,Airbus A310-304F,Mil,Luftwaffe,Not a bus,GAF,
-3E89E7,16+02,German Air Force,Airbus A340-313X,Mil,Luftwaffe,Not a bus,GAF,
-3EB1A6,16+01,German Air Force,Airbus A340-313X,Mil,Luftwaffe,Not a bus,GAF,
-3E854F,10+03,German Air Force,Airbus A350-941,Mil,Shiny,Not A Bus,GAF,
-3E8E96,54+34,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3E9BF7,54+02,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3EA048,5426,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3EA1CC,54+04,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3EA653,54+05,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F4368,54+01,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F64F6,54+21,German Air Force,Airbus A400M,Mil,Zoomies,Danger Zone,GAF,
-3F6682,54+11,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F7001,54+06,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F727C,54+08,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F7588,54+09,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3F79F9,54+07,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,
-3E8B41,54+13,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,
-3F4BA9,54+20,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,
-3F66B0,54+32,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,
-3F551D,15+02,German Air Force,Airbus ACJ319-133X,Mil,Luftwaffe,Not a bus,GAF,
-3F7DC1,15+01,German Air Force,Airbus ACJ319-133X,Mil,Luftwaffe,Not a bus,GAF,
-3F97FD,15+04,German Air Force,Airbus ACJ321-231,Mil,Luftwaffe,Not a bus,GAF,
-3CE139,D-CMPD,German Air Force,Beechcraft B200GT King Air,Mil,Luftwaffe,Not so VIP,GAF,
-3FA360,70+96,German Air Force,Bell UH-1D Iroquois,Mil,Luftwaffe,Chopper,GAF,
-3DF28B,625,German Air Force,Bo.105 M,Mil,Luftwaffe,Chopper,GAF,
-3F4E27,14+02,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,
-3F58AE,14+01,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,
-3F6533,14+03,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,
-3F7B3C,14+04,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,
-3E95CA,14+05,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,
-3EBD41,14+06,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,
-3EBE12,14+07,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,
-3F8ED6,12+03,German Air Force,Canadair CL-600-2A12 Challenger 601,Mil,Luftwaffe,VIP,GAF,
-3E9335,3X+XX,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3EA836,30+75,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3EB4FA,30+30,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F5B0F,30+84,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F5C84,31+04,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F7AB3,30+68,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8D6C,31+05,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F06,30+06,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F0B,30+11,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F0C,30+12,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F0F,30+15,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F17,30+23,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F19,30+25,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F1C,30+28,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F21,30+33,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3F8F28,30+40,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3FB107,98+07,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,
-3E936C,30+35,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F03,30+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F0A,30+10,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F0E,30+14,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F14,30+20,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F18,30+24,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3F8F1B,30+27,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3FB103,98+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,
-3FB101,99+01,German Air Force,EuroHawk RQ-4B,Mil,UAV,Eye in the sky,GAF,
-40491E,G-STCH,German Air Force,Fieseler F156A-1 Storch,Mil,History,I am old,GAF,
+AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot Hot Hot,Dogs with Jobs,https://en.wikipedia.org/wiki/747_Supertanker
+40081A,G-LUXE,Meteorological Research Flight,BAe 146-301,Civ,Measuring Stick,Cool,Dogs with Jobs,https://en.wikipedia.org/wiki/Facility_for_Airborne_Atmospheric_Measurements
+406897,G-RIDB,National Grid Electricity Transmission,Bell 429 Global Ranger,Civ,Wichita Lineman,Choppa,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission/
+405588,G-RIDA,National Grid Electricity Transmission,Eurocopter Twin Squirrel AS.355 NP,Civ,Wichita Lineman,Chopper,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission/
+400D1C,G-NETR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,https://www.networkrail.co.uk/
+400FE8,G-NLSE,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,https://www.networkrail.co.uk/
+4068E8,G-NLDR,Network Rail,Eurocopter Twin Squirrel AS.355 NP,Civ,Leaves On The Line,Chopper,Dogs with Jobs,https://www.networkrail.co.uk/
+43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,BAe Hawk T1,Mil,Pass The Sick Bag,Specialist,Dogs with Jobs,https://en.wikipedia.org/wiki/RAF_Centre_of_Aviation_Medicine
+AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,Civ,Testbed,Odd,Dogs with Jobs,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
+407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+40668B,G-WPDA,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+40668C,G-WPDB,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135 P1,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+43EA62,M-LCFC,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football ,https://www.lcfc.com/
+3F8517,10+23,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8518,10+24,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8519,10+25,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F851B,10+27,German Air Force,Airbus A310-304,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F851A,10+26,German Air Force,Airbus A310-304F,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E89E7,16+02,German Air Force,Airbus A340-313X,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB1A6,16+01,German Air Force,Airbus A340-313X,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E854F,10+03,German Air Force,Airbus A350-941,Mil,Shiny,Not A Bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8E96,54+34,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9BF7,54+02,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA048,5426,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA1CC,54+04,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA653,54+05,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4368,54+01,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F64F6,54+21,German Air Force,Airbus A400M,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6682,54+11,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7001,54+06,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F727C,54+08,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7588,54+09,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F79F9,54+07,German Air Force,Airbus A400M,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8B41,54+13,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4BA9,54+20,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F66B0,54+32,German Air Force,Airbus A400M-180,Mil,Luftwaffe,Heavy Duty,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F551D,15+02,German Air Force,Airbus ACJ319-133X,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7DC1,15+01,German Air Force,Airbus ACJ319-133X,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F97FD,15+04,German Air Force,Airbus ACJ321-231,Mil,Luftwaffe,Not a bus,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3CE139,D-CMPD,German Air Force,Beechcraft B200GT King Air,Mil,Luftwaffe,Not so VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA360,70+96,German Air Force,Bell UH-1D Iroquois,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3DF28B,625,German Air Force,Bo.105 M,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4E27,14+02,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F58AE,14+01,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6533,14+03,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7B3C,14+04,German Air Force,Bombardier BD-700 Global 5000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E95CA,14+05,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EBD41,14+06,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EBE12,14+07,German Air Force,Bombardier BD-700 Global 6000,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8ED6,12+03,German Air Force,Canadair CL-600-2A12 Challenger 601,Mil,Luftwaffe,VIP,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9335,3X+XX,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA836,30+75,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB4FA,30+30,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5B0F,30+84,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5C84,31+04,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7AB3,30+68,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8D6C,31+05,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F06,30+06,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F0B,30+11,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F0C,30+12,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F0F,30+15,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F17,30+23,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F19,30+25,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F1C,30+28,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F21,30+33,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F28,30+40,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB107,98+07,German Air Force,Eurofighter Typhoon,Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E936C,30+35,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F03,30+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F0A,30+10,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F0E,30+14,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F14,30+20,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F18,30+24,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8F1B,30+27,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB103,98+03,German Air Force,Eurofighter Typhoon (T),Mil,Zoomies,Danger Zone,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB101,99+01,German Air Force,EuroHawk RQ-4B,Mil,UAV,Eye in the sky,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+40491E,G-STCH,German Air Force,Fieseler F156A-1 Storch,Mil,History,I am old,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8629,4X+XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3E87C9,43+29,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3E8A4F,45+57,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
@@ -530,70 +533,70 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3EB1E3,43+48,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3F5F35,44+75,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3FBC98,46+49,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
-3FAA05,84+05,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA06,84+06,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA12,84+18,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA1C,84+28,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA1D,84+29,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA1F,84+31,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA21,84+33,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA22,84+34,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA26,84+38,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA2B,84+43,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA2C,84+44,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA2E,84+46,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA31,84+49,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA32,84+50,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA36,84+54,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA39,84+57,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA3A,84+58,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA3B,84+59,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA3C,84+60,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA3E,84+62,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA3F,84+63,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA41,84+65,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA47,84+71,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA4A,84+74,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA4B,84+75,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA4C,84+76,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA54,84+84,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA57,84+87,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA58,84+88,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA59,84+89,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA5A,84+90,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA5C,84+92,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA5E,84+94,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA5F,84+95,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA61,84+97,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA82,85+02,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
-3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,
+3FAA05,84+05,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA06,84+06,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA12,84+18,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1C,84+28,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1D,84+29,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1F,84+31,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA21,84+33,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA22,84+34,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA26,84+38,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2B,84+43,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2C,84+44,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2E,84+46,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA31,84+49,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA32,84+50,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA36,84+54,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA39,84+57,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3A,84+58,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3B,84+59,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3C,84+60,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3E,84+62,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3F,84+63,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA41,84+65,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA47,84+71,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4A,84+74,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4B,84+75,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4C,84+76,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA54,84+84,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA57,84+87,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA58,84+88,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA59,84+89,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5A,84+90,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5C,84+92,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5E,84+94,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5F,84+95,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA61,84+97,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA82,85+02,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8BCE,46+54,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3EA437,46+32,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3EA567,46+36,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
@@ -694,67 +697,68 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 3F9707,46+07,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3FAAC0,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3FB13B,98+59,German Air Force,Tornado IDS(T),Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
-3EB90F,50+82,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9911,50+17,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F991D,50+29,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9921,50+33,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9922,50+34,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9923,50+35,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9924,50+36,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9926,50+38,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9928,50+40,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9929,50+41,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F992A,50+42,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F992C,50+44,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F992D,50+45,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F992E,50+46,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9930,50+48,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9931,50+49,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9933,50+51,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9935,50+53,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9936,50+54,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9937,50+55,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9939,50+57,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F993A,50+58,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F993B,50+59,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F993D,50+61,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9941,50+65,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9942,50+66,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9943,50+67,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9945,50+69,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9946,50+70,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9947,50+71,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9948,50+72,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9949,50+73,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F994A,50+74,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F994B,50+75,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F994D,50+77,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F994F,50+79,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9951,50+81,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9953,50+83,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9956,50+86,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9957,50+87,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9958,50+88,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F995A,50+90,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F995B,50+91,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F995C,50+92,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F995D,50+93,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9960,50+96,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9961,50+97,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9983,51+03,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9984,51+04,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9986,51+06,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F9988,51+08,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F998A,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F998C,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,
-3F8BD0,77+04,German Army,Eurocopter EC145-C-2,Mil,Chopper,Luftwaffe,GAF,
-485920,PHGOV,Gov of NL Royal Fam Jet,Boeing 737-600BBJ,Gov,Foutje Bedankt,Bizjet,Governments,
-10148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,Gov,Dictator Alert,Bizjet,Governments,
-0101D1,SU-BTV,Government of Egypt,Dassault Falcon 7X,Gov,Dictator Alert,Bizjet,Governments,https://data.dictatoralert.org/dictatorships/
-010058,SU-BNP,Government of Egypt,Gulfstream GIVSP,Gov,Dictator Alert,Bizjet,Governments,
-505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments,
-43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Mil,Government,Boris,Governments,
+3EB90F,50+82,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9911,50+17,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F991D,50+29,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9921,50+33,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9922,50+34,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9923,50+35,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9924,50+36,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9926,50+38,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9928,50+40,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9929,50+41,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F992A,50+42,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F992C,50+44,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F992D,50+45,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F992E,50+46,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9930,50+48,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9931,50+49,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9933,50+51,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9935,50+53,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9936,50+54,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9937,50+55,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9939,50+57,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F993A,50+58,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F993B,50+59,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F993D,50+61,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9941,50+65,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9942,50+66,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9943,50+67,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9945,50+69,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9946,50+70,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9947,50+71,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9948,50+72,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9949,50+73,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F994A,50+74,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F994B,50+75,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F994D,50+77,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F994F,50+79,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9951,50+81,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9953,50+83,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9956,50+86,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9957,50+87,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9958,50+88,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F995A,50+90,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F995B,50+91,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F995C,50+92,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F995D,50+93,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9960,50+96,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9961,50+97,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9983,51+03,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9984,51+04,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9986,51+06,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9988,51+08,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F998A,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F998C,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8BD0,77+04,German Army,Eurocopter EC145-C-2,Mil,Chopper,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+485920,PHGOV,Gov of NL Royal Fam Jet,Boeing 737-600BBJ,Gov,Foutje Bedankt,Bizjet,Governments,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+10148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+0101D1,SU-BTV,Government of Egypt,Dassault Falcon 7X,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+010058,SU-BNP,Government of Egypt,Gulfstream GIVSP,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk/
+407A3E,G-XATW,Government of UK,Airbus A321neo,Gov,Government,Boris,Governments,https://www.independent.co.uk/news/uk/politics/government-plane-union-flag-paint-livery-b1820418.html
+43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Government,Boris,Governments,https://www.theguardian.com/politics/2020/jun/19/boris-johnson-planes-paint-job-may-render-it-useless-for-military-purposes-says-ex-pilot
 ADFEB7,TBC,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB8,TBC,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,SAM432,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -768,25 +772,26 @@ A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Gove
 40302D,G-BRSF,Boultbee Flight Academy,Supermarine Spitfire IX,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/rr232
 4071BB,G-IRTY,Boultbee Flight Academy,Supermarine Spitfire IX,Civ,Shiny,History,Historic,https://www.silverspitfire.com/
 40232B,G-CCCA,Boultbee Flight Academy,Supermarine Spitfire LFIXe,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/pv202
-403D79,G-ILDA,Boultbee Flight Academy,Supermarine Spitfire T.IX,Civ,War Bird,Speak Up Sonny,Historic,
+403D79,G-ILDA,Boultbee Flight Academy,Supermarine Spitfire T.IX,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/sm520
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk/
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk/
 43C32F,VR930,Fly Navy Heritage Trust,Sea Fury FB11,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk/
-43C332,XP820,Historic Aircraft Flight Trust,DHC2 Beaver AL1,Civ,Old,Speak Up Sonny,Historic,
+43C332,XP820,Historic Aircraft Flight Trust,DHC2 Beaver AL1,Civ,Old,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 401491,G-ANHX,Private,Auster Aircraft Auster AOP.5,Civ,Speak Up Sonny,I Am Old,Historic,http://www.aerialvisuals.ca/AirframeDossier.php?Serial=114444
 401F85,G-BJAL,Private,Bucker 1-131E Jungmann,Civ,Luftwaffe,I Am Old,Historic,https://s3.eu-west-2.amazonaws.com/abpic-media-eu-production/pictures/full_size_0365/1546948-large.jpg
-40155A,G-ARMC,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,
-40522C,G-CERD,Private,OGMA DHC-1 Chipmunk T.20,Civ,Jump Johnny Jump,Obrigado,Historic,
-4022B9,G-PRXI,Propshop,Supermarine Spitfire PR.XI,Civ,War Bird,Speak Up Sonny,Historic,
-00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Jesus He Knows Me,Jesus he Knows me,
-AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot m8,Just Because,
-40721E,G-HITI,Elstree Ink,Airbus Helicopters Squirrel AS.350 B3e,Civ,Choppa,Is This My Good Side,Just Because,
+40155A,G-ARMC,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
+40522C,G-CERD,Private,OGMA DHC-1 Chipmunk T.20,Civ,Jump Johnny Jump,Obrigado,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
+4022B9,G-PRXI,Propshop,Supermarine Spitfire PR.XI,Civ,War Bird,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire_(late_Merlin-powered_variants)
+A06F3A,N127RR,Philadelphia Church of God Inc,Gulfstream G450,Civ,Jesus He Knows Me,Must Be Nice,Jesus he Knows me,https://en.wikipedia.org/wiki/Philadelphia_Church_of_God
+AA9992,N782SP,Samaritans Purse,Douglas DC-8-60/70,Civ,Jesus He Knows Me,Old,Jesus he Knows me,https://en.wikipedia.org/wiki/Douglas_DC-8
+00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Jesus He Knows Me,Jesus he Knows me,https://www.ams.org.za/
+AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot m8,Just Because,https://en.wikipedia.org/wiki/Kelly_Loeffler
+40721E,G-HITI,Elstree Ink,Airbus Helicopters Squirrel AS.350 B3e,Civ,Choppa,Is This My Good Side,Just Because,https://www.elstreestudios.co.uk/
 400DED,G-RULE,Private,Robinson R44 Raven II,Civ,You Came Here In That Thing,Choppa,Just Because,
 4072C9,G-JRER,Private,Tecnam P.2006T,Civ,Odd,Shiny,Just Because,
-C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Just Because,
-A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,
-A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,
-4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H,
+A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,https://www.ups.com/gb/en/Home.page
+A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,https://www.ups.com/gb/en/Home.page
+4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.walesairambulance.com/
 407386,G-PICU,Children's Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://theairambulanceservice.org.uk/childrens-air-ambulance/
 407933,G-CRWL,Cornwall Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://cornwallairambulancetrust.org/
 406B1E,G-CIOS,Cornwall Air Ambulance Trust,Bell MD-900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://cornwallairambulancetrust.org/
@@ -797,6 +802,7 @@ A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came He
 3DE205,D-HFVP,DRF Luftrettung,Aerospatiale SA-365N3 Dauphin 2,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.drf-luftrettung.de/
 3CC57D,D-CCCB,DRF Luftrettung,Gates Learjet 35 A,Civ,M*A*S*H,Bizjet,M*A*S*H,https://www.drf-luftrettung.de/
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135 T2+,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://greatwesternairambulance.com/
+406BA6,G-CWCD,IAS Medical Ltd,Beech B200 Super King Air,Civ,Air Ambo,Id Get That Seen Too,M*A*S*H,https://www.iasmedical.com/
 C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H,https://latitude2009.com/
 C04082,C-FYLD,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Bizjet,M*A*S*H,https://latitude2009.com/
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,
@@ -808,6 +814,7 @@ C04082,C-FYLD,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Ci
 710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H,https://military-medicine.com/almanac/107-saudi-arabia-kingdom-of.html
 406D68,G-SASN,Scottish Air Ambulance Service,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H,
 4043F8,G-SASR,Specialist Aviation Services Ltd,MD Helicopters MD 900 Explorer,Civ,M*A*S*H,Air Ambo,M*A*S*H,
+ACE73A,N930SA,Spectrum Medical Aviation Inc Trustee,Daher TBM 930,Civ,Air Ambo,Id Get That Seen Too,M*A*S*H,https://www.spectrummedical.com/
 4B1A02,HB-JWC,Swiss Air Ambulance AG,Bombardier Challenger 650,Civ,M*A*S*H,Air Ambo,M*A*S*H,
 4071EB,G-TCAA,The Children's Air Ambulance Service,Leonardo AW.169,Civ,M*A*S*H,Air Ambo,M*A*S*H,
 4071AA,G-WENU,Welsh Air Ambulance,Airbus Helicopters H145,Civ,M*A*S*H,Air Ambo,M*A*S*H,
@@ -829,21 +836,23 @@ C04082,C-FYLD,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Ci
 406D26,G-VYGK,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,
 406D27,G-VYGL,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,
 406E9F,G-VYGM,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,
-4009D3,G-FRAS,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,
-4009D4,G-FRAT,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,
-4009D5,G-FRAU,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,
-4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,
-4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,
-4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,
-4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,
-4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,
-4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,
-4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,
-4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,
-400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,
-4009D6,G-FRAW,Draken Europe,Dassault Falcon 20ECM,Civ,Specialist,Target Practice,Military Contractors,
-407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Military Contractors,
-406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42M-NG Guardian,Civ,Specialist,Target Practice,Military Contractors,
+4009D3,G-FRAS,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009D4,G-FRAT,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009D5,G-FRAU,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+4009D6,G-FRAW,Draken Europe,Dassault Falcon 20ECM,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42M-NG Guardian,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
+A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.draken.aero/
+A3DB76,N348EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.draken.aero/
 406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/
 4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/
 407765,G-YVIP,Gama Aviation (UK) Ltd,Beechcraft King Air B200,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/
@@ -888,7 +897,9 @@ ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Spe
 3B776C,19,Armée de l'Air et de l'Espace,Airbus A400M,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7772,7,Armée de l'Air et de l'Espace,Airbus A400M,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75A7,43,Armée de l'Air et de l'Espace,Airbus Phenix 243-MRTT,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B75DD,41,Armée de l'Air et de l'Espace,Airbus Phenix 243-MRTT,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B777F,471,Armée de l'Air et de l'Espace,Boeing C-135FR,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77DA,204,Armée de l'Air et de l'Espace,Boeing E-3F Sentry,Mil,Eye In The Sky,You Aint Seen Me Right,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B76A5,F-RAFC,Armée de l'Air et de l'Espace,Dassault Falcon 2000LX,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B76B3,F-RAFB,Armée de l'Air et de l'Espace,Dassault Falcon 7X,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77E5,F-RAFP,Armée de l'Air et de l'Espace,Dassault Falcon 900,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -947,6 +958,7 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 480C01,NAF40,Royal Netherlands Air Force,Douglas DC-10 KDC-10,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 480C1A,NAF11,Royal Netherlands Air Force,Gulfstream IV,Mil,Bizjet,Must Be Nice,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
 480C06,G-988,Royal Netherlands Air Force,Lockheed C-130H Hercules,Mil,Chonky Boy,Foutje Bedankt,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
+3435C2,2402,Royal Saudi Air Force,Airbus A330-202MRTT,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Royal_Saudi_Air_Force
 3B9BCD,27,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
 3B9BD5,19,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
 3B9BD6,18,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
@@ -955,6 +967,7 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 3B9BDD,9,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
 3B9BDE,TBC,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
 3B9BDF,3,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr/
+3B9BE7,101,French Navy,Dassault Falcon 10 MER,Mil,Bizjet,I Am Old,Other Navies,https://www.etremarin.fr/
 3B9BFE,30,French Navy,Dassault Falcon 50,Mil,Vive La France,Bizjet,Other Navies,https://www.etremarin.fr/
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Ooh La La,Other Navies,https://www.etremarin.fr/
 3B9BAF,74,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Ooh La La,Other Navies,https://www.etremarin.fr/
@@ -965,6 +978,20 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 3DE585,D-HHEB,Polizei Hessen,Eurocopter EC145-C-2,Pol,Police Squad,Choppa,Police Forces,https://www.polizei.hessen.de/Startseite/
 3DA0DC,D-GHEA,Polizei Hessen,Partenavia P.68 Observer 2,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.polizei.hessen.de/Startseite/
 3E010A,D-HRPA,Polizei Rheinland-Pfalz,Eurocopter EC135-P2,Pol,Police Squad,Choppa,Police Forces,https://www.polizei.rlp.de/de/startseite/
+300641,I-VICC,Aeronike ltd,Vulcanair P.68R,Civ,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aeronike.com/en/home-2/
+30076D,OY-VPS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+459E13,OY-GPS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45B533,OY-MIS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45B593,OY-MLS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45B5D3,OY-MNS,Bioflight,Vulcanair P.68C,Civ,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk/
+45CDD3,OY-SNS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45CF33,OY-SYS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45D1D3,OY-TNS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45D9D3,OY-VNS,Bioflight,Vulcanair P.68C,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+45CE13,OY-SPS,Bioflight,Vulcanair P.68R,Civ,Theodolite,Wrong Turn At Albuquerque,Ptolemy would be proud,http://bioflight.dk/
+48988E,SP-GEO,Opegieka,Vulcanair P.68C,Civ,Trundle Wheel,Measuring Stick,Ptolemy would be proud,https://opegieka.pl/
+400E5E,G-AWNT,Pixair Survey SAS,BN-2A Islander-2A,Civ,Magic Roundabout,Is This My Good Side,Ptolemy would be proud,
+485EC3,PH-ZCZ,Zeusch Aviation,Beechcraft King Air B200,Civ,Measuring Stick,Magic Roundabout,Ptolemy would be proud,
 4D03C0,LX-N90442,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
 4D03C1,LX-N90443,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
 4D03C2,LX-N90444,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
@@ -1027,7 +1054,7 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C6F8,ZZ335,Royal Air Force,Airbus Voyager KC.3,Mil,Fill Her Up,Tiger Tokens,RAF,https://www.raf.mod.uk/
 43C6FA,ZZ337,Royal Air Force,Airbus Voyager KC.3,Mil,Fill Her Up,Tiger Tokens,RAF,https://www.raf.mod.uk/
 43C6FB,ZZ338,Royal Air Force,Airbus Voyager KC.3,Mil,Fill Her Up,Tiger Tokens,RAF,https://www.raf.mod.uk/
-43C759,ZZ512,Royal Air Force,Augusta-Westland Wildcat AH.1,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
+43C759,ZZ512,Royal Air Force,Augusta-Westland Wildcat AH.1,Mil,Choppa,Hiiiiiigh In The Sky,RAF,https://www.raf.mod.uk/
 43C42F,XX261,Royal Air Force,BAe Hawk T1a,Mil,Fighter,Do A Barrel Roll,RAF,https://www.raf.mod.uk/
 43C45F,XX332,Royal Air Force,BAe Hawk T1a,Mil,Fighter,Do A Barrel Roll,RAF,https://www.raf.mod.uk/
 43C47A,ZK010,Royal Air Force,BAe Hawk T2,Mil,Fighter,Do A Barrel Roll,RAF,https://www.raf.mod.uk/
@@ -1074,6 +1101,7 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C5F9,ZH902,Royal Air Force,Boeing-Vertol Chinook HC.5,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C7D0,ZK553,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C7D7,ZK560,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
+43C7D9,ZK562,Royal Air Force,Boeing-Vertol Chinook HC.6,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C4BB,ZA681,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C4BE,ZA714,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C4C3,ZA684,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
@@ -1094,15 +1122,16 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C136,ZH877,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
 43C1F1,ZH872,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
 43C1FF,ZH875,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
+43C8D1,ZM330,Royal Air Force,Raytheon T-6C Texan T.1,Mil,Training Wheels,Pass The Sick Bag,RAF,https://www.raf.mod.uk/
 43C8CC,ZM325,Royal Air Force,T-6C Texan T.1,Mil,Training Wheels,Pass The Sick Bag,RAF,https://www.raf.mod.uk/
-406F50,GZ-100,32 The Royal Squadron RAF,Agusta Westland AW109SP,Mil,Yes Maam,Red Carpet,Royal Aircraft,
-43C146,ZE700,33 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,
-43C147,ZE701,34 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,
-43C704,ZE707,35 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,
-43C705,ZE708,36 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,
-406BC6,G-XXEC,The Queens Helicopter flight ,Agusta Westland A109S,Civ,Yes Maam,Red Carpet,Royal Aircraft,
-405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,
-406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,
+406F50,GZ-100,32 The Royal Squadron RAF,Agusta Westland AW109SP,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
+43C146,ZE700,32 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
+43C147,ZE701,32 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
+43C704,ZE707,32 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
+43C705,ZE708,32 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
+406BC6,G-XXEC,The Queens Helicopter flight ,Agusta Westland A109S,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
+405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
+406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
 43C435,XX280,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
 43C439,XX285,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
 43C45C,XX329,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
@@ -1241,6 +1270,7 @@ A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justic
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet,https://www.justice.gov/
 AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208 B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet,https://www.justice.gov/
 407918,G-TEKV,UK Border Force,Tekever AR5,Gov,You Aint Seen Me Right,Eye In The Sky,UAV,https://www.justice.gov/
+AE5026,167792,United States Air Force,Bell MQ-8B,Mil,Uphold The Public Trust,Where Is The Pilot,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_MQ-8_Fire_Scout
 400F28,G-MPSA,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 400F29,G-MPSB,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 400F2A,G-MPSC,National Police Air Service,Airbus Helicopters H145,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
@@ -1298,11 +1328,12 @@ AAF2C6,N804X,Northrop Grumman Systems,Bombardier CRJ-700,Civ,Odd,U Wot m8,Under 
 440377,OE-VDO,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation,
 440378,OE-VDP,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation,
 4404D6,OE-FMF,Thales UK,Diamond Aircraft DA62MPP,Civ,Covert,Eye In The Sky,Under Observation,
+AF4A7B,168207,United States Marine Corps,Beechcraft UC-12W Huron,Mil,USAF,Not so VIP,United States Navy,https://en.wikipedia.org/wiki/Beechcraft_C-12_Huron
 AE1439,TBC,United States Marine Corps,Cessna UC-35D Citation,Mil,USMC,Bizjet,United States Navy,https://www.navy.mil/
-AE2F9B,TBC,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,United States Navy,https://www.navy.mil/
-AE5B6B,TBC,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,United States Navy,https://www.navy.mil/
-AE6043,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,United States Navy,https://www.navy.mil/
-AE6044,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,United States Navy,https://www.navy.mil/
+AE2F9B,TBC,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,USMC,Cargo,United States Navy,https://www.navy.mil/
+AE5B6B,TBC,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,USMC,Cargo,United States Navy,https://www.navy.mil/
+AE6043,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,USMC,Cargo,United States Navy,https://www.navy.mil/
+AE6044,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,USMC,Cargo,United States Navy,https://www.navy.mil/
 AE04D7,CNV4829,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
 AE04DA,CNV4082,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
 AE1252,165836,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
@@ -1593,7 +1624,7 @@ AE0234,TEAM56,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Ch
 AE6A6D,RCH324,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
 AF351F,F35LTNG,United States Air Force,F35 Lightning II,Mil,Fighter,Zoomies,USAF,https://www.airforce.com/
 AE0193,VALOR11,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
-AE01AE,FALCN63,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
+AE01AE,84-0085,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE01B0,VALOR42,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE01B9,84-0083,United States Air Force,Gates Learjet C-21A,Mil,Government,Bizjet,USAF,https://www.airforce.com/
 AE26CD,89-2008,United States Air Force,General Dynamics F-16 Fighting Falcon,Mil,Chappy,You Just Lost A Refinery,USAF,https://youtu.be/DyruzLjVwbc?t=41
@@ -1605,7 +1636,7 @@ AE0406,99-0402,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,
 AE04F9,SAM025,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE087F,TBC,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE0978,01-1976,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
-AE115E,SPAR99,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
+AE115E,01-1930,United States Air Force,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE206D,06-0500,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE4A81,SAM265,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
 AE4DDD,SAM716,United States Air Force,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com/
@@ -1667,9 +1698,9 @@ AE0959,80-1078,United States Air Force,Lockheed TU2-S,Mil,Hiiiiiigh In The Sky,I
 AE0965,80-1091,United States Air Force,Lockheed TU2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0961,80-1086,United States Air Force,Lockheed U2-A,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE096A,80-1099,United States Air Force,Lockheed U2-R,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0949,68-10329,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
+AE0949,68-10329,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE094A,68-10331,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094B,68-10336,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
+AE094B,68-10336,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE094C,68-10337,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE094F,80-1066,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0950,80-1067,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
@@ -1691,7 +1722,7 @@ AE0963,80-1089,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I 
 AE0964,80-1090,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0966,80-1092,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0967,80-1093,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,All About That Wingspan,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
+AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0969,80-1096,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE2817,86-0174,United States Air Force,McDonnell Douglas F15C Eagle,Mil,Fighter,Zoomies,USAF,https://www.airforce.com/
 AE04F4,84-0165,United States Army,Beechcraft C-12F Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF,
@@ -1707,47 +1738,53 @@ AE13D1,04-01778,United States Army,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,USAF
 AE293B,07-8614,United States Army,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,USAF,
 ADFD74,91-00507,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,USAF,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 ADFD76,91-00506,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,USAF,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
-3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How Does It Fly,Shiny,Vanity Plate,
-3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How Does It Fly,Shiny,Vanity Plate,
+3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How Does It Fly,Shiny,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
+3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How Does It Fly,Shiny,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 43E9FE,M-AGIK,JMI Aviation Management Ltd,Dassault Falcon 900LX,Civ,Ooh Get You,How Does It Fly,Vanity Plate,
 424BA9,M-NSTR,LS Aircraft Limited,Bombardier Global 7500,Civ,Bizjet,Ooh Get You,Vanity Plate,
 43E9CE,M-USIK,Nassef Sawiris,Gulfstream G650,Civ,Bizjet,Culture Beat,Vanity Plate,
 43E9CD,M-KSSN,Osni Sawiris,Gulfstream G650,Civ,Bizjet,Vanity Plate,Vanity Plate,
 43EEC7,2-DOGZ,Private,Diamond Aircraft DA62,Civ,Culture Beat,Vanity Plate,Vanity Plate,https://live.staticflickr.com/65535/48382535567_58a7caee29_b.jpg
-43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Vanity Plate,
+43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 3D9963,D-GEIL,Private,Piper PA-34-220T Seneca V,Civ,Hot Hot Hot Hot,Vanity Plate,Vanity Plate,
-43ED0B,2-FAST,Skypark (UK) Ltd,Piaggio P-180 Avanti,Civ,How Does It Fly,You Came Here In That Thing,Vanity Plate,
+43ED0B,2-FAST,Skypark (UK) Ltd,Piaggio P-180 Avanti,Civ,How Does It Fly,You Came Here In That Thing,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 43EA85,M-RBIG,Volantair LP Inc,Bombardier Learjet 45,Civ,Culture Beat,Must Be Nice,Vanity Plate,
-4009E6,ZJ708,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C1E6,ZJ707,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C5FC,ZJ242,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C603,ZJ240,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C8EA,ZM516,Defense Helicopter Flying School,Eurocopter EC135,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C8F5,ZM527,Defense Helicopter Flying School,Eurocopter EC135,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C8E3,ZM509,Defense Helicopter Flying School,Eurocopter EC135-T3,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-43C72E,ZJ246,Defense Helicopter Flying School,Eurocopter Squirrel AS.350 HT2,Mil,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
-40740C,G-ETPE,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-40740D,G-ETPF,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-40740E,G-ETPG,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-40740F,G-ETPH,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3e,Civ,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-4005A9,G-ETPK,Empire Test Pilots School,Avro 146 RJ70,Civ,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-406CDB,G-ETPM,Empire Test Pilots School,Diamond Aircraft DA42M-NG,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-40738A,G-ETPC,Empire Test Pilots School,Grob G-120 TP-A,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-4074C9,G-ETPA,Empire Test Pilots School,Pilatus PC-21,Civ,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Civ,L-Plate,Pass The Sick Bag,Watch me fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
-43C8E7,ZM513,Royal Air Force,Airbus Helicopters Juno HT.1,Mil,Training Wheels,Choppa,Watch me Fly,
-43C8D5,ZM334,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C8D6,ZM335,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C8D7,ZM336,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C8D8,ZM337,Royal Air Force,Embraer Phenom 100,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C618,ZZ500,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C619,ZZ501,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C61A,ZZ502,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
-43C61B,ZZ503,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Pass The Sick Bag,Watch me fly,
+43C8E7,ZM513,Defense Helicopter Flying School,Airbus Helicopters Juno HT.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+4009E6,ZJ708,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C1E6,ZJ707,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C5FC,ZJ242,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C603,ZJ240,Defense Helicopter Flying School,Bell Griffin HT.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C8EA,ZM516,Defense Helicopter Flying School,Eurocopter EC135,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C8F5,ZM527,Defense Helicopter Flying School,Eurocopter EC135,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C8E3,ZM509,Defense Helicopter Flying School,Eurocopter EC135-T3,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+43C72E,ZJ246,Defense Helicopter Flying School,Eurocopter Squirrel AS.350 HT2,Mil,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Defence_Helicopter_Flying_School
+4079B3,G-RNGS,Empire Test Pilots School,Airbus Helicopters H145,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40740C,G-ETPE,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40740D,G-ETPF,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40740E,G-ETPG,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40740F,G-ETPH,Empire Test Pilots School,Airbus Helicopters Squirrel AS.350 B3e,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+401151,G-ETPJ,Empire Test Pilots School,Augusta 109E,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+405FF8,G-ETPI,Empire Test Pilots School,Augusta 109E,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+4005A9,G-ETPK,Empire Test Pilots School,Avro 146 RJ70,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+400871,G-EPTL,Empire Test Pilots School,Avro 146 RJ70,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+406CDB,G-ETPM,Empire Test Pilots School,Diamond Aircraft DA42M-NG,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40738A,G-ETPC,Empire Test Pilots School,Grob G-120 TP-A,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+40738B,G-ETPD,Empire Test Pilots School,Grob G-120 TP-A,Civ,L-Plate,Pass The Sick Bag,Watch me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+4074C9,G-ETPA,Empire Test Pilots School,Pilatus PC-21,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+4074CA,G-ETPB,Empire Test Pilots School,Pilatus PC-21,Civ,L-Plate,Training Wheels,Watch Me Fly,https://en.wikipedia.org/wiki/Empire_Test_Pilots%27_School
+43C8D5,ZM334,Royal Air Force (45 Squadron),Embraer Phenom 100,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1/
+43C8D6,ZM335,Royal Air Force (45 Squadron),Embraer Phenom 100,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1/
+43C8D7,ZM336,Royal Air Force (45 Squadron),Embraer Phenom 100,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1/
+43C8D8,ZM337,Royal Air Force (45 Squadron),Embraer Phenom 100,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1/
+43C618,ZZ500,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/fleet-air-arm
+43C619,ZZ501,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/fleet-air-arm
+43C61A,ZZ502,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/fleet-air-arm
+43C61B,ZZ503,Royal Navy Fleet Air Arm,Beechcraft Corp King Air Avenger T.1,Mil,L-Plate,Training Wheels,Watch Me Fly,https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/fleet-air-arm
 4031E6,G-SAGA,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,
 406636,G-CGXW,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,https://en.wikipedia.org/wiki/Grob_G_109
 4069BC,G-CHYB,Private,Grob G 109B,Civ,All About That Wingspan,Not A Car,Who needs an Engine ?,
 407626,G-OASM,Private,HpH 304 Shark ES,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
+406F1F,G-NDJS,Private,M & D Flugzeugbau JS-MD1 C Revelation,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,https://jonkersailplanes.co.za/wp-content/uploads/2020/06/Safety-scaled.jpg
 405319,G-CJOD,Private,Rolladen-Schneider LS8 18,Civ,Whoosh,All About That Wingspan,Who needs an Engine ?,https://cdn.jetphotos.com/full/5/24787_1563980927.jpg
 4066A3,G-KBWP,Private,Schempp-Hirth Arcus T,Civ,Whoosh,Where Is The Engine,Who needs an Engine ?,
 406887,G-SAXL,Private,Schempp-Hirth Duo Discus xLT,Civ,All About That Wingspan,Whoosh,Who needs an Engine ?,
@@ -1774,6 +1811,8 @@ ADFD76,91-00506,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,U
 43C780,ZK357,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C784,ZK361,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C799,ZK339,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
+43C79A,ZK372,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
+43C79B,ZK373,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C79D,ZK375,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C79E,ZK376,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C7A5,ZK428,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
@@ -1783,6 +1822,7 @@ ADFD76,91-00506,United States Army,Swearingen C-26B Metro,Mil,Bizjet,Not A Bus,U
 43C7AF,ZK438,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43CAF0,ZK342,Royal Air Force,Eurofighter Typhoon FGR4,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
+43C70E,ZK383,Royal Air Force,Eurofighter Typhoon T3,Mil,Fighter,I Feel The Need....,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C811,ZM142,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
 43C813,ZM150,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
 43C817,ZM141,Royal Air Force,F35B Lightning II,Mil,How Much,Foutje Bedankt,Zoomies,https://www.thedrive.com/search?q=f35
