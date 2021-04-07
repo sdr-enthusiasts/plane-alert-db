@@ -144,6 +144,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Slagboom & Peeters nv (Aerial Surveys)
 - Air Affairs Australia
 - ADAC Germany
+- Denmar Technical Services (Stealth radar testing)
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
