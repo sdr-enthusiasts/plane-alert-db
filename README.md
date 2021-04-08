@@ -28,7 +28,7 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **1827** unique aircraft in **40** different categories.
+The list contains **1852** unique aircraft in **40** different categories.
 
 - [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags and categories.
 - [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
@@ -40,16 +40,16 @@ The list contains **1827** unique aircraft in **40** different categories.
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
 - Aerobatic Teams \- Red Arrows, Blue Angels etc (49)
-- Army Air Corp \- UK Army Air Corp. Mainly Helicopters (16)
+- Army Air Corp \- UK Army Air Corp. Mainly Helicopters (18)
 - As Seen on TV \- Companies and Brands (29)
 - Battle of Britiain Memorial Flight \- Historic British aircraft from WW2 (12)
 - Big Hello \- Large Helicopters (sic) (38)
-- Bizjets \- Fancy pants planes for fancy pants people (17)
+- Bizjets \- Fancy pants planes for fancy pants people (18)
 - Coastguard \- Coastguard, Customs and Border Patrols (15)
-- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (16)
+- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (18)
 - Dictator Alert \- People of potentially questionable morals and values (210)
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (30)
-- Dogs with Jobs \- Aircraft with specific roles and/or modifications (30)
+- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (31)
+- Dogs with Jobs \- Aircraft with specific roles and/or modifications (31)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (290)
 - Governments \- Aircraft registired to Governments (16)
@@ -60,25 +60,25 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (41)
 - Must be nice \- Billionaires, not millionaires, daaaahling (12)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (73)
-- Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (15)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (75)
+- Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (16)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (4)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (14)
 - Quango \- Nato, United Nations, World Bank etc (15)
 - RAF \- Aircraft of the Royal Air Force (117)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
-- Royal Navy \- Aircraft of the Royal Navy (51)
+- Royal Navy \- Aircraft of the Royal Navy (54)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (86)
 - UAV \- It's not natural, I tell 'ya (2)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- Under Observation \- Up to something dodgy, maybe (33)
+- Under Observation \- Up to something dodgy, maybe (34)
 - United States Navy \- United States naval avaitors. Some say they are the best of the best. (39)
-- USAF \- Aircraft of the United States Air Force (371)
-- Vanity Plate \- Distinctive registrations (11)
+- USAF \- Aircraft of the United States Air Force (375)
+- Vanity Plate \- Distinctive registrations (12)
 - Watch Me Fly \- Flying and Training Schools (31)
-- Who needs an Engine ? \- Gliders etc (11)
+- Who needs an Engine ? \- Gliders etc (15)
 - You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (6)
-- Zoomies \- Fast jets, fighters. Anything that moves fast. (29)
+- Zoomies \- Fast jets, fighters. Anything that moves fast. (30)
 
 # To do / Ideas
 
