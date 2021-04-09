@@ -31,8 +31,12 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 The list contains **1852** unique aircraft in **40** different categories.
 
 - [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags and categories.
-- [community-list.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
-- [dictator-alert.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/dictator-alert.txt) - A seperate list with only Dictators. These aircraft are also included in the main list.
+- [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
+- [plane-alert-civ.csv] (https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive (387)
+- [plane-alert-mil.csv] (https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only (1092)
+- [plane-alert-pol.csv] (https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces (28)
+- [plane-alert-gov.csv] (https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators (345)
+- [badgers-best.csv] (https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections (699)
 
 
 # Description of Categories	   
