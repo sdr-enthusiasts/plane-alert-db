@@ -1,9 +1,9 @@
 # plane-alert-db
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent https://github.com/kx1t/docker-planefence and takes the form 
 
-- ICAO,Ident,Operator,Type,CMPG,$Tag,#$Tag2,Category
+- ICAO,Ident,Operator,Type,CMPG,$Tag,#$Tag2,Category,Link
 
-e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,M\*A\*S\*H 
+e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,M\*A\*S\*H,https://cornwallairambulancetrust.org/
 
 Add these characters to the column headers to control the behavior of PlaneAlert
 
