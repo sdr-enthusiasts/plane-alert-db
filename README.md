@@ -1,4 +1,7 @@
 # plane-alert-db
+
+**NOTE - The main file format has changed from .txt to .csv - the old file will remain available (without updates) until 2021/05/01, at which point it will be deleted. Please update any links to the .txt file immediately**
+
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent https://github.com/kx1t/docker-planefence and takes the form 
 
 - ICAO,Ident,Operator,Type,CMPG,$Tag,#$Tag2,Category,#$Link
@@ -28,15 +31,15 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **1852** unique aircraft in **40** different categories.
+The list contains **1865** unique aircraft in **40** different categories.
 
-- [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags,categories and links. (1852)
+- [plane-alert-db.txt](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.txt) - The list of interesting aircraft, with tags,categories and links. (1865)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.  
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive (387)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only (1092)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive (391)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only (1100)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces (28)
-- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators (345)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections (699)
+- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators (346)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections (701)
 
 
 # Description of Categories	   
@@ -44,18 +47,18 @@ The list contains **1852** unique aircraft in **40** different categories.
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
 - Aerobatic Teams \- Red Arrows, Blue Angels etc (49)
-- Army Air Corp \- UK Army Air Corp. Mainly Helicopters (18)
-- As Seen on TV \- Companies and Brands (29)
+- Army Air Corp \- UK Army Air Corp. Mainly Helicopters (20)
+- As Seen on TV \- Companies and Brands (31)
 - Battle of Britiain Memorial Flight \- Historic British aircraft from WW2 (12)
 - Big Hello \- Large Helicopters (sic) (38)
 - Bizjets \- Fancy pants planes for fancy pants people (18)
 - Coastguard \- Coastguard, Customs and Border Patrols (15)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (18)
 - Dictator Alert \- People of potentially questionable morals and values (210)
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (31)
+- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (33)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (31)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
-- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (290)
+- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (291)
 - Governments \- Aircraft registired to Governments (16)
 - Historic \- It's older than I am, and most likely has a prop. (14)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (3)
@@ -64,20 +67,20 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (41)
 - Must be nice \- Billionaires, not millionaires, daaaahling (12)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (75)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (74)
 - Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (16)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (4)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (14)
-- Quango \- Nato, United Nations, World Bank etc (15)
-- RAF \- Aircraft of the Royal Air Force (117)
+- Quango \- Nato, United Nations, World Bank etc (18)
+- RAF \- Aircraft of the Royal Air Force (118)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
 - Royal Navy \- Aircraft of the Royal Navy (54)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (86)
 - UAV \- It's not natural, I tell 'ya (2)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- Under Observation \- Up to something dodgy, maybe (34)
+- Under Observation \- Up to something dodgy, maybe (33)
 - United States Navy \- United States naval avaitors. Some say they are the best of the best. (39)
-- USAF \- Aircraft of the United States Air Force (375)
+- USAF \- Aircraft of the United States Air Force (378)
 - Vanity Plate \- Distinctive registrations (12)
 - Watch Me Fly \- Flying and Training Schools (31)
 - Who needs an Engine ? \- Gliders etc (15)
