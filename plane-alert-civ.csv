@@ -49,6 +49,8 @@ A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As seen on TV,https://www.jnj.com/
 A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,Civ,Bizjet,Not so VIP,As Seen on TV,https://www.youtube.com/watch?v=dvYvQeNeq3A
 AC404F,N889LS,Las Vegas Sands Corp,Boeing 737-NG 73T/W BBJ,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.youtube.com/watch?v=BQtn9q_wjdE
+AAA438,N785MM,Mandalay Resort Group,Embraer Lineage 1000 E,Civ,Bizjet,Ooh Get You,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
+7618CC,AP-FFL,Pak-Arab Fertilizers,Bombardier Challenger 605,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.youtube.com/watch?v=7-EVAH3HaB0
 43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Bizjet,Must Be Nice,As Seen on TV,https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLiizLDJg9OLPzUzOSEzNUchXyElNLKoEAHlfCPw&q=michael+o+leary&oq=michael+o+&aqs=chrome.1.69i57j46l4j69i60l3.3711j0j9&sourceid=chrome&ie=UTF-8
 4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.shell.co.uk/business-customers/shell-aviation.html
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,As seen on TV,https://www.flyingbulls.at/en/
@@ -104,7 +106,7 @@ A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,Civ,Skycrane,Thunderbird 2,Big He
 400778,G-SWRD,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,https://www.2excelaviation.com/our-activity/
 4072CE,G-TGPG,2 Excel Aviation (Broadsword),Boeing 737-300 VIP,Civ,Must Be Nice,VIP,Bizjets,https://www.2excelaviation.com/our-activity/
 ABDE66,N864HD,Aircraft Guaranty Corp Trustee,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
-896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,Civ,Must Be Nice,,Bizjets,https://www.dc-aviation.ae/
+896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,Civ,Must Be Nice,Bizjet,Bizjets,https://www.dc-aviation.ae/
 A324A9,N301SR,Essar Shipping and Logistics Ltd,Boeing 737-NG 7JV BBJ/W,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
 A9E51E,N737AT,Hillwood Airways,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
 3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
@@ -158,9 +160,11 @@ A046CB,N117GA,Berlin Airlift Historical Foundation,Boeing C-97G Stratofreighter,
 A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,Civ,Cargo,Brrrrrrrrrrrrrrr,Distinctive,http://www.lynden.com/lac/
 406C65,G-JWMA,Martin Baker Aircraft,Gloster Meteor T7,Civ,Old,Jump Johnny Jump,Distinctive,https://martin-baker.com/
 38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,Civ,Vomit Comet,Pass The Sick Bag,Distinctive,https://www.airzerog.com/the-airbus-a310-zero-g/
+40370E,G-BUVA,Private,Piper PA-22 135 Tri-Pacer,Civ,Tricycle,You Came Here In That Thing,Distinctive,https://en.wikipedia.org/wiki/Piper_PA-20_Pacer
 402F0E,G-BRFB,Private,Rutan Long-Ez,Civ,Whoosh,Shiny,Distinctive,https://en.wikipedia.org/wiki/Rutan_Long-EZ
 40118A,G-TWSR,Private,Silence Aircraft Twister,Civ,Shiny,Whoosh,Distinctive,https://silence-aircraft.de/en/aircraft/
 A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive,https://en.wikipedia.org/wiki/Stinson_Reliant
+406D00,G-CIMX,Private,Westland Scout AH.1,Civ,Chopper,Speak Up Sonny,Distinctive,https://en.wikipedia.org/wiki/Westland_Scout
 A0552B,N120RB,VREF Management Inc,Cirrus Jet Vision SF50,Civ,Backpack Tadpole V-Jet,Shiny,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet/
 3E120D,D-HYAN,ADAC Luftrettung,Airbus Helicopters H145,Civ,Big Bird,Chopper,Dogs with Jobs,https://luftrettung.adac.de/
 403C0C,G-INTV,Arena Aviation,Eurocopter Twin Squirrel AS.355 NP,Civ,Is This My Good Side,Specialist,Dogs with Jobs,https://www.arena-aircraft.com/
@@ -268,8 +272,8 @@ ACE73A,N930SA,Spectrum Medical Aviation Inc Trustee,Daher TBM 930,Civ,Air Ambo,I
 4009D6,G-FRAW,Draken Europe,Dassault Falcon 20ECM,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
 407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
 406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42M-NG Guardian,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero/
-A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.draken.aero/
-A3DB76,N348EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.draken.aero/
+A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.youtube.com/watch?v=jk0gBZtTYUA
+A3DB76,N348EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.youtube.com/watch?v=jk0gBZtTYUA
 4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/
 406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beechcraft Corp King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/
 407765,G-YVIP,Gama Aviation (UK) Ltd,Beechcraft King Air B200,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2/

@@ -17,6 +17,7 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 43C257,ZJ194,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C259,ZJ196,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C25B,ZJ198,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C27C,ZJ209,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C26D,ZJ216,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C272,ZJ221,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C274,ZJ223,Army Air Corps,AgustaWestland Apache AH.1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
@@ -31,6 +32,7 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 43C72D,ZJ248,Army Air Corps,Eurocopter Squirrel AS.350 HT2,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C07D,XW847,Army Air Corps,Westland/Aerospatiale Gazelle SA.341 AH.1,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
+43C6C5,ZZ413,Royal Navy,AugustaWestland Wildcat HMA2,Mil,Choppa,Brrrrrrrrrrrrrrr,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps/
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
 43C38E,WG518,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
 43C38D,WG846,Battle of Britiain Memorial Flight,DHC1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight/
@@ -120,70 +122,70 @@ AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coa
 3FBC98,46+49,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3E92AC,4X-XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3E8629,4X+XX,German Air Force,Panavia Tornado,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
-3FAA05,84+05,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA06,84+06,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA12,84+18,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1C,84+28,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1D,84+29,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1F,84+31,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA21,84+33,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA22,84+34,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA26,84+38,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2B,84+43,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2C,84+44,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2E,84+46,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA31,84+49,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA32,84+50,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA36,84+54,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA39,84+57,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3A,84+58,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3B,84+59,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3C,84+60,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3E,84+62,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3F,84+63,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA41,84+65,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA47,84+71,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4A,84+74,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4B,84+75,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4C,84+76,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA54,84+84,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA57,84+87,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA58,84+88,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA59,84+89,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5A,84+90,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5C,84+92,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5E,84+94,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5F,84+95,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA61,84+97,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA82,85+02,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Chopper,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA05,84+05,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA06,84+06,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA12,84+18,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1C,84+28,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1D,84+29,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1F,84+31,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA21,84+33,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA22,84+34,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA26,84+38,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2B,84+43,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2C,84+44,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2E,84+46,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA31,84+49,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA32,84+50,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA36,84+54,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA39,84+57,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3A,84+58,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3B,84+59,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3C,84+60,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3E,84+62,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA3F,84+63,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA41,84+65,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA47,84+71,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4A,84+74,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4B,84+75,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4C,84+76,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA54,84+84,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA57,84+87,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA58,84+88,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA59,84+89,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5A,84+90,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5C,84+92,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5E,84+94,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA5F,84+95,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA61,84+97,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA82,85+02,German Air Force,Sikorsky CH-53G Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,Mil,Luftwaffe,Ho Ho Ho,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F9717,46+23,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3F7620,46+24,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
 3F5FBB,46+25,German Air Force,Tornado ECR,Mil,Zoomies,Danger Zone,GAF,http://torinak.com/qaop#!tll
@@ -338,6 +340,7 @@ AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coa
 3F998A,51+10,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F998C,51+12,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,U Wot m8,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F8BD0,77+04,German Army,Eurocopter EC145-C-2,Mil,Chopper,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 ADFEBA,SAM140,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,SAM432,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -367,10 +370,12 @@ AE0446,99-6143,United States Air Force,Boeing C-32B,Mil,CIA,State Dept,Governmen
 3B75EC,5890,Armée de l'Air et de l'Espace,Lockheed KC-130J Hercules,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77EC,146,Armée de l'Air et de l'Espace,Socata TBM 700 A,Mil,Ou Sont Les Bagages,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 44F682,CT-02,Belgian Air Component,Airbus A400M,Mil,Cargo,Chonky Boy,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent/
+44F683,CT-03,Belgian Air Component,Airbus A400M,Mil,Cargo,Chonky Boy,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent/
 449825,BAF83,Belgian Air Component,Dassault Falcon 7X,Mil,Bizjet,Must Be Nice,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent/
 44F42B,CH-11,Belgian Air Component,Lockheed C-130H Hercules,Mil,Waffles,Wrong Turn At Albuquerque,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent/
 498422,2801,Czech Air Force,Airbus ACJ319-115,Mil,Czech Air Force,Not A Bus,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,Mil,Bizjet,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Ecuadorian_Air_Force
+B77FD,103,French Air Force,Socata TBM 700 A,Mil,Ou Sont Les Bagages,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 4680D1,HAF352C,Hellenic Air Force,Embraer ERJ-135,Mil,Hellenic Air Force,VIP,Other Air Forces,https://en.wikipedia.org/wiki/Hellenic_Air_Force
 477FF7,607,Hungarian Air Force,Dassault Falcon 7X,Mil,Hungarian Air Force,VIP,Other Air Forces,https://en.wikipedia.org/wiki/Hungarian_Air_Force
 4CA13E,252,Irish Air Corps,CASA CN-235 100MPA,Mil,Luck Of The Irish,Billy Murphy,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps/
@@ -393,9 +398,6 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air
 706217,KAF342,Kuwait Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Kuwait_Air_Force
 7061F5,KAF326,Kuwait Air Force,Lockheed KC-130J Hercules,Mil,Wrong Turn At Albuquerque,You Lost Mate,Other Air Forces,https://en.wikipedia.org/wiki/Kuwait_Air_Force
 44F681,CT-01,Luxembourg Armed Forces,Airbus A400M,Mil,Cargo,Chonky Boy,Other Air Forces,https://en.wikipedia.org/wiki/Luxembourg_Army#Luxembourg_Army_Air_Force
-480C40,T-054,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
-480C41,T-055,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
-480C42,T-056,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,M*A*S*H,Other Air Forces,http://www.occar.int/first-mmf-medical-evacuation-aircraft-accepted
 0641E1,5N-FGZ,Nigerian Air Force,Bombardier Challenger 605,Mil,Bizjet,Wrong Turn At Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Nigerian_Air_Force
 48D961,2,Polish Air Force,Gulfstream G550,Mil,Bizjet,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Polish_Air_Force
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en/
@@ -437,6 +439,9 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 481041,N-088,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
 48104F,N-318,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
 481040,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
+480C40,T-054,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Quango,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
+480C41,T-055,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,Tiger Tokens,Quango,https://en.wikipedia.org/wiki/Airbus_A330_MRTT#Multinational_Multi-Role_Tanker_Transport_Fleet
+480C42,T-056,Multinational MRTT Fleet,Airbus KC-30M,Mil,Fill Her Up,M*A*S*H,Quango,http://www.occar.int/first-mmf-medical-evacuation-aircraft-accepted
 4D03C0,LX-N90442,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
 4D03C1,LX-N90443,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
 4D03C2,LX-N90444,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int/
@@ -523,7 +528,7 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C567,ZK036,Royal Air Force,BAe Hawk T2,Mil,Fighter,Do A Barrel Roll,RAF,https://www.raf.mod.uk/
 43C171,ZZ171,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
 43C172,ZZ172,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
-43C173,ZZ173,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
+43C173,ZZ173,Royal Air Force,Boeing C-17A Globemaster III,Mil,#REF!,#REF!,RAF,https://www.raf.mod.uk/
 43C174,ZZ174,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
 43C04E,ZZ175,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
 43C1C6,ZZ176,Royal Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,RAF,https://www.raf.mod.uk/
@@ -533,9 +538,9 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C3A1,ZH103,Royal Air Force,Boeing E-3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
 43C3A2,ZH104,Royal Air Force,Boeing E-3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
 43C3A4,ZH106,Royal Air Force,Boeing E-3D Sentry AEW1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
-43C918,ZP801,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,One Ping Only Vasily,RAF,https://www.raf.mod.uk/
-43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,One Ping Only Vasily,RAF,https://www.raf.mod.uk/
-43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,Eye In The Sky,One Ping Only Vasily,RAF,https://www.raf.mod.uk/
+43C918,ZP801,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,One Ping Only Vasily,Eye In The Sky,RAF,https://www.raf.mod.uk/
+43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,One Ping Only Vasily,Eye In The Sky,RAF,https://www.raf.mod.uk/
+43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk.1,Mil,One Ping Only Vasily,Eye In The Sky,RAF,https://www.raf.mod.uk/
 43C38C,ZZ664,Royal Air Force,Boeing RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
 43C39C,ZZ665,Royal Air Force,Boeing RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
 43C39D,ZZ666,Royal Air Force,Boeing RC135W Airseeker,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/
@@ -554,7 +559,8 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C4CA,ZA708,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C4BE,ZA714,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 43C4D9,ZH775,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
-43C4E0,ZH895,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Wocka Wocka,Whirly Bird,RAF,https://www.raf.mod.uk/
+43C4DC,ZH891,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
+43C4E0,ZH895,Royal Air Force,Boeing-Vertol Chinook HC.6A,Mil,Choppa,Wocka Wocka,RAF,https://www.raf.mod.uk/
 400EEA,G-BYVM,Royal Air Force,Grob G-115 E Tutor,Mil,Training Wheels,Jump Johnny Jump,RAF,https://www.raf.mod.uk/
 43C09A,ZH888,Royal Air Force,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
 43C10F,ZH889,Royal Air Force,Lockheed C-130J Super Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
@@ -567,18 +573,18 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C1FF,ZH875,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
 43C136,ZH877,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
 43C024,ZH879,Royal Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Heavy Duty,RAF,https://www.raf.mod.uk/
+43C8CC,ZM325,Royal Air Force,Raytheon T-6C Texan T.1,Mil,Training Wheels,Pass The Sick Bag,RAF,https://www.raf.mod.uk/
 43C8D1,ZM330,Royal Air Force,Raytheon T-6C Texan T.1,Mil,Training Wheels,Pass The Sick Bag,RAF,https://www.raf.mod.uk/
-43C8CC,ZM325,Royal Air Force,T-6C Texan T.1,Mil,Training Wheels,Pass The Sick Bag,RAF,https://www.raf.mod.uk/
 406F50,GZ-100,32 The Royal Squadron RAF,Agusta Westland AW109SP,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C146,ZE700,32 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C147,ZE701,32 The Royal Squadron RAF,BAe 146-100 CC.2 (VIP),Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C704,ZE707,32 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C705,ZE708,32 The Royal Squadron RAF,BAe 146-200 C3,Mil,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
-43C435,XX280,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
-43C439,XX285,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
-43C45C,XX329,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
-43C463,XX339,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
-43C32A,ZH864,AgustaWestland AW101 AEW2 'Crowsnest',AgustaWestland AW101 AEW2 'Crowsnest',Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
+43C435,XX280,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Callsign Viper,Royal Navy,https://www.youtube.com/watch?v=jk0gBZtTYUA
+43C439,XX285,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Callsign Viper,Royal Navy,https://www.youtube.com/watch?v=jk0gBZtTYUA
+43C45C,XX329,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Callsign Viper,Royal Navy,https://www.youtube.com/watch?v=jk0gBZtTYUA
+43C463,XX339,736 Naval Air Squadron,BAe Hawk T1a,Mil,Top..ish Gun,Callsign Viper,Royal Navy,https://www.youtube.com/watch?v=jk0gBZtTYUA
+43C32A,ZH864,Royal Navy,AgustaWestland AW101 AEW2 'Crowsnest',Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj68
 43C225,ZJ130,Royal Navy,AgustaWestland EH 101 Merlin HC3i,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C1FB,ZJ135,Royal Navy,AgustaWestland EH 101 Merlin HC3i,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C1FD,ZJ137,Royal Navy,AgustaWestland EH 101 Merlin HC3i,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
@@ -587,41 +593,41 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 43C073,ZJ124,Royal Navy,AgustaWestland EH 101 Merlin HC4,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C074,ZJ125,Royal Navy,AgustaWestland EH 101 Merlin HC4,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C224,ZJ129,Royal Navy,AgustaWestland EH 101 Merlin HC4,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
-43C304,ZH824,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C306,ZH826,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C307,ZH827,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C308,ZH828,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C30C,ZH832,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C30E,ZH834,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C311,ZH837,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C314,ZH840,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C32B,ZH841,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C315,ZH842,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C316,ZH843,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C317,ZH845,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C318,ZH846,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C319,ZH847,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C31C,ZH850,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C31D,ZH851,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C31F,ZH853,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C320,ZH854,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C322,ZH856,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C323,ZH857,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C326,ZH860,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C327,ZH861,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
-43C328,ZH862,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.royalnavy.mod.uk/
+43C304,ZH824,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj68
+43C306,ZH826,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj69
+43C307,ZH827,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj70
+43C308,ZH828,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj71
+43C30C,ZH832,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj72
+43C30E,ZH834,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj73
+43C311,ZH837,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj74
+43C314,ZH840,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj75
+43C32B,ZH841,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj76
+43C315,ZH842,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj77
+43C316,ZH843,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj78
+43C317,ZH845,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj79
+43C318,ZH846,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj80
+43C319,ZH847,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj81
+43C31C,ZH850,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj82
+43C31D,ZH851,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj83
+43C31F,ZH853,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj84
+43C320,ZH854,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj85
+43C322,ZH856,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj86
+43C323,ZH857,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj87
+43C326,ZH860,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj88
+43C327,ZH861,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj89
+43C328,ZH862,Royal Navy,AgustaWestland EH 101 Merlin HM2,Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj90
 43C6DF,ZZ375,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C6E3,ZZ379,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C6E5,ZZ381,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C6EA,ZZ386,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C6BA,ZZ397,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C75D,ZZ516,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
+43C75F,ZZ518,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C76A,ZZ529,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C76B,ZZ530,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C76C,ZZ531,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C76F,ZZ534,Royal Navy,AgustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C768,ZZ527,Royal Navy,AugustaWestland Wildcat AH.1,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
-43C75F,ZZ518,Royal Navy,AugustaWestland Wildcat HMA2,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 43C0F7,XX189,Royal Navy,BAe Hawk T1a,Mil,Fighter,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
 43C436,XX281,Royal Navy,BAe Hawk T1a,Mil,Fighter,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
 43C458,XX324,Royal Navy,BAe Hawk T1a,Mil,Fighter,Do A Barrel Roll,Royal Navy,https://www.royalnavy.mod.uk/
@@ -629,7 +635,6 @@ C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 405357,ZJ164,Royal Navy Fleet Air Arm,Eurocopter AS365,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 405358,ZJ165,Royal Navy Fleet Air Arm,Eurocopter AS365,Mil,Chopper,Whirly Bird,Royal Navy,https://www.royalnavy.mod.uk/
 AE5026,167792,United States Air Force,Bell MQ-8B,Mil,Uphold The Public Trust,Where Is The Pilot,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_MQ-8_Fire_Scout
-3EB1B3,SONICX,German Air Force,Unknown,Mil,UFO,U Wot m8,Under Observation,https://www.bundeswehr.de/de/organisation/luftwaffe
 AF4A7B,168207,United States Marine Corps,Beechcraft UC-12W Huron,Mil,USAF,Not so VIP,United States Navy,https://en.wikipedia.org/wiki/Beechcraft_C-12_Huron
 AE1439,166714,United States Marine Corps,Cessna UC-35D Citation,Mil,USMC,Bizjet,United States Navy,https://www.navy.mil/
 AE6043,BRNCO31,United States Marine Corps,Lockheed C-130J-30 Hercules,Mil,USMC,Cargo,United States Navy,https://www.navy.mil/
@@ -647,16 +652,16 @@ AE29FD,CNV4313,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United State
 AE04D7,CNV4829,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
 AE638E,CNV4843,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
 AE5719,CNV6614,United States Navy,Boeing C-40A,Mil,Bizjet,Not A Bus,United States Navy,https://www.navy.mil/
-AE6790,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE679E,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE67AA,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE67BB,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE67E3,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6805,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE683A,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE68A5,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE68A9,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-BA686F,TBC,United States Navy,Boeing P-8A Poseidon,Mil,Eye In The Sky,One Ping Only Vasily,United States Navy,https://www.navy.mil/
+AE6790,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE679E,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE67AA,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE67BB,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE67E3,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE6805,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE683A,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE68A5,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE68A9,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+BA686F,TBC,United States Navy,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,United States Navy,https://www.navy.mil/
 AE01C1,CATBRD1,United States Navy,Gulfstream C-20G,Mil,Bizjet,Must Be Nice,United States Navy,https://www.navy.mil/
 AE10C2,VV100,United States Navy,Gulfstream C-37A,Mil,Bizjet,Must Be Nice,United States Navy,https://www.navy.mil/
 AE1258,TBC,United States Navy,Gulfstream C-37B,Mil,Bizjet,Must Be Nice,United States Navy,https://www.navy.mil/
@@ -687,7 +692,7 @@ AE4F14,10-0220,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute
 AE1455,RCH101,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10C0,RCH106,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1448,RCH107,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0804,RCH108,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0804,RCH108,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE119D,RCH110,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1199,RCH114,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1238,RCH136,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -696,7 +701,7 @@ AE4F13,RCH140,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE1458,RCH143,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE08CF,RCH148,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1179,RCH151,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0805,RCH152,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0805,RCH152,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0677,RCH153,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE119C,RCH155,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FAE,RCH166,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -704,28 +709,28 @@ AE1460,RCH170,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE10BB,RCH180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE144E,RCH180,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE146F,RCH181,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0800,RCH1815,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0800,RCH1815,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C3,RCH1815,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C2,RCH1818,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4D6A,RCH190,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1469,RCH200,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE146A,RCH204,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA5,RCH212,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0802,RCH224,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0802,RCH224,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE144C,RCH234,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1235,RCH251,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE146B,RCH253,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FAC,RCH257,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C9,RCH260,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1198,RCH264,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07F8,RCH268,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07FD,RCH270,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07F8,RCH268,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07FD,RCH270,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1467,RCH275,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1454,RCH296,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4D67,RCH296,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE144D,RCH300,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10BA,RCH319,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07E7,RCH351,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07E7,RCH351,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1457,RCH372,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE123F,RCH374,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C7,RCH379,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -734,14 +739,14 @@ AE10BF,RCH395,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE146E,RCH410,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE49C7,RCH415,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1468,RCH416,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07DF,RCH417,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07DF,RCH417,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE54B3,RCH420,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4F12,RCH422,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0676,RCH433,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1465,RCH434,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE146C,RCH455,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07D6,RCH467,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07F4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07D6,RCH467,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07F4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE145F,RCH486,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0817,RCH487,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -755,20 +760,20 @@ AE10B5,RCH537,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE4F16,RCH537,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE123B,RCH554,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE123D,RCH557,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07FF,RCH558,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07FA,RCH559,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07FF,RCH558,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07FA,RCH559,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1236,RCH564,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1197,RCH566,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07F9,RCH575,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07F9,RCH575,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA9,RCH595,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1462,RCH597,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4F15,RCH610,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07D7,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07D7,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C8,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07F6,RCH636,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07F6,RCH636,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE145E,RCH711,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4D66,RCH721,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07E4,RCH740,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07E4,RCH740,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1170,RCH741,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE49C6,RCH790,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10BD,RCH801,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -777,46 +782,46 @@ AE123C,RCH803,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE1449,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1464,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE4D69,RCH805,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07CE,RCH806,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07FE,RCH809,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07CE,RCH806,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07FE,RCH809,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA8,RCH810,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1242,RCH813,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10B6,RCH818,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07DD,RCH822,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07DD,RCH822,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE117B,RCH826,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0803,RCH832,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0803,RCH832,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1178,RCH832,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE117D,RCH834,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10BC,RCH835,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0806,RCH837,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0806,RCH837,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1450,RCH839,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0812,RCH840,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE49C8,RCH852,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1471,RCH861,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE10B7,RCH867,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07D3,RCH870,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07D3,RCH870,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE123A,RCH880,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1463,RCH884,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE119A,RCH885,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C4,RCH890,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FAB,RCH891,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07EF,RCH892,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07EF,RCH892,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0811,RCH894,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1456,RCH894,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C6,RCH895,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE145C,RCH898,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA3,RCH899,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE0808,RCH925,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE0808,RCH925,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1472,RCH925,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0814,RCH936,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE20C5,RCH975,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FAF,RCH979,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE49C5,RCH982,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE2FA6,RCH983,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
-AE07D1,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07D5,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE07F0,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE080F,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE07D1,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07D5,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE07F0,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE080F,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE0813,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE08BE,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE1172,TBC,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
@@ -843,61 +848,61 @@ AE1491,TBC,United States Air Force,Boeing E-8C J-STARS,Mil,Quarterback,One Ping 
 ADFEB4,73-1677,United States Air Force,Boeing E4B Nightwatch,Mil,Eye In The Sky,Its The End Of The World And I Know It,USAF,https://www.airforce.com/
 ADFEB6,TITAN25,United States Air Force,Boeing E4B Nightwatch,Mil,Eye In The Sky,Its The End Of The World And I Know It,USAF,https://www.airforce.com/
 AE040D,162782,United States Air Force,Boeing E6B Mercury,Mil,Specialist,Kung Fu Grip,USAF,https://www.airforce.com/
-AE0388,61-0292,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF,https://www.airforce.com/
-AE0669,62-3540,United States Air Force,Boeing KC-135R,Mil,Old,Fill Her Up,USAF,https://www.airforce.com/
-AE038D,63-7976,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0152,63-8034,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0480,BLUE22,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04E1,CLEAN82,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0139,GOLD23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0264,QID04,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04FB,QID101,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE023B,QID11,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AC837E,QID23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE064E,QID32,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0237,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0593,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE05B1,QID43,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0390,QID659,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE05A8,QID935,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0140,RCH240,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE05AC,RCH463,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE013E,RCH790,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE013D,RCH792,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0798,RCH799,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE07C2,RCH800,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE047F,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE05A7,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0532,RCH806,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0599,RCH807,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE07BF,RCH841,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE059F,RCH845,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0471,RCH894,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0153,RCH898,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE047A,RCH899,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0629,SPUR81,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0151,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE037E,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04B0,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04C5,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04E0,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04FE,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE07C1,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE013C,QID23,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0240,QID54,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0659,QID818,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04F5,RCH800,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04C1,RCH899,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE04C6,RCH982,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0425,TBC,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
-AE0655,TBC,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com/
+AE0388,61-0292,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0669,62-3540,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0140,62-3553,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE038D,63-7976,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0152,63-8034,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0480,BLUE22,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04E1,CLEAN82,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0139,GOLD23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0264,QID04,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04FB,QID101,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE023B,QID11,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AC837E,QID23,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE064E,QID32,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0237,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0593,QID33,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE05B1,QID43,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0390,QID659,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE05A8,QID935,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE05AC,RCH463,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE013E,RCH790,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE013D,RCH792,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0798,RCH799,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE07C2,RCH800,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE047F,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE05A7,RCH803,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0532,RCH806,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0599,RCH807,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE07BF,RCH841,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE059F,RCH845,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0471,RCH894,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0153,RCH898,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE047A,RCH899,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0629,SPUR81,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0151,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE037E,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04B0,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04C5,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04E0,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04FE,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE07C1,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE013C,QID23,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0240,QID54,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0659,QID818,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04F5,RCH800,United States Air Force,Boeing KC-135T,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
+AE04C1,RCH899,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE04C6,RCH982,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0425,TBC,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0655,TBC,United States Air Force,Boeing KC-135T,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
 AE5E06,17-46025,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE5E0B,RCH046,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE5E13,RCH046,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE5BC8,RCH171,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE5E11,TBC,United States Air Force,Boeing KC-46A Pegasus,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
-AE684E,168850,United States Air Force,Boeing P-8A Poseidon,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE67A6,TBC,United States Air Force,Boeing P-8A Poseidon,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE684E,168850,United States Air Force,Boeing P-8A Poseidon,Mil,Fill Her Up,Shiny,USAF,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE67A6,TBC,United States Air Force,Boeing P-8A Poseidon,Mil,One Ping Only Vasily,Eye In The Sky,USAF,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE01CA,63-9792,United States Air Force,Boeing RC-135V Joint Rivet,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE01C3,OLIVE55,United States Air Force,Boeing RC-135V Joint Rivet,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE01D2,62-4125,United States Air Force,Boeing RC-135W,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
@@ -964,6 +969,7 @@ AE54CD,TBC,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolut
 AE54D5,TBC,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE5F0B,TBC,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE5F12,TBC,United States Air Force,Lockheed C-130J-30 Hercules,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
+AE055D,84-0062,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE0565,85-0008,United States Air Force,Lockheed C-5M Galaxy,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com/
 AE057F,RCH165,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE055C,RCH202,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
@@ -977,7 +983,6 @@ AE0581,RCH613,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Un
 AE0576,RCH615,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE0580,RCH655,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE0562,RCH679,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE055D,RCH681,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE0589,RCH695,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE057C,RCH702,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE0588,RCH743,United States Air Force,Lockheed C-5M Galaxy,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
@@ -1029,11 +1034,14 @@ AE0967,80-1093,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I 
 AE0968,80-1094,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0969,80-1096,United States Air Force,Lockheed U2-S,Mil,Hiiiiiigh In The Sky,I Thought You Was A Pilot Not An Astronaut,USAF,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE2817,86-0174,United States Air Force,McDonnell Douglas F15C Eagle,Mil,Fighter,Zoomies,USAF,https://www.airforce.com/
+AE036A,63-7985,United States Air Force ,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE0154,63-8045,United States Air Force ,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
+AE048C,63-8883,United States Air Force ,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com/
 AE54D7,13-5776,United States Air Force  ,Lockheed MC-130J,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
 AE54D9,13-5778,United States Air Force  ,Lockheed MC-130J,Mil,Cargo,Absolute Unit,USAF,https://www.airforce.com/
-AE04F4,84-0165,United States Army,Beechcraft C-12F Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF,https://www.army.mil/
-AE0401,84-00156,United States Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF,https://www.army.mil/
-AE0402,84-00157,United States Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Eye In The Sky,USAF,https://www.army.mil/
+AE04F4,84-0165,United States Army,Beechcraft C-12F Huron,Mil,You Aint Seen Me Right,Not so VIP,USAF,https://www.army.mil/
+AE0401,84-00156,United States Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Not so VIP,USAF,https://www.army.mil/
+AE0402,84-00157,United States Army,Beechcraft C-12U-3 Huron,Mil,You Aint Seen Me Right,Not so VIP,USAF,https://www.army.mil/
 AE04F2,84-00162,United States Army,Beechcraft C-12U-3 Huron,Mil,USAF,Not so VIP,USAF,https://www.army.mil/
 AE58B5,11-00268,United States Army,Beechcraft Corp MC-12S Liberty,Mil,Eye In The Sky,You Aint Seen Me Right,USAF,https://www.airforce-technology.com/projects/mc-liberty/
 AE0136,97-00105,United States Army,Cessna UC-35A Citation,Mil,USAF,Bizjet,USAF,https://www.army.mil/
