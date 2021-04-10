@@ -158,6 +158,15 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Historic Army Aircraft Flight
 - Odd C130 Hercules - EC130H, EC130E, EC130J, MC130H, WC130J
 - Gunships (Spooky, Central American DC3's)
+- AeroRescue
+- Air-Glaciers
+- Alci Avaiation
+- Basler BT-67 Operators
+- Baltic Bees Display Team
+- Bundesamt für Landestopografie
+- Bundesamt für Zivilluftfahrt BAZL
+- Bundespolizei
+- GFD.de
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
