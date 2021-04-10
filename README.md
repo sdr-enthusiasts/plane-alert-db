@@ -92,6 +92,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 
 - RAF Typhoon Display Team
+- Breitling Jet Team
 - US Dept of Interior
 - US Dept of Energy
 - Other US Gov Depts
