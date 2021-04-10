@@ -155,7 +155,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - IAS Medical (Air Evac)
 - Aviation Services Australia
 - Historic Army Aircraft Flight
-- Odd C130 Hercules - EC130H, EC130E, EC130J, MC130H
+- Odd C130 Hercules - EC130H, EC130E, EC130J, MC130H, WC130J
 - Gunships (Spooky, Central American DC3's)
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
