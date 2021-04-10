@@ -167,6 +167,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Bundesamt für Zivilluftfahrt BAZL
 - Bundespolizei
 - GFD.de
+- Royal Flying Doctors Service
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
