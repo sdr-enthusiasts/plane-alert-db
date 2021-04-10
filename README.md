@@ -169,6 +169,208 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 
 Any other idea's welcome.
 
+
+# Tag Count
+
+Total count of how many times each tag is used in plane-alert-db.csv
+
+- Cargo \- 261
+- Absolute Unit \- 233
+- Eye In The Sky \- 219
+- Dictator Alert \- 214
+- Luftwaffe \- 155
+- Zoomies \- 135
+- Danger Zone \- 133
+- Do A Barrel Roll \- 124
+- Bizjet \- 110
+- Fill Her Up \- 99
+- US Dept Of Justice \- 86
+- Ho Ho Ho \- 64
+- Old Stuff \- 54
+- Fighter \- 54
+- Chopper \- 53
+- Must Be Nice \- 44
+- You Aint Seen Me Right \- 43
+- Chonky Boy \- 42
+- One Ping Only Vasily \- 41
+- Thunderbird 2 \- 38
+- Skycrane \- 38
+- Not A Bus \- 38
+- Choppa \- 34
+- Hiiiiiigh In The Sky \- 33
+- Specialist \- 32
+- I Thought You Was A Pilot Not An Astronaut \- 32
+- L-Plate \- 31
+- Id Get That Seen Too \- 31
+- Covert \- 31
+- Training Wheels \- 29
+- Ooh Get You \- 29
+- M*A*S*H \- 29
+- U Wot m8 \- 27
+- Police Squad \- 27
+- I Feel The Need.... \- 27
+- Heavy Duty \- 26
+- Vive La France \- 25
+- Speak Up Sonny \- 25
+- Air Ambo \- 25
+- Nicolás Maduro \- 23
+- Mohammed bin Salman \- 23
+- How Does It Fly \- 23
+- Whirly Bird \- 22
+- You Came Here In That Thing \- 21
+- Vladimir Putin \- 21
+- Ooh La La \- 20
+- Brrrrrrrrrrrrrrr \- 19
+- Wrong Turn At Albuquerque \- 18
+- Tiger Tokens \- 18
+- Already Has Wings \- 18
+- Wocka Wocka \- 17
+- Vashe Zdorovye \- 17
+- To Be Faaaaaaaaaaaaaaaaaaair \- 17
+- Target Practice \- 17
+- Puppers \- 17
+- Tamim bin Hamad Al Thani \- 16
+- Pass The Sick Bag \- 16
+- Tomahawk \- 15
+- Shiny \- 15
+- Open Skies \- 15
+- Old \- 15
+- N.A.T.O \- 15
+- Turn And Burn \- 14
+- Ou Sont Les Bagages \- 14
+- History \- 14
+- Sheikh Nawaf al-Ahmad al-Sabah \- 13
+- Rashid Al Maktoum \- 13
+- VIP \- 12
+- Mae West \- 12
+- Government \- 12
+- All About That Wingspan \- 12
+- Measuring Stick \- 11
+- Whoosh \- 10
+- Hamad bin Isa Al Khalifa \- 10
+- Dieselgate \- 10
+- Theodolite \- 9
+- Sce To Aux \- 9
+- Nasa \- 9
+- Kassym-Jomart Tokayev \- 9
+- Yes Maam \- 8
+- Red Carpet \- 8
+- Private Airline \- 8
+- Khalifa Al Nahyan \- 8
+- Ilham Aliyev \- 8
+- Foutje Bedankt \- 8
+- Ciao \- 8
+- Abdelmadjid Tebboune \- 8
+- Wichita Lineman \- 7
+- Teodoro Obiang Nguema Mbasogo \- 7
+- Not so VIP \- 7
+- mmm Neutrons \- 7
+- Haitham bin Tarik \- 7
+- Trundle Wheel \- 6
+- I Am Old \- 6
+- Callsign Viper \- 6
+- Big Bird \- 6
+- Where Is The Engine \- 5
+- War Bird \- 5
+- USMC \- 5
+- USAF \- 5
+- Loooong Raaaaaange \- 5
+- Jump Johnny Jump \- 5
+- Ali Bongo Ondimba \- 5
+- Top..ish Gun \- 4
+- Office In The Sky \- 4
+- Not A Car \- 4
+- Luck Of The Irish \- 4
+- Jesus He Knows Me \- 4
+- Is This My Good Side \- 4
+- Ere Me Now \- 4
+- Billy Murphy \- 4
+- Ali Khamenei \- 4
+- Air Force Two \- 4
+- You Just Lost A Refinery \- 3
+- We Make Your Planes Better \- 3
+- Vanity Plate \- 3
+- Ultralight \- 3
+- State Dept \- 3
+- Skydive \- 3
+- Quarterback \- 3
+- Original Nuttah \- 3
+- Odd \- 3
+- Mohammed bin Rashid Al Maktoum \- 3
+- Leaves On The Line \- 3
+- Kung Fu Grip \- 3
+- Its The End Of The World And I Know It \- 3
+- How Much \- 3
+- Gurbanguly Berdimuhamedow \- 3
+- Got It Where It Counts \- 3
+- Flying Rust Bucket \- 3
+- Flying Brick \- 3
+- Félix Tshisekedi \- 3
+- Culture Beat \- 3
+- Cool \- 3
+- Chappy \- 3
+- Alexander Lukashenko \- 3
+- Adama Barrow \- 3
+- Abdul Hamid Dbeibeh \- 3
+- Xi Jinping \- 2
+- What Is That Smell \- 2
+- Orange Danger \- 2
+- Nope \- 2
+- Marineflieger \- 2
+- Magic Roundabout \- 2
+- Idriss Déby \- 2
+- Hot Hot Hot Hot \- 2
+- Fire \- 2
+- Faure Gnassingbé \- 2
+- Emmerson Mnangagwa \- 2
+- Digger \- 2
+- CIA \- 2
+- Boris \- 2
+- BACN \- 2
+- Agostinho Neto \- 2
+- Abdullah II bin Al-Hussein \- 2
+- You Lost Mate \- 1
+- Yorkshire \- 1
+- Where Is The Pilot \- 1
+- Wheelbarrow \- 1
+- Waffles \- 1
+- Vomit Comet \- 1
+- Uphold The Public Trust \- 1
+- UFO \- 1
+- UAV \- 1
+- Tricycle \- 1
+- The Last Of Us \- 1
+- Testbed \- 1
+- Sovereignty Council \- 1
+- Sale Must End Soon \- 1
+- Recep Tayyip Erdoğan \- 1
+- Perfectly Serviceable Aircraft \- 1
+- Paul Biya \- 1
+- Obrigado \- 1
+- No Fighting This Is The War Room \- 1
+- Nice Waether For Ducks \- 1
+- Mohammed Al Sharqi \- 1
+- Mahamadou Issoufou \- 1
+- Little Nellie \- 1
+- Kim Jong-un \- 1
+- Jumpers For Goalposts \- 1
+- Hungarian Air Force \- 1
+- Hellenic Air Force \- 1
+- General Hafar \- 1
+- Freeze \- 1
+- Eensy Weensy \- 1
+- Czech Air Force \- 1
+- Con Air \- 1
+- BUFF \- 1
+- Bravo November \- 1
+- Bashar al-Assad \- 1
+- Backpack Tadpole V-Jet \- 1
+- Angel of Deliverance \- 1
+- Alright Me Baber \- 1
+- 150th Special Operations Squadron \- 1
+
+
+
 # Data Sources
 
 This data has been gathered from far too many sources to mention, but some sites have been *really* useful.
