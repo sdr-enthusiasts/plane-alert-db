@@ -41,6 +41,7 @@ The list contains **1865** unique aircraft in **40** different categories.
 - [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (701)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list) - Open list to add your suggestions to. These will be moved to the main list in time.
 
+This dashboard (WIP) contain details of the main list and the most recent additions [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC)
 
 # Description of Categories	   
 
@@ -181,13 +182,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Qinetiq</strike>
 
 Any other idea's welcome.
-
-# Aircraft, Category and Tag Counts (WIP)
-
-This Google Data Studio dashboard shows current content and details of the most recent addtion to the list
-
-[Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC)
-
 
 # Data Sources
 
