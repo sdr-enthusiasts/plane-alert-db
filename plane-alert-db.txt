@@ -442,6 +442,7 @@ AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,Nicolás 
 157711,RA-96017,Russia State Transport Company,Ilyushin IL-96300,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
 157713,RA-96019,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
 157714,RA-96020,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
+157715,RA-96021,Russia State Transport Company,Ilyushin IL-96300PU,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
 155BCF,RA-89039,Russia State Transport Company,Sukhoi Superjet 100-95B,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
 150171,RA-65905,Russia State Transport Company,Tupolev Tu-134A-3,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
 150177,RA-65911,Russia State Transport Company,Tupolev Tu-134A-3,Gov,Dictator Alert,Vladimir Putin,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1099,7 +1100,7 @@ ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Spe
 3B777F,471,Armee de l'Air et de l'Espace,Boeing C-135FR,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77DA,204,Armee de l'Air et de l'Espace,Boeing E-3F Sentry,Mil,Eye In The Sky,You Aint Seen Me Right,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B76A5,F-RAFC,Armee de l'Air et de l'Espace,Dassault Falcon 2000LX,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B76B3,F-RAFB,Armee de l'Air et de l'Espace,Dassault Falcon 7X,Mil,#REF!,#REF!,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B76B3,F-RAFB,Armee de l'Air et de l'Espace,Dassault Falcon 7X,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77E5,F-RAFP,Armee de l'Air et de l'Espace,Dassault Falcon 900,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7725,103,Armee de l'Air et de l'Espace,Embraer 121 Xingu AA,Mil,Ou Sont Les Bagages,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75EC,5890,Armee de l'Air et de l'Espace,Lockheed KC-130J Hercules,Mil,Vive La France,Ooh La La,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -1609,7 +1610,7 @@ AE54B6,XX-XXXX,United States Air Force,Northrop Grumman RQ-4 Global Hawk,Mil,UAV
 40639D,G-CPAS,National Police Air Service,Eurocopter EC135-P2+,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 400A64,G-POLJ,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 401255,G-POLF,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
-404714,G-POLH,National Police Air Service,Eurocopter EC135-T2,Pol,Vive La France,Ooh La La,UK National Police Air Service,https://www.npas.police.uk/what-we-do
+404714,G-POLH,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 404715,G-POLC,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 40472C,G-POLU,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 40499A,G-POLB,National Police Air Service,Eurocopter EC135-T2,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.npas.police.uk/what-we-do
@@ -1863,7 +1864,6 @@ AE11D5,73-1675,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One
 AE11D8,BROLLY3,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
 AE11DC,76-1605,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
 B191D8,TBC,United States Air Force,Boeing E-3B Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
-#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
 AE11EA,80-0137,United States Air Force,Boeing E-3C Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
 AE11EF,82-0006,United States Air Force,Boeing E-3C Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
 AE11F2,83-0009,United States Air Force,Boeing E-3C Sentry,Mil,Eye In The Sky,One Ping Only Vasily,USAF,https://www.airforce.com
