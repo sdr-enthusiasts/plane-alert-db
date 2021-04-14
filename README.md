@@ -173,6 +173,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Royal Flying Doctors Service
 - Top Aces Inc.
 - Russian FSB
+- Aircraft owned/Operated by Sultan/State of Brunei
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
