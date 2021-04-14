@@ -95,7 +95,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 
 - RAF Typhoon Display Team
-- Breitling Jet Team
+- Breitling Jet Team (not complete)
 - US Dept of Interior
 - US Dept of Energy
 - Other US Gov Depts
@@ -177,6 +177,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Chapparral Air Group
 - Acorn Growth Companies
 - Aircraft owned/Operated by Sultan/State of Brunei
+- Aircraft - Lake Renegade
+- Special Hurons - MC-12W, MC-12S, RC-12H, RC-12N
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
