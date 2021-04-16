@@ -31,63 +31,63 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **2292** unique aircraft in **42** different categories.
+The list contains **2341** unique aircraft in **42** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (2292)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (618)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (1255)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (2341)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (652)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (1264)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (48)
-- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (371)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (785)
+- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (377)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (792)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contain details of the main list and the most recent additions.
 
-# Description of Categories	   
+# Description of Categories
 
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
 - Aerobatic Teams \- Red Arrows, Blue Angels etc (52)
 - Army Air Corp \- UK Army Air Corp. Mainly Helicopters (20)
-- As Seen on TV \- Companies and Brands (36)
+- As Seen on TV \- Companies and Brands (37)
 - Battle of Britiain Memorial Flight \- Historic British aircraft from WW2 (12)
 - Big Hello \- Large Helicopters (sic) (38)
 - Bizjets \- Fancy pants planes for fancy pants people (20)
 - Coastguard \- Coastguard, Customs and Border Patrols (19)
-- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (80)
-- Dictator Alert \- People of potentially questionable morals and values (219)
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (65)
-- Dogs with Jobs \- Aircraft with specific roles and/or modifications (46)
+- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (82)
+- Dictator Alert \- People of potentially questionable morals and values (218)
+- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (75)
+- Dogs with Jobs \- Aircraft with specific roles and/or modifications (47)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (291)
-- Governments \- Aircraft registired to Governments (19)
-- Historic \- It's older than I am, and most likely has a prop. (67)
+- Governments \- Aircraft registired to Governments (25)
+- Historic \- It's older than I am, and most likely has a prop. (68)
 - I For One Welcome our new Overlords \- Clippy et al. (24)
-- Jesus he Knows me \- Aircraft owned and operated by Religious organisations (7)
+- Jesus he Knows me \- Aircraft owned and operated by Religious organisations (8)
 - Just Because \- I don't know why I like you, but I do. (7)
 - M\*A\*S\*H \- Air Ambulance and Medical Flights
-- Military Contractors \- Why do the dirty work when someone else can do it for you ? (52)
+- Military Contractors \- Why do the dirty work when someone else can do it for you ? (55)
 - Must be nice \- Billionaires, not millionaires, daaaahling (12)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (177)
-- Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (17)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (179)
+- Other Navies \- Navy Aircraft that are not Royal Navy or United States Navy (16)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (23)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (16)
 - Quango \- Nato, United Nations, World Bank etc (18)
-- RAF \- Aircraft of the Royal Air Force (119)
+- RAF \- Aircraft of the Royal Air Force (120)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
-- Royal Navy \- Aircraft of the Royal Navy (55)
-- Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (86)
+- Royal Navy \- Aircraft of the Royal Navy (57)
+- Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (87)
 - UAV \- It's not natural, I tell 'ya (10)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- Under Observation \- Up to something dodgy, maybe (34)
-- United States Navy \- United States naval avaitors. Some say they are the best of the best. (42)
-- USAF \- Aircraft of the United States Air Force (414)
-- Vanity Plate \- Distinctive registrations (14)
+- Under Observation \- Up to something dodgy, maybe (33)
+- United States Navy \- United States naval avaitors. Some say they are the best of the best. (44)
+- USAF \- Aircraft of the United States Air Force (417)
+- Vanity Plate \- Distinctive registrations (20)
 - Watch Me Fly \- Flying and Training Schools (31)
-- Who needs an Engine ? \- Gliders etc (20)
-- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (11)
-- Zoomies \- Fast jets, fighters. Anything that moves fast. (30)
+- Who needs an Engine ? \- Gliders etc (25)
+- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (13)
+- Zoomies \- Fast jets, fighters. Anything that moves fast. (31)
 
 # To do / Ideas
 
