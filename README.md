@@ -25,7 +25,7 @@ To use this list with Planefence, simply configure your planefence.config setup 
 
 If you want to add the list in addition to your local plane-alert-db.txt list, you can do the following:
 
-- PF_ALERTLIST=plane-alert-db.txt,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
+- PF_ALERTLIST=plane-alert-db.txt,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
 
 **Note -- the priority of use is first-to-last, so if you want your local list to be interpreted first, move it to the front of the list**
 
