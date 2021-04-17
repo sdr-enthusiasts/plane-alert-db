@@ -188,6 +188,8 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>The Flying Bulls</strike>
 - <strike>Check Empire Test Pilots School is complete</strike>
 - <strike>Qinetiq</strike>
+- <strike>Air Koryo</strike>
+- <strike>Lynden Air Cargo</strike>
 
 Any other idea's welcome.
 
