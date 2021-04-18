@@ -180,6 +180,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Aircraft - Lake Renegade
 - Special Hurons - MC-12W, MC-12S, RC-12H, RC-12N
 - Edgley Optika
+- Columbian C47 Gunships
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
