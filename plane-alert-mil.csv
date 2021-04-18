@@ -1,4 +1,4 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#Link
+ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 43C0EE,xx177,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
 43C0F6,xx188,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
 43C40D,xx219,The Red Arrows (RAF),BAe Hawk T1a,Mil,Do A Barrel Roll,Turn and Burn,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
@@ -32,6 +32,7 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#Link
 43C72D,ZJ248,Army Air Corps,Eurocopter AS350 Squirrel,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps
 43C261,ZJ204,Army Air Corps,Westland WAH-64D Apache AH1,Mil,Tomahawk,Brrrrrrrrrrrrrrr,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C07D,XW847,Army Air Corps,Westland/Aerospatiale Gazelle SA.341 AH.1,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps
+43C237,ZB691,Army Air Corps,Westland/Aerospatiale Gazelle SA.341 AH.1,Mil,Chopper,Kung Fu Grip,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps
 43C6C5,ZZ413,Royal Navy Fleet Air Arm,AgustaWestland Wildcat HMA2,Mil,Choppa,Brrrrrrrrrrrrrrr,Army Air Corp,https://www.army.mod.uk/who-we-are/corps-regiments-and-units/army-air-corps
 43C392,PA474,Battle of Britiain Memorial Flight,Avro Lancaster B1,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight
 43C38D,WG846,Battle of Britiain Memorial Flight,DHC-1 Chipmunk T10,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight
@@ -45,13 +46,8 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#Link
 43C394,AB910,Battle of Britiain Memorial Flight,Supermarine Spitfire LFVb,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight
 43C397,PM631,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight
 43C398,PS915,Battle of Britiain Memorial Flight,Supermarine Spitfire PRXIX,Mil,History,Speak Up Sonny,Battle of Britiain Memorial Flight,https://www.raf.mod.uk/display-teams/battle-of-britain-memorial-flight
-AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coastguard,https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
+AE5F07,C202,United States Coast Guard,Gulfstream G550,Mil,Ooh Get You,Bizjet,Coastguard,https://www.uscg.mil
 43C925,XE688,Hawker Hunter Aviation,Hawker Hunter T.72,Mil,Old,Fighter,Distinctive,https://hunterteam.com
-AE596C,14-5803,United States Air Force,Lockheed AC-130J,Mil,Ghostrider,Gunship,Distinctive,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE02D6,89-1052,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Distinctive,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE02D8,89-1054,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Distinctive,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE129E,87-0128,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Distinctive,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE05B7,88-1302,United States Air Force,Lockheed AC-130W,Mil,Stinger II,Gunship,Distinctive,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE1274,73-1595,United States Air Force,Lockheed EC-130H,Mil,Compass Call,Wild Weasel,Distinctive,https://en.wikipedia.org/wiki/Lockheed_EC-130H_Compass_Call
 AE4BE6,1392915,United States Air Force,Lockheed MC-130J,Mil,Special Ops,Covert,Distinctive,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE4E19,1399550,United States Air Force,Lockheed MC-130J,Mil,Special Ops,Covert,Distinctive,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
@@ -351,13 +347,11 @@ AE54D9,13-5778,United States Air Force,Lockheed MC-130J,Mil,Special Ops,Covert,D
 3F998D,51+13,German Air Force,Transall C-160D,Mil,Luftwaffe,Old Stuff,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3EB1B3,SONICX,German Air Force,Various,Mil,UFO,U Wot m8,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F8BD0,77+04,German Army,Eurocopter EC145,Mil,Chopper,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-ADFEB7,TBC,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
-ADFEB8,98-0002,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
-ADFEB9,SAM432,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
-ADFEBA,SAM140,United States Air Force,Boeing C-32A,Mil,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
-AE0433,02-5001,United States Air Force,Boeing C-32B,Mil,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0446,99-6143,United States Air Force,Boeing C-32B,Mil,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0449,02-4452,United States Air Force,Boeing C-32B,Mil,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE596C,14-5803,United States Air Force,Lockheed AC-130J,Mil,Ghostrider,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE02D6,89-1052,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE02D8,89-1054,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE129E,87-0128,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE05B7,88-1302,United States Air Force,Lockheed AC-130W,Mil,Stinger II,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 384D9B,F-AZTE,Dakota de Compagnie,Douglas C47A Dakota,Mil,History,Speak Up Sonny,Historic,https://cdn.airplane-pictures.net/images/uploaded-images/2013/8/16/313028.jpg
 7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,Mil,M*A*S*H,Dictator Alert,M*A*S*H,https://military-medicine.com/almanac/107-saudi-arabia-kingdom-of.html
 342308,7T-WGE,Algerian Air Force,Casa C-295 M,Mil,Cargo,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/EADS_CASA_C-295
@@ -500,6 +494,7 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,Mil,Ooh Get You,Bizjet,Other Air
 44F681,CT-01,Luxembourg Armed Forces,Airbus A400M,Mil,Cargo,Chonky Boy,Other Air Forces,https://en.wikipedia.org/wiki/Luxembourg_Army#Luxembourg_Army_Air_Force
 0641E1,5N-FGZ,Nigerian Air Force,Bombardier Challenger 605,Mil,Bizjet,Wrong Turn At Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Nigerian_Air_Force
 48D961,2,Polish Air Force,Gulfstream G550,Mil,Bizjet,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Polish_Air_Force
+CF9C8,A39-006,Royal Australian Air Force,Airbus A330 203MRTT,Mil,Fill Her Up,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF996,A34-010,Royal Australian Air Force,Alenia C-27J,Mil,She'll Be Right,The Front Fell Off,Other Air Forces,https://www.airforce.gov.au
 7CF85C,A36-001,Royal Australian Air Force,Boeing 737NG 7DT/W BBJ,Mil,She'll Be Right,The Front Fell Off,Other Air Forces,https://www.airforce.gov.au
 7CF86A,A41-207,Royal Australian Air Force,Boeing C-17A Globemaster III,Mil,She'll Be Right,The Front Fell Off,Other Air Forces,https://www.airforce.gov.au
@@ -526,16 +521,29 @@ C2B58F,130611,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faa
 C2B599,130612,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B5C1,130616,Royal Canadian Air Force,Lockheed C-130J-30 Hercules,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 480C01,NAF40,Royal Netherlands Air Force,Douglas DC-10 KDC-10,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+480501,F-002,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+480508,F-009,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+480509,F-010,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050A,F-011,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050B,F-012,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050C,F-013,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050D,F-014,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050E,F-015,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+48050F,F-016,Royal Netherlands Air Force,F35 Lightning II,Mil,Hash House Harrier,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480C1A,NAF11,Royal Netherlands Air Force,Gulfstream IV,Mil,Bizjet,Must Be Nice,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480C06,G-988,Royal Netherlands Air Force,Lockheed C-130H Hercules,Mil,Chonky Boy,Foutje Bedankt,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
+478120,41,Royal Norwegian Air Force,Dassault Falcon 20 C-5B/ECM,Mil,Wild Weasel,Eye In The Sky,Other Air Forces,https://www.airtattoo.com/airshow/visiting/lookingback/looking-back-at-2016/aircraft-in-the-spotlight/royal-norwegian-air-force-falcon-da20-ecm
+478121,53,Royal Norwegian Air Force,Dassault Falcon 20 C-5B/ECM,Mil,Wild Weasel,Eye In The Sky,Other Air Forces,https://www.airtattoo.com/airshow/visiting/lookingback/looking-back-at-2016/aircraft-in-the-spotlight/royal-norwegian-air-force-falcon-da20-ecm
 3435C2,2402,Royal Saudi Air Force,Airbus A330-202MRTT,Mil,Fill Her Up,Tiger Tokens,Other Air Forces,https://en.wikipedia.org/wiki/Royal_Saudi_Air_Force
 4A8199,102004,Swedish Air Force,Gulfstream GIV SP,Mil,Smakar det sa kostar det,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
-AE2FAA,2300512,United States Air Force,Boeing C-17A Globemaster III,Mil,Wrong Turn at Albuquerque,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Kuwait_Air_Force
+4A8186,84006,Swedish Air Force,Lockheed C-130H Hercules Tp84,Mil,Smakar det sa kostar det,Must Be Nice,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+43C17D,ZH874,United States Air Force,Lockheed C-130J-30 Hercules,Mil,We Make Your Planes Better,Cargo,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 3B9BCD,27,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BD5,19,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BD6,18,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BD8,16,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BD9,15,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
+3B9BDB,13,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BDD,9,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BDE,10,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
 3B9BDF,3,French Navy,Breguet Atlantique ATL 2,Mil,Vive La France,Ou Sont Les Bagages,Other Navies,https://www.etremarin.fr
@@ -544,6 +552,7 @@ AE2FAA,2300512,United States Air Force,Boeing C-17A Globemaster III,Mil,Wrong Tu
 3B9BFE,30,French Navy,Dassault Falcon 50,Mil,Vive La France,Bizjet,Other Navies,https://www.etremarin.fr
 3B9BAA,87,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Ooh La La,Other Navies,https://www.etremarin.fr
 3B9BAF,74,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Ooh La La,Other Navies,https://www.etremarin.fr
+3B9BB0,71,French Navy,Embraer 121 Xingu AN,Mil,Ou Sont Les Bagages,Vive La France,Other Navies,https://www.etremarin.fr
 481040,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
 481041,N-088,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
 48104F,N-318,Royal Netherlands Navy,NH Industries NH90 NFH,Mil,Choppa,Foutje Bedankt,Other Navies,https://en.wikipedia.org/wiki/Royal_Netherlands_Navy
@@ -932,12 +941,14 @@ AE20C6,RCH895,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute 
 AE20C7,RCH379,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE20C8,RCH625,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE20C9,RCH260,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
+AE2FA2,08-8190,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA3,RCH899,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA4,RCH470,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA5,RCH212,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA6,RCH983,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA8,RCH810,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FA9,RCH595,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
+AE2FAA,2300512,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FAB,RCH891,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FAC,RCH257,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
 AE2FAD,RCH801,United States Air Force,Boeing C-17A Globemaster III,Mil,Absolute Unit,Cargo,USAF,https://www.airforce.com
@@ -1034,6 +1045,7 @@ AE064E,QID32,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel 
 AE0669,62-3540,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com
 AE068D,62-3517,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,I Am Old,USAF,https://www.airforce.com
 AE0798,RCH799,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com
+AE07BE,62-3578,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,I Am OId,USAF,https://www.airforce.com
 AE07BF,RCH841,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com
 AE07C1,TBC,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com
 AE07C2,RCH800,United States Air Force,Boeing KC-135R,Mil,Fill Her Up,Do A Barrel Roll,USAF,https://www.airforce.com
@@ -1093,9 +1105,9 @@ AE0233,RCH420,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Ch
 AE0234,TEAM56,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com
 AE6A6D,RCH324,United States Air Force,Douglas KC-10A Extender,Mil,Fill Her Up,Chonky Boy,USAF,https://www.airforce.com
 AF351F,F35LTNG,United States Air Force,F35 Lightning II,Mil,Fighter,Zoomies,USAF,https://www.airforce.com
-AE0193,VALOR11,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
-AE01AE,84-0085,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
-AE01B0,VALOR42,United States Air Force,Gates C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
+AE0193,VALOR11,United States Air Force,Gates Learjet C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
+AE01AE,84-0085,United States Air Force,Gates Learjet C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
+AE01B0,VALOR42,United States Air Force,Gates Learjet C-21A,Mil,Bizjet,Must Be Nice,USAF,https://www.airforce.com
 AE01B9,84-0083,United States Air Force,Gates Learjet C-21A,Mil,Government,Bizjet,USAF,https://www.airforce.com
 AE26CD,89-2008,United States Air Force,General Dynamics F-16 Fighting Falcon,Mil,Chappy,You Just Lost A Refinery,USAF,https://youtu.be/DyruzLjVwbc?t=41
 AE26D4,90-0709,United States Air Force,General Dynamics F-16 Fighting Falcon,Mil,Chappy,You Just Lost A Refinery,USAF,https://youtu.be/DyruzLjVwbc?t=41

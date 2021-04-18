@@ -1,4 +1,4 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#Link
+ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 3B7B20,F-ZBGQ,Douane (French Customs),Beechcraft King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
 3B7B22,F-ZBGO,Douane (French Customs),Beechcraft King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
 3B7B23,F-ZBGN,Douane (French Customs),Beechcraft King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
@@ -17,6 +17,7 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#Link
 4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 AE10C1,1,United States Coast Guard,Gulfstream V,Gov,Bizjet,Mae West,Coastguard,https://www.uscg.mil
 AE680D,6030,United States Coast Guard,Sikorsky MH-60 Jayhawk,Gov,Chopper,Mae West,Coastguard,https://www.uscg.mil
+AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,Gov,Mae West,Chopper,Coastguard,https://www.uscg.mil
 89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320-212,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737-NG8EXBBJ2,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896101,A6UAE,Abu Dhabi Amiri Flight,Boeing 747-48E(M),Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -27,7 +28,16 @@ AE680D,6030,United States Coast Guard,Sikorsky MH-60 Jayhawk,Gov,Chopper,Mae Wes
 89636E,A6PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,Khalifa Al Nahyan,Dictator Alert,https://data.dictatoralert.org/dictatorships
 78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,Xi Jinping,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7BC006,B-2479,Air China,Boeing 747-89L,Gov,Dictator Alert,Xi Jinping,Dictator Alert,https://data.dictatoralert.org/dictatorships
-72779A,P-885,Air Koryo,Ilyushin IL-62 M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7277CF,P-671,Air Koryo,Antonov An-148,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7277D0,P-672,Air Koryo,Antonov An-148,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+72779A,P-883,Air Koryo,Ilyushin Il-62M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A1,p-881,Air Koryo,Ilyushin Il-62M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A5,P-885,Air Koryo,Ilyushin Il-62M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278C2,P-914,Air Koryo,Ilyushin IL-76M,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+72785D,P-813,Air Koryo,Tupolev Tu-134B-3,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+727761,P-561,Air Koryo,Tupolev Tu-154B-2,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7277A9,P-633,Air Koryo,Tupolev Tu-204-100B,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7277A8,P-632,Air Koryo,Tupolev Tu-204-300,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 00412D,Z-WPF,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert,https://data.dictatoralert.org/dictatorships
 00415C,Z-WPE,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert,https://data.dictatoralert.org/dictatorships
 894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -265,7 +275,14 @@ AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be
 06804E,5X-UGF,Government of Uganda,Gulfstream G550,Gov,Government,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
 407A3E,G-XATW,Government of UK,Airbus A321neo,Gov,Government,Boris,Governments,https://www.independent.co.uk/news/uk/politics/government-plane-union-flag-paint-livery-b1820418.html
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Government,Boris,Governments,https://www.theguardian.com/politics/2020/jun/19/boris-johnson-planes-paint-job-may-render-it-useless-for-military-purposes-says-ex-pilot
+ADFEB7,TBC,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+ADFEB8,98-0002,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+ADFEB9,SAM432,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+ADFEBA,SAM140,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+AE0433,02-5001,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0446,99-6143,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0449,02-4452,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
 7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream V,Gov,M*A*S*H,Dictator Alert,M*A*S*H,https://military-medicine.com/almanac/107-saudi-arabia-kingdom-of.html
