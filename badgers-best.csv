@@ -264,6 +264,7 @@ AB2EC4,N82CR,Northrop Grumman,Gulfstream II,Civ,Testbed,One Ping Only Vasily,Dis
 38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,Civ,Vomit Comet,Pass The Sick Bag,Distinctive,https://www.airzerog.com/the-airbus-a310-zero-g
 4D02F6,LX-STN,Private,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 470803,G-MXII,Private,Amateur Built Pitts Monster P-12,Civ,Do A Barrel Roll,Biplane,Distinctive,https://en.wikipedia.org/wiki/Pitts_Model_12
+3D5C89,D-FHHH,Private,Grob G-520 T Egrett,Civ,Hiiiiiigh In The Sky,All About That Wingspan,Distinctive,https://www.airhistory.net/photos/0167362.jpg
 4B2F1A,HB-RVU,Private,Hawker Hunter F.58,Civ,Old,Fighter,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
 AB8265,N8401S,Private,Lake Renegade LA-250,Civ,Amphibian,Cool,Distinctive,https://en.wikipedia.org/wiki/Lake_Renegade
 38AC1B,F-AZKM,Private,North American OV-10B Bronco,Civ,Eye In The Sky,Cool,Distinctive,https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco
@@ -327,34 +328,50 @@ AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot
 43C45B,XX327,RAF Centre of Aviation Medicine / Qinetiq,BAe Hawk T1,Mil,Pass The Sick Bag,Specialist,Dogs with Jobs,https://en.wikipedia.org/wiki/RAF_Centre_of_Aviation_Medicine
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,Civ,Testbed,Odd,Dogs with Jobs,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
 407986,G-SVAN,Skydive UK,Cessna 208 B,Civ,Skydive,Foutje Bedankt,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+0081F2,ZS-ASN,Spectrem 2000 Microsurvey,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Dogs with Jobs,https://cdn.jetphotos.com/full/2/42922_1255822940.jpg
 C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+40668B,G-WPDA,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+40668C,G-WPDB,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+4067CE,G-WPDD,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
+406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
 43EA62,M-LCFC,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football ,https://www.lcfc.com
 407A3E,G-XATW,Government of UK,Airbus A321neo,Gov,Government,Boris,Governments,https://www.independent.co.uk/news/uk/politics/government-plane-union-flag-paint-livery-b1820418.html
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Government,Boris,Governments,https://www.theguardian.com/politics/2020/jun/19/boris-johnson-planes-paint-job-may-render-it-useless-for-military-purposes-says-ex-pilot
+151950,RF-72016,Russian FSB,Antonov An-72,Gov,Covert,I Must Break You,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
 AE0433,02-5001,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0449,02-4452,United States Air Force,Boeing C-32B,Gov,150th Special Operations Squadron,Non Semper Ea Sunt Quae Videntur,Governments,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
+0AC8F9,FAC1686,Colombian Air Force,Basler AC-47T Fantasma,Mil,History,Rejuvenated,Gunship,https://warisboring.com/colombias-ac-47t-fantasmas-are-still-going-strong
 AE596C,14-5803,United States Air Force,Lockheed AC-130J,Mil,Ghostrider,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE02D6,89-1052,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE02D8,89-1054,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE129E,87-0128,United States Air Force,Lockheed AC-130U,Mil,Spooky,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE05B7,88-1302,United States Air Force,Lockheed AC-130W,Mil,Stinger II,Gunship,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK.55,Civ,Fighter,I Am Old,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
+ACEDC6,N932H,Airborne Support Inc.,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C06B21,C-GOOU,ALCI Aviation Ltd,Douglas C-47A BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C032E0,C-FTGX,ALCI Aviation Ltd,Douglas DC-3 BT-67,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C04F42,C-GEAJ,ALCI Aviation Ltd,Douglas DC-3 BT-67,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C032D1,C-FTGI,ALCI Aviation Ltd,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 4B208C,HB-MIM,Ariel Ludi,Bucker Bu 133C Jungmeister ,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_133_Jungmeister
 4B2D1D,HB-RCF,Association Morane Charlie Fox,D-3801 (Morane MS-406),Civ,Fighter,History,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_M.S.406
 4B2D1D,HB-RCF,Association Morane Charlie Fox,D-3801 (Morane MS-406),Civ,Fighter,History,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_M.S.406
+A31F71,N300BF,Basler Airlines,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+AB9066,N844TH,Basler Turbo Conversions,Douglas C-47A BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 A0CA7A,N150D,Basler Turbo Conversions,Douglas C-47DL,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
+A04088,N115U,Basler Turbo Conversions,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+A2B041,N272ZZ,Big Flats LLC,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 40687C,G-SHWN,Boultbee Flight Academy,North American P-51D Mustang,Civ,War Bird,Shiny,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
 40302D,G-BRSF,Boultbee Flight Academy,Supermarine Spitfire IX,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/rr232
 4071BB,G-IRTY,Boultbee Flight Academy,Supermarine Spitfire IX,Civ,Shiny,History,Historic,https://www.silverspitfire.com
 40232B,G-CCCA,Boultbee Flight Academy,Supermarine Spitfire LFIXe,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/pv202
 403D79,G-ILDA,Boultbee Flight Academy,Supermarine Spitfire T.IX,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/sm520
 C05669,C-GGSU,CGG Aviation,Douglas DC-3 BT-67,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C01024,C-FGCX,China National Antarctic & Arctic Research Expedition,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 384D9B,F-AZTE,Dakota de Compagnie,Douglas C47A Dakota,Mil,History,Speak Up Sonny,Historic,https://cdn.airplane-pictures.net/images/uploaded-images/2013/8/16/313028.jpg
 4B2F13,HB-RVN,Eric Chardonnens,F+W Emmen DH-100 Vampire FB6,Civ,Fighter,I Am Old,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
@@ -365,6 +382,17 @@ C05669,C-GGSU,CGG Aviation,Douglas DC-3 BT-67,Civ,History,Speak Up Sonny,Histori
 4B13F7,HB-HOP,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
 4B13FA,HB-HOS,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
 4B13FB,HB-HOT,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
+C020B6,C-FMKB,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C05D72,C-GJKB,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C04F41,C-GEAI,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C057C6,C-GHGF,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C046ED,C-GAWI,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C07D22,C-GVKB,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C003AA,C-FBKB,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C06016,C-GKKB,Kenn Borek Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C03C29,C-FWUI,North Star Air,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C038D9,C-FVNS,North Star Air,Douglas DC-3C BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk.22,Civ,War Bird,Fighter,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
 401491,G-ANHX,Private,Auster Aircraft Auster AOP.5,Civ,Speak Up Sonny,I Am Old,Historic,http://www.aerialvisuals.ca/AirframeDossier.php?Serial=114444
 401480,G-AMZT,Private,Auster Aircraft Auster J/5F Aiglet Trainer,Civ,I Am Old,Training Wheels,Historic,https://en.wikipedia.org/wiki/Auster_Aiglet_Trainer
@@ -383,6 +411,8 @@ A8787D,N645H,Private,Curtiss-Wright Travel Air 4000 E,Civ,Biplane,History,Histor
 40155A,G-ARMC,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
 4B3447,HB-TUT,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
 A52790,N431HM,Private,Douglas C-47,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
+A0803D,N131PR,Private,Douglas C-47A BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+A1B748,N21BF,Private,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 3D7656,D-FRBI,Private,EKW C.3603,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/EKW_C-36
 4B2D33,HB-RDB,Private,EKW C.3605,Civ,History,Alpine Anteater,Historic,https://en.wikipedia.org/wiki/F%2BW_C-3605
 4B2D39,HB-RDH,Private,EKW C.3605,Civ,History,Alpine Anteater,Historic,https://en.wikipedia.org/wiki/F%2BW_C-3605
@@ -457,6 +487,30 @@ A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target
 4D03CE,LX-N90456,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int
 4D03CF,LX-N90458,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int
 4D03D0,LX-N90459,NATO,Boeing E-3A Sentry,Mil,N.A.T.O,Open Skies,Quango,https://www.nato.int
+503DAF, LY-VEW,United Nations,Airbus A320-214,Gov,United Nations,World Police,Quango,https://www.un.org/en
+503DAC,LY-VEN,United Nations,Airbus A320-233,Gov,United Nations,World Police,Quango,https://www.un.org/en
+342699,EC-KKQ,United Nations,ATR 72-500,Gov,United Nations,World Police,Quango,https://www.un.org/en
+343282,EC-KUL,United Nations,ATR 72-500,Gov,United Nations,World Police,Quango,https://www.un.org/en
+0097DB,ZS-JAG,United Nations,Beech 1900D,Gov,United Nations,World Police,Quango,https://www.un.org/en
+04000E,ET-ALJ,United Nations,Boeing 767-360ER,Gov,United Nations,World Police,Quango,https://www.un.org/en
+3C5829,D-AFAI,United Nations,Bombardier Challenger 604,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C04605,C-GANK,United Nations,De Havilland DHC-8-100,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C058DE,C-GHQZ,United Nations,De Havilland DHC-8-100,Gov,United Nations,World Police,Quango,https://www.un.org/en
+4D2032,9H-AFD,United Nations,De Havilland DHC-8-300,Gov,United Nations,World Police,Quango,https://www.un.org/en
+04C063,5Y-BVZ,United Nations,Embraer ERJ-135LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+04C1E3,5Y-CRZ,United Nations,Embraer ERJ-145LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+00870E,ZS-ATD,United Nations,Let L-410UVP-E20 Turbolet,Gov,United Nations,World Police,Quango,https://www.un.org/en
+00871C,ZS-CRJ,United Nations,Mitsubushi CRJ-100ER,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C05C30,C-GIXR,United Nations,Mitsubushi CRJ-200ER,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C05C32,F-GIXT,United Nations,Mitsubushi CRJ-200ER,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C05F00,C-GJZJ,United Nations,Mitsubushi CRJ-200ER,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C01FFD,C-FMCY,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C021CE,C-FMUV,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C03C69,C-FWWU,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C03D75,C-FXHC,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+C03DE2,C-FXLH,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
+0082C0,ZS-BAL,United Nations,Raytheon 800XP Hawker,Gov,United Nations,World Police,Quango,https://www.un.org/en
+5082FA,UR-ELQ,United Nations,Saab 340B,Gov,United Nations,World Police,Quango,https://www.un.org/en
 43C2B2,ZZ416,14 Squadron ISR (RAF),Shadow R1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/our-organisation/squadrons/14-squadron
 43C61D,ZZ504,14 Squadron ISR (RAF),Shadow R1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/our-organisation/squadrons/14-squadron
 43C908,ZZ507,14 Squadron ISR (RAF),Shadow R1,Mil,Eye In The Sky,You Aint Seen Me Right,RAF,https://www.raf.mod.uk/our-organisation/squadrons/14-squadron
@@ -493,7 +547,7 @@ A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target
 406BC6,G-XXEC,The Queens Helicopter flight ,AgustaWestland AW109S,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
 405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
 406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C++,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight."
-43C32A,ZH864,Royal Navy Fleet Air Arm,AgustaWestland AW101 AEW2 'Crowsnest',Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy,https://www.youtube.com/watch?v=jr0JaXfKj68
+43C32A,ZH864,Royal Navy Fleet Air Arm Fleet Air Arm,AgustaWestland AW101 AEW2 'Crowsnest',Mil,One Ping Only Vasily,Id Get That Seen Too,Royal Navy Fleet Air Arm,https://www.youtube.com/watch?v=jr0JaXfKj68
 407918,G-TEKV,UK Border Force,Tekever AR5,Gov,You Aint Seen Me Right,Eye In The Sky,UAV,https://www.justice.gov
 AE5026,167792,United States Air Force,Bell MQ-8B,Mil,Uphold The Public Trust,Where Is The Pilot,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_MQ-8_Fire_Scout
 AE27A7,04-2021,United States Air Force,Northrop Grumman RQ-4 Global Hawk,Mil,UAV,Where Is The Pilot,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
@@ -529,6 +583,7 @@ AE54B7,05-2024,United States Air Force,Northrop Grumman RQ-4 Global Hawk,Mil,UAV
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4078A4,G-POLW,National Police Air Service,Vulcanair P.68R,Pol,Eye In The Sky,Police Squad,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 405EC4,G-DOSC,Acrobat Ltd,Diamond Aircraft DA42MPP,Gov,Eye In The Sky,Covert,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
+A68945,N520DM,Bear Defence,Grob G-520 Egrett,Civ,What Big Eyes You Have,All About That Wingspan,Under Observation,https://www.thedrive.com/the-war-zone/12569/unusual-high-altitude-spy-plane-appears-at-special-operations-exercise
 406870,G-DMNG,Diamond Executive Aviation (DEA),Diamond Aircraft DA42M-NG Guardian,Civ,Covert,Eye In The Sky,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 406658,G-DMPP,Diamond Executive Aviation (DEA),Diamond Aircraft DA42MPP,Civ,Covert,Eye In The Sky,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 406661,G-EMPP,Diamond Executive Aviation (DEA),Diamond Aircraft DA42MPP,Civ,Covert,Eye In The Sky,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
