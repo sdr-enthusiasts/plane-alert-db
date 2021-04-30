@@ -1,8 +1,7 @@
 # plane-alert-db
 
-**NOTE - The main file format has changed from .txt to .csv - the old file will remain available (without updates) until 2021/05/01, at which point it will be deleted. Please update any links to the .txt file immediately**
 
-This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent https://github.com/kx1t/docker-planefence and takes the form 
+This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** and takes the form 
 
 - ICAO,Ident,Operator,Type,CMPG,$Tag,#$Tag2,Category,#$Link
 
