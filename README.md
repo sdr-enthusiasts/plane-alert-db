@@ -17,6 +17,8 @@ in the example above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 wi
 
 \*CMPG = Civilian, Military, Police, Government
 
+All links to pics and youtube/other videos are SFW.
+
 # Planefence
 To use this list with Planefence, simply configure your planefence.config setup to include the following line:
 
