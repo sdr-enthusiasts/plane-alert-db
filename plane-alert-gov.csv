@@ -28,6 +28,7 @@ A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,Loooong Raaaaa
 406F8B,G-MCGL,HM Coastguard,Sikorsky S-92A,Gov,Choppa,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DEB,G-MCGV,HM Coastguard ,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 403BAB,G-LEAF,HM Coastguard (Reconnaissance Ventures Ltd),Cessna F406 Caravan II,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407377,G-IASB,IAS Medical Ltd,Beechcraft King Air B200,Gov,Specialist,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 4CC468,TF-SIF,Icelandic Coast Guard,Bombardier DHC-8-314Q,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 4CC51C,TF-EIR,Icelandic Coast Guard,Eurocopter EC225 Super Puma,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,Gov,Mae West,Wrong Turn At Albuquerque,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
@@ -247,7 +248,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream G300,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71002D,HZ-SK1,Saudi Private FLITE Charters,Gulfstream G4 SP,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80A4,YV1129,Servicio Autonomo de Coordinacion de Transporte Aereo,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-896063,A6ESH,Sharjah Rulers Flight,Airbus ACJ319-132,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships
+896063,A6-ESH,Sharjah Rulers Flight,Airbus ACJ319-132,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896436,A6-SHJ,Sharjah Rulers Flight,Airbus ACJ320-232XSL,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships
 51100D,STPRM,Sudanese Police Air Wing,Antonov An-72 100D,Gov,Dictator Alert,Sovereignty Council,Dictator Alert,https://data.dictatoralert.org/dictatorships
 600B78,4K-AZ888,SW Business Aviation (Azerbajan),Gulfstream G450,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -262,6 +263,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 0D8373,YV2984,Venezuelan Government,Airbus A319-133X,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 424565,VQ-BSK,Worldwide Aircraft Holding (Turkey),Boeing 747-8ZV (BBJ),Gov,Dictator Alert,Recep Tayyip Erdoğan,Dictator Alert,https://data.dictatoralert.org/dictatorships
 50802D,UR-74010,Antonov Airlines,Antonov An-74TK-200,Gov,Odd,Chonky Boy,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
+ABEDBC,N868NA,Armstrong Flight Research Center,McDonnell Douglas FA-18 Hornet,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov
 AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,Super Guppy,Distinctive,https://en.wikipedia.org/wiki/Aero_Spacelines_Super_Guppy
 AA0DB8,N747NA,NASA,Boeing 747-SP21,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov
 ACD5A1,N926NA,NASA,General Dynamics WB-57F Canberra,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov
@@ -273,9 +275,6 @@ AB0479,N809NA,NASA,Lockheed ER2,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa
 AB6FD1,N836NA,NASA,McDonnell Douglas NF-15B Eagle,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov
 A6B008,N53W,NASA Airborne Science Mission,Beech B200C King Air,Gov,Nasa,Sce To Aux,Distinctive,https://airbornescience.nasa.gov/program/airborne_missions
 AB248A,N817NA,NASA Armstrong Flight Research Center,Douglas DC-8 72,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov/centers/armstrong/home/index.html
-ADFDF8,82-8000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
-ADFDF9,92-9000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
-AE47C4,92-9000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Distinctive,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
 400DE5,G-HIJK,Acrobat Ltd (Met Office),Cessna 421C Golden Eagle,Gov,Nice Waether For Ducks,Measuring Stick,Dogs with Jobs,https://www.airport-data.com/images/aircraft/000/783/783107.jpg
 7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
 ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be Nice,Bizjet,Dogs with Jobs,https://www.faa.gov
@@ -292,21 +291,21 @@ AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be
 01003E,SU-BND,Government of Egypt,Gulfstream IV,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 4243FD,VQ-BNZ,Government of Jordan,Gulfstream G650 ER,Gov,Dictator Alert,Bizjet,Governments,https://en.wikipedia.org/wiki/Politics_of_Jordan
 485920,PHGOV,Government of Netherlands,Boeing 737-600BBJ,Gov,Foutje Bedankt,Bizjet,Governments,https://en.wikipedia.org/wiki/Monarchy_of_the_Netherlands
+505C09,OM-BYK,Government of Slovakia,Airbus ACJ319 115X,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk
 505C07,OM-BYB,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk
 505C08,OM-BYC,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk
 06804E,5X-UGF,Government of Uganda,Gulfstream G550,Gov,Government,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
 407A3E,G-XATW,Government of UK,Airbus A321neo,Gov,Government,Boris,Governments,https://www.independent.co.uk/news/uk/politics/government-plane-union-flag-paint-livery-b1820418.html
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Government,Boris,Governments,https://www.theguardian.com/politics/2020/jun/19/boris-johnson-planes-paint-job-may-render-it-useless-for-military-purposes-says-ex-pilot
 151950,RF-72016,Russian FSB,Antonov An-72,Gov,Covert,I Must Break You,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
+4A822A,102005,Swedish Air Force,Gulfstream Aerospace G550 TP-102D,Gov,Smakar det sa kostar det,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
+4A8199,102004,Swedish Air Force,Gulfstream GIV SP,Gov,Smakar det sa kostar det,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
 ADFEB7,TBC,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB8,98-0002,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,99-0003,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEBA,SAM140,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
-7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream V,Gov,M*A*S*H,Dictator Alert,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia#Armed_Forces_Medical_Service
-7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream V,Gov,M*A*S*H,Dictator Alert,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia#Armed_Forces_Medical_Service
-710386,HZ-128,Saudi Armed Forces Medical Services,Lockheed L-100-30 Hercules,Gov,M*A*S*H,Dictator Alert,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia#Armed_Forces_Medical_Service
 4068DA,G-HMDX,Specialist Aviation Services,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Covert,Chopper,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A9B15F,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Covert,Chopper,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
@@ -346,6 +345,9 @@ C03D75,C-FXHC,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Polic
 C03DE2,C-FXLH,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Police,Quango,https://www.un.org/en
 0082C0,ZS-BAL,United Nations,Raytheon 800XP Hawker,Gov,United Nations,World Police,Quango,https://www.un.org/en
 5082FA,UR-ELQ,United Nations,Saab 340B,Gov,United Nations,World Police,Quango,https://www.un.org/en
+ADFDF8,82-8000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Radiohead,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
+ADFDF9,92-9000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Radiohead,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
+AE47C4,92-9000,US Govt Air Force 1,Boeing VC25A,Gov,Ooh Get You,Government,Radiohead,"https://en.wikipedia.org/wiki/Air_Force_One#:~:text=Air%20Force%20One%20is%20the,used%20to%20transport%20the%20President."
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet,https://www.justice.gov
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B,Gov,US Dept Of Justice,Eye In The Sky,Sock Puppet,https://www.justice.gov
 A3A5DB,N334ND,Chapparral Air Group (FBI),Cessna 206H Stationair,Gov,FBI,Covert,Sock Puppet,https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php
