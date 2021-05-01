@@ -124,7 +124,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Australian Aircraft called firebird (fire spotter and fighters)
 - S-64 Skycrane - list only partially completed (what is the list of names)
 - Japanese Flying Boats Shin Maywa US-2/US 1 (US2 are 9901 through 9907 - mode s ?)
-- Private Adversary Squadrons
+- Private Adversary Squadrons (Air Usa etc)
 - Operators of old Jets/Fighters (e.g. Hawker Huner Aviation)
 - Callspan Corp In-Flight Simulators
 - GAMA Avaiation (ex RAF spy planes)
