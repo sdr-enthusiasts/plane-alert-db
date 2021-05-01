@@ -32,14 +32,14 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **2782** unique aircraft in **43** different categories.
+The list contains **2972** unique aircraft in **47** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (2782)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (789)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (1504)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (2972)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (955)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (1526)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (48)
-- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (441)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (977)
+- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (443)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (986)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contain details of the main list and the most recent additions.
@@ -50,46 +50,50 @@ Think of categories like groups, with similar or related aircraft listed togethe
 
 - Aerobatic Teams \- Red Arrows, Blue Angels etc (53)
 - Army Air Corp \- UK Army Air Corp. Mainly Helicopters (22)
-- As Seen on TV \- Companies and Brands (44)
+- As Seen on TV \- Companies and Brands (47)
 - Battle of Britiain Memorial Flight \- Historic British aircraft from WW2 (12)
 - Big Hello \- Large Helicopters (sic) (38)
-- Bizjets \- Fancy pants planes for fancy pants people (21)
-- Coastguard \- Coastguard, Customs and Border Patrols (40)
+- Bizjets \- Fancy pants planes for fancy pants people (22)
+- Coastguard \- Coastguard, Customs and Border Patrols (41)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (82)
 - Dictator Alert \- People of potentially questionable morals and values (229)
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (82)
-- Dogs with Jobs \- Aircraft with specific roles and/or modifications (51)
+- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (145)
+- Dogs with Jobs \- Aircraft with specific roles and/or modifications (70)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
-- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (291)
-- Governments \- Aircraft registired to Governments (26)
+- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (290)
+- Governments \- Aircraft registired to Governments (25)
 - Gunship \- Brrrrrrrrrrrrrrrrrrrt (219)
-- Historic \- It's older than I am, and most likely has a prop. (95)
+- Historic \- It's older than I am, and most likely has a prop. (102)
 - I For One Welcome our new Overlords \- Clippy et al. (24)
-- Jesus he Knows me \- Aircraft owned and operated by Religious organisations (4)
+- Jesus he Knows me \- Aircraft owned and operated by Religious organisations (10)
 - Just Because \- I don't know why I like you, but I do. (7)
 - M\*A\*S\*H \- Air Ambulance and Medical Flights
 - Military Contractors \- Why do the dirty work when someone else can do it for you ? (57)
-- Must be nice \- Billionaires, not millionaires, daaaahling (14)
+- Must be nice \- Billionaires, not millionaires, daaaahling (15)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (205)
-- Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (21)
-- Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (23)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (208)
+- Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (24)
+- Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (24)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (21)
 - Quango \- Nato, United Nations, World Bank etc (42)
-- RAF \- Aircraft of the Royal Air Force (122)
+- Radiohead \- Very Very special aircraft. Think VC25. (4)
+- RAF \- Aircraft of the Royal Air Force (108)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
 - Royal Navy Fleet Air Arm Fleet Air Arm \- Aircraft of the Royal Navy Fleet Air Arm (0)
+- Sam Tân \- Firefighting Aircraft. (44)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (87)
+- Special Forces \- The best of the best of the best. Sir. (47)
+- Toy Soldiers \- Armies from around the world (15)
 - UAV \- It's not natural, I tell 'ya (10)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- Under Observation \- Up to something dodgy, maybe (63)
-- United States Navy \- United States naval avaitors. Some say they are the best of the best. (45)
-- USAF \- Aircraft of the United States Air Force (422)
-- Vanity Plate \- Distinctive registrations (27)
-- Watch Me Fly \- Flying and Training Schools (31)
-- Who needs an Engine ? \- Gliders etc (48)
-- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (24)
-- Zoomies \- Fast jets, fighters. Anything that moves fast. (31)
+- Under Observation \- Up to something dodgy, maybe (62)
+- United States Navy \- United States naval avaitors. Some say they are the best of the best. (47)
+- USAF \- Aircraft of the United States Air Force (388)
+- Vanity Plate \- Distinctive registrations (37)
+- Watch Me Fly \- Flying and Training Schools (33)
+- Who needs an Engine ? \- Gliders etc (49)
+- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (27)
+- Zoomies \- Fast jets, fighters. Anything that moves fast (31)
 
 # To do / Ideas
 
@@ -128,14 +132,12 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Other Coast Guards (e.g. USCG)
 - Air Ambulances (Wikipedia List)
 - Big Russian Helis
-- Kamov KA32's (WIP List has been obtained, maybe in next update)
 - Babcock MCS Spain (and any other countries)
 - Lewis Hamilton Jet(s)
 - Open Skies Flights
 - Eurpoean Union
 - Scienctific / Weather planes
 - Flight Precision Ltd (and Similar)
-- United Nations
 - World Bank etc
 - Red Cross / MSF
 - Special Convertions e.g. Engine testbeds
@@ -145,7 +147,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Football Teams and other sporting organisations
 - Beechcraft RC-12 Guardrail
 - Meteorological research flights
-- A10 Thunderbolt II
 - Film and Televison Companies
 - News Choppers
 - RCAF Snowbirds
@@ -180,8 +181,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Special Hurons - MC-12W, MC-12S, RC-12H, RC-12N
 - Edgley Optika
 - Columbian C47 Gunships - Got 1 are there more ?
-- Artic and Antartic Aircraft
-- China National Antarctic & Arctic Research Expedition
+- Artic and Antartic Aircraft (Got some - but are there more ?)
 - Thunder City (SA Company flying old jets)
 - Meta Special Aerospace
 - <strike>Network Rail Helicopter(s)</strike>
@@ -197,6 +197,10 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>Lynden Air Cargo</strike>
 - <strike>UK Coast Guard</strike>
 - <strike>Basler BT-67 Operators</strike>
+- <strike>Kamov KA32's</strike>
+- <strike>United Nations</strike>
+- <strike>A10 Thunderbolt II</strike>
+- <strike>China National Antarctic & Arctic Research Expedition</strike>
 
 Any other idea's welcome.
 
