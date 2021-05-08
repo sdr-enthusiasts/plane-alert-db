@@ -186,6 +186,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Meta Special Aerospace
 - FAA and CAA
 - US Missile Defence Agency
+- A4 Skyhawks
 - <strike>Network Rail Helicopter(s)</strike>
 - <strike>Multinational MRTT Fleet</strike>
 - <strike>Fly Navy Heritage Trust</strike>
