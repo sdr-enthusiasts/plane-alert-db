@@ -2,6 +2,7 @@ ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 511047,ES-YLF,Breitling Team,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 511049,ES-YLR,Breitling Team,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
+40749C,G-JPIT,Private,Amateur Built Pitts Special S-2S Modified,Civ,We Make Your Planes Better,Do A Barrel Roll,Aerobatic Teams,https://www.richgoodwinairshows.com/jet-pitts
 406481,G-PMIZ,Private,Pitts Special P-12 (Amateur Built),Civ,Do A Barrel Roll,Old,Aerobatic Teams,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private,Pitts Special S-1S (Amateur Built),Civ,Cool,Do A Barrel Roll,Aerobatic Teams,https://en.wikipedia.org/wiki/Pitts_Special
 407316,G-IIFI,Red Bull Matadors,Xtremeair Sbach XA-41,Civ,Do A Barrel Roll,Pass The Sick Bag,Aerobatic Teams,http://www.matadorsaerobaticteam.com
@@ -43,8 +44,10 @@ A92949,N69KL,The Flying Bulls,Sukhoi Su-29,Civ,Do A Barrel Roll,Already Has Wing
 3C49B7,D-ABMW,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,As Seen on TV,https://www.bmwgroup.com/en.html
 ADB41E,N982RW,Coca-Cola Company,Gulfstream Aerospace GVII-G600,Civ,Bizjet,Must Be Nice,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 AD57A2,N959RW,Coca-Cola Company,Gulfstream G600,Civ,Bizjet,Must Be Nice,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
+A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,Civ,Bizjet,Loooong Raaaaaange,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,Civ,Bizjet,Loooong Raaaaaange,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A62C34,N497XP,DFS Furniture Company,Raytheon 400 XP,Civ,Bizjet,Sale Must End Soon,As Seen on TV,https://www.youtube.com/watch?v=DGkhTEZWle4
+A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,Civ,Fill Her Up,Loooong Raaaaaange,As Seen on TV,https://en.wikipedia.org/wiki/ExxonMobil
 4008BA,G-OFOM,Formula One Management Ltd,BAe 146 100,Civ,Must Be Nice,Formula 1,As Seen on TV,https://www.formula1.com
 A88E0D,N650PP,Gaseosas Posada Tobon SA Postobon SA,Bombardier Challenger 650,Civ,Bizjet,Wrong Turn At Albuquerque,As Seen on TV,https://www.postobon.com
 A2CEA4,N280GU,Gulfstream Aerospace Corp,Gulfstream G280,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.gulfstream.com/en
@@ -71,6 +74,7 @@ A7C2CD,N6CP,Pfizer Inc,Gulfstream Aerospace G650 ER,Civ,Id Get That Seen Too,Biz
 43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Bizjet,Must Be Nice,As Seen on TV,https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLiizLDJg9OLPzUzOSEzNUchXyElNLKoEAHlfCPw&q=michael+o+leary&oq=michael+o+&aqs=chrome.1.69i57j46l4j69i60l3.3711j0j9&sourceid=chrome&ie=UTF-8
 AA5B89,N767A,Saudi Aramco,Boeing 767 2AXER,Civ,Must Be Nice,Loooong Raaaaaange,As Seen on TV,https://www.aramco.com
 4243BC,VQ-BXG,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.shell.co.uk/business-customers/shell-aviation.html
+42447F,VQ-BXD,Shell Aviation Ltd,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.shell.co.uk/business-customers/shell-aviation.html
 A7C683,N60SN,Sony Aviation,Dassault Falcon 8X,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.sony.net
 4400C7,OE-IDM,The Flying Bulls,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.flyingbulls.at/en
 43E907,M-TSRI,Timpson Ltd,Beech King Air C90GTX,Civ,Bizjet,Ooh Get You,As Seen on TV,https://www.timpson.co.uk
@@ -133,6 +137,7 @@ A9E51E,N737AT,Hillwood Airways,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjet
 3C78AF,D-ANEO,K5-Aviation GmbH,Airbus A319 153NSL,Civ,Private Airline,Must Be Nice,Bizjets,http://www.k5-aviation.com/de/portfolio_page/airbus-acj319-d-aneo
 3C70B8,D-ALEX,K5-Aviation GmbH,Airbus ACJ319 115CJ/SL,Civ,Private Airline,Must Be Nice,Bizjets,http://www.k5-aviation.com/de/portfolio_page/airbus-acj319-d-aneo
 3C00AF,D-APGS,K5-Aviation GmbH,Airbus ACJ319 115X,Civ,Private Airline,Must Be Nice,Bizjets,http://www.k5-aviation.com/de/portfolio_page/airbus-acj319-corporate-jet-d-apgs
+A5DF79,N478GS,L-3 Harris,Gulfstream GIVSP,Civ,Bizjet,Loooong Raaaaaange,Bizjets,https://en.wikipedia.org/wiki/L3Harris_Technologies
 3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 A6E07B,N542MP,Pans UK Holdings Ltd,Honda Jet,Civ,How Does It Fly,Id Get That Seen Too,Bizjets,https://www.hondajet.com
 A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-NG BBJ,Civ,Bizjet,Absolute Unit,Bizjets,https://en.wikipedia.org/wiki/Boeing_Business_Jet
@@ -233,8 +238,8 @@ A00529, N100ES,Earth Star Inc,Gulfstream G650 ER,Civ,Disney,Loooong Raaaaaange,D
 710094,HZ-AS44,Saudi Royal Flight,Airbus A320-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710096,HZ-AS45,Saudi Royal Flight,Airbus A320-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71010B,HZ-124,Saudi Special Flight Services,Airbus A340-200,Civ,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4069E7,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive,https://www.2excelaviation.com
-406C5D,G-OSRB,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive,https://www.2excelaviation.com
+4069E7,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive,https://www.2excelaviation.com/our-activity
+406C5D,G-OSRB,2 Excel Aviation,Boeing 727 2S2F,Civ,Specialist,Old,Distinctive,https://www.2excelaviation.com/our-activity
 4B3E7A,HB-XRE,Air Glaciers,Aerospatiale Lama SA.315B,Civ,Hiiiiiigh In The Sky,Choppa,Distinctive,https://verticalmag.com/features/the-mountain-king
 394A60,F-GSTA,Airbus Transport International,Airbus A300 B4-608ST Beluga,Civ,Absolute Unit,How Does It Fly,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga
 394A61,F-GSTB,Airbus Transport International,Airbus A300 B4-608ST Beluga,Civ,Absolute Unit,How Does It Fly,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga
@@ -327,6 +332,7 @@ AB2EC4,N82CR,Northrop Grumman,Gulfstream II,Civ,Testbed,One Ping Only Vasily,Dis
 147B59,RA-31577,Panh Air,Kamov Ka-32 S,Civ,Double Vision,Vashe Zdorovye,Distinctive,https://en.wikipedia.org/wiki/Kamov_Ka-27
 147966,RA-31078,Panh Air,Kamov Ka-32 T,Civ,Double Vision,Vashe Zdorovye,Distinctive,https://en.wikipedia.org/wiki/Kamov_Ka-27
 4D02F6,LX-STN,Private,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A9702C,N707SN,Private,Cirrus Jet Vision SF50,Civ,Backpack Tadpole V-Jet,Shiny,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 A5782B,N4510,Private,Grob G-520 Egrett,Civ,Hiiiiiigh In The Sky,All About That Wingspan,Distinctive,https://en.wikipedia.org/wiki/Grob_G_520
 A68945,N520DM,Private,Grob G-520 Egrett,Civ,Hiiiiiigh In The Sky,All About That Wingspan,Distinctive,https://en.wikipedia.org/wiki/Grob_G_520
 A68959,N520EG,Private,Grob G-520 Egrett,Civ,Hiiiiiigh In The Sky,All About That Wingspan,Distinctive,https://en.wikipedia.org/wiki/Grob_G_520
@@ -362,6 +368,7 @@ A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,D
 C015CE,C-FIGR,VIH Helicopters,Kamov Ka-32 A11BC,Civ,Double Vision,Vashe Zdorovye,Distinctive,https://vih.com
 C07B3B,C-GURI,VIH Helicopters,Kamov Ka-32 A11BC,Civ,Double Vision,Vashe Zdorovye,Distinctive,https://vih.com
 C020CA,C-FMKV,VIH Helicopters,Kamov Ka-32 A12,Civ,Double Vision,Vashe Zdorovye,Distinctive,https://vih.com
+AA0348,N744VG,Virgin Orbit,Boeing 747-41R,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Distinctive,https://en.wikipedia.org/wiki/Cosmic_Girl_(aircraft)
 A0552B,N120RB,VREF Management Inc,Cirrus Jet Vision SF50,Civ,Backpack Tadpole V-Jet,Shiny,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 15211F,RA-74015,VSV,Antonov An-74,Civ,Odd,Chonky Boy,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
 3E120D,D-HYAN,ADAC Luftrettung,Eurocopter EC145,Civ,Big Bird,Chopper,Dogs with Jobs,https://luftrettung.adac.de
@@ -406,6 +413,7 @@ AB3169,N820FS,Era Alaska,Piper PA-31 350 Navajo Chieftain,Civ,Brrrrrrrrrrrrrrr,P
 43E7CE,M-ODKZ,Flight Coordination Services Ltd,Dassault Falcon 900EX,Civ,Bizjet,Ooh Get You,Dogs with Jobs,https://www.acl-uk.org
 AA0308,N744ST,Global Supertanker Service,Boeing 747 Supertanker,Civ,Fire,Hot Hot Hot Hot,Dogs with Jobs,https://en.wikipedia.org/wiki/747_Supertanker
 4078EB,G-GWMB,Hinton Skydiving Centre,Pacific Aerospace PAC750XL,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,Dogs with Jobs,https://en.wikipedia.org/wiki/PAC_P-750_XSTOL
+A399C3,N331CL,Massachusetts Institute Of Technology,SAAB 340B,Civ,What Big Eyes You Have,Flying Classroom,Dogs with Jobs,https://www.mit.edu
 40081A,G-LUXE,Meteorological Research Flight,BAe 146-301,Civ,Measuring Stick,Cool,Dogs with Jobs,https://en.wikipedia.org/wiki/Facility_for_Airborne_Atmospheric_Measurements
 406897,G-RIDB,National Grid Electricity Transmission,Bell 429 Global Ranger,Civ,Wichita Lineman,Choppa,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission
 405588,G-RIDA,National Grid Electricity Transmission,Eurocopter AS355 Twin Squirrel,Civ,Wichita Lineman,Chopper,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission
@@ -420,6 +428,7 @@ AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,Civ,Testbed,Odd,Dogs with Jobs,https:/
 0081F2,ZS-ASN,Spectrem 2000 Microsurvey,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Dogs with Jobs,https://cdn.jetphotos.com/full/2/42922_1255822940.jpg
 C001BB,C-FARA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with Jobs,https://lh3.googleusercontent.com/proxy/deMZ9YwYlQLGCEMvJVdtmper_QaSx1z9ish3mBY2n4WM205lEZ4m5O31TuvI7NfPi9Cp-qGvpRUhhHntAOr2DPDL7Y4YFOksuObKPeSCr5wRjMoOAW5sJzvMjwVzBGS-D55EplmOR3mwBL5jtHYc
+401388,G-UKPS,UK Parachute Services,Cessna 208,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,Dogs with Jobs,https://ukparachuting.co.uk
 40668B,G-WPDA,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
 40668C,G-WPDB,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
 4067CD,G-WPDC,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
@@ -427,6 +436,63 @@ C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,Civ,Skydive,Flying Brick,Dogs with J
 406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135,Civ,Wichita Lineman,Big Bird,Dogs with Jobs,https://www.westernpower.co.uk/business-services/helicopter-unit
 43EA62,M-LCFC,Leicester City Football Club,Boeing 737NG 7EI/W BBJ,Civ,Jumpers For Goalposts,Bizjet,Football ,https://www.lcfc.com
 01003E,SU-BND,Government of Egypt,Gulfstream GIVSP,Civ,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+40729E,G-SCMR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+400A76,G-CIFE,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+400F3D,G-FSEU,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+401046,G-WCCP,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+4012AD,G-IMEA,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+4055B7,G-JASS,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+405F85,G-IASM,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+406848,G-UKAL,Aero Lease UK (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+406B79,G-VYGJ,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D26,G-VYGK,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D27,G-VYGL,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406E9F,G-VYGM,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,Civ,Covert,One Ping Only Vasily,Hired Gun,https://actualcontrol.substack.com/p/openskys-open-api
+A68945,N520DM,Bear Defence,Grob G-520 Egrett,Civ,Covert,All About That Wingspan,Hired Gun,https://www.thedrive.com/the-war-zone/12569/unusual-high-altitude-spy-plane-appears-at-special-operations-exercise
+4009D6,G-FRAW,Draken Europe,Dassault Falcon 20-ECM,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009D3,G-FRAS,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009D4,G-FRAT,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009D5,G-FRAU,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42-M-NG Guardian,Civ,Specialist,Target Practice,Hired Gun,https://www.draken.aero
+A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Hired Gun,https://www.youtube.com/watch?v=jk0gBZtTYUA
+A3DB76,N348EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Hired Gun,https://www.youtube.com/watch?v=jk0gBZtTYUA
+400D64,G-PCOP,Gama Aviation,Beech B200 King Air,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+400DC2,G-SASC,Gama Aviation,Beech B200 King Air,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+407765,G-YVIP,Gama Aviation (UK) Ltd,Beech B200 King Air,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+407B44,G-GMAF,Gama Aviation (UK) Ltd,Beech B200 King Air,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beech King Air 350C,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beech King Air 350C,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+41CE02,G-BSAH,Gama Aviation (UK) Ltd,BN Islander R.1,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+400D24,G-BJEC,Gama Aviation (UK) Ltd,BN-2T Islander CC2B,Civ,Covert,Eye In The Sky,Hired Gun,https://www.gamaaviation.com/special-mission-2
+406C60,G-LSCW,Gama Aviation (UK) Ltd,Gulfstream G550,Civ,Covert,What Big Eyes You Have,Hired Gun,https://www.gamaaviation.com/special-mission-2
+3CD066,D-CGFM,Gesellschaft für Flugzieldarstellung,Bombardier Learjet 31 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05A,D-CGFA,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05B,D-CGFB,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05C,D-CGFC,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05D,D-CGFD,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD061,D-CGFH,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD063,D-CGFJ,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD067,D-CGFN,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05E,D-CGFE,Gesellschaft für Flugzieldarstellung,Gates Learjet 36 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+3CD05F,D-CGFF,Gesellschaft für Flugzieldarstellung,Gates Learjet 36 A,Civ,Target Practice,Feierabend,Hired Gun,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
+401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,Civ,Callsign Viper,Aggressor,Hired Gun,https://www.topaces.com
+4069D9,G-LBSB,Transferred to MOD,Beech King Air 350C,Civ,Covert,Eye In The Sky,Hired Gun,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK.55,Civ,Fighter,I Am Old,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 ACEDC6,N932H,Airborne Support Inc.,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C06B21,C-GOOU,ALCI Aviation Ltd,Douglas C-47A BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -448,6 +514,7 @@ A2B041,N272ZZ,Big Flats LLC,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,
 403D79,G-ILDA,Boultbee Flight Academy,Supermarine Spitfire T.IX,Civ,War Bird,Speak Up Sonny,Historic,https://www.boultbeeflightacademy.co.uk/sm520
 C05669,C-GGSU,CGG Aviation,Douglas DC-3 BT-67,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C01024,C-FGCX,China National Antarctic & Arctic Research Expedition,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+4025FC,G-AKIU,Classic Aircraft Trust,Percival Proctor 5,Civ,Training Wheels,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Percival_Proctor
 4B2F13,HB-RVN,Eric Chardonnens,F+W Emmen DH-100 Vampire FB6,Civ,Fighter,I Am Old,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
@@ -455,7 +522,9 @@ C01024,C-FGCX,China National Antarctic & Arctic Research Expedition,Douglas DC-3
 404E86,G-HHII,Flyaspitfire.com,Hawker Hurricane Mk.IIb (2 Seat Conversion),Civ,Unicorn,Bicylcle Made For Two,Historic,https://flyaspitfire.com/hurricane-be505
 502C61,YL-LEV,Flying Adventure Tours,Antonov An-2 P,Civ,I Am Old,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 43C332,XP820,Historic Aircraft Flight Trust,DHC-2 Beaver AL1,Civ,Old,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
-4075AD,G-WSEX,Historic Helicopters,Westland Wessex HU.5,Civ,Chopper,Mae West,Historic,https://www.historichelicopters.com/Pages/32/Navy-Wessex.html
+4077E4,G-SKNG,Historic Helicopters,Westland Sea King HAR3,Civ,Amphibian,Mae West,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
+4075AD,G-WSEX,Historic Helicopters,Westland Wessex HU.5,Civ,The Last Of Us,Mae West,Historic,https://www.historichelicopters.com/Pages/32/Navy-Wessex.html
+403850,G-BVGE,Historic Helicopters,Westland Whirlwind,Civ,The Last Of Us,Mae West,Historic,https://www.historichelicopters.com/Pages/30/Whirlwind.html
 4B13F7,HB-HOP,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
 4B13FA,HB-HOS,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
 4B13FB,HB-HOT,JU-AIR,Junkers Ju-52,Civ,Tante Ju,Shiny,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
@@ -492,6 +561,7 @@ A8787D,N645H,Private,Curtiss-Wright Travel Air 4000 E,Civ,Biplane,History,Histor
 40155A,G-ARMC,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
 401A2E,G-BARS,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
 4B3447,HB-TUT,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
+401AEE,G-BBMO,Private,DHC-1 Chipmunk 22,Civ,Jump Johnny Jump,Speak Up Sonny,Historic,https://www.youtube.com/watch?v=JMz_gONS8X0
 A0803D,N131PR,Private,Douglas C-47A BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 A52790,N431HM,Private,Douglas C47A Dakota,Civ,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
 A1B748,N21BF,Private,Douglas DC-3 BT-67,Civ,History,Rejuvenated,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -569,6 +639,7 @@ AB58C1,N830EC,Areus Trilogy LLC,Bombardier BD-100-1A10,Civ,Original Nuttah,U Wot
 A77B6F,N581UP,United Parcel Service (UPS),Boeing 747,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,https://www.ups.com/gb/en/Home.page
 A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Just Because,https://www.ups.com/gb/en/Home.page
 20163,CN-TMB,Air Ocean Maroc,Raytheon 125 800XP,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://aom-airambulance.ma/hawker-800-xpi
+AB3C0C,N823AM,Airmed International LLC,Raytheon 125 800XP,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://airmed.com
 4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.walesairambulance.com
 407386,G-PICU,Children's Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://theairambulanceservice.org.uk/childrens-air-ambulance
 407933,G-CRWL,Cornwall Air Ambulance Trust,AgustaWestland AW.189,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://cornwallairambulancetrust.org
@@ -586,6 +657,7 @@ A3026F,N293UP,United Parcel Service (UPS),McDonnell Douglas MD11,Civ,You Came He
 3DE8F9,D-HIMB,DRF Luftrettung,MBB BK.117 B-1,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.drf-luftrettung.de
 3DFE90,D-HQQQ,DRF Luftrettung,MBB BK.117 B-1,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.drf-luftrettung.de
 405F81,G-GWAC,Great Western Air Ambulance,Eurocopter EC135,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://greatwesternairambulance.com
+406EC5,G-HIOW,Hampshire and Isle of Wight Air Ambulance,Eurocopter EC135,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.hiowaa.org
 406BA6,G-CWCD,IAS Medical Ltd,Beech B200 Super King Air,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.iasmedical.com
 4068F7,G-IASA,IAS Medical Ltd,Raytheon B200 King Air,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.iasmedical.com
 C02DE8,C-FRJZ,Latitude Air Ambulance,Israel Aircraft Industries 1125 Astra SP,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://latitude2009.com
@@ -609,63 +681,7 @@ ACE73A,N930SA,Spectrum Medical Aviation Inc Trustee,Daher TBM 930,Civ,M*A*S*H,Ai
 4071AB,G-WOBR,Welsh Air Ambulance,Eurocopter EC145,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.walesairambulance.com
 406CBC,G-WLTS,Wiltshire Air Ambulance,Bell 429 Global Ranger,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.wiltshireairambulance.co.uk
 407045,G-YOAA,Yorkshire Air Ambulance,Eurocopter EC145,Civ,M*A*S*H,Air Ambo,M*A*S*H,https://www.yorkshireairambulance.org.uk
-400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-40729D,G-SCTR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-40729E,G-SCMR,2 Excel Aviation,Piper PA-31 Navajo C,Civ,Covert,What Big Eyes You Have,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-400A76,G-CIFE,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-400F3D,G-FSEU,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-401046,G-WCCP,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-4012AD,G-IMEA,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-4055B7,G-JASS,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-405F85,G-IASM,2 Excel Aviation (Broadsword),Beech B200 King Air,Civ,Eye In The Sky,U Wot m8,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-406848,G-UKAL,Aero Lease UK (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-406B79,G-VYGJ,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,https://www.airtanker.co.uk
-406D26,G-VYGK,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,https://www.airtanker.co.uk
-406D27,G-VYGL,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,https://www.airtanker.co.uk
-406E9F,G-VYGM,AirTanker,Airbus A330-243,Civ,Fill Her Up,Tiger Tokens,Military Contractors,https://www.airtanker.co.uk
-ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,Civ,Covert,One Ping Only Vasily,Military Contractors,https://actualcontrol.substack.com/p/openskys-open-api
-A68945,N520DM,Bear Defence,Grob G-520 Egrett,Civ,Covert,All About That Wingspan,Military Contractors,https://www.thedrive.com/the-war-zone/12569/unusual-high-altitude-spy-plane-appears-at-special-operations-exercise
-4009D6,G-FRAW,Draken Europe,Dassault Falcon 20-ECM,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009D3,G-FRAS,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009D4,G-FRAT,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009D5,G-FRAU,Draken Europe,Dassault Falcon 20C,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009CA,G-FRAH,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009CD,G-FRAK,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009D1,G-FRAP,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009D2,G-FRAR,Draken Europe,Dassault Falcon 20D,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009C8,G-FFRA,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009CB,G-FRAI,Draken Europe,Dassault Falcon 20DC,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009C9,G-FRAF,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-4009CC,G-FRAJ,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-400E15,G-FRAD,Draken Europe,Dassault Falcon 20E,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-407B49,G-FRSB,Draken Europe,Dassault Falcon 20F,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42-M-NG Guardian,Civ,Specialist,Target Practice,Military Contractors,https://www.draken.aero
-A3CC9A,N344EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.youtube.com/watch?v=jk0gBZtTYUA
-A3DB76,N348EM,Draken International,Aermacchi MB.339 CB,Civ,Callsign Viper,Target Practice,Military Contractors,https://www.youtube.com/watch?v=jk0gBZtTYUA
-400D64,G-PCOP,Gama Aviation,Beech B200 King Air,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-400DC2,G-SASC,Gama Aviation,Beech B200 King Air,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-407765,G-YVIP,Gama Aviation (UK) Ltd,Beech B200 King Air,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-407B44,G-GMAF,Gama Aviation (UK) Ltd,Beech B200 King Air,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-406A2E,G-GMAD,Gama Aviation (UK) Ltd,Beech King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-4073E1,G-DAYP,Gama Aviation (UK) Ltd,Beech King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-41CE02,G-BSAH,Gama Aviation (UK) Ltd,BN Islander R.1,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-400D24,G-BJEC,Gama Aviation (UK) Ltd,BN-2T Islander CC2B,Civ,Covert,Eye In The Sky,Military Contractors,https://www.gamaaviation.com/special-mission-2
-406C60,G-LSCW,Gama Aviation (UK) Ltd,Gulfstream G550,Civ,Covert,What Big Eyes You Have,Military Contractors,https://www.gamaaviation.com/special-mission-2
-3CD066,D-CGFM,Gesellschaft für Flugzieldarstellung,Bombardier Learjet 31 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05A,D-CGFA,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05B,D-CGFB,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05C,D-CGFC,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05D,D-CGFD,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD061,D-CGFH,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD063,D-CGFJ,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD067,D-CGFN,Gesellschaft für Flugzieldarstellung,Gates Learjet 35 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05E,D-CGFE,Gesellschaft für Flugzieldarstellung,Gates Learjet 36 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-3CD05F,D-CGFF,Gesellschaft für Flugzieldarstellung,Gates Learjet 36 A,Civ,Target Practice,Feierabend,Military Contractors,https://de.wikipedia.org/wiki/GFD_Gesellschaft_f%C3%BCr_Flugzieldarstellung
-401116,G-BVJT,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-405B28,G-TDSA,NOR Leasing (Police),Reims-Cessna F406 Caravan II,Civ,Covert,Bobby On The Beat,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,Civ,Callsign Viper,Aggressor,Military Contractors,https://www.topaces.com
-4069D9,G-LBSB,Transferred to MOD,Beech King Air 350C,Civ,Covert,Eye In The Sky,Military Contractors,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+4076E5,G-KELT,Acropolis Aviation,Airbus A320 251NCJSL,Civ,How The Other Half Live,Luxury,Must be nice,https://www.acropolis-aviation.com
 484499,P4-MLO,Comlux Aviation,Airbus A330-200,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com
 4D2052,9H-AVK,Comlux Aviation,Airbus ACJ319-100,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com
 4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,Civ,Not A Bus,Ooh Get You,Must be nice,https://comlux.com
@@ -678,11 +694,13 @@ C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,Civ,Callsign Viper,Aggressor,Mil
 683262,UP-EM008,Comlux Aviation (Kazakhstan),Embraer ERJ-135,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com
 68323D,UP-SJ001,Comlux Aviation (Kazakhstan),Sukhoi Superjet 100,Civ,Not A Bus,Kassym-Jomart Tokayev,Must be nice,https://comlux.com
 4073B5,G-GARE,Grosvenor Estates,Textron Aviation Citation XLS+,Civ,How The Other Half Live,Must Be Nice,Must be nice,https://en.wikipedia.org/wiki/Grosvenor_Group
+484494,P4-BBJ,Jet Magic Ltd,Boeing 737NG 7AV/W BBJ,Civ,Must Be Nice,How The Other Half Live,Must be nice,https://www.jetmagic.com
 424267,VP-BMS,Las Vegas Sands Corp,Airbus A340 541,Civ,Luxury,Ooh Get You,Must be nice,https://www.sands.com
 4078B9,G-SHMB,Steve Hartley,Aero L-39 C,Civ,Do A Barrel Roll,Pass The Sick Bag,Must be nice,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 AA6922,N770BB,Yucaipa Companies LLC,Boeing 757-2J4W,Civ,How Much,Ooh Get You,Must be nice,https://en.wikipedia.org/wiki/Yucaipa_Companies
 0A4022,7T-WID,Algerian Air Force,Ilyushin IL-76 TD,Civ,Cargo,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 0A4026,7T-WIU,Algerian Air Force,Ilyushin IL-76 TD,Civ,Cargo,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+3B77E8,F-RADC,Armee de l'Air et de l'Espace,Airbus A310-304,Civ,Vive La France,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7715,5151,Armee de l'Air et de l'Espace,Lockheed C-130H Hercules,Civ,Vive La France,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7546,1018,Armee de l'Air et de l'Espace,Raytheon B350 King Air,Civ,Covert,Eye In The Sky,Other Air Forces,https://www.defense.gouv.fr/english/air
 44F64C,H-38,Belgian Air Component,AgustaWestland AW109E,Civ,L-Plate,Pass The Sick Bag,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
@@ -695,7 +713,6 @@ AA6922,N770BB,Yucaipa Companies LLC,Boeing 757-2J4W,Civ,How Much,Ooh Get You,Mus
 467893,PI-04,Finnish Air Force,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Shiny,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 467894,PI-05,Finnish Air Force,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Shiny,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 467895,PI-06,Finnish Air Force,Pilatus PC-XII 47,Civ,Wrong Turn at Albuquerque,Shiny,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
-3B77E8,F-RADC,French Air Force,Airbus A310-304,Civ,Vive La France,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 4B822D,09-001,Turkish Air Force,Gulfstream G550,Civ,Bizjet,Not A Car,Other Air Forces,https://www.hvkk.tsk.tr
 300641,I-VICC,Aeronike ltd,Vulcanair P.68R,Civ,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aeronike.com/en/home-2
 3E5176,D-IWAW,AVT Airborne Sensing,Beech B200 King Air,Civ,What Big Eyes You Have,Measuring Stick,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
@@ -718,9 +735,9 @@ A92AEB ,N690CC,Geofly Latvija SIA,Rockwell Turbo Commander 690B,Civ,Measuring St
 4B10F7,HB-GLB,Swiss Flight Services SA,Beech B200 King Air,Civ,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.sfsaviation.ch
 485EC3,PH-ZCZ,Zeusch Aviation,Beech B200 King Air,Civ,Measuring Stick,Magic Roundabout,Ptolemy would be proud,https://zeusch.com
 A3EA1F,N351SL,Stratolauncher,Stratolauncher Roc,Civ,BIG,Double Vision,Radiohead,https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch
-406BC6,G-XXEC,The Queens Helicopter flight ,AgustaWestland AW109S,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight"
-405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight"
-406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C,Civ,Yes Maam,Red Carpet,Royal Aircraft,"https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government#:~:text=The%20Queen's%20Helicopter%20Flight%20(TQHF),-The%20Royal%20Household&text=From%201998%20to%202009%2C%20it,flew%20in%20the%20King's%20Flight"
+406BC6,G-XXEC,The Queens Helicopter flight ,AgustaWestland AW109S,Civ,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
+405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S76C,Civ,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
+406004,G-XXED,The Queens Helicopter flight ,Sikorsky S76C,Civ,Yes Maam,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 43C30B,ZH831,Royal Navy Fleet Air Arm,EH Industries EH.101 Merlin HM.2,Civ,Choppa,Not A Wizard,Royal Navy Fleet Air Arm,https://www.qinetiq.com/en
 A85052,N635AC,AeroFlite,BAe 146-300,Civ,Firebird,Hot Hot Hot Hot,Sam Tân,https://fireaviation.com/wp-content/uploads/2017/05/Aero-Flite_T161-1024x486.jpg
 A0956B,N137CG,Coulson Aviation,Boeing 737-3H4,Civ,Firebird,Hot Hot Hot Hot,Sam Tân,https://www.coulsonaviationusa.com
@@ -828,6 +845,7 @@ C02DB4,C-FRHZ,PAL Aerospace Ltd,Raytheon B200 King Air,Civ,What Big Eyes You Hav
 440378,OE-VDP,Thales UK,Diamond Aircraft DA62-MPP,Civ,Eye In The Sky,Covert,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 4404D6,OE-FMF,Thales UK,Diamond Aircraft DA62-MPP,Civ,Eye In The Sky,Covert,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,Civ,Balmer Peak,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=sAk_rq4VnuY
+3CD34E,D-CHIC,Air Hamburg,Embraer Phenom 300,Civ,Bizjet,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=oQT9rT74WYM
 3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,Civ,How Does It Fly,Shiny,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 3E4082,D-IPPY,Airgo Flugservice,Piaggio P-180 Avanti EVO,Civ,How Does It Fly,Shiny,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,Civ,How Does It Fly,Shiny,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
@@ -835,10 +853,14 @@ C02DB4,C-FRHZ,PAL Aerospace Ltd,Raytheon B200 King Air,Civ,What Big Eyes You Hav
 3C0F31,D-AUTO,BMW,Gulfstream G550,Civ,Bizjet,Not A Car,Vanity Plate,https://www.bmwgroup.com/en.html
 3D4B37,D-FAST,Business Wings,Cessna 208,Civ,Whoosh,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=j5a_00YVVkQ
 448465,OO-ACE,Challenge Airlines,Boeing 747 412BCF,Civ,Cargo,Chonky Boy,Vanity Plate,https://www.challenge-airlines.be
+424B95,M-DAWN,Dawn Meats Group Ltd,Beech King Air 200GT,Civ,Vanity Plate,Culture Beat,Vanity Plate,https://www.dawnmeats.com
 43EB76,2-DEER,Deer Jet,787 BBJ,Civ,Must Be Nice,How Much,Vanity Plate,https://pbs.twimg.com/media/DEC03kAXgAA1wdi.jpg:large
+43ED56,2-DRDR,Dr P Orton,Cirrus Jet Vision SF50,Civ,Backpack Tadpole V-Jet,Shiny,Vanity Plate,https://www.youtube.com/watch?v=DsAVx0u9Cw4
 43E9EA,M-DRIL,Drilling Systems Ltd,Pilatus PC-XII 47E,Civ,Culture Beat,Office In The Sky,Vanity Plate,https://www.drillingsystems.com
 40666C,G-EZUS,Easyjet,Airbus A320-214,Civ,Jesus He Knows Me,Vanity Plate,Vanity Plate,https://www.moellerip.com/wp-content/uploads/bigstock-166721186.jpg
 424B39,M-THOR,ExecuJet Europe AG,Gulfstream V,Civ,Bizjet,Ooh Get You,Vanity Plate,https://www.execujet.com/en
+A001B1,N1TF,Friedkin International,Gulfstream G650,Civ,Bizjet,Ooh Get You,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
+A0007F,N1F,Friedkin International,Gulfstream G650,Civ,Bizjet,Vanity Plate,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
 43EA70,M-INTY,Hampshire Aviation Ltd,Gulfstream Aerospace G280,Civ,Bizjet,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
 43EA88,M-ISTY,Hampshire Aviation Ltd,Gulfstream G280,Civ,Bizjet,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
 404E15,G-EEKY,Horizon Flight Training,Piper PA-28,Civ,Vanity Plate,Training Wheels,Vanity Plate,https://www.youtube.com/watch?v=1mRG2oAQhso
@@ -854,8 +876,9 @@ C02DB4,C-FRHZ,PAL Aerospace Ltd,Raytheon B200 King Air,Civ,What Big Eyes You Hav
 43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 3D9963,D-GEIL,Private,Piper PA-34-220T Seneca V,Civ,Hot Hot Hot Hot,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=wpK-rgxXvHU
 407984,G-CLMB,Private,Schempp-Hirth Discus 2c FES,Civ,All About That Wingspan,Where Is The Engine,Vanity Plate,https://www.schempp-hirth.com/en
-43E75E,M-ONTY,Private,Sikorsky S-76 C,Civ,Chopper,Vanity Plate,Vanity Plate,http://torinak.com/qaop#!montymole3
+43E75E,M-ONTY,Private,Sikorsky S-76 C,Civ,Chopper,Vanity Plate,Vanity Plate,
 3D069D,D-EATH,Private Owner,Piper PA-28,Civ,Wheelbarrow,Jesus He Knows Me,Vanity Plate,https://en.wikipedia.org/wiki/Death_(Discworld)
+A00187,N1RP,Roger Penske,Gulfstream G550,Civ,Bizjet,Not A Car,Vanity Plate,https://en.wikipedia.org/wiki/Roger_Penske
 424B89,M-ARIA,SDQ Aviation IOM Limited,Gulfstream G550,Civ,Bizjet,Not A Car,Vanity Plate,https://cdn.jetphotos.com/full/5/15570_1597251693.jpg
 43ED0B,2-FAST,Skypark (UK) Ltd,Piaggio P-180 Avanti,Civ,How Does It Fly,You Came Here In That Thing,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
 43ED3F,2-EASY,Skypark (UK) Ltd,Piaggio P-180 Avanti II,Civ,How Does It Fly,Id Get That Seen Too,Vanity Plate,https://i.pinimg.com/originals/46/de/d9/46ded91e94bc791c81948a6934e9f31b.jpg
@@ -949,6 +972,7 @@ C02DB4,C-FRHZ,PAL Aerospace Ltd,Raytheon B200 King Air,Civ,What Big Eyes You Hav
 405F7F,G-LPIN,Private,P & M Aviation QuikR,Civ,Ultralight,People Be Crazy,You came here in that thing ?,http://www.pmaviationusa.com/images/quikr%20wing%2001.jpg?crc=86326437
 406B3A,G-CIEM,Private,P & M Aviation QuikR,Civ,Ultralight,People Be Crazy,You came here in that thing ?,http://www.pmaviationusa.com/images/quikr%20wing%2001.jpg?crc=86326437
 4072B1,G-FLIA,Private,RotorSport UK Calidus,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.youtube.com/watch?v=xFozWDLne7c
+40627A,G-YROZ,Private,RotorSport UK Calidus,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.rotorsport.org
 406B25,G-YROL,Private,RotorSport UK Cavalon,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.youtube.com/watch?v=xFozWDLne7c
 401257,G-JBRE,Private,RotorSport UK MT-03,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.youtube.com/watch?v=xFozWDLne7c
 4061E2,G-KBOJ,Private,RotorSport UK MTO Sport,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.youtube.com/watch?v=xFozWDLne7c

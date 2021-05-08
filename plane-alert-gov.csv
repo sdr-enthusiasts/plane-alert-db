@@ -171,7 +171,6 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,Gov,Government,Must B
 042819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert,https://data.dictatoralert.org/dictatorships
 042003,3C-LGE,Guinea Ecuatorial Airlines,Dassault Falcon 50,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101E4,HZ-WBT5,HRH Prince Awaleed Bin Talal,BAe 125-800A,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4CA204,258,Irish Air Corps,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6831ED,74008,Kazakhstan Border Guards,Antonov An-74TK-200,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101F1,HZ-WBT7,Kingdom Holding( King Abdullah),Boeing 747-4J6,Gov,Dictator Alert,Mohammed bin Salman,Dictator Alert,https://data.dictatoralert.org/dictatorships
 01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -281,6 +280,10 @@ ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be
 ABCC7D,N86,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be Nice,Bizjet,Dogs with Jobs,https://www.faa.gov
 AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be Nice,Bizjet,Dogs with Jobs,https://www.faa.gov
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,Gov,Open Skies,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
+3B7543,F-UJCT,Armee de l'Air et de l'Espace,Airbus A330-243,Gov,Government,Ou Sont Les Bagages,Governments,https://www.defense.gouv.fr/english/air
+3B7544,F-UJCS,Armee de l'Air et de l'Espace,Airbus A330-243,Gov,Government,Ou Sont Les Bagages,Governments,https://www.defense.gouv.fr/english/air
+3E854F,10+03,German Air Force,Airbus A350-941,Gov,Shiny,Not A Bus,Governments,https://www.bundeswehr.de/de/organisation/luftwaffe
+E400D9,FAB2101,Government of Brazil,Airbus VC-1A,Gov,Santos Dumont,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
 451E92,LZ-AOB,Government of Bulgaria,Airbus A319-112,Gov,Government,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
 10148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D0,SU-BTU,Government of Egypt,Dassault Falcon 7X,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
@@ -296,6 +299,12 @@ AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be
 505C08,OM-BYC,Government of Slovakia,Fokker F100,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk
 06804E,5X-UGF,Government of Uganda,Gulfstream G550,Gov,Government,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
 407A3E,G-XATW,Government of UK,Airbus A321neo,Gov,Government,Boris,Governments,https://www.independent.co.uk/news/uk/politics/government-plane-union-flag-paint-livery-b1820418.html
+33FFC1,MM62209,Italian Air Force,Airbus ACJ319-115X,Gov,Ciao,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFF9,MM62174,Italian Air Force,Airbus ACJ319-115X,Gov,Ciao,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFFB,MM62029,Italian Air Force,Dassault Falcon 50,Gov,Ciao,Bizjet,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,Gov,Ciao,Bizjet,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,Gov,Ciao,Bizjet,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+A136FE,N178B,Missile Defence Agency,Grumman GII B,Gov,Missile Defense,D.O.D,Governments,https://www.mda.mil
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Government,Boris,Governments,https://www.theguardian.com/politics/2020/jun/19/boris-johnson-planes-paint-job-may-render-it-useless-for-military-purposes-says-ex-pilot
 151950,RF-72016,Russian FSB,Antonov An-72,Gov,Covert,I Must Break You,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
 4A822A,102005,Swedish Air Force,Gulfstream Aerospace G550 TP-102D,Gov,Smakar det sa kostar det,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
@@ -304,6 +313,10 @@ ADFEB7,TBC,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,G
 ADFEB8,98-0002,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,99-0003,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEBA,SAM140,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nice,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+AE0945,TBC,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
+AE115D,01-2015,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
+AE11F6,SAM013,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
+AE11F8,TBC,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
 4068DA,G-HMDX,Specialist Aviation Services,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
@@ -319,7 +332,6 @@ A20F84,N2317,US National Nuclear Security Administration,Beech 300 Super King Ai
 A20FCA,N2319,US National Nuclear Security Administration,Beech 300 Super King Air 350,Gov,Specialist,mmm Neutrons,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 ADACC6,N980ST,US National Nuclear Security Administration,Boeing 737-400C,Gov,Specialist,mmm Neutrons,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 ADD445,N990ST,US National Nuclear Security Administration,Boeing 737-4YO,Gov,Specialist,mmm Neutrons,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
-3B7544,F-UJCS,Armee de l'Air et de l'Espace,Airbus A330-243,Gov,Government,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 39016D,F-GALN,Institut National Geographique,Beech B200 King Air,Gov,Trundle Wheel,Measuring Stick,Ptolemy would be proud,https://www.ign.fr
 503DAF, LY-VEW,United Nations,Airbus A320-214,Gov,United Nations,World Police,Quango,https://www.un.org/en
 503DAC,LY-VEN,United Nations,Airbus A320-233,Gov,United Nations,World Police,Quango,https://www.un.org/en
@@ -442,3 +454,4 @@ AE0449,02-4452,United States Air Force,Boeing C-32B,Gov,150th Special Operations
 407918,G-TEKV,UK Border Force,Tekever AR5,Gov,You Aint Seen Me Right,Eye In The Sky,UAV,https://www.justice.gov
 405EC4,G-DOSC,Acrobat Ltd,Diamond Aircraft DA42-MPP,Gov,Eye In The Sky,Covert,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 4012A1,G-VALK,ALTO Aerospace Ltd,Beech B200 King Air,Gov,U Wot m8,Eye In The Sky,Under Observation,https://www.altoaero.com
+A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,Gov,Government,Vanity Plate,Vanity Plate,https://www.faa.gov
