@@ -231,3 +231,9 @@ http://www.ads-b.nl/
 https://www.live-military-mode-s.eu/
 
 https://dictatoralert.org/ 
+
+http://www.j-hangarspace.jp/
+
+https://scramble.nl/
+
+https://www.foxtrotcharlie.ovh/
