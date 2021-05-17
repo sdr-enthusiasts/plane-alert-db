@@ -32,14 +32,14 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **3402** unique aircraft in **47** different categories.
+The list contains **4128** unique aircraft in **47** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (3402)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (4128)
 - [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (979)
 - [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (1919)
-- [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (48)
+- [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (774)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (456)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (1006)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (1018)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
@@ -73,7 +73,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Nuclear \- Nuclear Emergency Support Team etc (12)
 - Other Air Forces \- Air Force aircraft that are not RAF or USAF (206)
 - Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (24)
-- Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (24)
+- Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (750)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (21)
 - Quango \- Nato, United Nations, World Bank etc (42)
 - Radiohead \- Very Very special aircraft. Think VC25. (4)
@@ -231,3 +231,11 @@ http://www.ads-b.nl/
 https://www.live-military-mode-s.eu/
 
 https://dictatoralert.org/ 
+
+http://www.j-hangarspace.jp/
+
+https://scramble.nl/
+
+https://www.foxtrotcharlie.ovh/
+
+https://www.planelogger.com/
