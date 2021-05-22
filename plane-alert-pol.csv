@@ -10,8 +10,8 @@ E20086,GN-816,Argentine Federal Police,DAHER-SOCATA TBM 850,Pol,Police Squad,Pol
 E085CE,LQ-HWN,Argentine Federal Police,Eurocopter EC135,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 E06447,LQ-FQG,Argentine Federal Police,Eurocopter EC135 P1,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 E0240C,LV-BPL,Argentine Federal Police,Gates Learjet 35 A,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
-E2002F,GN-807,Argentine Federal Police,Pilatus PC-6,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 E0A111,LQ-JDQ,Argentine Federal Police,Pilatus PC-6,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
+E2002F,GN-807,Argentine Federal Police,Pilatus PC-6,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 E0A0D1,LQ-JCQ,Argentine Federal Police,Pilatus PC-XII 47E,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 E075CB,LV-GWK,Argentine Federal Police,Robinson R44,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Argentine_Federal_Police
 4850CA,P4-POL,Aruba Police,Bell 206L Long Ranger,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Aruba_Police_Force
@@ -27,11 +27,11 @@ A820F8,N6227,Austin Police Department,Eurocopter Squirrel AS.350,Pol,Police Squa
 4404AC,OE-BXQ,Austrian Police,Eurocopter EC135,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 4404AF,OE-BXR,Austrian Police,Eurocopter EC135,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 4404B2,OE-BXS,Austrian Police,Eurocopter EC135,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
-44041D,OE-BXB,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
-44041E,OE-BXC,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 440327,OE-BXG,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 440328,OE-BXY,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 440329,OE-BXZ,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
+44041D,OE-BXB,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
+44041E,OE-BXC,Austrian Police,Eurocopter EC135-P2,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Austria)
 145211,RF-21009,Bashkortostan Police,Kamov Ka-226,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_(Bashkortostan)
 A1F4DD,N225PD,Baton Rouge Police Department,Bell 206B Jet Ranger,Pol,Police Squad,The Cops,Police Forces,https://www.brla.gov/203/Police-Department
 44C1E1,G-01,Belgian Federal Police,Cessna 182 Skylane,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Belgium)
@@ -52,6 +52,7 @@ E48421,PR-PFN,Brazilian Federal Police,Embraer ERJ-145 LR,Pol,Police Squad,Polic
 E0214E,LQ-BEN,Buenos Aires Provincial Police,Eurocopter Squirrel AS.350,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Buenos_Aires_Provincial_Police
 E0224F,LQ-BIO,Buenos Aires Provincial Police,Eurocopter Squirrel AS.350,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Buenos_Aires_Provincial_Police
 E02253,LQ-BIS,Buenos Aires Provincial Police,Eurocopter Squirrel AS.350,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/Buenos_Aires_Provincial_Police
+3E0229,D-HSAB,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DD794,D-HBWU,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DD795,D-HBWV,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DD796,D-HBWW,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
@@ -61,18 +62,17 @@ E02253,LQ-BIS,Buenos Aires Provincial Police,Eurocopter Squirrel AS.350,Pol,Poli
 3DF743,D-HNWT,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DF744,D-HNWU,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DF745,D-HNWV,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
-3.00E+229,D-HSAB,Bundespolizei,Airbus Helicopters H145,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DDDCF,D-HEGD,Bundespolizei,Eurocopter AS332 Super Puma,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DDDD3,D-HEGH,Bundespolizei,Eurocopter AS332 Super Puma,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DDDD7,D-HEGL,Bundespolizei,Eurocopter AS332 Super Puma,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E02E2,D-HSHE,Bundespolizei,Eurocopter EC120B Colibri,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
+3DFB92,D-HPNE,Bundespolizei,Eurocopter EC135,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
+3DFB93,D-HPNF,Bundespolizei,Eurocopter EC135,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E0A38,D-HVBK,Bundespolizei,Eurocopter EC135,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E0A3B,D-HVBN,Bundespolizei,Eurocopter EC135,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E0A3D,D-HVBP,Bundespolizei,Eurocopter EC135,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E0A3E,D-HVBQ,Bundespolizei,Eurocopter EC135,Pol,Freeze,Chopper,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3E0A46,D-HVBY,Bundespolizei,Eurocopter EC135,Pol,Eye In The Sky,Police Squad,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
-3DFB92,D-HPNE,Bundespolizei,Eurocopter EC135,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
-3DFB93,D-HPNF,Bundespolizei,Eurocopter EC135,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DD7B5,D-HBYB,Bundespolizei,Eurocopter EC135 P1,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DD7B7,D-HBYD,Bundespolizei,Eurocopter EC135 P1,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
 3DF481,D-HMVP,Bundespolizei,Eurocopter EC135 P1,Pol,Polente,Pol,Police Forces,https://www.bundespolizei.de/Web/DE/_Home/home_node.html
@@ -130,9 +130,9 @@ A719AC,N557CP,City of Columbus Division of Police,MD Helicopters MD 369,Pol,Poli
 A71D63,N558CP,City of Columbus Division of Police,MD Helicopters MD 369,Pol,Police Squad,The Cops,Police Forces,https://www.columbus.gov/police
 AB7545,N8374F,City of Houston Police Department,MD Helicopters MD 369,Pol,Police Squad,The Cops,Police Forces,https://www.houstontx.gov/police
 A30842,N295CC,Clayton County Police Department,Bell OH-58C Kiowa,Pol,Police Squad,The Cops,Police Forces,https://www.claytonpolice.com
-0AC3DD,PNC-0243,Colombian National Police,Avions de Transport Regional ATR 42 300,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
-0AC3DC,PNC-0244,Colombian National Police,Avions de Transport Regional ATR 42 300,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
 0AC3A9,PNC-0245,Colombian National Police,Avions de Transport Regional ATR 42 300,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
+0AC3DC,PNC-0244,Colombian National Police,Avions de Transport Regional ATR 42 300,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
+0AC3DD,PNC-0243,Colombian National Police,Avions de Transport Regional ATR 42 300,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
 0AC3D4,PNC-0242,Colombian National Police,Avions de Transport Regional ATR 42 320,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
 0AC96F,PNC-0926,Colombian National Police,Bell 407,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
 0AC972,PNC-0929,Colombian National Police,Bell 407,Pol,Police Squad,Policia,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Colombia
@@ -214,27 +214,27 @@ A1BDCC,N211FX,Fairfax County Police Department,Bell 429 Global Ranger,Pol,Police
 A1C183,N212FX,Fairfax County Police Department,Bell 429 Global Ranger,Pol,Police Squad,The Cops,Police Forces,https://www.fairfaxcounty.gov/police/fairfax-county-police-department
 AC9AF4,N911FW,Fort Worth Police Department,Bell 206B Jet Ranger,Pol,Police Squad,The Cops,Police Forces,https://police.fortworthtexas.gov
 A64D15,N505FW,Fort Worth Police Department,Bell 505 Jet Ranger,Pol,Police Squad,The Cops,Police Forces,https://police.fortworthtexas.gov
-3AAC24,1952,Gendarmerie (French Police),Airbus Helicopters Squirrel AS.350,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC1E,2044,Gendarmerie (French Police),Airbus Helicopters Squirrel AS.350,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC24,1952,Gendarmerie (French Police),Airbus Helicopters Squirrel AS.350,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC28,2045,Gendarmerie (French Police),Airbus Helicopters Squirrel AS.350,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC20,F-MXXX,Gendarmerie (French Police),Eurocopter AS350 Squirrel,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC25,2057,Gendarmerie (French Police),Eurocopter AS350 Squirrel,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC2A,F-MJCU,Gendarmerie (French Police),Eurocopter AS350 Squirrel,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC10,F-MJDC,Gendarmerie (French Police),Eurocopter EC135,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC11,F-MJDB,Gendarmerie (French Police),Eurocopter EC135,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC12,642,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC0F,727,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC1A,747,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC19,757,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC18,772,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC17,787,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC16,797,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC15,806,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC12,642,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC14,857,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC15,806,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC16,797,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC17,787,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC18,772,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC19,757,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC1A,747,Gendarmerie (French Police),Eurocopter EC135 T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC13,867,Gendarmerie (French Police),Eurocopter EC135-T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC1B,1055,Gendarmerie (French Police),Eurocopter EC135-T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC1C,1058,Gendarmerie (French Police),Eurocopter EC135-T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC1D,1086,Gendarmerie (French Police),Eurocopter EC135-T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC13,867,Gendarmerie (French Police),Eurocopter EC135-T2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC06,F-MJBG,Gendarmerie (French Police),Eurocopter EC145,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC0A,F-MJBK,Gendarmerie (French Police),Eurocopter EC145,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC38,F-MJBU,Gendarmerie (French Police),Eurocopter EC145,Pol,Chopper,Eye In The Sky,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
@@ -244,11 +244,11 @@ A64D15,N505FW,Fort Worth Police Department,Bell 505 Jet Ranger,Pol,Police Squad,
 3AAC04,9025,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC05,9035,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC07,9037,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC0E,9113,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC0C,9127,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC0B,9140,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
-3AAC09,9169,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 3AAC08,9173,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC09,9169,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC0B,9140,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC0C,9127,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
+3AAC0E,9113,Gendarmerie (French Police),Eurocopter EC145-C-2,Pol,Police Squad,Les Flics,Police Forces,https://en.wikipedia.org/wiki/Gendarmerie
 A1441C,N1808,Gwinnett County Police Department,MD Helicopters MD 369,Pol,Police Squad,The Cops,Police Forces,https://www.gwinnettcounty.com/web/gwinnett/Departments/Police
 A68DEE,N521PD,Hawthorne Police Department,MD Helicopters MD 369,Pol,Police Squad,The Cops,Police Forces,https://hawthornepolice.com
 A63E64,N501HP,Honolulu Police Department,MD Helicopters MD 369,Pol,Police Squad,Makai,Police Forces,https://www.honolulupd.org
@@ -258,9 +258,9 @@ A2256B,N2374F,Houston Police Department,Airbus Helicopters Squirrel AS.350,Pol,P
 A4DC0B,N412F,Houston Police Department,Bell 412,Pol,Police Squad,The Cops,Police Forces,https://www.houstontx.gov/police
 A6A642,N5277F,Houston Police Department,MD Helicopters MD 369,Pol,Police Squad,The Cops,Police Forces,https://www.houstontx.gov/police
 477FC9,R-900,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
+477FCB,R-904,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
 477FCC,R-901,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
 477FCD,R-903,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
-477FCB,R-904,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
 477FCF,R-905,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
 477FD1,R-907,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
 477FD2,R-908,Hungarian Security Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
@@ -282,7 +282,6 @@ A50F7B,N425PD,Jackson Police Department,Bell OH-58A Kiowa,Pol,Police Squad,The C
 840585,JA01GP,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845D73,JA110P,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845D7A,JA110W,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
-8.51E+13,JA34MP,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 863B2A,JA6922,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 86D035,JA80GT,Japanese National Police Agency,Agusta 109E,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 841059,JA04HP,Japanese National Police Agency,AgustaWestland AW139,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
@@ -298,11 +297,11 @@ A50F7B,N425PD,Jackson Police Department,Bell OH-58A Kiowa,Pol,Police Squad,The C
 840D3D,JA03NP,Japanese National Police Agency,Bell 429 Global Ranger,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 840901,JA02FP,Japanese National Police Agency,Eurocopter EC135-P2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845C57,JA10PD,Japanese National Police Agency,Eurocopter EC135-P2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
+8516E9,JA32MP,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 840961,JA02KP,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845D6F,JA110K,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845D71,JA110M,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845D77,JA110T,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
-8.52E+12,JA32MP,Japanese National Police Agency,Eurocopter EC135-T2,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 84065D,JA01RP,Japanese National Police Agency,Leonardo AW.139,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 845EBD,JA11AP,Japanese National Police Agency,MBB-Kawasaki BK.117,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
 8630D3,JA6651,Japanese National Police Agency,MBB-Kawasaki BK.117,Pol,Police Squad,Satsu,Police Forces,https://www.npa.go.jp/english
@@ -320,10 +319,10 @@ A22F44,N24SP,Kentucky State Police,Beech C-12L Huron,Pol,Police Squad,The Cops,P
 A1E29F,N220SP,Kentucky State Police,Bell OH-58A Kiowa,Pol,Police Squad,The Cops,Police Forces,http://kentuckystatepolice.org
 A40B91,N36SP,Kentucky State Police,Gates C-21A,Pol,Police Squad,The Cops,Police Forces,http://kentuckystatepolice.org
 04C0D6,5Y-RDU,Kenya Police Air Wing,Bell 407,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.kenyapolice.go.ke
-04C072,5Y-GSU,Kenya Police Air Wing,Cessna 208,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.kenyapolice.go.ke
 04C071,5Y-POL,Kenya Police Air Wing,Cessna 208,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.kenyapolice.go.ke
-484AC1,PH-PXY,KLPD Police Aviation Service,AgustaWestland AW139,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
+04C072,5Y-GSU,Kenya Police Air Wing,Cessna 208,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.kenyapolice.go.ke
 484AC0,PH-PXZ,KLPD Police Aviation Service,AgustaWestland AW139,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
+484AC1,PH-PXY,KLPD Police Aviation Service,AgustaWestland AW139,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484A91,PH-PXA,KLPD Police Aviation Service,Eurocopter EC135-P2,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484A92,PH-PXB,KLPD Police Aviation Service,Eurocopter EC135-P2,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484A93,PH-PXC,KLPD Police Aviation Service,Eurocopter EC135-P2,Pol,Flikken,Moped Mustache,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
@@ -360,9 +359,9 @@ AAE0C2,N80NT,Los Angeles Police Department,Eurocopter Squirrel AS.350,Pol,Police
 ACA3C6,N913WB,Los Angeles Police Department,Eurocopter Squirrel AS.350,Pol,Police Squad,The Cops,Police Forces,https://www.lapdonline.org
 4D03F1,LX-FAB,Luxembourg Police,Airbus Helicopters H145,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Grand_Ducal_Police
 4D03FB,LX-PGA,Luxembourg Police,MD Helicopters MD 900 Explorer,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Grand_Ducal_Police
-750482,9M-PMA,Malaysian Police,Leonardo AW.139,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysia_Police
 7503FE,9M-PMB,Malaysian Police,Leonardo AW.139,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysia_Police
 7503FF,9M-PMC,Malaysian Police,Leonardo AW.139,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysia_Police
+750482,9M-PMA,Malaysian Police,Leonardo AW.139,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysia_Police
 750490,9M-PMD,Malaysian Police,Leonardo AW.139,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysia_Police
 A46018,N381MD,Maryland State Police,AgustaWestland AW139,Pol,Police Squad,The Cops,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
 A463CF,N382MD,Maryland State Police,AgustaWestland AW139,Pol,Police Squad,The Cops,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
@@ -444,8 +443,8 @@ AA4682,N761NY,New York State Police,Sikorsky S-76,Pol,Police Squad,The Cops,Poli
 783605,33005,Ningbo Police,Leonardo AW.139,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Ningbo
 7C79F9,VH-YDN,Northern Territory Police,Pilatus PC-XII 45,Pol,Police Squad,Coppa,Police Forces,https://www.pfes.nt.gov.au/police
 7C79FD,VH-YDR,Northern Territory Police,Pilatus PC-XII 47E,Pol,Police Squad,Coppa,Police Forces,https://www.pfes.nt.gov.au/police
-479C1E,LN-ORA,Norwegian Police,Leonardo AW.169,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Norwegian_Police_Service
 479B34,LN-ORB,Norwegian Police,Leonardo AW.169,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Norwegian_Police_Service
+479C1E,LN-ORA,Norwegian Police,Leonardo AW.169,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Norwegian_Police_Service
 14711E,RF-28958,Novosibirsk Police,Mil Mi-8,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Novosibirsk
 147120,RF-28960,Novosibirsk Police,Mil Mi-8,Pol,Police Squad,Ment,Police Forces,https://en.wikipedia.org/wiki/Novosibirsk
 A9A470,N720KC,Oklahoma City Police Department,Airbus Helicopters Squirrel AS.350,Pol,Police Squad,The Cops,Police Forces,https://www.okc.gov/departments/police
@@ -560,8 +559,8 @@ C065E7,C-GMPI,Royal Canadian Mounted Police,Quest Aircraft Company Kodiak 100,Po
 4247DB,VP-CAO,Royal Cayman Islands Police Service,Airbus Helicopters H145,Pol,Police Squad,The Cops,Police Forces,https://www.rcips.ky
 75023D,9M-PHA,Royal Malaysian Police Air Wing,Eurocopter Twin Squirrel AS.355,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
 75023E,9M-PHB,Royal Malaysian Police Air Wing,Eurocopter Twin Squirrel AS.355,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
-7500DB,9M-PTA,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
 7.50E+05,9M-PTB,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
+7500DB,9M-PTA,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
 7501D7,9M-PTC,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
 7502C8,9M-PTD,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
 7502C9,9M-PTE,Royal Malaysian Police Air Wing,Hawker Beechcraft Corp King Air B350,Pol,Mata Mata,The Cops,Police Forces,https://en.wikipedia.org/wiki/Royal_Malaysian_Police_Air_Wing_Unit
@@ -576,8 +575,8 @@ C065E7,C-GMPI,Royal Canadian Mounted Police,Quest Aircraft Company Kodiak 100,Po
 70C0BB,A4O-CI,Royal Oman Police Air Wing,AgustaWestland AW139,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.rop.gov.om/english
 70C0BD,A4O-CJ,Royal Oman Police Air Wing,AgustaWestland AW139,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.rop.gov.om/english
 70C0BE,A4O-CL,Royal Oman Police Air Wing,AgustaWestland AW139,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://www.rop.gov.om/english
-70C056,A4O-CU,Royal Oman Police Air Wing,CASA CN-235 100,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Oman_Police
 70C055,A4O-CV,Royal Oman Police Air Wing,CASA CN-235 100,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Oman_Police
+70C056,A4O-CU,Royal Oman Police Air Wing,CASA CN-235 100,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Oman_Police
 70C0B2,A4O-CX,Royal Oman Police Air Wing,Embraer EMB-175 LR,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Oman_Police
 70C0B6,A4O-CY,Royal Oman Police Air Wing,Embraer Phenom 300,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Oman_Police
 88400F,2218,Royal Thai Police,Bell 212,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Royal_Thai_Police
@@ -639,12 +638,12 @@ A4CBA2,N408PD,San Jose Police,Airbus Helicopters Squirrel AS.350,Pol,Police Squa
 0093F8,ZS-HNZ,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00944D,ZS-HRG,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00944F,ZS-HRI,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
-9466,ZS-HSF,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
-9467,ZS-HSG,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 0094AC,ZS-HUX,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 0094AE,ZS-HUZ,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00AD0F,ZS-RBA,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00AD10,ZS-RBB,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
+9466,ZS-HSF,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
+9467,ZS-HSG,South African Police Service,MBB Bo.105,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00AD7E,ZS-RFH,South African Police Service,MD Helicopters MD 369,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00AD7F,ZS-RFI,South African Police Service,MD Helicopters MD 369,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
 00A1AE,ZS-MSZ,South African Police Service,Pilatus PC-6,Pol,Police Squad,SAPS,Police Forces,https://en.wikipedia.org/wiki/South_African_Police_Service
@@ -709,17 +708,17 @@ A324C0,N301TP,Tulsa Police Department,Eurocopter Squirrel AS.350,Pol,Police Squa
 4B82A5,EM-7095,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82A6,EM-7100,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82A7,EM-7102,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
-4B82AD,EM-7109,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
-4B82C5,EM-7111,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
-4B82BE,EM-7115,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82AA,EM-7116,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
-4B82AE,EM-7117,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82AB,EM-7119,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
+4B82AD,EM-7109,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
+4B82AE,EM-7117,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
+4B82BE,EM-7115,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
+4B82C5,EM-7111,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82D4,OR-3192,Turkish National Police,Bell 429 Global Ranger,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82C4,EM-805,Turkish National Police,Cessna Citation XLS+,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82A1,EM-808,Turkish National Police,Hawker Beechcraft Corp King Air B350,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
-4B82CC,EM-1593,Turkish National Police,Sikorsky S-70,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82AC,EM-1595,Turkish National Police,Sikorsky S-70,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
+4B82CC,EM-1593,Turkish National Police,Sikorsky S-70,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82AF,EM-001,Turkish National Police,Sikorsky S-92 A,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82B0,EM-002,Turkish National Police,Sikorsky S-92 A,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82B1,EM-003,Turkish National Police,Sikorsky S-92 A,Pol,Police Squad,You Aint Seen Me Right,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
