@@ -9,7 +9,6 @@ A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,Loooong Raaaaa
 406DE6,G-MCGP,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DE7,G-MCGR,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DE8,G-MCGS,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
-406DE8,G-MCGS,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DE9,G-MCGT,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DEA,G-MCGU,HM Coastguard,AgustaWestland AW.189,Gov,Choppa,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DEC,G-MCGW,HM Coastguard,AgustaWestland AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
@@ -62,16 +61,16 @@ AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,Gov,Mae West,Chopp
 7277A8,P-632,Air Koryo,Tupolev Tu-204-300,Gov,Dictator Alert,Kim Jong-un,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 00412D,Z-WPF,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert,https://data.dictatoralert.org/dictatorships
 00415C,Z-WPE,Air Zimbabwe,Boeing 767-2N0(ER),Gov,Dictator Alert,Emmerson Mnangagwa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894014,A9CHMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89404D,A9CHMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894055,A9CBHR,Bahrain Amiri Flight,Gulfstream G450,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894060,A9CBRN,Bahrain Amiri Flight,Gulfstream G550,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894001,A9CBRF,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89407F,A9CBAH,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894042,A9CAWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894011,A9CBDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894016,A9CHWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
-894081,A9CISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894014,A9C-HMK,Bahrain Amiri Flight,Boeing 747-4P8,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89404D,A9C-HMH,Bahrain Amiri Flight,Boeing 767-4FSER,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894055,A9C-BHR,Bahrain Amiri Flight,Gulfstream G450,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894060,A9C-BRN,Bahrain Amiri Flight,Gulfstream G550,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894001,A9C-BRF,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89407F,A9C-BAH,Bahrain Amiri Flight,Gulfstream G650,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894042,A9C-AWL,Bahrain Defence Force,Avro 146-RJ100,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894011,A9C-BDF,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894016,A9C-HWR,Bahrain Defence Force,Avro 146-RJ85,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894081,A9C-ISA,Bahrain Defence Force,Boeing 737-NG86JW,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,Dictator Alert,https://data.dictatoralert.org/dictatorships
 152A60,RA-76384,Ceiba Cargo,Ilyushin IL-76 TD-90VD,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert,https://data.dictatoralert.org/dictatorships
 495238,CSTQX,Ceiba Intercontinental,Boeing 777-2FBLR,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80AE,YV1004,Conviasa,Airbus A340-211,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -125,12 +124,11 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,Gov,Government,Must B
 03E00A,TR-KPR,Government of Gabon,Boeing 777-236,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E003,TR-LEX,Government of Gabon,Dassault Falcon 900EX,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E004,TR-KSP,Government of Gabon,Gulfstream GIV SP,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert,https://data.dictatoralert.org/dictatorships
-03E004,TR-KSP,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E015,TR-KGM,Government of Gabon,Gulfstream IV,Gov,Dictator Alert,Ali Bongo Ondimba,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,Gov,Dictator Alert,Adama Barrow,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A01B,C5-GAF,Government of Gambia,Boeing 727-95,Gov,Dictator Alert,Adama Barrow,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A042,C5NBB,Government of Gambia,Canadair CL-600-2B16 Challenger 601-3A,Gov,Dictator Alert,Adama Barrow,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7304E1,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Ali Khamenei,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7304E1,EP-AGA,Government of Iran,Boeing 737-286(A),Gov,Dictator Alert,Adama Barrow,Dictator Alert,https://data.dictatoralert.org/dictatorships
 424918,VQ-BDD,Government of Jordan,Airbus ACJ319-115 (Elite),Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4243E4,VQ-BMZ,Government of Jordan,Gulfstream G650,Gov,Dictator Alert,Abdullah II bin Al-Hussein,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6830ED,UPA3001,Government of Kazakhstan,Airbus A330-243,Gov,Dictator Alert,Kassym-Jomart Tokayev,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -291,7 +289,6 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,Gov,Santos Dumont,Government,Go
 0101D3,SU-BTT,Government of Egypt,Dassault Falcon 7X,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 010058,SU-BNP,Government of Egypt,Gulfstream GIV SP,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 10070,SU-BGM,Government of Egypt,Gulfstream IV,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
-01003E,SU-BND,Government of Egypt,Gulfstream IV,Gov,Dictator Alert,Bizjet,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 4243FD,VQ-BNZ,Government of Jordan,Gulfstream G650 ER,Gov,Dictator Alert,Bizjet,Governments,https://en.wikipedia.org/wiki/Politics_of_Jordan
 485920,PHGOV,Government of Netherlands,Boeing 737-600BBJ,Gov,Foutje Bedankt,Bizjet,Governments,https://en.wikipedia.org/wiki/Monarchy_of_the_Netherlands
 505C09,OM-BYK,Government of Slovakia,Airbus ACJ319 115X,Gov,Government,Must Be Nice,Governments,https://www.vlada.gov.sk
@@ -316,7 +313,7 @@ ADFEBA,SAM140,United States Air Force,Boeing C-32A,Gov,Air Force Two,Must Be Nic
 AE0945,TBC,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
 AE115D,01-2015,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
 AE11F6,SAM013,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
-AE11F8,TBC,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
+AE11F8,02-0042,United States Air Force,Boeing C-40B,Gov,Government,Office In The Sky,Governments,https://www.airforce.com
 A97316,N708JH,United States Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
 4043AD,G-EHMS,London Air Ambulance,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
 4068DA,G-HMDX,Specialist Aviation Services,MD Helicopters MD 900 Explorer,Gov,M*A*S*H,Air Ambo,M*A*S*H,https://www.londonsairambulance.org.uk
