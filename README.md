@@ -39,7 +39,7 @@ The list contains **6138** unique aircraft in **48** different categories.
 - [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (3941)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (773)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (453)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (1050)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (1932)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
@@ -106,7 +106,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - US Dept of Energy
 - Other US Gov Depts
 - Firefighting Aircraft / Companies
-- Police Scotland Air Support Unit (NI Equivalent)
 - B737 with Gravel Kits - Nolinor, Air Inuit, Canada North, Chron Aviation
 - Defense Helicopter Flying School
 - Identify more Aircraft owned by Religious organisations
@@ -206,6 +205,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>United Nations</strike>
 - <strike>A10 Thunderbolt II</strike>
 - <strike>China National Antarctic & Arctic Research Expedition</strike>
+- <strike>Police Scotland Air Support Unit (NI Equivalent)</strike>
 
 Any other idea's welcome.
 
