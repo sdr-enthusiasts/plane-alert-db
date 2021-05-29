@@ -57,7 +57,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Coastguard \- Coastguard, Customs and Border Patrols (40)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (84)
 - Dictator Alert \- People of potentially questionable morals and values (227)
-- Distinctive \- Unique and/or special aircraft e.g The AN-224 Myria, NASA aircraft (148)
+- Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft (148)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (72)
 - Football  \- Actual, Aussie Rules or American. We don't descriminate. (1)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (289)
