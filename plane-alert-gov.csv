@@ -1,9 +1,9 @@
 ICAO,Ident,Operator,Type,CMPG,$Tag 1,#$Tag 2,Category,#$Link
 A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,As Seen on TV,As Seen on TV,https://www.dell.com
 43ECF4,2-CIAS,Channel Islands Air Search,BN-2A Islander-2A,Gov,Mae West,Lions Pride,Coastguard,https://www.ci-airsearch.com
-3B7B23,F-ZBGN,French Customs,Beech King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
-3B7B22,F-ZBGO,French Customs,Beech King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
-3B7B20,F-ZBGQ,French Customs,Beech King Air B350,Gov,Eye In The Sky,You Aint Seen Me Right,Coastguard,https://www.douane.gouv.fr
+3B7B23,F-ZBGN,French Customs,Beech King Air B350,Gov,Eye In The Sky,Customs,Coastguard,https://www.douane.gouv.fr
+3B7B22,F-ZBGO,French Customs,Beech King Air B350,Gov,Eye In The Sky,Customs,Coastguard,https://www.douane.gouv.fr
+3B7B20,F-ZBGQ,French Customs,Beech King Air B350,Gov,Eye In The Sky,Customs,Coastguard,https://www.douane.gouv.fr
 406DEA,G-MCGU,HM Coastguard,AW.189,Gov,Choppa,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DED,G-MCGX,HM Coastguard,AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DEC,G-MCGW,HM Coastguard,AW.189,Gov,Chopper,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
@@ -247,21 +247,21 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,Gov,Government,Must B
 70C020,A4OSO,Oman Royal Flight,Boeing 747-SP27,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert,https://data.dictatoralert.org/dictatorships
 70C0B4,A4OAE,Oman Royal Flight,Gulfstream G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert,https://data.dictatoralert.org/dictatorships
 70C0B3,A4OAD,Oman Royal Flight,Gulfstream G550,Gov,Dictator Alert,Haitham bin Tarik,Dictator Alert,https://data.dictatoralert.org/dictatorships
-AC85AF,YV2869,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D819B,YV2865,Petroleos De Venezuela SA,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8181,YV2763,Petroleos de Venezuela SA,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8173,YV2738,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8169,YV2734,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8163,YV2716,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8106,YV1118,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80FF,YV2565,Petroleos de Venezuela SA,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8100,YV2567,Petroleos de Venezuela SA,Bombardier Learjet 45 XR,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80EE,YV1128,Petroleos de Venezuela SA,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8167,YV2726,Petroleos de Venezuela SA,Dassault Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D809F,YV2040,Petroleos de Venezuela SA,Dassault Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80EC,YV2486,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80E9,YV2485,Petroleos de Venezuela SA,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D82E8,YV3360,Petroleos de Venezuela SA,Falcon 2000EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+AC85AF,YV2869,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D819B,YV2865,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8181,YV2763,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8173,YV2738,Petroleos de Venezuela,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8169,YV2734,Petroleos de Venezuela,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8163,YV2716,Petroleos de Venezuela,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8106,YV1118,Petroleos de Venezuela,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80FF,YV2565,Petroleos de Venezuela,Bombardier Learjet 45,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8100,YV2567,Petroleos de Venezuela,Bombardier Learjet 45 XR,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80EE,YV1128,Petroleos de Venezuela,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8167,YV2726,Petroleos de Venezuela,Dassault Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D809F,YV2040,Petroleos de Venezuela,Dassault Falcon 900B,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80EC,YV2486,Petroleos de Venezuela,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80E9,YV2485,Petroleos de Venezuela,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D82E8,YV3360,Petroleos de Venezuela,Falcon 2000EX,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -309,10 +309,10 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 896063,A6-ESH,Sharjah Rulers Flight,Airbus ACJ319-132,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896436,A6-SHJ,Sharjah Rulers Flight,Airbus ACJ320-232XSL,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,Dictator Alert,https://data.dictatoralert.org/dictatorships
 51100D,STPRM,Sudanese Police Air Wing,Antonov An-72 100D,Gov,Dictator Alert,Sovereignty Council,Dictator Alert,https://data.dictatoralert.org/dictatorships
-600B78,4K-AZ888,SW Business Aviation (Azerbajan),Gulfstream G450,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
-600806,4K-AI06,SW Business Aviation (Azerbajan),Gulfstream G550,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
-424238,VP-BBF,SW Business Aviation (Azerbajan),Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
-600BC4,4K-AI88,SW Business Aviation (Azerbajan),Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
+600B78,4K-AZ888,Government of Azerbaijan,Gulfstream G450,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
+600806,4K-AI06,Government of Azerbaijan,Gulfstream G550,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
+424238,VP-BBF,Government of Azerbaijan,Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
+600BC4,4K-AI88,Government of Azerbaijan,Gulfstream G650,Gov,Dictator Alert,Ilham Aliyev,Dictator Alert,https://data.dictatoralert.org/dictatorships
 778561,YKAKA,Syrianair,Airbus A320-232,Gov,Dictator Alert,Bashar al-Assad,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80A4,YV1129,Venezuela Government,Dassault Falcon 50,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8032,207,Venezuelan Air Force,Boeing 737-200,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -320,7 +320,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,Gov,Dictator Alert,Moham
 3CE2D2,YV3083,Venezuelan Air Force,Dornier D-228,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 3CC011,YV3000,Venezuelan Air Force,Dornier D-228NG,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8373,YV2984,Venezuelan Government,Airbus A319-133X,Gov,Dictator Alert,Nicolás Maduro,Dictator Alert,https://data.dictatoralert.org/dictatorships
-424565,VQ-BSK,Worldwide Aircraft Holding (Turkey),Boeing 747 BBJ,Gov,Dictator Alert,Recep Tayyip Erdoğan,Dictator Alert,https://data.dictatoralert.org/dictatorships
+424565,VQ-BSK,Government of Turkey,Boeing 747 BBJ,Gov,Dictator Alert,Recep Tayyip Erdoğan,Dictator Alert,https://data.dictatoralert.org/dictatorships
 50802D,UR-74010,Antonov Airlines,Antonov An-74TK-200,Gov,Odd,Chonky Boy,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
 ABEDBC,N868NA,Armstrong Flight Research Center,FA-18 Hornet,Gov,Nasa,Sce To Aux,Distinctive,https://www.nasa.gov
 AD120C,N941NA,NASA,Boeing 377-SGT-201,Gov,Nasa,Super Guppy,Distinctive,https://en.wikipedia.org/wiki/Aero_Spacelines_Super_Guppy
@@ -341,7 +341,7 @@ ABCC7D,N86,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be
 ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be Nice,Bizjet,Dogs with Jobs,https://www.faa.gov
 AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be Nice,Bizjet,Dogs with Jobs,https://www.faa.gov
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,Gov,Open Skies,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
-400DE5,G-HIJK,Met Office,Cessna 421C Golden Eagle,Gov,Nice Waether For Ducks,Measuring Stick,Dogs with Jobs,https://www.airport-data.com/images/aircraft/000/783/783107.jpg
+400DE5,G-HIJK,Met Office,Cessna 421C Golden Eagle,Gov,Nice Weather For Ducks,Measuring Stick,Dogs with Jobs,https://www.airport-data.com/images/aircraft/000/783/783107.jpg
 3B7544,F-UJCS,Armee de l'Air et de l'Espace,Airbus A330-243,Gov,Government,Ou Sont Les Bagages,Governments,https://www.defense.gouv.fr/english/air
 3B7543,F-UJCT,Armee de l'Air et de l'Espace,Airbus A330-243,Gov,Government,Ou Sont Les Bagages,Governments,https://www.defense.gouv.fr/english/air
 398895,F-HCEV,D.G. de l'Aviation Civile,Beechcraft King Air 200GT,Gov,Government,Vive La France,Governments,https://www.ecologie.gouv.fr/en/french-civil-aviation-authority
@@ -719,4 +719,8 @@ AE0433,02-5001,USAF,Boeing C-32B,Gov,150th Special Operations Squadron,Special O
 407918,G-TEKV,UK Border Force,Tekever AR5,Gov,You Aint Seen Me Right,Eye In The Sky,UAV,https://www.justice.gov
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,Gov,Eye In The Sky,Covert,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 4012A1,G-VALK,ALTO Aerospace Ltd,Beech B200 King Air,Gov,U Wot m8,Eye In The Sky,Under Observation,https://www.altoaero.com
+ADFEB6,75-0125,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB5,74-0787,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB4,73-1677,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB3,73-1676,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,Gov,Government,Vanity Plate,Vanity Plate,https://www.faa.gov

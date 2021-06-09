@@ -82,9 +82,9 @@ AA918C,N780LM,Liberty Media Corp,Dassault Falcon 7X,Civ,Formula 1,As Seen on TV,
 AAA438,N785MM,Mandalay Resort Group,Embraer Lineage 1000 E,Civ,The Gambler,As Seen on TV,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
 7618CC,AP-FFL,Pak-Arab Fertilizers,Bombardier Challenger 605,Civ,Nitrates,As Seen on TV,As Seen on TV,https://www.youtube.com/watch?v=7-EVAH3HaB0
 AA198D,N75VB,Paramount Pictures Corp,Bombardier Global Express XRS,Civ,Is This My Good Side,As Seen on TV,As Seen on TV,https://www.paramount.com
-A7C2CD,N6CP,Pfizer Inc,Gulfstream Aerospace G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
-A6357E,N5CP,Pfizer Inc,Gulfstream Aerospace G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
-A31AE0,N3CP,Pfizer Inc,Gulfstream Aerospace G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
+A7C2CD,N6CP,Pfizer Inc,Gulfstream G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
+A6357E,N5CP,Pfizer Inc,Gulfstream G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
+A31AE0,N3CP,Pfizer Inc,Gulfstream G650 ER,Civ,Id Get That Seen Too,As Seen on TV,As Seen on TV,https://www.pfizer.com
 4B184A,HB-JFE,Rolex SA,Bombardier Global 6000,Civ,How Much,As Seen on TV,As Seen on TV,https://www.rolex.com
 43EA86,M-ABJA,Ryanair,Bombardier Learjet 45 XR,Civ,Baggage Costs Extra,As Seen on TV,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 AA5B89,N767A,Saudi Aramco,Boeing 767 2AXER,Civ,Oil Spill,As Seen on TV,As Seen on TV,https://www.aramco.com
@@ -374,7 +374,7 @@ AB8265,N8401S,Private,Lake Renegade LA-250,Civ,Amphibian,Cool,Distinctive,https:
 40370E,G-BUVA,Private,Piper PA-22 135 Tri-Pacer,Civ,Tricycle,You Came Here In That Thing,Distinctive,https://en.wikipedia.org/wiki/Piper_PA-20_Pacer
 470803,G-MXII,Private,Pitts Monster P-12 (Amateur Built),Civ,Do A Barrel Roll,Biplane,Distinctive,https://en.wikipedia.org/wiki/Pitts_Model_12
 402F0E,G-BRFB,Private,Rutan Long-Ez,Civ,Whoosh,Shiny,Distinctive,https://en.wikipedia.org/wiki/Rutan_Long-EZ
-406F24,G-XCID,Private,Saab Safir S-91D,Civ,Training Wheels,Bicylcle Made For Two,Distinctive,https://en.wikipedia.org/wiki/Saab_91_Safir
+406F24,G-XCID,Private,Saab Safir S-91D,Civ,Training Wheels,Bicycle Made For Two,Distinctive,https://en.wikipedia.org/wiki/Saab_91_Safir
 40118A,G-TWSR,Private,Silence Aircraft Twister,Civ,Shiny,Whoosh,Distinctive,https://silence-aircraft.de/en/aircraft
 405E74,G-TWSS,Private,Silence Aircraft Twister 2L,Civ,Shiny,Whoosh,Distinctive,https://silence-aircraft.de/en/aircraft
 A947B9,N69745,Private,Stinson Reliant V-77,Civ,You Came Here In That Thing,Old,Distinctive,https://en.wikipedia.org/wiki/Stinson_Reliant
@@ -551,7 +551,7 @@ C01024,C-FGCX,China Antarctic & Arctic Research Expedition,Douglas DC-3 BT-67,Ci
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
 43C32F,VR930,Fly Navy Heritage Trust,Sea Fury FB11,Civ,Old,Speak Up Sonny,Historic,https://navywings.org.uk
-404E86,G-HHII,Flyaspitfire.com,Hawker Hurricane IIb (2 Seat),Civ,Unicorn,Bicylcle Made For Two,Historic,https://flyaspitfire.com/hurricane-be505
+404E86,G-HHII,Flyaspitfire.com,Hawker Hurricane IIb (2 Seat),Civ,Unicorn,Bicycle Made For Two,Historic,https://flyaspitfire.com/hurricane-be505
 502C61,YL-LEV,Flying Adventure Tours,Antonov An-2 P,Civ,I Am Old,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 43C332,XP820,Historic Aircraft Flight Trust,DHC-2 Beaver AL1,Civ,Old,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 4077E4,G-SKNG,Historic Helicopters,Westland Sea King HAR3,Civ,Amphibian,Mae West,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
@@ -579,11 +579,11 @@ A1EC64,N223CM,Private,Beech Expeditor 3NM,Civ,Shiny,I Am Old,Historic,https://en
 A15077,N184KP,Private,Beech Expeditor 3NM,Civ,Shiny,I Am Old,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
 A0F0E5,N16S,Private,Beech Staggerwing D17S,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
 A6C25D,N5345N,Private,Boeing A75 Stearman,Civ,Radial Engine,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-40313A,G-BSDS,Private,Boeing Stearman A75 PT-13A Kaydet,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-406E76,G-CIPE,Private,Boeing Stearman A75L300,Civ,Biplane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-A05DCB,N1222N,Private,Boeing Stearman B75 N1 N2S-3 Kaydet,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-A57267,N450D,Private,Boeing Stearman E75 N1 PT-13D Kaydet,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-4B2D04,HB-RBG,Private,Boeing Stearman E75 N2S-5 Kaydet,Civ,Biplane,History,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+40313A,G-BSDS,Private,Boeing Stearman A75 PT-13A Kaydet,Civ,Wing Walk,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+406E76,G-CIPE,Private,Boeing Stearman A75L300,Civ,Wing Walk,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A05DCB,N1222N,Private,Boeing Stearman B75 N1 N2S-3 Kaydet,Civ,Wing Walk,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A57267,N450D,Private,Boeing Stearman E75 N1 PT-13D Kaydet,Civ,Wing Walk,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+4B2D04,HB-RBG,Private,Boeing Stearman E75 N2S-5 Kaydet,Civ,Wing Walk,Biplane,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 401F85,G-BJAL,Private,Bucker 1-131E Jungmann,Civ,Luftwaffe,I Am Old,Historic,https://s3.eu-west-2.amazonaws.com/abpic-media-eu-production/pictures/full_size_0365/1546948-large.jpg
 3D8879,D-FXXX,Private,Canadian Car & Foundry Harvard IV,Civ,To Be Faaaaaaaaaaaaaaaaaaair,History,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
 4030E2,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,Civ,To Be Faaaaaaaaaaaaaaaaaaair,History,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
@@ -1021,7 +1021,7 @@ A00187,N1RP,Roger Penske,Gulfstream G550,Civ,Bizjet,Not A Car,Vanity Plate,https
 4076C3,G-CLAZ,Detoney Ltd,RotorSport UK Cavalon,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://www.rotorsport.org
 405F48,G-DSMA,DSMA Flying Group,P & M Aviation QuikR,Civ,Ultralight,People Be Crazy,You came here in that thing ?,http://www.pmaviationusa.com/
 4B4146,HB-YSS,Fly Vision GmbH,ArrowCopter,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,https://en.wikipedia.org/wiki/FD-Composites_ArrowCopter
-4072B4,G-MSGI,Orion Cotswold Aviation Ltd,Magni Gyro M-24 Orion,Civ,Little Nellie,Nope-mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
+4072B4,G-MSGI,Orion Cotswold Aviation Ltd,Magni Gyro M-24 Orion,Civ,Little Nellie,Gyrocopter,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
 401206,G-BXGT,Private,3i Sky Arrow 650T,Civ,Nope,You Came Here In That Thing,You came here in that thing ?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
 407061,G-WADF,Private,Air Creation Tanarg 912S,Civ,Ultralight,People Be Crazy,You came here in that thing ?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
 4039A3,G-WHOG,Private,CFM Streak Shadow,Civ,Ultralight,People Be Crazy,You came here in that thing ?,https://en.wikipedia.org/wiki/CFM_Shadow
