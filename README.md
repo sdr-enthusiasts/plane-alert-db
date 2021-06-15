@@ -13,7 +13,7 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 - "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
 - "$#"\- Don't show on the website, tweet as a #hashtag
 
-in the example above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
+in the example above the #hashtags would be 'Air Ambo','Choppa' and 'EXPL', and Tag2,Tag3 and Link will not be shown on the PA website.
 
 - CMPG = Civilian, Military, Police, Government
 
