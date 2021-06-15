@@ -3,9 +3,9 @@
 
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** and takes the form 
 
-- ICAO,Ident,Operator,Type,CMPG,$Tag,$#Tag2,Category,$#Link
+- ICAO,Ident,Operator,Type,CMPG,$Tag,$#Tag2,$#Tag3,Category,$#Link
 
-e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,M\*A\*S\*H,https://cornwallairambulancetrust.org/
+e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,EXPL,M\*A\*S\*H,https://cornwallairambulancetrust.org/
 
 Add these characters to the column headers to control the behavior of PlaneAlert
 
@@ -15,7 +15,11 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 
 in the example above the #hashtags would be 'Air Ambo' and 'Choppa', and Tag2 will not be shown on the PA website.
 
-\*CMPG = Civilian, Military, Police, Government
+- CMPG = Civilian, Military, Police, Government
+
+- Tag 1 = Funny/amusing
+- Tag 2 = Useful/relevant
+- Tag 3 = ICAO Type Code
 
 All links to pics and youtube/other videos are SFW.
 
