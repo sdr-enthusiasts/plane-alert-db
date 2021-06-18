@@ -13,15 +13,13 @@ Add these characters to the column headers to control the behavior of PlaneAlert
 - "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
 - "$#"\- Don't show on the website, tweet as a #hashtag
 
-in the example above the #hashtags would be 'Air Ambo','Choppa' and 'EXPL', and Tag2,Tag3 and Link will not be shown on the PA website.
+in the example above the #hashtags would be 'Air Ambo','Choppa' and 'EXPL', and Tag2,Tag3 and Link will not be shown on the PA website. Please be aware if your tweets are too long they will be truncated by PF/PA. To prevent this you should exclude CMPG and Category from your tweets - this will ensure all tweets fits inside the char limit.
 
 - CMPG = Civilian, Military, Police, Government
-
 - Tag 1 = Funny/amusing
 - Tag 2 = Useful/relevant
 - Tag 3 = ICAO Type Code
-
-All links to pics and youtube/other videos are SFW.
+- Link - Either an informative or funny link. All are SFW, except maybe the Disney plane.
 
 # Planefence
 To use this list with Planefence, simply configure your planefence.config setup to include the following line:
