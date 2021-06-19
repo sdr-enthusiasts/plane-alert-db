@@ -34,14 +34,14 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **6582** unique aircraft in **46** different categories.
+The list contains **7003** unique aircraft in **46** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (6582)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (1043)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (3950)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (7003)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (1042)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (4373)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (858)
-- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (731)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (2378)
+- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (730)
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (2382)
 - [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
@@ -58,23 +58,23 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Bizjets \- Fancy pants planes for fancy pants people (46)
 - Coastguard \- Coastguard, Customs and Border Patrols (40)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (88)
-- Dictator Alert \- People of potentially questionable morals and values (287)
+- Dictator Alert \- People of potentially questionable morals and values (286)
 - Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft (157)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (74)
 - Football  \- Actual, Aussie Rules or American. We don't discriminate. (2)
-- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (289)
+- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (288)
 - Gas Bags \- Would you like to ride in my beautiful balloon ? (2)
-- Governments \- Aircraft registered to Governments (216)
+- Governments \- Aircraft registered to Governments (214)
 - Gunship \- Brrrrrrrrrrrrrrrrrrrt (256)
 - Hired Gun \- Why do the dirty work when someone else can do it for you ? (60)
 - Historic \- It's older than I am, and most likely has a prop. (121)
 - I For One Welcome our new Overlords \- Clippy et al. (23)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (10)
 - Just Because \- I don't know why I like you, but I do. (7)
-- M\*A\*S\*H \- Air Ambulance and Medical Flights (53)
+- M\*A\*S\*H \- Air Ambulance and Medical Flights
 - Nuclear \- Nuclear Emergency Support Team etc (12)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (214)
-- Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (25)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (514)
+- Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (67)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (837)
 - Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (34)
 - Quango \- Nato, United Nations, World Bank etc (42)
@@ -85,7 +85,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Sam Tân \- Firefighting Aircraft. (44)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (105)
 - Special Forces \- The best of the best of the best. Sir. (144)
-- Toy Soldiers \- Armies from around the world (14)
+- Toy Soldiers \- Armies from around the world (97)
 - UAV \- It's not natural, I tell 'ya (10)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
 - Under Observation \- Up to something dodgy, maybe (61)
@@ -207,6 +207,7 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>A10 Thunderbolt II</strike>
 - <strike>China National Antarctic & Arctic Research Expedition</strike>
 - <strike>Police Scotland Air Support Unit (NI Equivalent)</strike>
+- <strike>French Armed Forces</strike>
 
 Any other idea's welcome.
 
