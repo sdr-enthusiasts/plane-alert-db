@@ -71,7 +71,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - I For One Welcome our new Overlords \- Clippy et al. (23)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (10)
 - Just Because \- I don't know why I like you, but I do. (7)
-- M\*A\*S\*H \- Air Ambulance and Medical Flights
+- M\*A\*S\*H \- Air Ambulance and Medical Flights (53)
 - Nuclear \- Nuclear Emergency Support Team etc (12)
 - Other Air Forces \- Air Force aircraft that are not RAF or USAF (514)
 - Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (67)
