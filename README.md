@@ -213,7 +213,7 @@ Any other idea's welcome.
 
 # Disclaimer, excuses and dodges
 
-This is not intented to be a definitive list, especially when it comes to aircraft models. Where the same model of aircraft is made by several manufacturers I wont always have the correct one. If you thought it was a Beechcraft King Air 200 and actual it was a Textron Super King Air B200GT IO won't be losing any sleep. There are other data sources (see below) if you want absolute accuracy. 
+This is not intented to be a definitive list, especially when it comes to aircraft models. Where the same model of aircraft is made by several manufacturers I wont always have the correct one. If you thought it was a Beechcraft King Air 200 and actualy it was a Textron Super King Air B200GT I won't be losing any sleep. There are other data sources (see below) if you want absolute accuracy. 
 
 # Data Sources
 
