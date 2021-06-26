@@ -4,6 +4,7 @@ A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,As Seen on TV,
 3B7B20,F-ZBGQ,French Customs,Beech B350 Super King Air,Gov,Border Patrol,Coastguard,B350,Coastguard,https://www.douane.gouv.fr
 3B7B22,F-ZBGO,French Customs,Beech B350 Super King Air,Gov,Border Patrol,Coastguard,B350,Coastguard,https://www.douane.gouv.fr
 3B7B23,F-ZBGN,French Customs,Beech B350 Super King Air,Gov,Border Patrol,Coastguard,B350,Coastguard,https://www.douane.gouv.fr
+3B7B21,F-ZBGP,French Customs,Beech King Air B350,Gov,Eye In The Sky,Customs,B350,Coastguard,https://www.douane.gouv.fr
 406D21,G-MCGM,HM Coastguard,AugustaWestland AW.189,Gov,Search And Rescue,Coastguard,A189,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406D5F,G-MCGN,HM Coastguard,AugustaWestland AW.189,Gov,Search And Rescue,Coastguard,A189,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406DE5,G-MCGO,HM Coastguard,AugustaWestland AW.189,Gov,Search And Rescue,Coastguard,A189,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
@@ -39,15 +40,21 @@ A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,As Seen on TV,
 AE10C1,1,United States Coast Guard,Gulfstream V,Gov,Border Patrol,Coastguard,GLF5,Coastguard,https://www.uscg.mil
 AE67F4,6004,United States Coast Guard,MH-60 Jayhawk,Gov,Search And Rescue,Coastguard,H60,Coastguard,https://www.uscg.mil
 AE680D,6030,United States Coast Guard,MH-60 Jayhawk,Gov,Search And Rescue,Coastguard,H60,Coastguard,https://www.uscg.mil
-89621F,A6DLM,Abu Dhabi Amiri Flight,Airbus A320-212,Gov,Dictator Alert,Khalifa Al Nahyan,A320,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8960B1,A6AUH,Abu Dhabi Amiri Flight,Boeing 737-BBJ2,Gov,Dictator Alert,Khalifa Al Nahyan,B738,Dictator Alert,https://data.dictatoralert.org/dictatorships
+AE27F7,6006,United States Coast Guard,Sikorsky MH-60 Jayhawk,Gov,Search And Rescue,Coastguard,H60,Coastguard,https://www.uscg.mil
+AE290A,6026,United States Coast Guard,Sikorsky MH-60 Jayhawk,Gov,Search And Rescue,Coastguard,H60,Coastguard,https://www.uscg.mil
+AE2912,6035,United States Coast Guard,Sikorsky MH-60 Jayhawk,Gov,Search And Rescue,Coastguard,H60,Coastguard,https://www.uscg.mil
+89621F,A6-DLM,Abu Dhabi Amiri Flight,Airbus A320-212,Gov,Dictator Alert,Khalifa Al Nahyan,A320,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8960B1,A6-AUH,Abu Dhabi Amiri Flight,Boeing 737-BBJ2,Gov,Dictator Alert,Khalifa Al Nahyan,B738,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896101,A6-UAE,Abu Dhabi Amiri Flight,Boeing 747-48E,Gov,Dictator Alert,Khalifa Al Nahyan,B744,Dictator Alert,https://data.dictatoralert.org/dictatorships
-896060,A6YAS,Abu Dhabi Amiri Flight,Boeing 747-4F6,Gov,Dictator Alert,Khalifa Al Nahyan,B744,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8962E9,A6PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,Gov,Dictator Alert,Khalifa Al Nahyan,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
-896264,A6ALN,Abu Dhabi Amiri Flight,Boeing 777-2ANER,Gov,Dictator Alert,Khalifa Al Nahyan,B77L,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89629F,A6SIL,Abu Dhabi Amiri Flight,Boeing 777-35RER,Gov,Dictator Alert,Khalifa Al Nahyan,B77W,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89636E,A6PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,Khalifa Al Nahyan,B788,Dictator Alert,https://data.dictatoralert.org/dictatorships
-78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,Xi Jinping,A330,Dictator Alert,https://data.dictatoralert.org/dictatorships
+896060,A6-YAS,Abu Dhabi Amiri Flight,Boeing 747-4F6,Gov,Dictator Alert,Khalifa Al Nahyan,B744,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,Gov,Dictator Alert,Khalifa Al Nahyan,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
+896264,A6-ALN,Abu Dhabi Amiri Flight,Boeing 777-2ANER,Gov,Dictator Alert,Khalifa Al Nahyan,B77L,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-35RER,Gov,Dictator Alert,Khalifa Al Nahyan,B77W,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89636E,A6-PFC,Abu Dhabi Amiri Flight,Boeing 787-8,Gov,Dictator Alert,Khalifa Al Nahyan,B788,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8964C9,A6-PFE,Abu Dhabi Amiri Flight,Boeing 787-9-BBJ,Gov,Dictator Alert,Khalifa Al Nahyan,B789,Dictator Alert,https://data.dictatoralert.org/dictatorships
+896571,A6-PFG,Abu Dhabi Amiri Flight,Boeing 787-9-BBJ,Gov,Dictator Alert,Khalifa Al Nahyan,B789,Dictator Alert,https://data.dictatoralert.org/dictatorships
+896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-9-BBJ,Gov,Dictator Alert,Khalifa Al Nahyan,B789,Dictator Alert,https://data.dictatoralert.org/dictatorships
+78048C,B-6130,Air China,Airbus A330-243,Gov,Dictator Alert,Xi Jinping,A332,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7BC006,B-2479,Air China,Boeing 747-89L,Gov,Dictator Alert,Xi Jinping,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7277CF,P-671,Air Koryo,Antonov An-148,Gov,Dictator Alert,Kim Jong-un,A148,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7277D0,P-672,Air Koryo,Antonov An-148,Gov,Dictator Alert,Kim Jong-un,A148,Dictator Alert,https://youtu.be/Rsz-_fgWspo
@@ -167,7 +174,7 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,Gov,Government,Must B
 7304F7,EP-AGW,Government of Iran,Rockwell Turbo Commander,Gov,Dictator Alert,Ali Khamenei,AC90,Dictator Alert,https://data.dictatoralert.org/dictatorships
 424918,VQ-BDD,Government of Jordan,Airbus ACJ319 Elite,Gov,Dictator Alert,Abdullah II bin Al-Hussein,A319,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4243E4,VQ-BMZ,Government of Jordan,Gulfstream G650,Gov,Dictator Alert,Abdullah II bin Al-Hussein,GLF6,Dictator Alert,https://data.dictatoralert.org/dictatorships
-6830ED,UP-A3001,Government of Kazakhstan,Airbus A330-243,Gov,Dictator Alert,Kassym-Jomart Tokayev,A330,Dictator Alert,https://data.dictatoralert.org/dictatorships
+6830ED,UP-A3001,Government of Kazakhstan,Airbus A330-243,Gov,Dictator Alert,Kassym-Jomart Tokayev,A332,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6830A5,UP-A2001,Government of Kazakhstan,Airbus ACJ320-214X,Gov,Dictator Alert,Kassym-Jomart Tokayev,A320,Dictator Alert,https://data.dictatoralert.org/dictatorships
 683037,UP-B5701,Government of Kazakhstan,Boeing 757-2M6,Gov,Dictator Alert,Kassym-Jomart Tokayev,B752,Dictator Alert,https://data.dictatoralert.org/dictatorships
 04C0C8,5Y-DRS,Government of Kenya,Cessna 208 B,Gov,Government,Kenya,C208,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Kenya
@@ -212,7 +219,7 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,Gov,Government,Must B
 77CE27,YK-SQG,Government of Syria,Yakovlev Yak-40 K,Gov,Dictator Alert,Bashar al-Assad,YK40,Dictator Alert,https://data.dictatoralert.org/dictatorships
 39AE68,FHLTI,Government of Togo,Dassault Falcon 7X,Gov,Dictator Alert,Faure Gnassingbé,FA7X,Dictator Alert,https://data.dictatoralert.org/dictatorships
 088005,5V-TAI,Government of Togo,Fokker F28 1000,Gov,Dictator Alert,Faure Gnassingbé,F28,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4BD2B2,TC-TUR,Government of Turkey,Airbus A330 243 ACJ,Gov,Dictator Alert,Recep Tayyip Erdoğan,A330,Dictator Alert,https://data.dictatoralert.org/dictatorships
+4BD2B2,TC-TUR,Government of Turkey,Airbus A330 243 ACJ,Gov,Dictator Alert,Recep Tayyip Erdoğan,A332,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C2E,TC-CAN,Government of Turkey,Airbus A340 542,Gov,Dictator Alert,Recep Tayyip Erdoğan,A345,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Government of Turkey,Airbus ACJ318 112 Elite,Gov,Dictator Alert,Recep Tayyip Erdoğan,A318,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85C1,TC-ANA,Government of Turkey,Airbus ACJ319 115X,Gov,Dictator Alert,Recep Tayyip Erdoğan,A319,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -265,9 +272,10 @@ AC85AF,YV2869,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Mad
 0D80E9,YV2485,Petroleos de Venezuela,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,F900,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80EC,YV2486,Petroleos de Venezuela,Dassault Falcon 900EX,Gov,Dictator Alert,Nicolás Maduro,F900,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D82E8,YV3360,Petroleos de Venezuela,Falcon 2000EX,Gov,Dictator Alert,Nicolás Maduro,F2TH,Dictator Alert,https://data.dictatoralert.org/dictatorships
+4241BB,VP-CAL,Prince Mohammed bin Fahd al Saud,Boeing 777-200LR,Gov,Saudi Arabia,Government,B77l,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A310,Dictator Alert,https://data.dictatoralert.org/dictatorships
-06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A330,Dictator Alert,https://data.dictatoralert.org/dictatorships
-06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A330,Dictator Alert,https://data.dictatoralert.org/dictatorships
+06A01C,A7HJJ,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A332,Dictator Alert,https://data.dictatoralert.org/dictatorships
+06A038,A7HHM,Qatar Amiri Flight,Airbus A330-202,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A332,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A001,A7HHK,Qatar Amiri Flight,Airbus A340-211,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A342,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A05A,A7AAH,Qatar Amiri Flight,Airbus A340-313X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A343,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A021,A7-HHH,Qatar Amiri Flight,Airbus A340-541,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A345,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -276,6 +284,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Mad
 06A014,A7HHJ,Qatar Amiri Flight,Airbus ACJ319-133X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A319,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A18D,A7HSJ,Qatar Amiri Flight,Airbus ACJ320-232SL,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A320,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A0A4,A7MBK,Qatar Amiri Flight,Airbus ACJ320-232X,Gov,Dictator Alert,Tamim bin Hamad Al Thani,A320,Dictator Alert,https://data.dictatoralert.org/dictatorships
+06A2C3,A7-HHF,Qatar Amiri Flight,Boeing 747 8Z5 BBJ,Gov,Dictator Alert,Tamim bin Hamad Al Thani,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A0A2,A7HHE,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Tamim bin Hamad Al Thani,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A1E4,A7HBJ,Qatar Amiri Flight,Boeing 747-8KBBBJ,Gov,Dictator Alert,Tamim bin Hamad Al Thani,B748,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A037,A7AAM,Qatar Amiri Flight,Bombardier BD-700-1A10,Gov,Dictator Alert,Tamim bin Hamad Al Thani,GLEX,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -299,6 +308,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beech 1900D,Gov,Dictator Alert,Nicolás Mad
 157766,RA-96102,Russian Air Force,Ilyushin IL-96 VVIP,Gov,Dictator Alert,Vladimir Putin,IL96,Dictator Alert,https://data.dictatoralert.org/dictatorships
 14FC0B,RA-64523,Russian FSB,Tupolev Tu-214 VPU,Gov,Dictator Alert,Vladimir Putin,T204,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710038,HZ-AKF,Saudi Arabian Airlines,Boeing 777-268,Gov,Dictator Alert,Mohammed bin Salman,B772,Dictator Alert,https://data.dictatoralert.org/dictatorships
+710190,HZ-MF9,Saudi Arabian Government,Boeing 777-300ER,Gov,Mohammed bin Salman,Government,B77W,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710100,HZ-MF1,Saudi Ministry of Finance,Boeing 737-BBJ,Gov,Dictator Alert,Mohammed bin Salman,B737,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101E3,HZ-MF2,Saudi Ministry of Finance,Boeing 737-BBJ,Gov,Dictator Alert,Mohammed bin Salman,B737,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71022B,HZ-MF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,Gov,Dictator Alert,Mohammed bin Salman,B739,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -335,13 +345,18 @@ AB6FD1,N836NA,NASA,NF-15B Eagle,Gov,Nasa,Sce To Aux,F15,Distinctive,https://www.
 A6B008,N53W,NASA Airborne Science Mission,Beech B200C Super King Air,Gov,Nasa,Sce To Aux,BE20,Distinctive,https://airbornescience.nasa.gov/program/airborne_missions
 AB248A,N817NA,NASA Armstrong Flight Research Center,Douglas DC-8 72,Gov,Nasa,Sce To Aux,DC87,Distinctive,https://www.nasa.gov/centers/armstrong/home/index.html
 7C39D5,VH-LPJ,Air Affairs Australia,Gates Learjet 35,Gov,Fire,Eye In The Sky,LJ35,Dogs with Jobs,https://www.airaffairs.com.au
+AACABF,N795BP,DoE Powerline Inspection,Bell 407,Gov,Wichita Lineman,Poweline Inspection,B407,Dogs with Jobs,https://www.energy.gov
 ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be Nice,Bizjet,CL60,Dogs with Jobs,https://www.faa.gov
 ABCC7D,N86,Federal Aviation Administration,Bombardier Challenger 601,Gov,Must Be Nice,Bizjet,CL60,Dogs with Jobs,https://www.faa.gov
 AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,Gov,Must Be Nice,Bizjet,CL60,Dogs with Jobs,https://www.faa.gov
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,Gov,Open Skies,Luftwaffe,A319,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 400DE5,G-HIJK,Met Office,Cessna 421C Golden Eagle,Gov,Nice Weather For Ducks,Measuring Stick,C421,Dogs with Jobs,https://www.airport-data.com/images/aircraft/000/783/783107.jpg
+A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,Gov,Fish,Wildlife,P68,Dogs with Jobs,https://wdfw.wa.gov
+800585,VT-ALV,Air India One,Boeing 777 300ER,Gov,India,Government,B77W,Governments,https://www.india.gov.in/
+800C3D,VT-ALW,Air India One,Boeing 777 300ER,Gov,India,Government,B77W,Governments,https://www.india.gov.in/
 398895,F-HCEV,D.G. de l'Aviation Civile,Beech B200GT King Air,Gov,Ou Sont Les Bagages,Government,BE20,Governments,https://www.ecologie.gouv.fr
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,Gov,Con Air,Government,GLF5,Governments,https://en.wikipedia.org/wiki/Justice_Prisoner_and_Alien_Transportation_System
+3CC9AB,D-CDRF,Deutsche Rettungsflugwacht,Gates Learjet 35 A,Gov,Colorado,Government,LJ35,Governments,https://youtu.be/E3BVteW_rnE?t=2233
 4241F8,VP-FBD,Falkland Islands Government Air Service,BN Islander BN-2B-26,Gov,Falkland Islands,Las Malvinas,BN2P,Governments,https://www.fig.gov.fk/aviationservice
 4241FA,VP-FBR,Falkland Islands Government Air Service,BN Islander BN-2B-26,Gov,Falkland Islands,Las Malvinas,BN2P,Governments,https://www.fig.gov.fk/aviationservice
 4241FC,VP-FBO,Falkland Islands Government Air Service,BN Islander BN-2B-26,Gov,Falkland Islands,Las Malvinas,BN2P,Governments,https://www.fig.gov.fk/aviationservice
@@ -369,8 +384,6 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,Gov,Santos Dumont,Government,A3
 044037,9G-EXE,Government of Ghana,Dassault Falcon 900EX EASy,Gov,Ghana,Government,F900,Governments,https://www.ghana.gov.gh
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,Gov,Gujarat,Government,CL60,Governments,https://gujaratindia.gov.in
 800D31,VT-HCA,Government of Haryana,Beech B200GT Super King Air,Gov,Haryana,Government,BE20,Governments,https://haryana.gov.in
-800585,VT-ALV,Government of India,Boeing 777 300ER,Gov,India,Government,B77W,Governments,https://www.india.gov.in/
-800C3D,VT-ALW,Government of India,Boeing 777 300ER,Gov,India,Government,B77W,Governments,https://www.india.gov.in/
 8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,Gov,Indonesia,Government,B737,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
 728618,YI-APX,Government of Iraq,Airbus A300 B4-203,Gov,Iraq,Government,A30B,Governments,https://gds.gov.iq
 728666,YI-ASF,Government of Iraq,Boeing 737NG 81Z/W,Gov,Iraq,Government,B738,Governments,https://gds.gov.iq
@@ -389,6 +402,7 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,Gov,Santos Dumont,Government,A3
 8004D2,VT-VDD,Government of Maharashtra,Cessna Citation XLS,Gov,Maharashtra,Government,C56X,Governments,https://www.maharashtra.gov.in/1125/Home
 05C05A,TZ-001,Government of Mali,Boeing 727 2K5/W,Gov,Mali,Government,B722,Governments,https://en.wikipedia.org/wiki/Mali
 05C075,TZ-PRM,Government of Mali,Boeing 737-BBJ,Gov,Mali,Government,B737,Governments,https://en.wikipedia.org/wiki/Mali
+0D0795,XC-MEX,Government of Mexico,Boeing 787-8-BBJ,Gov,Mexico,Government,B788,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
 516001,4O-MNE,Government of Montenegro,Bombardier Learjet 45,Gov,Montenegro,Government,LJ45,Governments,https://data.dictatoralert.org/dictatorships
 201002,V5-NAG,Government of Namibia,Bombardier Learjet 31 A,Gov,Namibia,Government,LJ31,Governments,https://www.gov.na
 20103F,V5-GON,Government of Namibia,Dassault Falcon 7X,Gov,Namibia,Government,FA7X,Governments,https://www.gov.na
@@ -435,7 +449,7 @@ C0537E,C-GFQB,Government of Quebec,Canadair CL-215 -V,Gov,Être Juuuuuussste,Gov
 513007,E7-SBA,Government of Republic of Srpska,Cessna Citation I,Gov,Republic Of Srpska,Government,C500,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 513027,E7-GPS,Government of Republic of Srpska,Citation CJ4,Gov,Republic Of Srpska,Government,C25C,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 06E01A,9XR-OG,Government of Rwanda,Mil Mi-17 1V-5,Gov,Rwanda,Government,MI8,Governments,https://www.gov.rw
-E17283,LV-WJC,Government of Santa Fe,Agusta Westland AW109A,Gov,Santa Fe,Government,YK52,Governments,https://www.santafenm.gov
+E17283,LV-WJC,Government of Santa Fe,Agusta Westland AW109A,Gov,Santa Fe,Government,A109,Governments,https://www.santafenm.gov
 070ED4,6V-ONE,Government of Senegal,Airbus ACJ319 115X,Gov,Senegal,Government,A319,Governments,https://www.sec.gouv.sn
 4C0639,YU-BRZ,Government of Serbia,Bombardier Learjet 31 A,Gov,Serbia,Government,LJ31,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
 4C05A0,YU-BNA,Government of Serbia,Dassault Falcon 50,Gov,Serbia,Government,FA50,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
@@ -497,11 +511,13 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208 B,Gov,Brazil,Government,C20
 78019D,B-HRL,Hong Kong Government Flying Service,Eurocopter Super Puma AS.332 L2,Gov,Hong Kong,Government,AS32,Governments,https://www.gfs.gov.hk/eng/aboutgfs.htm
 78019E,B-HRM,Hong Kong Government Flying Service,Eurocopter Super Puma AS.332 L2,Gov,Hong Kong,Government,AS32,Governments,https://www.gfs.gov.hk/eng/aboutgfs.htm
 78019F,B-HRN,Hong Kong Government Flying Service,Eurocopter Super Puma AS.332 L2,Gov,Hong Kong,Government,AS32,Governments,https://www.gfs.gov.hk/eng/aboutgfs.htm
+8A0452,PK-GIG,Indonesia Presidential Flight,Boeing 777-300ER,Gov,Indonesia,Government,B77W,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
 33FFC1,MM62209,Italian Air Force,Airbus ACJ319-115X,Gov,Italy,Government,A319,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFF9,MM62174,Italian Air Force,Airbus ACJ319-115X,Gov,Italy,Government,A319,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFFB,MM62029,Italian Air Force,Dassault Falcon 50,Gov,Italy,Government,FA50,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,Gov,Italy,Government,F900,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,Gov,Italy,Government,F900,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+87C003,80-1112,Japanese Air Self Defence Force,Boeing 777 300ER,Gov,Japan,Government,B77W,Governments,https://www.japan.go.jp
 75041A,9M-ZZZ,Johor State Government,Gulfstream Aerospace G650 ER,Gov,Malaysia,Government,GLF6,Governments,https://www.johor.gov.my
 75044F,9M-TMJ,Johor State Government,Gulfstream Aerospace G650 ER,Gov,Malaysia,Government,GLF6,Governments,https://www.johor.gov.my
 A55698,N443JP,Kurdistan Regional Government,Cessna 208B Grand Caravan,Gov,Kurdistan,Government,C208,Governments,https://gov.krd/english
@@ -516,6 +532,7 @@ A136FE,N178B,Missile Defence Agency,Grumman GII B,Gov,Dept of Defence,Government
 48D960,1,Polish Air Force,Gulfstream G550,Gov,Przyjemny,Government,GLF5,Governments,https://en.wikipedia.org/wiki/Polish_Air_Force
 48D980,110,Polish Government,Boeing 737NG 800/W,Gov,Przyjemny,Government,B738,Governments,https://en.wikipedia.org/wiki/Politics_of_Poland
 48D961,2,Polish Government,Gulfstream G550,Gov,Przyjemny,Government,GLF5,Governments,https://en.wikipedia.org/wiki/Politics_of_Poland
+ABC1F0,N857GA,PPG Industries Inc,Gulfstream Aerospace G550,Gov,Tanzania,Government,GLF5,Governments,https://www.tanzania.go.tz
 7C151D,VH-EGF,Queensland Government,AugustaWestland AW.139,Gov,Queensland,Government,A139,Governments,https://www.qld.gov.au
 7C1522,VH-EGK,Queensland Government,AugustaWestland AW.139,Gov,Queensland,Government,A139,Governments,https://www.qld.gov.au
 7C16E1,VH-ESZ,Queensland Government,AugustaWestland AW.139,Gov,Queensland,Government,A139,Governments,https://www.qld.gov.au
@@ -524,6 +541,7 @@ A73B05,N565RS,Rivers State Government,Bombardier Global 5000,Gov,Nigeria,Governm
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC.3,Gov,Boris,Government,A332,Governments,https://www.bbc.co.uk/news/uk-politics-53082294
 02010F,CN-MMS,Royal Moroccan Government,AugustaWestland AW.139,Gov,Morrocco,Government,A139,Governments,https://en.wikipedia.org/wiki/Politics_of_Morocco
 151950,RF-72016,Russian FSB,Antonov An-72,Gov,I Must Break You,Government,AN72,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
+00AEC9,ZS-RSA,South African Air Force,Boeing 737NG 7ED/W BBJ,Gov,South Africa,Government,B737,Governments,https://www.gov.za
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander BN-2A-26,Gov,Mosquito Control,Government,BN2P,Governments,https://www.sbpg.net/304/Mosquito-Control
 A1EFFE,N224BH,State Government of Akwa Ibom,Gulfstream Aerospace G450,Gov,Nigeria,Government,GLF4,Governments,https://akwaibomstate.gov.ng
 E48D63,PP-EPS,State Government of Bahia,Beech C90 King Air,Gov,Brazil,Government,BE9L,Governments,https://en.wikipedia.org/wiki/Bahia
@@ -556,14 +574,15 @@ A20FCA,N2319,Nuclear Security Administration,Beech B350 Super King Air,Gov,mmm N
 A87A4D,N6451D,US Department of Energy,Beech B200 Super King Air,Gov,Covert,Chopper,BE20,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A9B15F,N7232R,US Department of Energy,Beech B200 Super King Air,Gov,Covert,Chopper,BE20,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A1AB42,N20646,US Department of Energy,Bell 206L-4 LongRanger,Gov,Covert,Chopper,B06,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
-A8107D,N619DE,US Department of Energy,Bell 407,Gov,Covert,Chopper,B407,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
-A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,mmm Neutrons,Chopper,B412,Nuclear,https://www.airport-data.com/images/aircraft/000/959/959563.jpg
+A8107D,N619DE,US Department of Energy,Bell 407,Gov,Covert,Nuclear,B407,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
+A4DBDE,N412DE,US Department of Energy,Bell 412HP,Gov,mmm Neutrons,Nuclear,B412,Nuclear,https://www.airport-data.com/images/aircraft/000/959/959563.jpg
 A0441D,N116SR,US Department of Energy,Eurocopter EC145,Gov,Covert,Chopper,EC45,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
-A047D4,N117SR,US Department of Energy,Eurocopter EC145,Gov,Covert,Chopper,EC45,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
+A047D4,N117SR,US Department of Energy,Eurocopter EC145,Gov,Covert,Nuclear,EC45,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737-400C,Gov,Specialist,mmm Neutrons,B734,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 ADD445,N990ST,US Nuclear Security Administration,Boeing 737-4YO,Gov,Specialist,mmm Neutrons,B734,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
-3B7543,F-UJCT,French Air Force,Airbus A330 243,Gov,Ou Sont Les Bagages,Government,A330,Other Air Forces,https://www.gouvernement.fr/en/news
-3B7544,F-UJCS,French Air Force,Airbus A330 243,Gov,Ou Sont Les Bagages,Government,A330,Other Air Forces,https://www.gouvernement.fr/en/news
+3B7543,F-UJCT,French Air Force,Airbus A330 243,Gov,Ou Sont Les Bagages,Government,A332,Other Air Forces,https://www.gouvernement.fr/en/news
+3B7544,F-UJCS,French Air Force,Airbus A330 243,Gov,Ou Sont Les Bagages,Government,A332,Other Air Forces,https://www.gouvernement.fr/en/news
+0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,Gov,Wrong Turn At Albuquerque,Honduras,E35L,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
 7AA759,B-4188,China Geological Survey,Gates Learjet 35 A,Gov,Measuring Stick,Rock Lobster,LJ35,Ptolemy would be proud,https://en.cgs.gov.cn
 78C4A2,B-4184,China Geological Survey,Gates Learjet 36 A,Gov,Measuring Stick,Rock Lobster,LJ35,Ptolemy would be proud,https://en.cgs.gov.cn
 7BD2FA,B-4185,China Geological Survey,Gates Learjet 36 A,Gov,Measuring Stick,Rock Lobster,LJ35,Ptolemy would be proud,https://en.cgs.gov.cn
@@ -603,7 +622,6 @@ C03DE2,C-FXLH,United Nations,Mitsubushi CRJ-200LR,Gov,United Nations,World Polic
 5082FA,UR-ELQ,United Nations,Saab 340B,Gov,United Nations,World Police,SF34,Quango,https://www.un.org/en
 ADFDF8,82-8000,US Government,Boeing VC25A,Gov,Air Force One,Government,B742,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25
 ADFDF9,92-9000,US Government,Boeing VC25A,Gov,Air Force One,Government,B742,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25
-AE47C4,92-9000,US Government,Boeing VC25A,Gov,Air Force One,Government,B742,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25
 406BC6,G-XXEC,The Queens Helicopter flight ,AugustaWestland AW.109,Gov,Yes Maam,The Queen,A109,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 405FE9,G-XXEB,The Queens Helicopter flight ,Sikorsky S-76C,Gov,Yes Maam,The Queen,S76,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 406004,G-XXED,The Queens Helicopter flight ,Sikorsky S-76C,Gov,Yes Maam,The Queen,S76,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
@@ -724,8 +742,10 @@ AE0449,02-4452,USAF,Boeing C-32B,Gov,150th Special Operations Squadron,Special O
 407918,G-TEKV,UK Border Force,Tekever AR5,Gov,Border Patrol,UAV,UAV,UAV,https://www.justice.gov
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,Gov,Eye In The Sky,Covert,DA42,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 4012A1,G-VALK,ALTO Aerospace Ltd,Beech B200 Super King Air,Gov,Spyplane,ISR,BE20,Under Observation,https://www.altoaero.com
+A4F670,N419K,Department of Homeland Security,Beechcraft B300C Super King Air,Gov,DHS,Creeperplane,BE30,Under Observation,https://www.dhs.gov
 ADFEB3,73-1676,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,B742,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,B742,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB5,74-0787,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,B742,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB6,75-0125,United States Air Force,E4B Nightwatch,Gov,Its The End Of The World And I Know It,Doomsday Plane,B742,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,Gov,Government,Vanity Plate,GLF4,Vanity Plate,https://www.faa.gov
+A660F6,N51VE,LoveFrom Inc,Gulfstream GV,Gov,Jony Ive,LoveFrom,GLF5,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
