@@ -1,4 +1,4 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
+ICAO,Ident,Operator,Type,CMPG,$Tag 1,$#Tag 2,$#ICAO Type,Category,$#Link
 3DD798,D-HBWY,Police of Baden-Wuerttemberg,Eurocopter EC145,Pol,Eye In The Sky,Police Squad,EC45,Dogs with Jobs,https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg_Police
 147134,RF-28980,Altai Police,Mil Mi-8,Pol,Police Squad,Ment,MI8,Police Forces,https://en.wikipedia.org/wiki/Altai_Krai_Police
 A1F894,N226PD,Anaheim Police Department,AS.350 Squirrel,Pol,Police Squad,The Cops,AS50,Police Forces,https://www.anaheim.net/171/Police-Department
