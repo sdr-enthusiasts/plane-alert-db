@@ -1,4 +1,4 @@
-ICAO,Ident,Operator,Type,CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
+ICAO,Ident,Operator,Type,CMPG,$Tag 1,$#Tag 2,$#ICAO Type,Category,$#Link
 A2CDE5,N28ZD,Dell USA LP,Bombardier Global Express XRS,Gov,Bizjet,As Seen on TV,GLEX,As Seen on TV,https://www.dell.com
 43ECF4,2-CIAS,Channel Islands Air Search,BN-2A Islander-2A,Gov,Lions Pride,Coastguard,BN2P,Coastguard,https://www.ci-airsearch.com
 3B7B20,F-ZBGQ,French Customs,Beech B350 Super King Air,Gov,Border Patrol,Coastguard,B350,Coastguard,https://www.douane.gouv.fr
