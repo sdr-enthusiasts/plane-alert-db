@@ -10191,12 +10191,12 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,,,,L410
 AE5DFD,16-5841,United States Air Force,Lockheed C-130J-30 Hercules,,,,C30J
 AE58A1,61-0011,United States Airforce,Boeing B-52H Stratofortress,,,,B52
 AE58A4,61-0014,United States Airforce,Boeing B-52H Stratofortress,,,,B52
-507FA2,08 White,Uzbek Air Force,Ilyushin IL-76 MD,,,,IL76
-507FA1,07 White,Uzbek Air Force,Ilyushin IL-76 MD,,,,C295
+507FA2,TBD,Uzbek Air Force,Ilyushin IL-76 MD,,,,IL76
+507FA1,TBD,Uzbek Air Force,Ilyushin IL-76 MD,,,,IL76
 507F81,UK29501,Uzbekistan Air Force,CASA C-295 W,,,,C295
-507F82,02 White,Uzbekistan Air Force,CASA C-295 W,,,,C295
-507F83,03 White,Uzbekistan Air Force,CASA C-295 W,,,,C295
-507F84,04 White,Uzbekistan Air Force,CASA C-295 W,,,,C295
+507F82,TBD,Uzbekistan Air Force,CASA C-295 W,,,,C295
+507F83,TBD,Uzbekistan Air Force,CASA C-295 W,,,,C295
+507F84,TBD,Uzbekistan Air Force,CASA C-295 W,,,,C295
 394881,1112,Venezuelan Air Force,Beech King Air B200,,,,BE20
 0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,,,,FA50
 0D806C,9508,Venezuelan Air Force,Lockheed C-130H Hercules,,,,C130
@@ -10285,8 +10285,8 @@ AC8E11,N908NA,NASA,NorthropT-38N Talon,,,,T38
 ABE297,N865NA,NASA,BeechNT-34C Turbo Mentor,,,,T34T
 A7D391,N603NA,NASA,BeechT-34C Turbo Mentor,,,,T34T
 ACCA7C,N923NA,NASA,NorthropT-38N Talon,,,,T38
-ABFB3A,N871NA,NASA,Teledyne RyanRQ-4A Global Hawk,,,,UAV
-ABFEF1,N872NA,NASA,Teledyne RyanRQ-4A Global Hawk,,,,UAV
+ABFB3A,N871NA,NASA,Teledyne RyanRQ-4A Global Hawk,,,,Q4
+ABFEF1,N872NA,NASA,Teledyne RyanRQ-4A Global Hawk,,,,Q4
 A4EB97,N416NA,NASA,BellUH-1B Iroquois,,,,UH1
 A4EF4E,N417NA,NASA,BellUH-1H Iroquois,,,,UH1
 A4FCCC,N420NA,NASA,BellUH-1H Iroquois,,,,UH1
@@ -10297,6 +10297,6 @@ ABBECF,N856NA,NASA,AeromotAMT-200S TG-14A Super Ximango,,,,RF10
 A230BE,N240HR,NASA,Vanilla Aircraft LLCVA001,,,,ZZZZ
 A6F32C,N547NU,NASA,NASA LangleyMERF-2,,,,GLID
 A6F6E3,N548NU,NASA,NASA LangleyTempest,,,,GLID
-A65179,N506NU,NASA,AeroVironmentAN/FQM-117b,,,,MUAV
-A65530,N507NU,NASA,AeroVironmentAN/FQM-117b,,,,MUAV
+A65179,N506NU,NASA,AeroVironmentAN/FQM-117b,,,,UAV
+A65530,N507NU,NASA,AeroVironmentAN/FQM-117b,,,,UAV
 AB63B9,N833CH,Private,Beech Staggerwing D17S,,,,BE17
