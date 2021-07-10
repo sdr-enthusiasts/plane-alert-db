@@ -3,7 +3,7 @@
 
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** and takes the form 
 
-- ICAO,Ident,Operator,Type,CMPG,$Tag,$#Tag2,$#Tag3,Category,$#Link
+- $ICAO,$Ident,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 
 e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,EXPL,M\*A\*S\*H,https://cornwallairambulancetrust.org/
 
