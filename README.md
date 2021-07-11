@@ -5,7 +5,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 - $ICAO,$Ident,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 
-e.g 406C1B,G-CNWL,Cornwall Air Ambulance,Bell MD-900 Explorer,Civ,Air Ambo,Choppa,EXPL,M\*A\*S\*H,https://cornwallairambulancetrust.org/
+e.g 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,L39,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 
 Add these characters to the column headers to control the behavior of PlaneAlert
 
@@ -18,7 +18,7 @@ in the example above the #hashtags would be 'Air Ambo','Choppa' and 'EXPL'. Tag2
 - CMPG = Civilian, Military, Police, Government
 - Tag 1 = Funny/amusing
 - Tag 2 = Useful/relevant
-- Tag 3 = ICAO Type Code
+- Tag 3 = Anything goes
 - Link - Either an informative or funny link. All are SFW, except maybe the Disney plane.
 
 # Planefence
