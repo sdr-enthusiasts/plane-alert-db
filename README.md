@@ -96,7 +96,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Who needs an Engine ? \- Gliders etc (63)
 - You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (41)
 - Zoomies \- Fast jets, fighters. Anything that moves fast (127)
-- 
+
 # To do / Ideas
 
 No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
@@ -106,7 +106,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - US Dept of Interior
 - US Dept of Energy
 - Other US Gov Depts
-- Firefighting Aircraft / Companies
 - B737 with Gravel Kits - Nolinor, Air Inuit, Canada North, Chron Aviation
 - Defense Helicopter Flying School
 - Identify more Aircraft owned by Religious organisations
@@ -120,7 +119,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Survey / Mapping Aircarft
 - Other surveillance aircraft types
 - 750 Naval Air Squadron (Observers)
-- Cal Fire
 - Coulson Aviation
 - Australian Aircraft called firebird (fire spotter and fighters)
 - S-64 Skycrane - list only partially completed (what is the list of names)
@@ -162,7 +160,6 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - Aviation Services Australia
 - Historic Army Aircraft Flight
 - Odd C130 Hercules - EC130H, EC130E, EC130J, MC130H, WC130J
-- Gunships (Spooky, Central American DC3's)
 - AeroRescue
 - Air-Glaciers
 - Alci Avaiation
@@ -208,6 +205,9 @@ No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
 - <strike>China National Antarctic & Arctic Research Expedition</strike>
 - <strike>Police Scotland Air Support Unit (NI Equivalent)</strike>
 - <strike>French Armed Forces</strike>
+- <strike>Firefighting Aircraft / Companies</strike>
+- <strike>Cal Fire</strike>
+- <strike>Gunships (Spooky, Central American DC3's)</strike>
 
 Any other idea's welcome.
 
