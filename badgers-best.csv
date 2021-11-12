@@ -11,9 +11,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 40749C,G-JPIT,Rich Goodwin,Pitts Special S-2S Modified,PTS2,Civ,Jet Engine,Display Team,,Aerobatic Teams,https://www.richgoodwinairshows.com/jet-pitts
 4021BB,G-EWIZ,Rich Goodwin,Pitts Special S-2SE,PTS2,Civ,Biplane,Display Team,,Aerobatic Teams,https://en.wikipedia.org/wiki/Pitts_Special
 400E1F,G-OFFO,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
-400E20,G-ZXCL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
-400E21,G-ZXEL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
-400E22,G-ZEXL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
+4.00E+22,G-ZXCL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
+4.00E+23,G-ZXEL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
+4.00E+24,G-ZEXL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
 40655A,G-ZXLL,The Blades,Extra EA-300,E300,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://theblades.com
 AE6963,170000,The Blue Angels,C-130J Hercules,C30J,Mil,Fat Albert,Display Team,,Aerobatic Teams,https://www.blueangels.navy.mil
 3E1CEA,D-ICDM,The Flying Bulls,Alpha Jet,AJET,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
@@ -22,11 +22,11 @@ AE6963,170000,The Blue Angels,C-130J Hercules,C30J,Mil,Fat Albert,Display Team,,
 440836,OE-FDM,The Flying Bulls,Alpha Jet,AJET,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 440886,OE-ETV,The Flying Bulls,AS.350 Squirrel,AS50,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 4405CD,OE-CKW,The Flying Bulls,Aviat Husky,HUSK,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
-4408E8,OE-ADM,The Flying Bulls,Beech T-34 Mentor,T34P,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
+4.41E+11,OE-ADM,The Flying Bulls,Beech T-34 Mentor,T34P,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 4405EB,OE-XDM,The Flying Bulls,Bell 47 G-3B-1,B47G,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 A02A6D,N11FX,The Flying Bulls,Bell Cobra TAH-1F,HUCO,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 44042B,OE-AMM,The Flying Bulls,Boeing Stearman PT-17,ST75,Civ,Already Has Wings,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
-3E0282,D-HSDM,The Flying Bulls,Bolkow Bo-105 C,B105,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
+3.00E+282,D-HSDM,The Flying Bulls,Bolkow Bo-105 C,B105,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 3E0526,D-HTDM,The Flying Bulls,Bolkow Bo-105 C,B105,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 3E07CA,D-HUDM,The Flying Bulls,Bolkow Bo-105 C,B105,Civ,Chopper,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
 44066E,OE-XSY,The Flying Bulls,Bristol 171 Sycamore,SYCA,Civ,Alright Me Baber,Display Team,,Aerobatic Teams,https://www.flyingbulls.at/en
@@ -390,7 +390,7 @@ AE680D,6030,United States Coast Guard,MH-60 Jayhawk,H60,Gov,Search And Rescue,Co
 8960B1,A6-AUH,Abu Dhabi Amiri Flight,Boeing 737-BBJ2,B738,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896101,A6-UAE,Abu Dhabi Amiri Flight,Boeing 747-48E,B744,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896060,A6-YAS,Abu Dhabi Amiri Flight,Boeing 747-4F6,B744,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,B748,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8.96E+12,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747-8Z5,B748,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896264,A6-ALN,Abu Dhabi Amiri Flight,Boeing 777-2ANER,B77L,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-35RER,B77W,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89636E,A6-PFC,Abu Dhabi Amiri Flight,Boeing 787-8,B788,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -442,8 +442,8 @@ A9B67C,N725DT,DT Endeavour,Cessna 750,C750,Civ,Original Nuttah,Orange Danger,,Di
 896302,A6CJE,Emirates Airline,Airbus ACJ319-115,A319,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 04200A,3C-EGE,Equatorial Guinea,Boeing 737-BBJ,B737,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48448C,P4-SKN,Equatorial Guinea,Boeing 777 2FBLR,B77L,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://en.wikipedia.org/wiki/Equatorial_Guinea
-042001,3C-ONM,Equatorial Guinea,Dassault Falcon 900B,F900,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-042088,3C-QQH,Equatorial Guinea,Embraer ERJ-145 EP,E145,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+42001,3C-ONM,Equatorial Guinea,Dassault Falcon 900B,F900,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+42088,3C-QQH,Equatorial Guinea,Embraer ERJ-145 EP,E145,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 484122,P4-VIP,Equatorial Guinea,Gulfstream GV,GLF5,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0428DD,3C-LLX,Equatorial Guinea,Gulfstream V,GLF5,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 60185B,EZ-B022,Gov of Turkmenistan,Bombardier Challenger 605,CL60,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -459,7 +459,7 @@ A9B67C,N725DT,DT Endeavour,Cessna 750,C750,Civ,Original Nuttah,Orange Danger,,Di
 0A400B,7T-VPG,Government of Algeria,Gulfstream V,GLF5,Gov,Dictator Alert,Abdelmadjid Tebboune,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0900AE,D2-EEA,Government of Angola,Bombardier DHC-8 402,DH8D,Gov,Dictator Alert,Agostinho Neto,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0900B5,D2-EEB,Government of Angola,Bombardier DHC-8-Q402,DH8D,Gov,Dictator Alert,Agostinho Neto,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-090088,D2-ANG,Government of Angola,Bombardier Global Express XRS,GLEX,Gov,Dictator Alert,Agostinho Neto,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+90088,D2-ANG,Government of Angola,Bombardier Global Express XRS,GLEX,Gov,Dictator Alert,Agostinho Neto,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 600801,4K-8888,Government of Azerbaijan,Airbus ACJ319-115,A319,Gov,Dictator Alert,Ilham Aliyev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 600807,4K-AI07,Government of Azerbaijan,Airbus ACJ320 214X,A320,Gov,Dictator Alert,Ilham Aliyev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 600BC0,4K-AI08,Government of Azerbaijan,Airbus ACJ340-642X,A346,Gov,Dictator Alert,Ilham Aliyev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -482,9 +482,9 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 8953C7,V8-MHB,Government of Brunei,Boeing 767 27GER,B762,Gov,Government,Must Be Nice,,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
 8950000,V8-OAS,Government of Brunei,Boeing 787 8,B788,Gov,Government,Must Be Nice,,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
 09C008,XT-BFA,Government of Burkina Faso,Boeing 727-282,B722,Gov,Government,Must Be Nice,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Burkina_Faso
-034002,TJ-AAW,Government of Cameroon,Gulfstream III,GLF3,Gov,Dictator Alert,Paul Biya,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084006,TT-ABE,Government of Chad,ATR 42-300,AT43,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084002,TT-ABD,Government of Chad,Boeing 737-BBJ,B737,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+34002,TJ-AAW,Government of Cameroon,Gulfstream III,GLF3,Gov,Dictator Alert,Paul Biya,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+84006,TT-ABE,Government of Chad,ATR 42-300,AT43,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+84002,TT-ABD,Government of Chad,Boeing 737-BBJ,B737,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 08401E,TT-ABG,Government of Chad,Dornier Do 328 Jet 310,J328,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 084C00,TT-AAI,Government of Chad,Grumman GII,GLF2,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 084F00,TT-ABC,Government of Chad,MCDONNELL DOUGLAS MD-87,MD87,Gov,Dictator Alert,Idriss Déby,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -494,8 +494,8 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 08CBC8,9S-CBA,Government of Democratic Republic of Congo,Boeing 727 223,B722,Gov,Dictator Alert,Félix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 08CBCB,9Q-CDC,Government of Democratic Republic of Congo,Boeing 727-30,B721,Gov,Dictator Alert,Félix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 08CBAB,9Q-CGC,Government of Democratic Republic of Congo,Gulfstream GIV,GLF4,Gov,Dictator Alert,Félix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-010024,SU-GGG,Government of Egypt,Airbus A340-212,A342,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-010137,SU-BRF,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+10024,SU-GGG,Government of Egypt,Airbus A340-212,A342,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+10137,SU-BRF,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01006D,SU-AXN,Government of Egypt,Dassault Falcon 20 E-5B,FA20,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01006B,SU-AYD,Government of Egypt,Dassault Falcon 20 F-5B,FA20,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01006C,SU-AZJ,Government of Egypt,Dassault Falcon 20 F-5B,FA20,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
@@ -503,22 +503,22 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 01008E,SU-BPE,Government of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01008F,SU-BPF,Government of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01003D,SU-BNC,Government of Egypt,Gulfstream GIV SP,GLF4,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-010057,SU-BNO,Government of Egypt,Gulfstream GIV SP,GLF4,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+10057,SU-BNO,Government of Egypt,Gulfstream GIV SP,GLF4,Gov,Dictator Alert,Egypt,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 89624B,A6-HMS,Government of Fujairah,Airbus A320-232,A320,Gov,Dictator Alert,Mohammed Al Sharqi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E00A,TR-KPR,Government of Gabon,Boeing 777-236,B772,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-03E003,TR-LEX,Government of Gabon,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-03E004,TR-KSP,Government of Gabon,Gulfstream GIV SP,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-03E015,TR-KGM,Government of Gabon,Gulfstream IV,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+3.00E+03,TR-LEX,Government of Gabon,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+3.00E+04,TR-KSP,Government of Gabon,Gulfstream GIV SP,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+3.00E+15,TR-KGM,Government of Gabon,Gulfstream IV,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A027,C5-GOG,Government of Gambia,Boeing 727-1H2,B721,Gov,Dictator Alert,Adama Barrow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A01B,C5-GAF,Government of Gambia,Boeing 727-95,B721,Gov,Dictator Alert,Adama Barrow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 09A042,C5NBB,Government of Gambia,Canadair CL-600-2B16 Challenger 601-3A,CL60,Gov,Dictator Alert,Adama Barrow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7324E4,EP-IGD,Government of Iran,Airbus A321 231,A321,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7304E1,EP-AGA,Government of Iran,Boeing 737-286(A),B732,Gov,Dictator Alert,Adama Barrow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.32E+07,EP-IGD,Government of Iran,Airbus A321 231,A321,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.30E+04,EP-AGA,Government of Iran,Boeing 737-286(A),B732,Gov,Dictator Alert,Adama Barrow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7350C1,EP-TFA,Government of Iran,Dassault Falcon 50,FA50,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7350C9,EP-TFI,Government of Iran,Dassault Falcon 50,FA50,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7304F7,EP-AGW,Government of Iran,Rockwell Turbo Commander,AC90,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 424918,VQ-BDD,Government of Jordan,Airbus ACJ319 Elite,A319,Gov,Dictator Alert,Abdullah II bin Al-Hussein,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4243E4,VQ-BMZ,Government of Jordan,Gulfstream G650,GLF6,Gov,Dictator Alert,Abdullah II bin Al-Hussein,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+4.24E+07,VQ-BMZ,Government of Jordan,Gulfstream G650,GLF6,Gov,Dictator Alert,Abdullah II bin Al-Hussein,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6830ED,UP-A3001,Government of Kazakhstan,Airbus A330-243,A332,Gov,Dictator Alert,Kassym-Jomart Tokayev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6830A5,UP-A2001,Government of Kazakhstan,Airbus ACJ320-214X,A320,Gov,Dictator Alert,Kassym-Jomart Tokayev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 683037,UP-B5701,Government of Kazakhstan,Boeing 757-2M6,B752,Gov,Dictator Alert,Kassym-Jomart Tokayev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -539,9 +539,9 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 70601E,9K-AJD,Government of Kuwait,Gulfstream V,GLF5,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 70601F,9K-AJE,Government of Kuwait,Gulfstream V,GLF5,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 706020,9K-AJF,Government of Kuwait,Gulfstream V,GLF5,Gov,Dictator Alert,Sheikh Nawaf al-Ahmad al-Sabah,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-018021,5A-ONE,Government of Libya,Airbus A340-213,A342,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-018030,5A-UAA,Government of Libya,Bombardier Challenger 300,CL30,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-018019,5A-DCN,Government of Libya,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+18021,5A-ONE,Government of Libya,Airbus A340-213,A342,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+18030,5A-UAA,Government of Libya,Bombardier Challenger 300,CL30,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+18019,5A-DCN,Government of Libya,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0200CC,CN-MVI,Government of Morocco,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed VI,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Morocco
 062F2E,5U-GRN,Government of Niger,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mahamadou Issoufou,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0C204E,HP-1A,Government of Panama,Embraer Legacy 600,E35L,Gov,Government,Panama,,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Panama
@@ -563,7 +563,7 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 77CE26,YK-SQF,Government of Syria,Yakovlev Yak-40 K,YK40,Gov,Dictator Alert,Bashar al-Assad,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 77CE27,YK-SQG,Government of Syria,Yakovlev Yak-40 K,YK40,Gov,Dictator Alert,Bashar al-Assad,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 39AE68,FHLTI,Government of Togo,Dassault Falcon 7X,FA7X,Gov,Dictator Alert,Faure Gnassingbé,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-088005,5V-TAI,Government of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbé,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+88005,5V-TAI,Government of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbé,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BD2B2,TC-TUR,Government of Turkey,Airbus A330 243 ACJ,A332,Gov,Dictator Alert,Recep Tayyip Erdoğan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C2E,TC-CAN,Government of Turkey,Airbus A340 542,A345,Gov,Dictator Alert,Recep Tayyip Erdoğan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Government of Turkey,Airbus ACJ318 112 Elite,A318,Gov,Dictator Alert,Recep Tayyip Erdoğan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -581,14 +581,14 @@ E940FA,FAB-001,Government of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,M
 601856,EZ-S720,Government of Turkmenistan,Sikorsky S-92 A,S92,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 601857,EZ-S721,Government of Turkmenistan,Sikorsky S-92 A,S92,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80ED,YVO157,Government of Venezuela,Beech 400 A,BE40,Gov,Dictator Alert,Nicolás Maduro,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-042819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),B763,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-042003,3C-LGE,Guinea Ecuatorial Airlines,Dassault Falcon 50,FA50,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7101E4,HZ-WBT5,HRH Prince Awaleed Bin Talal,BAe 125-800A,H25B,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+42819,3C-LLU,Guinea Ecuatorial Airlines,Boeing 767-306(ER),B763,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+42003,3C-LGE,Guinea Ecuatorial Airlines,Dassault Falcon 50,FA50,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.10E+07,HZ-WBT5,HRH Prince Awaleed Bin Talal,BAe 125-800A,H25B,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 6831ED,74008,Kazakhstan Border Guards,Antonov An-74TK-200,AN72,Gov,Dictator Alert,Kassym-Jomart Tokayev,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101F1,HZ-WBT7,Kingdom Holding,Boeing 747-4J6,B744,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4850BE,P4RMA,Libya,Dassault Falcon 900,F900,Gov,Dictator Alert,General Hafar,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,A743,Gov,Dictator Alert,Abdul Hamid Dbeibeh,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-018098,5A-POL,Libyan Government,Ilyushin IL-76 TD,IL76,Gov,Dictator Alert,General Hafar,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+18098,5A-POL,Libyan Government,Ilyushin IL-76 TD,IL76,Gov,Dictator Alert,General Hafar,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 155BEA,RA-89066,MChS Rossii,Sukhoi Superjet 100-95B,SU95,Gov,Dictator Alert,Vladimir Putin,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 155BEB,RA-89067,MChS Rossii,Sukhoi Superjet 100-95LR,SU95,Gov,Dictator Alert,Vladimir Putin,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 730543,EP-AJC,Meraj Airlines,Airbus A320-232,A320,Gov,Dictator Alert,Ali Khamenei,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -655,13 +655,13 @@ AC85AF,YV2869,Petroleos de Venezuela,Beech 1900D,B190,Gov,Dictator Alert,Nicolá
 710038,HZ-AKF,Saudi Arabian Airlines,Boeing 777-268,B772,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710190,HZ-MF9,Saudi Arabian Government,Boeing 777-300ER,B77W,Gov,Mohammed bin Salman,Government,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710100,HZ-MF1,Saudi Ministry of Finance,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7101E3,HZ-MF2,Saudi Ministry of Finance,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.10E+06,HZ-MF2,Saudi Ministry of Finance,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71022B,HZ-MF6,Saudi Ministry of Finance,Boeing 737-NG9FGW,B739,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,B77W,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710195,HZ-MF7,Saudi Ministry of Finance,Boeing 787-8BBJ,B788,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71019B,HZ-MF8,Saudi Ministry of Finance,Boeing 787-8BBJ,B788,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7101E7,HZ-MF3,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.10E+10,HZ-MF3,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+7.10E+12,HZ-MF4,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101F0,HZ-MF5,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71002D,HZ-SK1,Saudi Private FLITE Charters,Gulfstream G4 SP,GLF4,Gov,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710277,HZ-AS99,Saudi Royal Flight,Airbus A318-100 ACJ,A318,Civ,Dictator Alert,Mohammed bin Salman,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -678,7 +678,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-3FXER,B77W,Gov,Dictator Alert,
 3CE2D2,YV3083,Venezuelan Air Force,Dornier D-228,D228,Gov,Dictator Alert,Nicolás Maduro,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 3CC011,YV3000,Venezuelan Air Force,Dornier D-228NG,D228,Gov,Dictator Alert,Nicolás Maduro,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8373,YV2984,Venezuelan Government,Airbus A319-133X,A319,Gov,Dictator Alert,Nicolás Maduro,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4069E7,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,B722,Civ,Specialist,Old,,Distinctive,https://www.2excelaviation.com/our-activity
+4.07E+10,G-OSRA,2 Excel Aviation,Boeing 727 2S2F,B722,Civ,Specialist,Old,,Distinctive,https://www.2excelaviation.com/our-activity
 406C5D,G-OSRB,2 Excel Aviation,Boeing 727 2S2F,B722,Civ,Specialist,Old,,Distinctive,https://www.2excelaviation.com/our-activity
 4B3E7A,HB-XRE,Air Glaciers,Aerospatiale Lama SA.315B,LAMA,Civ,Hiiiiiigh In The Sky,Choppa,,Distinctive,https://verticalmag.com/features/the-mountain-king
 394A60,F-GSTA,Airbus Transport Intl,Airbus A300 B4-608ST Beluga,A3ST,Civ,Absolute Unit,Beluga,,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga
@@ -871,7 +871,7 @@ AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Cool,,Distinctive,
 402F0E,G-BRFB,Private,Rutan Long-Ez,LGEZ,Civ,Whoosh,Shiny,,Distinctive,https://en.wikipedia.org/wiki/Rutan_Long-EZ
 40118A,G-TWSR,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,,Distinctive,https://silence-aircraft.de/en/aircraft
 406299,G-TWIS,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,,Distinctive,https://silence-aircraft.de/en/aircraft
-405E74,G-TWSS,Private,Silence Aircraft Twister 2L,TWST,Civ,Not A Spitfire,Twister,,Distinctive,https://silence-aircraft.de/en/aircraft
+4.05E+76,G-TWSS,Private,Silence Aircraft Twister 2L,TWST,Civ,Not A Spitfire,Twister,,Distinctive,https://silence-aircraft.de/en/aircraft
 A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Old,,Distinctive,https://en.wikipedia.org/wiki/Stinson_Reliant
 A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Old,,Distinctive,https://en.wikipedia.org/wiki/Stinson_Reliant
 4B2196,HB-MSS,Private,Sukhoi Su-26 M2,SU26,Civ,Do A Barrel Roll,Pass The Sick Bag,,Distinctive,https://en.wikipedia.org/wiki/Sukhoi_Su-26
@@ -898,7 +898,7 @@ A0552B,N120RB,VREF Management Inc,Cirrus Jet Vision SF50,SF50,Civ,Backpack Tadpo
 401387,G-TVHD,Arena Aviation,AS.355 Twin Squirrel,AS55,Civ,Is This My Good Side,Specialist,,Dogs with Jobs,https://www.arena-aircraft.com
 403C0C,G-INTV,Arena Aviation,AS.355 Twin Squirrel,AS55,Civ,Is This My Good Side,Specialist,,Dogs with Jobs,https://www.arena-aircraft.com
 400B03,G-CPSS,Army Parachute Association,Cessna 208 B,C208,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,,Dogs with Jobs,https://www.netheravon.com
-4042E2,G-BZAH,Army Parachute Association,Cessna 208 B,C208,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,,Dogs with Jobs,https://www.netheravon.com
+4.04E+05,G-BZAH,Army Parachute Association,Cessna 208 B,C208,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,,Dogs with Jobs,https://www.netheravon.com
 4241F4,VP-FBB,British Antarctic Survey,De Havilland Canada DHC-6 Twin Otter 310,DHC6,Civ,Brrrrrrrrrrrrrrr,Polar Explorer,,Dogs with Jobs,https://www.bas.ac.uk
 4241F5,VP-FBL,British Antarctic Survey,De Havilland Canada DHC-6 Twin Otter 310,DHC6,Civ,Brrrrrrrrrrrrrrr,Polar Explorer,,Dogs with Jobs,https://www.bas.ac.uk
 4241F6,VP-FAZ,British Antarctic Survey,De Havilland Canada DHC-6 Twin Otter 310,DHC6,Civ,Brrrrrrrrrrrrrrr,Polar Explorer,,Dogs with Jobs,https://www.bas.ac.uk
@@ -946,7 +946,7 @@ A399C3,N331CL,Massachusetts Institute Of Technology,Saab 340B,SF34,Civ,What Big 
 406897,G-RIDB,National Grid,Bell 429 Global Ranger,B429,Civ,Wichita Lineman,Choppa,,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission
 400D1C,G-NETR,Network Rail,AS.355 Twin Squirrel,AS55,Civ,Leaves On The Line,Chopper,,Dogs with Jobs,https://www.networkrail.co.uk
 400FE8,G-NLSE,Network Rail,AS.355 Twin Squirrel,AS55,Civ,Leaves On The Line,Chopper,,Dogs with Jobs,https://www.networkrail.co.uk
-4068E8,G-NLDR,Network Rail,AS.355 Twin Squirrel,AS55,Civ,Leaves On The Line,Chopper,,Dogs with Jobs,https://www.networkrail.co.uk
+4.07E+11,G-NLDR,Network Rail,AS.355 Twin Squirrel,AS55,Civ,Leaves On The Line,Chopper,,Dogs with Jobs,https://www.networkrail.co.uk
 4074A6,G-OJMP,Parachuting Aircraft Ltd,Cessna 208 B,C208,Civ,Jump Johnny Jump,Perfectly Serviceable Aircraft,,Dogs with Jobs,https://www.netheravon.com
 3DD798,D-HBWY,Police of Baden-Wuerttemberg,Eurocopter EC145,EC45,Pol,Eye In The Sky,Police Squad,,Dogs with Jobs,https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg_Police
 43C45B,XX327,RAF Centre of Aviation Medicine,BAe Hawk T1,HAWK,Civ,Pass The Sick Bag,Specialist,,Dogs with Jobs,https://en.wikipedia.org/wiki/RAF_Centre_of_Aviation_Medicine
@@ -975,20 +975,20 @@ C06829,C-GNLO,Gov of Newfoundland and Labrador,Beech B350C Super King Air,B350,G
 760970,AP-BKP,Government of Balochistan,Bombardier Learjet 45 XR,LJ45,Gov,Pakistan,Government,,Governments,https://balochistan.gov.pk
 7609D4,AP-BNT,Government of Balochistan,Mil Mi-171,MI8,Gov,Pakistan,Government,,Governments,https://balochistan.gov.pk
 E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Santos Dumont,Government,,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
-451E92,LZ-AOB,Government of Bulgaria,Airbus A319-112,A319,Gov,Bulgaria,Government,,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
+4.51E+94,LZ-AOB,Government of Bulgaria,Airbus A319-112,A319,Gov,Bulgaria,Government,,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
 451C42,LZ-OOI,Government of Bulgaria,Dassault Falcon 2000,F2TH,Gov,Bulgaria,Government,,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
 451CB8,LZ-CAT,Government of Bulgaria,Mil Mi-8 S,MI8,Gov,Bulgaria,Government,,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
-032007,9U-BKB,Government of Burundi,Gulfstream Aerospace GIV,GLF6,Gov,Bulgaria,Government,,Governments,https://burundi.gov.bi
+32007,9U-BKB,Government of Burundi,Gulfstream Aerospace GIV,GLF6,Gov,Bulgaria,Government,,Governments,https://burundi.gov.bi
 8003D1,VT-CTG,Government of Chhattisgarh,Beech B200 Super King Air,BE20,Gov,Chhattisgarh,Government,,Governments,https://www.cgstate.gov.in
 0D04FB,XC-DGO,Government of Durango,Gates Learjet 35 A,LJ35,Gov,Colorado,Government,,Governments,https://youtu.be/E3BVteW_rnE?t=2233
-010148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+10148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D0,SU-BTU,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D1,SU-BTV,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D3,SU-BTT,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 01003E,SU-BND,Government of Egypt,Gulfstream GIV SP,GLF4,Civ,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
-010058,SU-BNP,Government of Egypt,Gulfstream GIV SP,GLF4,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
-010070,SU-BGM,Government of Egypt,Gulfstream IV,GLF4,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
-044037,9G-EXE,Government of Ghana,Dassault Falcon 900EX EASy,F900,Gov,Ghana,Government,,Governments,https://www.ghana.gov.gh
+10058,SU-BNP,Government of Egypt,Gulfstream GIV SP,GLF4,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+10070,SU-BGM,Government of Egypt,Gulfstream IV,GLF4,Gov,Egypt,Dictator Alert,,Governments,https://www.youtube.com/watch?v=Cv6tuzHUuuk
+44037,9G-EXE,Government of Ghana,Dassault Falcon 900EX EASy,F900,Gov,Ghana,Government,,Governments,https://www.ghana.gov.gh
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,CL60,Gov,Gujarat,Government,,Governments,https://gujaratindia.gov.in
 800D31,VT-HCA,Government of Haryana,Beech B200GT Super King Air,BE20,Gov,Haryana,Government,,Governments,https://haryana.gov.in
 8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,B737,Gov,Indonesia,Government,,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
@@ -1161,8 +1161,8 @@ AE4AE8,09-0016,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two
 AE4AEA,09-0017,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two,,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE4AEC,19-0018,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two,,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE0945,TBC,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
-AE115D,01-2015,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
-AE11F6,01-1941,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
+AE115D,Jan-15,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
+AE11F6,Jan-41,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
 AE11F7,01-0041,United States Air Force,Boeing C-40B,B737,Mil,Office In The Sky,Government,,Governments,https://www.airforce.com
 AE11F8,02-0042,United States Air Force,Boeing C-40B,B737,Gov,Office In The Sky,Government,,Governments,https://www.airforce.com
 0AC8F4,FAC1658,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -1423,7 +1423,7 @@ AE19F7,82-0663,USAF,Fairchild A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrr
 AE19F9,82-0665,USAF,Fairchild A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
 A9E61F,N737M,Eagle Intl Establishment,Boeing 737-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,,Hired Gun,https://www.eagleinternationalgroup.com
 406A2E,G-GMAD,Gama Aviation,Beech B350C Super King Air,B350,Civ,Covert,Spyplane,,Hired Gun,https://www.gamaaviation.com/special-mission-2
-4073E1,G-DAYP,Gama Aviation,Beech B350C Super King Air,B350,Civ,Covert,Spyplane,,Hired Gun,https://www.gamaaviation.com/special-mission-2
+4.07E+04,G-DAYP,Gama Aviation,Beech B350C Super King Air,B350,Civ,Covert,Spyplane,,Hired Gun,https://www.gamaaviation.com/special-mission-2
 C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Callsign Viper,Aggressor,,Hired Gun,https://www.topaces.com
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK.55,VAMP,Civ,Fighter,I Am Old,,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 400B3F,G-ANAF,Aero Legendsa,Douglas C47A Dakota,DC3,Mil,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
@@ -1453,10 +1453,10 @@ C01024,C-FGCX,China Antarctic & Arctic Research Expedition,Douglas DC-3 BT-67,DC
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,SWOR,Civ,Old,Speak Up Sonny,,Historic,https://navywings.org.uk
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,SWOR,Civ,Old,Speak Up Sonny,,Historic,https://navywings.org.uk
 43C32F,VR930,Fly Navy Heritage Trust,Sea Fury FB11,FURY,Civ,Old,Speak Up Sonny,,Historic,https://navywings.org.uk
-404E86,G-HHII,Flyaspitfire.com,Hawker Hurricane IIb (2 Seat),HURI,Civ,Unicorn,Bicycle Made For Two,,Historic,https://flyaspitfire.com/hurricane-be505
+4.04E+88,G-HHII,Flyaspitfire.com,Hawker Hurricane IIb (2 Seat),HURI,Civ,Unicorn,Bicycle Made For Two,,Historic,https://flyaspitfire.com/hurricane-be505
 502C61,YL-LEV,Flying Adventure Tours,Antonov An-2 P,AN2,Civ,I Am Old,I Must Break You,,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 43C332,XP820,Historic Aircraft Flight Trust,DHC-2 Beaver AL1,DHC2,Civ,Old,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
-4077E4,G-SKNG,Historic Helicopters,Westland Sea King HAR3,S61,Civ,Mae West,Amphibian,,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
+4.08E+07,G-SKNG,Historic Helicopters,Westland Sea King HAR3,S61,Civ,Mae West,Amphibian,,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
 4075AD,G-WSEX,Historic Helicopters,Westland Wessex HU.5,WESX,Civ,The Last Of Us,Mae West,,Historic,https://www.historichelicopters.com/Pages/32/Navy-Wessex.html
 403850,G-BVGE,Historic Helicopters,Westland Whirlwind,S55T,Civ,The Last Of Us,Mae West,,Historic,https://www.historichelicopters.com/Pages/30/Whirlwind.html
 4B13F7,HB-HOP,JU-AIR,Junkers Ju-52,JU52,Civ,Tante Ju,Shiny,,Historic,https://en.wikipedia.org/wiki/Junkers_Ju_52
@@ -1483,14 +1483,14 @@ A0F0E5,N16S,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,History,,Historic,ht
 AB63B9,N833CH,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,History,Staggerwing,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
 A6C25D,N5345N,Private,Boeing A75 Stearman,ST75,Civ,Radial Engine,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 40313A,G-BSDS,Private,Boeing Stearman A75 PT-13A Kaydet,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
-406E76,G-CIPE,Private,Boeing Stearman A75L300,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+4.06E+78,G-CIPE,Private,Boeing Stearman A75L300,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A05DCB,N1222N,Private,Boeing Stearman B75 N1 N2S-3 Kaydet,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4039B3,G-ISDN,Private,Boeing Stearman B75N1 N2S-3 Kaydet,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A57267,N450D,Private,Boeing Stearman E75 N1 PT-13D Kaydet,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4B2D04,HB-RBG,Private,Boeing Stearman E75 N2S-5 Kaydet,ST75,Civ,Wing Walk,Biplane,,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 401F85,G-BJAL,Private,Bucker 1-131E Jungmann,BU31,Civ,Luftwaffe,I Am Old,,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
 3D8879,D-FXXX,Private,Canadian Car & Foundry Harvard IV,T6,Civ,To Be Faaaaaaaaaaaaaaaaaaair,History,,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
-4030E2,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,To Be Faaaaaaaaaaaaaaaaaaair,History,,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
+4.03E+05,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,To Be Faaaaaaaaaaaaaaaaaaair,History,,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
 A8787D,N645H,Private,Curtiss-Wright Travel Air 4000 E,TVL4,Civ,Biplane,History,,Historic,https://en.wikipedia.org/wiki/Travel_Air_2000
 40186F,G-AXXV,Private,De Havilland DH-82 Tiger Moth,DH82,Civ,Biplane,Old Stuff,,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 401A4E,G-AAZP,Private,DeHavilland DH-80A Puss Moth,DH80,Civ,Biplane,Old Stuff,,Historic,https://en.wikipedia.org/wiki/De_Havilland_Puss_Moth
@@ -1512,7 +1512,7 @@ AD2D55,N94804,Private,Ercoupe 415-E,ERCO,Civ,I Am Old,Double Vision,,Historic,ht
 4B2D38,HB-RDG,Private,General Motors TBM-3R Avenger,TBM,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Grumman_TBF_Avenger
 4B2DC0,HB-RIM,Private,Junkers F 13,F13,Civ,Shiny,History,,Historic,https://en.wikipedia.org/wiki/Junkers_F_13
 4B2CF2,HB-RAO,Private,Morane-Saulnier MS.317,MS31,Civ,Biplane,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_MS.315
-3821E9,F-BIPJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
+3.82E+12,F-BIPJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 4B0B69,HB-EIJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 3D6062,D-FITE,Private,North American Harvard II,T6,Civ,Training Wheels,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 A848AC,N6328T,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
@@ -1524,7 +1524,7 @@ A520CB,N43AF,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Speak Up 
 4B2D1B,HB-RCD,Private,Pilatus P-3 05,PP3,Civ,Training Wheels,I Am Old,,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1C,HB-RCE,Private,Pilatus P-3 05,PP3,Civ,Training Wheels,I Am Old,,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D23,HB-RCL,Private,Pilatus P-3 05,PP3,Civ,Training Wheels,I Am Old,,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
-4013E2,G-AFZL,Private,Porterfield CP-50,CP65,Civ,Tail Dragger,Highwing,,Historic,https://en.wikipedia.org/wiki/Porterfield_Collegiate
+4.01E+05,G-AFZL,Private,Porterfield CP-50,CP65,Civ,Tail Dragger,Highwing,,Historic,https://en.wikipedia.org/wiki/Porterfield_Collegiate
 A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Stinson_Junior
 A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,History,Speak Up Sonny,,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
 402DCD,G-MXVI,Private,Supermarine Spitfire LFXVIe,SPIT,Civ,War Bird,Fighter,,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire
@@ -1569,8 +1569,8 @@ A3026F,N293UP,United Parcel Service (UPS),MD-11,MD11,Civ,You Came Here In That T
 407377,G-IASB,IAS Medical Ltd,Beech B200 Super King Air,BE20,Civ,M*A*S*H,Air Ambo,,M*A*S*H,https://www.iasmedical.com
 4043AD,G-EHMS,London Air Ambulance,MD 900 Explorer,EXPL,Gov,M*A*S*H,Air Ambo,,M*A*S*H,https://www.londonsairambulance.org.uk
 710022,HZ-MS4C,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
-7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
-7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream V,GLF5,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
+7.10E+11,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
+7.10E+03,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream V,GLF5,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
 7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream V,GLF5,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
 710386,HZ-128,Saudi Armed Forces Medical Services,L100-30 Hercules,C130,Mil,M*A*S*H,Dictator Alert,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
 4068DA,G-HMDX,Specialist Aviation Services,MD 900 Explorer,EXPL,Gov,M*A*S*H,Air Ambo,,M*A*S*H,https://www.londonsairambulance.org.uk
@@ -1611,7 +1611,7 @@ E494D4,PP-FOY,Brazilian Federal Police,Beech B350C Super King Air,B350,Pol,Polic
 3E5176,D-IWAW,AVT Airborne Sensing,Beech B200 Super King Air,BE20,Civ,What Big Eyes You Have,Measuring Stick,,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
 3E4AEB,D-ITOL,AVT Airborne Sensing,Cessna T303 Crusader,C303,Civ,What Big Eyes You Have,Measuring Stick,,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
 30076D,OY-VPS,Bioflight,Vulcanair P.68C,P68,Civ,Theodolite,Wrong Turn At Albuquerque,,Ptolemy would be proud,http://bioflight.dk
-459E13,OY-GPS,Bioflight,Vulcanair P.68C,P68,Civ,Theodolite,Wrong Turn At Albuquerque,,Ptolemy would be proud,http://bioflight.dk
+4.59E+15,OY-GPS,Bioflight,Vulcanair P.68C,P68,Civ,Theodolite,Wrong Turn At Albuquerque,,Ptolemy would be proud,http://bioflight.dk
 45B533,OY-MIS,Bioflight,Vulcanair P.68C,P68,Civ,Theodolite,Wrong Turn At Albuquerque,,Ptolemy would be proud,http://bioflight.dk
 45B593,OY-MLS,Bioflight,Vulcanair P.68C,P68,Civ,Theodolite,Wrong Turn At Albuquerque,,Ptolemy would be proud,http://bioflight.dk
 45B5D3,OY-MNS,Bioflight,Vulcanair P.68C,P68,Civ,Measuring Stick,Trundle Wheel,,Ptolemy would be proud,http://bioflight.dk
@@ -1844,15 +1844,15 @@ AB371B,AB371B,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,
 43C383,ZH537,Joint Special Forces Aviation Wing,BN-2T Islander CC2,BN2P,Mil,Eye In The Sky,651 Squadron,,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream GV,GLF5,Mil,Covert,Special Ops,,Special Forces,https://www.scramble.nl/military-news/former-american-professional-golfer-owned-gulfstream-was-instrumental-in-the-rescue-of-us-hostage-in-niger
 AE58B4,11-00265,United States Air Force,Beech MC-12S Huron EMARSS,B350,Mil,Special Operations,US Army,,Special Forces,https://en.wikipedia.org/wiki/Beechcraft_C-12_Huron
-AE4A7E,07-1933,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE4ECE,10-1952,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4A7E,Jul-33,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4ECE,Oct-52,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4EEA,08-0047,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4EEB,09-0042,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5409,21125,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540B,11-1959,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540B,Nov-59,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE540C,22221,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571E,12-1964,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE640B,07-1933,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571E,Dec-64,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE640B,Jul-33,United States Air Force,CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,,Special Forces,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 ADC21E,N986HA,United States Air Force,DHC-8 202,DH8B,Mil,Special Operations,STOL,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADD70A,N991HA,United States Air Force,DHC-8 202,DH8B,Mil,Special Operations,STOL,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADEDBE,N997MG,United States Air Force,DHC-8 202,DH8B,Mil,Special Operations,STOL,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -1901,13 +1901,13 @@ AE29D5,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando I
 AE29D6,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE29D7,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE4B00,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
-AE4BE5,09-5711,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
+AE4BE5,Sep-11,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE4BE7,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE4E1A,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE4E1B,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE4E1D,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE54CB,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
-AE54CC,12-5759,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
+AE54CC,Dec-59,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE54CD,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE54CE,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE54CF,TBC,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
@@ -1935,13 +1935,13 @@ AE6911,18-5910,United States Air Force,Lockheed MC-130J Hercules,C30J,Mil,Comman
 AE1D94,159887,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Operations,,Special Forces,https://www.p3orion.nl/sneaky.html
 AC0220,N973GQ,US Air Force,Someone Hiding Something,USAF,Mil,Covert,Impostor,,Special Forces,https://en.wikipedia.org/wiki/Black_operation
 AB333E,N8200L,US SOCOM,Bombardier DHC-8-202,DH8B,Mil,Special Operations,STOL,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-A3BE59,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+A3BE59,Dec-40,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 A486EA,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-A739E7,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AC8997,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+A739E7,Oct-68,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AC8997,Nov-04,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68AD,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE68AF,07-3093,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE68B1,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AE68AF,Jul-93,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AE68B1,Oct-68,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68B2,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68B3,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68B4,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
@@ -1951,8 +1951,8 @@ AE68B7,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special F
 AE68B8,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68B9,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68BA,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE68BB,12-3085,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE68BC,12-3050,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AE68BB,Dec-85,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AE68BC,Dec-50,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68BD,TBC,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68BE,15-3086,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68C0,16-3025,US SOCOM,Dornier C-146A,D328,Mil,Special Operations,Covert,,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
@@ -1962,10 +1962,10 @@ A8649B,N64TR,US Special Operations Command,Beech King Air B350,B350,Mil,Covert,I
 A87A31,N6450L,US Special Operations Command,Beech King Air B350,B350,Mil,Covert,ISR,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A2C83E ,N279DH,US Special Operations Command,PZL-M28 Skytuck,M28,Mil,Special Ops,STOL,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A6692B,N512DC,US Special Operations Command,Raytheon King Air B350,B350,Mil,Covert,ISR,,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0433,Feb-01,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0449,Feb-52,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE4EEC,10-0053,USAF,CV-22B Osprey,V22,Mil,Helipad Smasher,Rotorwash,,Special Forces,https://ukdefencejournal.org.uk/us-air-force-destroy-british-hospital-helipad/
 AE4BE6,1392915,USAF,Lockheed MC-130J Hercules,C30J,Mil,352nd Special Operations Wing,Covert,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE4E19,1399550,USAF,Lockheed MC-130J Hercules,C30J,Mil,352nd Special Operations Wing,Covert,,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
@@ -1975,12 +1975,12 @@ AE54D9,13-5778,USAF,Lockheed MC-130J Hercules,C30J,Mil,352nd Special Operations 
 43C883,TBC,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,Uphold The Public Trust,UAV,,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,Border Patrol,UAV,,UAV,https://www.justice.gov
 AE5026,167792,United States Air Force,Bell MQ-8B,UAV,Mil,Uphold The Public Trust,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_MQ-8_Fire_Scout
-AE27A7,04-2021,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE27A7,Apr-21,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE541D,XX-XXXX,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE5422,XX-XXXX,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B5,10-2043,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE54B5,Oct-43,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE54B6,XX-XXXX,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B7,05-2024,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE54B7,May-24,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilot,UAV,,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,Where Is The Pilot,UAV,,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 407AFE,G-WNDR,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,Where Is The Pilot,UAV,,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 400A64,G-POLJ,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
@@ -1994,7 +1994,7 @@ AE54B7,05-2024,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilo
 404A2E,G-POLD,National Police Air Service,Eurocopter EC135,EC35,Pol,ISR,Police Squad,,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 405F1D,G-SUFK,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 406176,G-HEOI,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
-4061E4,G-CPAO,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
+4.06E+07,G-CPAO,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 4062D2,G-POLA,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 4062D8,G-TVHB,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 406343,G-NWOI,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,,UK National Police Air Service,https://www.npas.police.uk/what-we-do
@@ -2021,7 +2021,7 @@ AE54B7,05-2024,United States Air Force,RQ-4 Global Hawk,Q4,Mil,Where Is The Pilo
 40759B,G-WKTG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Covert,ISR,,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 407637,G-WKTH,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Covert,ISR,,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 40785B,G-WKTI,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Covert,ISR,,Under Observation,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-400E85,G-DJET,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Covert,ISR,,Under Observation,https://www.dea.aero
+4.00E+87,G-DJET,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Covert,ISR,,Under Observation,https://www.dea.aero
 406726,G-PAPE,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Covert,ISR,,Under Observation,https://www.dea.aero
 406809,G-ZDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Covert,ISR,,Under Observation,https://www.dea.aero
 40686F,G-YDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Covert,ISR,,Under Observation,https://www.dea.aero
@@ -2055,7 +2055,7 @@ C01E5B,C-FLMW,PAL Aerospace,Gulfstream G280,G280,Civ,What Big Eyes You Have,Cove
 4076FE,G-REXA,RVL Aviation Ltd,Beech B200GT Super King Air,BE20,Civ,What Big Eyes You Have,Spyplane,,Under Observation,https://www.rvl-group.com
 400CAD,G-MIND,RVL Aviation Ltd,Cessna 404 Titan,C404,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
 400CB0,G-BODY,RVL Aviation Ltd,Cessna C310,C310,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
-401E92,G-EGLT,RVL Aviation Ltd,Cessna C310,C310,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
+4.01E+94,G-EGLT,RVL Aviation Ltd,Cessna C310,C310,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
 400CAC,G-NOSE,RVL Aviation Ltd,Cessna C402,C402,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
 4010AF,G-BWLF,RVL Aviation Ltd,Cessna C404,C404,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
 407116,G-RVLW,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,What Big Eyes You Have,Covert,,Under Observation,https://www.rvl-group.com
@@ -2077,7 +2077,7 @@ AE1165,02-0201,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,ht
 AE1167,02-0202,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
 AE11FA,02-0203,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
 AE17EF,TBC,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
-AE189A,05-4613,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
+AE189A,May-13,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
 AE189C,05-0932,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
 AE48D9,09-0540,United States Air Force,Boeing C-40C,B737,Mil,USAF,Cargo,,USAF,https://www.airforce.com
 AE040D,162782,United States Air Force,Boeing E6B Mercury,E3TF,Mil,Quarterback,Kung Fu Grip,,USAF,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
@@ -2109,9 +2109,9 @@ AE1253,62-4126,United States Air Force,Boeing RC-135W,R135,Mil,Eye In The Sky,SI
 AE01D9,62-4133,United States Air Force,Boeing TC-135S,R135,Mil,Eye In The Sky,Training Wheels,,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE01D3,62-4129,United States Air Force,Boeing TC-135W,R135,Mil,Eye In The Sky,Training Wheels,,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE1254,62-4127,United States Air Force,Boeing TC-135W,R135,Mil,Eye In The Sky,Training Wheels,,USAF,https://en.wikipedia.org/wiki/Boeing_RC-135
-AE4D27,11-9001,United States Air Force,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,,USAF,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
+AE4D27,Nov-01,United States Air Force,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,,USAF,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
 AE4DE1,TBC,United States Air Force,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,,USAF,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
-AE54B4,12-9506,United States Air Force,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,,USAF,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
+AE54B4,Dec-06,United States Air Force,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,,USAF,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
 AE2211,84-0048,United States Air Force,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,,USAF,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
 AE27A6,84-0047,United States Air Force,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,,USAF,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
 AE148A,92-3289,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasily,Quarterback,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
@@ -2129,7 +2129,7 @@ AE1496,97-0201,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasil
 AE1497,99-0006,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasily,Quarterback,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
 AE1498,00-2000,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasily,Quarterback,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
 AE1499,TBC,United States Air Force,E-8C J-STARS,B703,Mil,Quarterback,One Ping Only Vasily,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
-AE149A,02-9111,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasily,Quarterback,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
+AE149A,Feb-11,United States Air Force,E-8C J-STARS,B703,Mil,One Ping Only Vasily,Quarterback,,USAF,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
 ADFEB3,73-1676,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB5,74-0787,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,,USAF,https://en.wikipedia.org/wiki/Boeing_E-4
@@ -2182,9 +2182,9 @@ AE0406,99-0402,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be 
 AE04F9,99-0404,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE087E,01-0028,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE087F,01-0029,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
-AE0978,01-1976,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
+AE0978,Jan-76,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE10B3,01-0065,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
-AE115E,01-1930,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
+AE115E,Jan-30,United States Air Force,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE206D,06-0500,United States Air Force,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE4A81,09-0525,United States Air Force,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
 AE4DDD,11-0550,United States Air Force,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,,USAF,https://www.airforce.com
@@ -2312,7 +2312,7 @@ AE2F72,09-0685,United States Air Force,MC-12W Liberty,B350,Mil,ISR,Covert,,USAF,
 AE2F73,09-0686,United States Air Force,MC-12W Liberty,B350,Mil,ISR,Covert,,USAF,https://www.airforce-technology.com/projects/mc-liberty
 AE1795,00-3002,United States Air Force,McDonnell Douglas F-15E Eagle,F15,Mil,USAF,Multi Role,,USAF,https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle
 AE179E,91-0320,United States Air Force,McDonnell Douglas F-15E Eagle,F15,Mil,USAF,Multi Role,,USAF,https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle
-AE17A3,01-2004,United States Air Force,McDonnell Douglas F-15E Eagle,F15,Mil,USAF,Multi Role,,USAF,https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle
+AE17A3,Jan-04,United States Air Force,McDonnell Douglas F-15E Eagle,F15,Mil,USAF,Multi Role,,USAF,https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle
 AE5824,05-0419,United States Air Force,Pilatus PC-XII U-28A,PC12,Mil,Covert,Special Ops,,USAF,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
 AE5B6D,05-0409,United States Air Force,Pilatus U-28A,PC12,Mil,Covert,Special Ops,,USAF,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
 AE5B6E,01-0415,United States Air Force,Pilatus U-28A,PC12,Mil,Covert,Special Ops,,USAF,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
@@ -2383,55 +2383,6 @@ AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Roo
 AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
 AE13E5,62-3582,USAF,Boeing WC-135C,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,,USAF,https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix
 AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,,USAF,https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix
-3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,E550,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=sAk_rq4VnuY
-3CD34E,D-CHIC,Air Hamburg,Embraer Phenom 300,E55P,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=oQT9rT74WYM
-3E2E8A,D-IIVA,Airgo Flugservice,Piaggio P-180 Avanti,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3E4082,D-IPPY,Airgo Flugservice,Piaggio P-180 Avanti EVO,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3E3AB8,D-INKY,Airgo Flugservice,Piaggio P-180 Avanti II,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-43EA3A,M-ARIE,Airjet Limited,Raytheon 125 850XP,H25B,Civ,Vanity Plate,Bizjet,,Vanity Plate,https://www.youtube.com/watch?v=vBDbUjUH5So
-3C0F31,D-AUTO,BMW,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,,Vanity Plate,https://www.bmwgroup.com/en.html
-3D4B37,D-FAST,Business Wings,Cessna 208,C208,Civ,Whoosh,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=j5a_00YVVkQ
-448465,OO-ACE,Challenge Airlines,Boeing 747 412BCF,B744,Civ,Cargo,Chonky Boy,,Vanity Plate,https://www.challenge-airlines.be
-424B95,M-DAWN,Dawn Meats Group Ltd,Beech B200GT King Air,BE20,Civ,Vanity Plate,Culture Beat,,Vanity Plate,https://www.dawnmeats.com
-43EB76,2-DEER,Deer Jet,Boeing 787 BBJ,B788,Civ,Man Made Climate Change,Boeing Business Jet,,Vanity Plate,https://pbs.twimg.com/media/DEC03kAXgAA1wdi.jpg:large
-43ED56,2-DRDR,Dr P Orton,Cirrus Jet Vision SF50,SF50,Civ,Backpack Tadpole V-Jet,Shiny,,Vanity Plate,https://www.youtube.com/watch?v=DsAVx0u9Cw4
-43E9EA,M-DRIL,Drilling Systems Ltd,Pilatus PC-XII 47E,PC12,Civ,Culture Beat,Office In The Sky,,Vanity Plate,https://www.drillingsystems.com
-40666C,G-EZUS,Easyjet,Airbus A320-214,A320,Civ,Jesus He Knows Me,Vanity Plate,,Vanity Plate,https://en.wikipedia.org/wiki/Buddy_Christ
-424B39,M-THOR,ExecuJet Europe AG,Gulfstream V,GLF5,Civ,Bizjet,Ooh Get You,,Vanity Plate,https://www.execujet.com/en
-A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,GLF4,Gov,Government,Vanity Plate,,Vanity Plate,https://www.faa.gov
-A0007F,N1F,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
-A001B1,N1TF,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,Ooh Get You,,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
-43EA70,M-INTY,Hampshire Aviation Ltd,Gulfstream Aerospace G280,G280,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.gulfstream.com/en
-43EA88,M-ISTY,Hampshire Aviation Ltd,Gulfstream G280,G280,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.gulfstream.com/en
-404E15,G-EEKY,Horizon Flight Training,Piper PA-28,P28A,Civ,Vanity Plate,Training Wheels,,Vanity Plate,https://www.youtube.com/watch?v=1mRG2oAQhso
-43E9DF,M-JCBC,J C Bamford Excavators Ltd,Sikorsky S-76 C++,S76,Civ,Chopper,Digger,,Vanity Plate,https://youtu.be/nLuoCl8ZA2M?t=8
-43EB60,2-ODAY,J2ASM Air Inc,Bombardier Challenger 601 3A,CL60,Civ,Bizjet,Culture Beat,,Vanity Plate,https://www.youtube.com/watch?v=eTGE9153VFE
-43E9FE,M-AGIK,JMI Aviation Management Ltd,Dassault Falcon 900LX,F900,Civ,Ooh Get You,Loooong Raaaaaange,,Vanity Plate,https://www.youtube.com/watch?v=gkkIEC8gkHM
-A660F6,N51VE,LoveFrom Inc,Gulfstream GV,GLF5,Gov,Jony Ive,LoveFrom,,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
-424BA9,M-NSTR,LS Aircraft Limited,Bombardier Global 7500,GL7T,Civ,Bizjet,Ooh Get You,,Vanity Plate,https://en.wikipedia.org/wiki/Herman_Munster
-4077C4,G-FOMO,Luxaviation UK,Bombardier Global 6000,GLEX,Civ,How The Other Half Live,Must Be Nice,,Vanity Plate,https://www.luxaviationuk.com
-43EA78,M-SEXY,Marvelair Aircraft Management Ltd,Embraer Legacy 650,E35L,Civ,Culture Beat,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=feyutvX4STc
-43E9CE,M-USIK,Nassef Sawiris,Gulfstream G650,GLF6,Civ,Bizjet,Culture Beat,,Vanity Plate,https://www.forbes.com/profile/nassef-sawiris
-43E9CD,M-KSSN,Osni Sawiris,Gulfstream G650,GLF6,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://en.wikipedia.org/wiki/Onsi_Sawiris
-424B18,M-ICRO,Pektron Group Ltd,Textron Aviation Citation CJ4,C25C,Civ,Bizjet,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=1mRG2oAQhso
-43EEC7,2-DOGZ,Private,Diamond Aircraft DA62,DA62,Civ,Culture Beat,Vanity Plate,,Vanity Plate,https://live.staticflickr.com/65535/48382535567_58a7caee29_b.jpg
-40727E,G-SSTL,Private,Just Aircraft Super STOL,ZZZZ,Civ,STOL,Homebrew,,Vanity Plate,https://justaircraft.com/
-403A81,G-YELL,Private,Murphy Aircraft Murphy Rebel,RBEL,Civ,Vanity Plate,More More More,,Vanity Plate,https://www.youtube.com/watch?v=VdphvuyaV_I
-43EAE1,M-ETAL,Private,Piaggio P-180 Avanti II,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-43ED5F,2-FUNN,Private,Piper PA-32R,PA32,Civ,Vanity Plate,Not so VIP,,Vanity Plate,https://www.youtube.com/watch?v=PIb6AZdTr-A
-3D9963,D-GEIL,Private,Piper PA-34-220T Seneca V,PA34,Civ,Hot Hot Hot Hot,Vanity Plate,,Vanity Plate,https://www.youtube.com/watch?v=wpK-rgxXvHU
-407984,G-CLMB,Private,Schempp-Hirth Discus,DISC,Civ,All About That Wingspan,Where Is The Engine,,Vanity Plate,https://www.schempp-hirth.com/en
-43E75E,M-ONTY,Private,Sikorsky S-76 C,S76,Civ,Chopper,Vanity Plate,,Vanity Plate,http://torinak.com/qaop#!montymole3
-3D069D,D-EATH,Private Owner,Piper PA-28,P28A,Civ,Wheelbarrow,Jesus He Knows Me,,Vanity Plate,https://en.wikipedia.org/wiki/Death_(Discworld)
-A00187,N1RP,Roger Penske,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,,Vanity Plate,https://en.wikipedia.org/wiki/Roger_Penske
-424B89,M-ARIA,SDQ Aviation IOM,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,,Vanity Plate,https://cdn.jetphotos.com/full/5/15570_1597251693.jpg
-43ED0B,2-FAST,Skypark UK Ltd,Piaggio P-180 Avanti,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-43ED3F,2-EASY,Skypark UK Ltd,Piaggio P-180 Avanti II,P180,Civ,Pusher  Prop,Canards,,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-402315,G-TAFF,Taff Smith,CASA 1.131E Jungmann,BU31,Civ,Biplane,Do A Barrel Roll,,Vanity Plate,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
-43E96B,M-BIGG,The World Is Yours,Bombardier Global 5000,GL5T,Civ,Culture Beat,Ooh Get You,,Vanity Plate,https://www.youtube.com/watch?v=AER3Zg5S200
-43EA85,M-RBIG,Volantair LP,Learjet 45,LJ45,Civ,Culture Beat,Must Be Nice,,Vanity Plate,https://www.dailypost.co.uk/news/north-wales-news/who-mr-big-currently-flying-13778035
-43EDBA,2-OOOX,Volare Aviation,Dassault Falcon 2000,F2TH,Civ,Bizjet,Must Be Nice,,Vanity Plate,https://www.volareaviation.gg
-43E9D0,M-ANGO,Waylawn Ltd,Bombardier Global 5000,GL5T,Civ,Fruity Antics,Ou Sont Les Bagages,,Vanity Plate,https://twitter.com/gdarkconrad/status/1072932171864829952?lang=en
 43C493,ZJ913,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C494,ZJ914,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C495,ZJ915,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
