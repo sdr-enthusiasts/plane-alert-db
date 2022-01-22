@@ -1,5 +1,5 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
-502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+502C5C,YL-KSH,Baltic Bees display team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 511049,ES-YLR,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 511047,ES-YLF,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 AD63CB,N962CE,Everts Air Cargo,McDonnell Douglas MD80,MD83,Civ,Tactical Departure,Cargo,My Other Plane Is A F15,Aerobatic Teams,https://youtu.be/O16Oqo51hI0?t=273
@@ -163,7 +163,7 @@ A3C881,N343AP,Air Products & Chemicals,Dassault Falcon 7X,FA7X,Civ,Industrial Ga
 A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
-A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
@@ -181,23 +181,23 @@ A6F207,N547BA,Boeing Executive Flight Operations,Bombardier Challenger 650,CL60,
 A988EC,N713TS,Cactus Jack Airlines,Embraer Lineage 1000,E190,Civ,Travis Scott,Astroworld,Not A Good Human,As Seen on TV,https://en.wikipedia.org/wiki/Cactus_Jack_Records
 485B87,PH-JWL,Cartier,Dassault Falcon 2000LXS,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
 4859C1,PH-WTC,Cartier,Dassault Falcon 2000S,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
-A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A15DE5,N1876P,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A15DE5,N1876P,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AAF670,N805WM,Citigroup Inc,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A14704,N1812C,Citigroup Inc,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+AC35AB,N886RW,Coca-Cola Company,Gulfstream G600,GA6C,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 ADB41E,N982RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 AD57A2,N959RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
-AC35AB,N886RW,Coca-Cola Company,Gulfstream G600,GA6C,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
-AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AB5648,N83CW,Costco Wholesale,Gulfstream G550,GLF5,Civ,Giant Pizza,Free Samples,Extended Family Size,As Seen on TV,https://www.costco.com
 A2D59E,N282CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
 A2D1E7,N281CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
-AA0198,N744C,Cutrale North America,Dassault Falcon 8X,FA8X,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
-A6EAB1,N545C,Cutrale North America,Gulfstream G280,G280,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
-ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
+AA0198,N744C,Cutrale North America,Dassault Falcon 8X,FA8X,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
+A6EAB1,N545C,Cutrale North America,Gulfstream G280,G280,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
+ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
 ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 A2CDE5,N28ZD,Dell USA,Bombardier Global 6000,GLEX,Gov,Laptop,Michael Dell,Order Direct,As Seen on TV,https://www.dell.com
 3CBDCE,D-BONN,Deutsche Telekom,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Telecoms,Handy,As Seen on TV,https://www.telekom.com/en
@@ -213,8 +213,8 @@ AD08B9,N939SS,Electrolux Home Products,Dassault Falcon 900B,F900,Civ,Washing Mac
 A33D79,N308EL,Eli Lilly & Co,Gulfstream G500,GA5C,Civ,Pharmaceutical,Polio Vaccine,Insulin,As Seen on TV,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
 40721E,G-HITI,Elstree Ink,Eurocopter AS350 Squirrel,AS50,Civ,Hollywood,Is This My Good Side,Lights Camera Action,As Seen on TV,https://www.elstreestudios.co.uk
 A952A4,N70EL,Enterprise Rent-A-Car,Gulfstream G600,GA6C,Civ,Car Rental,Extra Insurance,Weekend Away,As Seen on TV,https://en.wikipedia.org/wiki/Enterprise_Rent-A-Car
-A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A16E72,N1911W,Fifth Third Bank NA,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A55D7D,N445DB,First Data Corp,Bombardier Global 5000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 4008BA,G-OFOM,Formula One Management,BAe 146 100,B461,Civ,Formula 1,Lews Hamilton,Crash Verstappen,As Seen on TV,https://www.formula1.com
@@ -231,7 +231,7 @@ ACE9E8,N931FL,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculat
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 ACC647,N922H,Honeywell International,Gulfstream G650,GLF6,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A16681,N19H,Hubbard Broadcasting Inc,Gulfstream G500,GLF5,Civ,Bizjet,Radio,Where All Minneapolis Dances,As Seen on TV,https://en.wikipedia.org/wiki/Hubbard_Broadcasting
-A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,CL60,Civ,King Prawn Ring,Frozen Food,No Palm Oil,As Seen on TV,https://www.youtube.com/watch?v=7-EVAH3HaB0
 A20C6E,N231CE,Intercontinental Exchange,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,FCOJ,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A3AC7F,N336EB,J C Flowers & Co LLC,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
@@ -239,8 +239,8 @@ A7C807,N600J,Johnson & Johnson,Gulfstream G550,GLF5,Civ,One Shot,Baby Powder,Can
 A63AB8,N500J,Johnson & Johnson,Gulfstream G550,GLF5,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
 A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
-A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7CB30,N601CH,JP Morgan Chase Bank,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A8B82A,N661CH,JP Morgan Chase Bank,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7DE71,N606KG,Keurig Green Mountain,Cessna Citation Sovereign,C680,Civ,The Coffee Express,DRM,Pods,As Seen on TV,https://www.keurig.com/content/greenmountaincoffee
 885A6B,HS-VSK,King Power International,Gulfstream G650,GLF6,Civ,Duty Free,Not A Monopoly,Thailand,As Seen on TV,https://en.wikipedia.org/wiki/King_Power
@@ -302,12 +302,12 @@ AC3625,N886WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Su
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43E90D,M-ABEU,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 4AC9B4,SE-RMT,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
-AA5B89,N767A,Saudi Aramco,Boeing 767,B762,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A8927F,N651XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+AA5B89,N767A,Saudi Aramco,Boeing 767,B762,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A8927F,N651XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 4241C2,VP-CYT,Saudi Bin Laden Group,Bombardier Global 6000,GLEX,Civ,Not That One,Construction,One Bad Apple,As Seen on TV,https://en.wikipedia.org/wiki/Saudi_Binladin_Group
-42447F,VQ-BXD,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-424462,VQ-BXH,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-4243BC,VQ-BXG,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+42447F,VQ-BXD,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+424462,VQ-BXH,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+4243BC,VQ-BXG,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A6E3B2,N543GL,Skechers USA,Bombardier Global 6000,GLEX,Civ,Shoes,Mum Likes Them,Comfy,As Seen on TV,https://www.skechers.co.uk/
 A18DB5,N2E,Snap Inc,Gulfstream G650 ER,GLF6,Civ,This Message Will Self Destruct,Snapchat,Snaps,As Seen on TV,https://www.youtube.com/watch?v=MA2KmJMKFrQ
 A7C683,N60SN,Sony Aviation,Dassault Falcon 8X,FA8X,Civ,The Best,Trinitron,Walkman,As Seen on TV,https://www.sony.net
@@ -324,7 +324,7 @@ AB28C5,N818TH,Tommy Hilfiger USA,Dassault Falcon 900EX,F900,Civ,Fashion,Sweatsho
 43E9D1,M-OBIL,Ulla Popken,Cessna Citation CJ4,C25C,Civ,Plus Size,Fashion,Thornton Melon,As Seen on TV,https://en.wikipedia.org/wiki/Ulla_Popken
 AA4122,N76VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
-A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
+A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 4001DB,VP-CLB,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C49,D-AGBI,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C48,D-AGBH,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
@@ -339,7 +339,7 @@ A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washe
 A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 43C392,PA474,Battle of Britiain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38E,WG518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38D,WG846,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38D,WG486,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 407BB2,G-CLXD,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38F,ZA947,Battle of Britiain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C391,PZ865,Battle of Britiain Flight,Hawker Hurricane Iic,HURI,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
@@ -461,38 +461,38 @@ C015CE,C-FIGR,VIH Helicopters,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdo
 C020CA,C-FMKV,VIH Helicopters,Kamov Ka-32 A12,KA27,Civ,Double Vision,Vashe Zdorov'ye,Helix,Big Hello,https://vih.com
 A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
 ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-683262,UP-EM008,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831E9,UP-EM010,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831D7,UP-EM007,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831F8,UP-C8505,Comlux Aviation Kazakhstan,Mitsubushi CRJ-200,CRJ2,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-68323D,UP-SJ001,Comlux Aviation Kazakhstan,Sukhoi Superjet 100,SU95,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.dc-aviation.ae
+683262,UP-EM008,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831E9,UP-EM010,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831D7,UP-EM007,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831F8,UP-C8505,Comlux Aviation Kazakhstan,Mitsubushi CRJ-200,CRJ2,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+68323D,UP-SJ001,Comlux Aviation Kazakhstan,Sukhoi Superjet 100,SU95,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.dc-aviation.ae
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
-06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GLEX,Gov,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D4,A7-CGP,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1CC,A7-CGG,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C7,A7-CGB,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C6,A7-CGA,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C8,A7-CGC,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-424565,VQ-BSK,S & K Bermuda,Bombardier Global 5000,GLEX,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.planespotters.net/photos/reg/VQ-BSK
-7103BA,HZ-SK5,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7101AC,HZ-A22,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7101A5,HZ-SK7,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710148,HZ-A23,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710031,HZ-SK3,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710030,HZ-SK2,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7100C7,HZ-SK4,Sky Prime Aviation,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-43EAE4,M-VITB,Sky Prime Aviation,Gulfstream G650,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
+06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D4,A7-CGP,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CC,A7-CGG,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C7,A7-CGB,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C6,A7-CGA,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C8,A7-CGC,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+424565,VQ-BSK,S & K Bermuda,Bombardier Global 5000,GLEX,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.planespotters.net/photos/reg/VQ-BSK
+7103BA,HZ-SK5,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7101AC,HZ-A22,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7101A5,HZ-SK7,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710148,HZ-A23,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710031,HZ-SK3,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710030,HZ-SK2,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7100C7,HZ-SK4,Sky Prime Aviation,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+43EAE4,M-VITB,Sky Prime Aviation,Gulfstream G650,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,,Coastguard,https://en.wikipedia.org/wiki/Argentine_National_Gendarmerie
 44B5AD,OO-MMM,Belgian Coast Guard,BN Islander 2A-21,BN2P,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://kwgc.be/en
 C04AB9,C-GCHS,Canadian Coast Guard,Bell 206L Long Ranger,B06,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
@@ -614,8 +614,8 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 32000A,MM81748,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320009,MM81747,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320008,MM81741,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
-320013,MM62208,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320012,MM62170,Italian Coast Guard,ATR 42-400MP,AT44,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
+320013,MM62208,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32000C,MM62270,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 33FE9D,MM62274,Italian Coast Guard,Piaggio P-180 Avanti II,P180,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 873E78,JA967A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
@@ -720,9 +720,9 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 4AB423,SE-MAC,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB422,SE-MAB,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
+4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,C235,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822B,TCSG-552,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
-4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,C235,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 AE4BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF1,2317,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1022,20 +1022,20 @@ AE4E00,6048,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime P
 508473,UR-CTU,ZetAvia,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 89621F,A6-DLM,Abu Dhabi Amiri Flight,Airbus A320-212,A320,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Election,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8960B1,A6-AUH,Abu Dhabi Amiri Flight,Boeing 737NG-BBJ2,B738,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747,B748,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896101,A6-UAE,Abu Dhabi Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896060,A6-YAS,Abu Dhabi Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-ER,B77W,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747,B748,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896264,A6-ALN,Abu Dhabi Amiri Flight,Boeing 777-ER,B77L,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-ER,B77W,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89636E,A6-PFC,Abu Dhabi Amiri Flight,Boeing 787,B788,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896571,A6-PFG,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8964C9,A6-PFE,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7277D0,P-672,Air Koryo,Antonov An-148,A148,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7277CF,P-671,Air Koryo,Antonov An-148,A148,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-7278A5,P-885,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-7278A1,p-881,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-72779A,P-883,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A5,P-885,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A1,p-881,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+72779A,P-883,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7278C2,P-914,Air Koryo,Ilyushin IL-76M,IL76,Gov,Dictator Alert,Kim Jong-un,Free And Fair Elections,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 72785D,P-813,Air Koryo,Tupolev Tu-134B-3,T134,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 727761,P-561,Air Koryo,Tupolev Tu-154B-2,T154,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
@@ -1181,8 +1181,8 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 06A00F,A7AAG,Gov of Qatar,Airbus A320-232,A320,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 40013D,VP-BAT,Gov of Qatar,Boeing 747-SP,B74S,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710334,HZ-HMS2,Gov of Saudi Arabia,A340-213X,A342,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-710333,HZ-HM1,Gov of Saudi Arabia,Boeing 747,B744,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710321,HZ-HM1A,Gov of Saudi Arabia,Boeing 747,B743,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+710333,HZ-HM1,Gov of Saudi Arabia,Boeing 747,B744,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710336,HZ-HM1C,Gov of Saudi Arabia,Boeing 747-SP,B74S,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710322,HZ-HM1B,Gov of Saudi Arabia,Boeing 747-SP,B74S,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71032C,HZ-HMED,Gov of Saudi Arabia,Boeing 757,B752,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1196,11 +1196,11 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 77CE26,YK-SQF,Gov of Syria,Yakovlev Yak-40K,YK40,Gov,Dictator Alert,Bashar al-Assad,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 39AE68,FHLTI,Gov of Togo,Dassault Falcon 7X,FA7X,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 088005,5V-TAI,Gov of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4BD2B2,TC-TUR,Gov of Turkey,Airbus A330-243 ACJ,A332,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C2E,TC-CAN,Gov of Turkey,Airbus A340-542,A345,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Gov of Turkey,Airbus ACJ318-112 Elite,A318,Gov,Dictator Alert,Recep Tayyip Erdoğan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85C1,TC-ANA,Gov of Turkey,Airbus ACJ319-115X,A319,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BA674,TC-IST,Gov of Turkey,Airbus ACJ319-133X,A319,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+4BD2B2,TC-TUR,Gov of Turkey,Airbus ACJ330-243,A332,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BD24B,TC-TRK,Gov of Turkey,Boeing 747-BBJ,B748,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BD259,TC-TRY,Gov of Turkey,Bombardier Challenger 850,CRJ2,Gov,Dictator Alert,Recep Tayyip Erdoğan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8D42,TC-CJB,Gov of Turkey,Embraer Legacy 650,E35L,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1315,9 +1315,9 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-ER,B77W,Gov,Dictator Alert,Moh
 7101E9,HZ-MF4,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7101E7,HZ-MF3,Saudi Ministry of Finance,Gulfstream G300,GLF4,Gov,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71002D,HZ-SK1,Saudi Ministry of Finance,Gulfstream G400SP,GLF4,Gov,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-710277,HZ-AS99,Saudi Royal Flight,Airbus A318-100 ACJ,A318,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710096,HZ-AS45,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710094,HZ-AS44,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+710277,HZ-AS99,Saudi Royal Flight,Airbus ACJ318-100,ACJ3,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71010B,HZ-124,Saudi Special Flight Services,Airbus A340-200,A342,Civ,Dictator Alert,Mohammed bin Salman,MBS,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896063,A6-ESH,Sharjah Rulers Flight,Airbus ACJ319-132,A319,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896436,A6-SHJ,Sharjah Rulers Flight,Airbus ACJ320-232XSL,A320,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1360,7 +1360,7 @@ A4EC77,N416X,Boeing,Candair T33 Mk3,T33,Civ,Testbed,Radar,One Ping Only Vasily,D
 A043C4,N116PB,Corporate,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 400D37,G-NFLA,Cranfield University,BAe-3102 Jetstream 31,JS31,Civ,Vomit Comet,Flying Classroom,,Distinctive,https://www.aerosociety.com/news/a-lesson-in-the-flying-classroom
 407B4E,G-NFLB,Cranfield University,Saab 340B,SF34,Civ,Vomit Comet,Flying Classroom,Students,Distinctive,https://www.aero-mag.com/national-flying-laboratory-centre-saab-340b/
-4079EC,G-NXTE,Electroflight,Electric NXT,????,Civ,Batteries,Spirit of Innovation,The Future,Distinctive,https://www.bbc.co.uk/news/business-57747128
+4079EC,G-NXTE,Electroflight,Electric NXT,ZZZZ,Civ,Batteries,Spirit of Innovation,The Future,Distinctive,https://www.bbc.co.uk/news/business-57747128
 AA0D27,N747GF,General Electric,Boeing 747,B744,Civ,5 Engines,Testbed,Funny Looking,Distinctive,https://cdn.airplane-pictures.net/images/uploaded-images/2019/8/17/1224376.jpg
 A03ECF,N115AJ,Google,Dassault-Breguet Alpha Jet,AJET,Civ,Cool,Fighter,,Distinctive,https://www.businessinsider.com/2008/10/the-newest-google-plane-is-a-fighter-jet-?r=US&IR=T
 43C925,PP-XHH,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Mil,Jet Fighter,Transonic,XE688,Distinctive,https://hunterteam.com
@@ -1472,7 +1472,7 @@ AB2EC4,N82CR,Northrop Grumman,Grumman GII,GLF2,Civ,Testbed,Radar,One Ping Only V
 38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,A310,Civ,Vomit Comet,Pass The Sick Bag,Zero G,Distinctive,https://www.airzerog.com/the-airbus-a310-zero-g
 C0775C,C-GTFF,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,5 Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
 C027B3,C-FPAW,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,Odd Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
-4D02F6,LX-STN,Private,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 473B2E,2-SOAR,Private,Alouette Astazou SA.318C,ALO3,Civ,Hot And High,Helicopter,Engine Swap,Distinctive,https://en.wikipedia.org/wiki/A%C3%A9rospatiale_Alouette_II
 403348,G-BTAK,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Distinctive,https://en.wikipedia.org/wiki/Acro_Sport_II
 4017C1,G-AWPZ,Private,Andreasson BA-4B,ZZZZ,Civ,Biplane,Aerobatics,Homebuild,Distinctive,https://en.wikipedia.org/wiki/Andreasson_BA-4B
@@ -1505,14 +1505,14 @@ A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,
 A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Flying Machines,Biplane,I Am Old,Distinctive,https://en.wikipedia.org/wiki/Travel_Air_2000
 406D00,G-CIMX,Private,Westland Scout AH.1,SCOU,Civ,Chopper,Get To The Choppa,Speak Up Sonny,Distinctive,https://en.wikipedia.org/wiki/Westland_Scout
 A22E8A,N24KC,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Airship,Totaly Safe,No Smoking Please,Distinctive,https://en.wikipedia.org/wiki/Zivko_Edge_540
-731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Mil,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
+731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Odd,Distinctive,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
 14FC10,RA-64528,Rossiya Special Flight Squadron,Tupolev Tu-214SR,T214,Gov,Doomsday Plane,Comms Relay,Presidential,Distinctive,https://theaviationist.com/tag/tu-214sr/
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
-156DCE,RF-93646,Russian Air Force,Ilyushin IL-76 VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
+156DCE,RF-93646,Russian Air Force,Ilyushin IL-76VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCD,RF-93645,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
-4078B9,G-SHMB,Steve Hartley,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://www.youtube.com/watch?v=q2Nv3KVKHWI
 AE040D,162782,United States Air Force,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 ADFEB6,75-0125,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
@@ -1907,58 +1907,58 @@ AB013E,N808T,Tom Cruise,Gulfstream G-IV,GLF4,Civ,Maverick,Ethan Hunt,Xenu,Don't 
 4052F8,G-CHYE,Bristol Gliding Club,DG-505 Elan Orion,DG50,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://bggc.co.uk
 4058AC,G-DDUK,Bristol Gliding Club,Schleicher K 8 B,GLID,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://bggc.co.uk
 40793F,G-FEBU,University of Bristol,DG-1000S,DG1T,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://en.wikipedia.org/wiki/DG_Flugzeugbau_DG-1000
-4072CE,G-TGPG,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.2excelaviation.com/our-activity
-400778,G-SWRD,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.2excelaviation.com/our-activity
-4076E5,G-KELT,Acropolis Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.acropolis-aviation.com
-AAE2CF,N800KS,AEJ Services LLC,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-00A2E4,ZS-NEX,Aeronexus,Boeing 767-ER,B763,Civ,Man Made Climate Change,Must Be Nice,Global Warming,Global Warming,https://aeronexus.aero/fleet
-710222,HZ-ATR,Al Atheer,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Boeing_Business_Jet
-A9E580,N737ER,BBJ One Inc,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Boeing_Business_Jet
-484499,P4-MLO,Comlux Aviation,Airbus A330-200,A332,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://comlux.com
-4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D2052,9H-AVK,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D2295,9H-ATB,Comlux Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://comlux.com
-484361,P4-CLA,Comlux Aviation,Boeing 767,B762,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://comlux.com
-4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://aviapages.com/aircraft/p4-xtl
-48411C,P4-787,Comlux Aviation,Boeing 787,B788,Civ,Loooong Raaaaaange,Global Warming,Private Jet,Global Warming,https://simpleflying.com/comlux-787-business-jet-20-hour-flight
-4D2097,9H-CIO,Comlux Malta,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Loooong Raaaaaange,Global Warming,Global Warming,https://comlux.com
-A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-424236,VP-BDB,Dallah Al-Baraka,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-4D2184,9H-ICE,DCS Aviation Malta,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-400066,VP-CAA,Fiore Aviation,McDonnell Douglas DC-9 87,MD87,Civ,Must Be Nice,How The Other Half Live,I Am Old,Global Warming,https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9
-42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,http://www.gainjet.com
-896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4000EE,VP-BBW,Gama Aviation,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D023B,LX-MCO,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0212,LX-MCE,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D020F,LX-GVV,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0213,LX-DIO,Global Jet Luxembourg,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A9E51E,N737AT,Hillwood Airways,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-4D209F,9H-GGG,Jet Aviation Flight Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-AB6B1E,N835BZ,Jet Edge,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.jetmagic.com
-3C78AF,D-ANEO,K5-Aviation,Airbus A319-153NSL,A19N,Civ,Private Airline,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-3C70B8,D-ALEX,K5-Aviation,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-3C00AF,D-APGS,K5-Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-4B18B7,HB-JJJ,Nomad Aviation AG,Airbus ACJ319-133X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.nomadjet.com
-4844B8,P4-LIG,Petroff Air,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-800429,VT-IAH,Reliance Commercial Dealers,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-8960AD,A6-RJZ,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-89605E,A6-DAS,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-896448,A6-RJU,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A88EC8,N650XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Oil Spill,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Saudi_Aramco
-42492B,VQ-BOS,Silirus Ltd,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-7103B9,HZ-SKY1,Sky Prime Aviation,Airbus A340-212,A342,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-71002E,HZ-SKY,Sky Prime Aviation,Airbus A340-642X,A346,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-710024,HZ-SKY4,Sky Prime Aviation,Airbus ACJ319-115XSL,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-7101EF,HZ-XY7,Sky Prime Aviation,Airbus ACJ320-214X,A320,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-710023,HZ-SKY2,Sky Prime Aviation,Airbus ACJ330-243,A332,Civ,Man Made Climate Change,Private Airline,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-424B3A,M-YULI,Starjet,Airbus ACJ318-112 Elite,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-400143,VP-BWR,USAL,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Yucaipa_Companies
+4072CE,G-TGPG,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.2excelaviation.com/our-activity
+400778,G-SWRD,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.2excelaviation.com/our-activity
+4076E5,G-KELT,Acropolis Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.acropolis-aviation.com
+AAE2CF,N800KS,AEJ Services LLC,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+00A2E4,ZS-NEX,Aeronexus,Boeing 767-ER,B763,Civ,Man Made Climate Change,Must Be Nice,Climate Crisis,Climate Crisis,https://aeronexus.aero/fleet
+710222,HZ-ATR,Al Atheer,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+A9E580,N737ER,BBJ One Inc,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+484499,P4-MLO,Comlux Aviation,Airbus A330-200,A332,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://comlux.com
+4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D2052,9H-AVK,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D2295,9H-ATB,Comlux Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://comlux.com
+484361,P4-CLA,Comlux Aviation,Boeing 767,B762,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://comlux.com
+4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://aviapages.com/aircraft/p4-xtl
+48411C,P4-787,Comlux Aviation,Boeing 787,B788,Civ,Loooong Raaaaaange,Climate Crisis,Private Jet,Climate Crisis,https://simpleflying.com/comlux-787-business-jet-20-hour-flight
+4D2097,9H-CIO,Comlux Malta,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Loooong Raaaaaange,Climate Crisis,Climate Crisis,https://comlux.com
+A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+424236,VP-BDB,Dallah Al-Baraka,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+4D2184,9H-ICE,DCS Aviation Malta,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+400066,VP-CAA,Fiore Aviation,McDonnell Douglas DC-9 87,MD87,Civ,Must Be Nice,How The Other Half Live,I Am Old,Climate Crisis,https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9
+42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,http://www.gainjet.com
+896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4000EE,VP-BBW,Gama Aviation,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D023B,LX-MCO,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0212,LX-MCE,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D020F,LX-GVV,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0213,LX-DIO,Global Jet Luxembourg,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A9E51E,N737AT,Hillwood Airways,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+4D209F,9H-GGG,Jet Aviation Flight Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+AB6B1E,N835BZ,Jet Edge,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.jetmagic.com
+3C78AF,D-ANEO,K5-Aviation,Airbus A319-153NSL,A19N,Civ,Private Airline,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+3C70B8,D-ALEX,K5-Aviation,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+3C00AF,D-APGS,K5-Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+4B18B7,HB-JJJ,Nomad Aviation AG,Airbus ACJ319-133X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.nomadjet.com
+4844B8,P4-LIG,Petroff Air,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+800429,VT-IAH,Reliance Commercial Dealers,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+8960AD,A6-RJZ,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+89605E,A6-DAS,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+896448,A6-RJU,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A88EC8,N650XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Oil Spill,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Saudi_Aramco
+42492B,VQ-BOS,Silirus Ltd,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+7103B9,HZ-SKY1,Sky Prime Aviation,Airbus A340-212,A342,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+71002E,HZ-SKY,Sky Prime Aviation,Airbus A340-642X,A346,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+710024,HZ-SKY4,Sky Prime Aviation,Airbus ACJ319-115XSL,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+7101EF,HZ-XY7,Sky Prime Aviation,Airbus ACJ320-214X,A320,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+710023,HZ-SKY2,Sky Prime Aviation,Airbus ACJ330-243,A332,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+424B3A,M-YULI,Starjet,Airbus ACJ318-112 Elite,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+400143,VP-BWR,USAL,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Yucaipa_Companies
 800C3D,VT-ALW,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 800585,VT-ALV,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 E80642,921,Chilean Air Force,Boeing 737,B735,Mil,Chile,Sebastián Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
@@ -1976,8 +1976,8 @@ E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillerm
 C06829,C-GNLO,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
 C06820,C-GNLF,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
 513027,E7-GPS,Gov of Republic of Srpska,Cessna Citation CJ4,C25C,Gov,Rep Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
-51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 513007,E7-SBA,Gov of Republic of Srpska,Cessna Citation I,C500,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
+51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 038613,TU-VAS,Gov of the Ivory Coast,Airbus ACJ319-133X,A319,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
 0360F8,TN-AJN,Gov of The Republic of Congo,Dassault Falcon 50,FA50,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
 036BC1,TN-ELS,Gov of The Republic of Congo,Dassault Falcon 7X,FA7X,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
@@ -2010,7 +2010,7 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 8004D2,VT-VDD,Government of Maharashtra,Cessna Citation XLS,C56X,Gov,Maharashtra,Bhagat Singh Koshyari,Government,Governments,https://www.maharashtra.gov.in/1125/Home
 05C05A,TZ-001,Government of Mali,Boeing 727,B722,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
 05C075,TZ-PRM,Government of Mali,Boeing 737-BBJ,B737,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
-0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
 516001,4O-MNE,Government of Montenegro,Learjet 45,LJ45,Gov,Montenegro,Milo Đukanović,Government,Governments,https://data.dictatoralert.org/dictatorships
 20103F,V5-GON,Government of Namibia,Dassault Falcon 7X,FA7X,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
 201001,V5-NAM,Government of Namibia,Dassault Falcon 900B,F900,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
@@ -2077,7 +2077,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 507C53,UK002,Government of Uzbekistan,Airbus A320-214SL,A320,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 507C21,UK67000,Government of Uzbekistan,Boeing 767-ER,B763,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 507C4F,UK001,Government of Uzbekistan,Boeing 787,B788,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
-888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietman,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
+888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietnam,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
 890034,7O-VIP,Government of Yemen,Boeing 757,B752,Gov,Yemen,Maeen Abdulmalik Saeed,Government,Governments,https://en.wikipedia.org/wiki/Yemen
 08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Hakainde Hichilema,Government,Governments,https://www.parliament.gov.zm
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernández,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
@@ -2161,7 +2161,7 @@ AE4AEC,19-0018,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two
 AE4AEA,09-0017,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE4AE8,09-0016,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE4AE6,09-0015,United States Air Force,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
-ADFEBA,SAM140,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+ADFEBA,99-0004,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,99-0003,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB8,98-0002,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB7,98-0001,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -2193,9 +2193,9 @@ AE5968,14-5809,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Guns
 AE5967,14-5805,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE5964,14-5789,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE5962,13-5783,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE54D4,Dec-72,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE54C9,Dec-53,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE4E1C,Nov-35,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE54D4,12-5772,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE54C9,12-5732,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE4E1C,11-5735,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A9,90-0165,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A6,90-0164,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A5,89-0510,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
@@ -2601,7 +2601,7 @@ A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,
 4841AF,PH-OUQ,RNAF Historic Flight,Supermarine Spitfire LFIXc,SPIT,Mil,Fighter,Clipped Wings,War Bird,Historic,https://kluhv.nl/
 7C66F8,VH-UMI,Royal Australian Air Force,de Havilland Moth DH.60M,DH60,Mil,All Metal,Open Cockpit,I Am Old,Historic,https://www.airforce.gov.au
 7C2AA9,VH-IPN,Royal Australian Air Force Museum,CAC CA-27 Sabre Mk32,F86,Mil,Fighter Jet,Avon Sabre,Historic,Historic,https://en.wikipedia.org/wiki/CAC_Sabre
-7C4991,VH-OTF,Royal Australian Air Force Museum,The Vintage Aviator R.E.8 Reproduction,??????,Mil,Biplane,Reconnaissance,Historic,Historic,https://www.airforce.gov.au
+7C4991,VH-OTF,Royal Australian Air Force Museum,The Vintage Aviator R.E.8 Reproduction,ZZZZ,Mil,Biplane,Reconnaissance,Historic,Historic,https://www.airforce.gov.au
 4025CB,G-RNHF,Royal Naval Historic Flight,Hawker Sea Fury T20S,FURY,Civ,War Bird,Training Wheels,WW2,Historic,https://navywings.org.uk/portfolio/sea-fury-t-20
 401A61,G-ACSS,Shuttleworth Collection,De Havilland DH-88 Comet,DH89,Civ,Speed Racer,Grosvenor House,The First,Historic,https://www.shuttleworth.org/collection/dh88comet
 4044A7,G-BZSC,Shuttleworth Collection,Sopwith Camel,CAML,Civ,Biplane,Biggles,You Can Fly Anything,Historic,https://youtu.be/Q8Gt-UqwZaI?t=3881
@@ -3153,7 +3153,7 @@ ACC718,N922RJ,Enloe Medical Centre,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical
 4072DA,G-HHEM,Essex and Herts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.ehaat.org
 40448B,G-HAAT,Essex and Herts Air Ambulance,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,M*A*S*H,https://www.ehaat.org
 A054E1,N120NC,Express Air Medical Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
-A06F0A,N127PT,Express Air Medical Transport,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
+A06F0A,N127PT,Express Air Medical Transport,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
 A495B7,N395DR,Express Air Medical Transport,Piper PA-42 Cheyenne III,PAY3,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
 A65488,N507GA,Flagstaff Medical Center,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://en.wikipedia.org/wiki/Flagstaff_Medical_Center
 C00BDC,C-FEMT,Fox Flight Inc,Learjet 40,LJ40,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://foxflight.com/
@@ -3439,8 +3439,8 @@ A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving L
 A0F0F1,N16SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.selectmedical.com/
 A4CB5E,N408LL,SEMSA Air Ambulance,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.sierramed.org/
 44B906,OO-NHF,Service dAide Medicale dUrgence,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,M*A*S*H,https://www.samu-urgences-de-france.fr/fr/
-C059DF,C-GIAW,SkyCare Air Ambulance,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
-C03D1A,C-FXDP,SkyCare Air Ambulance,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
+C059DF,C-GIAW,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
+C03D1A,C-FXDP,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C07142,C-GQXD,SkyCare Air Ambulance,Piper PA-31 Navajo C,PA31,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C001B2,C-FAQR,SkyCare Air Ambulance,Piper PA-31 Navajo C,PA31,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C04B8E,C-GCPX,SkyCare Air Ambulance,Swearingen Merlin,SW2,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
@@ -3874,24 +3874,24 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 3B7621,2789,French Air Force,Eurocopter EC725 Caracal,EC25,Mil,Helicoptere,Aller a la Choppa,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B771F,F-TGCI,French Air Force,Extra EA-300SC,E300,Mil,Faire Un Tonneau,Aerobatics,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B771E,F-TGCJ,French Air Force,Extra EA-300SC,E300,Mil,Faire Un Tonneau,Aerobatics,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514F,F-GUKP,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514E,F-GUKO,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514D,F-GUKN,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514C,F-GUKM,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514B,F-GUKL,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514A,F-GUKK,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395152,F-GUKS,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395151,F-GUKR,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395149,F-GUKJ,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395148,F-GUKI,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395147,F-GUKH,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395146,F-GUKG,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395145,F-GUKF,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395144,F-GUKE,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395143,F-GUKD,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395142,F-GUKC,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395141,F-GUKB,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395140,F-GUKA,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514F,F-GUKP,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514E,F-GUKO,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514D,F-GUKN,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514C,F-GUKM,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514B,F-GUKL,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514A,F-GUKK,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395152,F-GUKS,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395151,F-GUKR,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395149,F-GUKJ,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395148,F-GUKI,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395147,F-GUKH,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395146,F-GUKG,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395145,F-GUKF,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395144,F-GUKE,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395143,F-GUKD,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395142,F-GUKC,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395141,F-GUKB,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395140,F-GUKA,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75ED,5874,French Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tranker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75EC,5890,French Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tranker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75FE,5,French Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -4616,164 +4616,164 @@ C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Orion,P3,Mil,One Ping Onl
 1575BD,RF-95677,Russian Air Force,Ilyushin IL-22 M-11-RT,IL18,Mil,Airborne Command Post,Combat Control,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-53
 1562A2,RF-90786,Russian Air Force,Ilyushin IL-22 PP,IL18,Mil,Electronic Warfare,Reconnaissance,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-54
 15632B,RF-90923,Russian Air Force,Ilyushin IL-22 PP,IL18,Mil,Electronic Warfare,Reconnaissance,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-55
-1551E0,RA-86496,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520A,RA-86538,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520B,RA-86539,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520C,RA-86540,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15521B,RA-86555,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15521F,RA-86559,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155221,RA-86561,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15522C,RA-86572,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1551DF,RA-86495,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155020,RF-86048,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1552CD,RF-86733,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155329,RF-86825,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15532C,RF-86828,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155333,RA-86835,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155335,RF-86837,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155337,RA-86839,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533A,RF-86842,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533B,RF-86843,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533F,RA-86847,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155341,RA-86849,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155343,RF-86851,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155349,RF-86857,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15534F,RA-86863,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155352,RA-86866,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155353,RA-86867,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155354,RF-86868,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155356,RF-86870,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155359,RA-86873,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535A,RF-86874,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535B,RF-86875,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535D,RA-86877,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F5,RF-78837,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E0,RA-78816,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E1,RA-78817,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E2,RA-78818,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AF5,RF-76533,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AFA,RA-76538,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AFE,RF-76542,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B00,RF-76544,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B01,RF-76545,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B02,RF-76546,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B03,RA-76547,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B04,RF-76548,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B05,RF-76549,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B06,RF-76550,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B07,RA-76551,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B08,RF-76552,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B09,RF-76553,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B0A,RF-76554,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B0E,RF-76558,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B1C,RF-76572,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B21,RA-76577,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B30,RA-76592,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B37,RA-76599,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B3C,RF-76604,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B3D,RF-76605,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B44,RF-76612,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B45,RF-76613,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B47,RF-76615,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B5E,RA-76638,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B60,RF-76640,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B61,RF-76641,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B63,RF-76643,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B68,RA-76648,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B69,RA-76649,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B6A,RF-76650,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B7C,RF-76668,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B7D,RA-76669,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B8E,RA-76686,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B95,RF-76693,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B9E,RF-76702,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1575B5,RF-95669,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BA9,RA-76713,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAA,RF-76714,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAE,RA-76718,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAF,RA-76719,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB0,RF-76720,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB2,RF-76722,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB4,RF-76724,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB5,RF-76725,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB6,RF-76726,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BBB,RF-76731,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BBD,RF-76733,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC2,RA-76738,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC3,RF-76739,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC5,RA-76741,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC7,RF-76743,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC9,RF-76745,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BCB,RF-76747,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDA,RF-76762,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDB,RA-76763,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDC,RF-76764,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE0,RF-76768,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE1,RF-76769,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE2,RF-76770,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE3,RF-76771,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE5,RF-76773,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE8,RA-76776,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BEB,RF-76779,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15339E,RA-78750,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533A5,RF-78757,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AA,RA-78762,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AC,RA-78764,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AE,RF-78766,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B0,RF-78768,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B8,RA-78776,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B9,RF-78777,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533BA,RF-78778,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C0,RF-78784,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C4,RF-78788,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C5,RF-78789,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C6,RF-78790,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C7,RF-78791,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CA,RA-78794,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CB,RF-78795,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CC,RA-78796,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CD,RF-78797,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D3,RF-78803,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D5,RF-78805,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D7,RF-78807,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D9,RF-78809,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DA,RF-78810,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DB,RF-78811,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DD,RF-78813,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DF,RF-78815,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533EE,RA-78830,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533EF,RA-78831,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F1,RF-78833,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F2,RF-78834,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F3,RA-78835,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F6,RA-78838,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F8,RA-78840,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FA,RA-78842,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FC,RA-78844,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FD,RA-78845,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FF,RA-78847,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153402,RA-78850,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155357,RA-86871,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155358,RF-86872,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155371,RF-86897,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155372,RF-86898,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155375,RF-86901,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155376,RF-86902,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537A,RA-86906,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537B,RF-86907,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537C,RF-86908,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537E,RA-86910,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AF2,RF-76530,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC4,RF-76740,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDF,RA-76767,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333D,RF-78653,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333E,RF-78654,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333F,RF-78655,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153340,RF-78656,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153341,RF-78657,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153342,RF-78658,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153343,RF-78659,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BCA,76746,Russian Air Force,Ilyushin IL-76 MD-M,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1551E0,RA-86496,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520A,RA-86538,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520B,RA-86539,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520C,RA-86540,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15521B,RA-86555,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15521F,RA-86559,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155221,RA-86561,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15522C,RA-86572,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1551DF,RA-86495,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155020,RF-86048,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1552CD,RF-86733,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155329,RF-86825,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15532C,RF-86828,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155333,RA-86835,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155335,RF-86837,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155337,RA-86839,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533A,RF-86842,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533B,RF-86843,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533F,RA-86847,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155341,RA-86849,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155343,RF-86851,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155349,RF-86857,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15534F,RA-86863,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155352,RA-86866,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155353,RA-86867,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155354,RF-86868,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155356,RF-86870,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155359,RA-86873,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535A,RF-86874,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535B,RF-86875,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535D,RA-86877,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F5,RF-78837,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E0,RA-78816,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E1,RA-78817,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E2,RA-78818,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AF5,RF-76533,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AFA,RA-76538,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AFE,RF-76542,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B00,RF-76544,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B01,RF-76545,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B02,RF-76546,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B03,RA-76547,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B04,RF-76548,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B05,RF-76549,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B06,RF-76550,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B07,RA-76551,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B08,RF-76552,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B09,RF-76553,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B0A,RF-76554,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B0E,RF-76558,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B1C,RF-76572,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B21,RA-76577,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B30,RA-76592,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B37,RA-76599,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B3C,RF-76604,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B3D,RF-76605,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B44,RF-76612,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B45,RF-76613,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B47,RF-76615,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B5E,RA-76638,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B60,RF-76640,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B61,RF-76641,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B63,RF-76643,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B68,RA-76648,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B69,RA-76649,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B6A,RF-76650,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B7C,RF-76668,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B7D,RA-76669,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B8E,RA-76686,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B95,RF-76693,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B9E,RF-76702,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1575B5,RF-95669,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BA9,RA-76713,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAA,RF-76714,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAE,RA-76718,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAF,RA-76719,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB0,RF-76720,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB2,RF-76722,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB4,RF-76724,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB5,RF-76725,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB6,RF-76726,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BBB,RF-76731,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BBD,RF-76733,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC2,RA-76738,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC3,RF-76739,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC5,RA-76741,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC7,RF-76743,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC9,RF-76745,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BCB,RF-76747,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDA,RF-76762,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDB,RA-76763,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDC,RF-76764,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE0,RF-76768,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE1,RF-76769,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE2,RF-76770,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE3,RF-76771,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE5,RF-76773,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE8,RA-76776,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BEB,RF-76779,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15339E,RA-78750,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533A5,RF-78757,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AA,RA-78762,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AC,RA-78764,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AE,RF-78766,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B0,RF-78768,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B8,RA-78776,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B9,RF-78777,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533BA,RF-78778,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C0,RF-78784,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C4,RF-78788,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C5,RF-78789,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C6,RF-78790,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C7,RF-78791,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CA,RA-78794,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CB,RF-78795,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CC,RA-78796,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CD,RF-78797,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D3,RF-78803,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D5,RF-78805,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D7,RF-78807,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D9,RF-78809,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DA,RF-78810,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DB,RF-78811,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DD,RF-78813,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DF,RF-78815,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533EE,RA-78830,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533EF,RA-78831,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F1,RF-78833,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F2,RF-78834,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F3,RA-78835,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F6,RA-78838,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F8,RA-78840,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FA,RA-78842,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FC,RA-78844,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FD,RA-78845,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FF,RA-78847,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153402,RA-78850,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155357,RA-86871,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155358,RF-86872,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155371,RF-86897,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155372,RF-86898,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155375,RF-86901,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155376,RF-86902,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537A,RA-86906,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537B,RF-86907,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537C,RF-86908,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537E,RA-86910,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AF2,RF-76530,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC4,RF-76740,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDF,RA-76767,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333D,RF-78653,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333E,RF-78654,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333F,RF-78655,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153340,RF-78656,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153341,RF-78657,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153342,RF-78658,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153343,RF-78659,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BCA,76746,Russian Air Force,Ilyushin IL-76MD-M,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 152B0C,RA-76556,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 157048,RF-94280,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 157049,RF-94281,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -4782,20 +4782,20 @@ C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Orion,P3,Mil,One Ping Onl
 15704C,RF-94284,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 15704D,RF-94285,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 1533DE,RA-78814,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E8,RA-78824,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157042,RF-94274,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15704F,RF-94287,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157050,RF-94288,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703D,RF-94269,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157052,RF-94290,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703F,RF-94271,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157041,RF-94273,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157043,RF-94275,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157045,RF-94277,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157044,RF-94276,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703E,RF-94270,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157040,RF-94272,Russian Air Force,Ilyushin IL-78 M-2,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153395,RF-78741,Russian Air Force,Ilyushin IL-78 M-90A,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E8,RA-78824,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157042,RF-94274,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15704F,RF-94287,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157050,RF-94288,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703D,RF-94269,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157052,RF-94290,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703F,RF-94271,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157041,RF-94273,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157043,RF-94275,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157045,RF-94277,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157044,RF-94276,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703E,RF-94270,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157040,RF-94272,Russian Air Force,Ilyushin IL-78M-2,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153395,RF-78741,Russian Air Force,Ilyushin IL-78M-90A,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 14346B,RF-13419,Russian Air Force,Kamov Ka-52,KA52,Mil,Attack Helicopter,Coaxial Rotor,Hokum,Other Air Forces,https://en.wikipedia.org/wiki/Kamov_Ka-50
 143484,RF-13444,Russian Air Force,Kamov Ka-52,KA52,Mil,Attack Helicopter,Coaxial Rotor,Hokum,Other Air Forces,https://en.wikipedia.org/wiki/Kamov_Ka-50
 1571C2,RF-94658,Russian Air Force,LET L-410 UVP-E-S,L410,Mil,Unpressurised,Extreme Conditions,Accident Prone,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -5306,16 +5306,16 @@ AE5C8F,15-10338,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All We
 AE5C8E,15-10358,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
 AE5C8D,15-10348,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
 AE5C8C,15-10352,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
+AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
+AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5C92,11-00287,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5A42,11-00286,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
-AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5622,13-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5403,11-00285,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5402,11-00284,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FF,11-00283,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FE,11-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FD,12-00281,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
-AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FB,12-00279,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FA,12-00280,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE4C62,10-00742,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
@@ -6659,8 +6659,8 @@ C064F4,C-GMFZ,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefi
 C064F3,C-GMFY,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C064F2,C-GMFX,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C064F1,C-GMFW,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
-C06463,C-GMAK,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C0645E,C-GMAF,Air Spray,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
+C06463,C-GMAK,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C048CF,C-GBOW,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 ACC962,N923AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.airstrikefirefighters.com
 ACC5AB,N922AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.airstrikefirefighters.com
@@ -6736,10 +6736,10 @@ C06F07,C-GQBE,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Ae
 C06F06,C-GQBD,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C06F05,C-GQBC,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C06F03,C-GQBA,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
-C0537E,C-GFQB,Government of Quebec,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C0348D,C-FTXK,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C0348C,C-FTXJ,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C03489,C-FTXG,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
+C0537E,C-GFQB,Government of Quebec,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 46A0C7,SX-HFG,Greek Fire Dept,Eurocopter AS332 Super Puma,AS32,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
 46A0C6,SX-HFF,Greek Fire Dept,Eurocopter AS332 Super Puma,AS32,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
 46A0C5,SX-HFE,Greek Fire Dept,MBB-Kawasaki BK 117 C-1,BK17,Gov,Flying Fire Extinguisher,Aerial Firefighter,,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
@@ -6885,18 +6885,18 @@ A2D6FD,N282SD,San Diego City Fire Dept,Bell 412EP,B412,Gov,Flying Fire Extinguis
 A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sandiego.gov/fire
 A1A588,N205KS,Santa Barbara County Fire Department,Bell UH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
 AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
-3B7B76,F-ZBFY,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B75,F-ZBFV,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B74,F-ZBFW,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B73,F-ZBEG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B72,F-ZBEU,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B71,F-ZBME,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B70,F-ZBMF,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6F,F-ZBFP,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6E,F-ZBFS,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6D,F-ZBFN,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6C,F-ZBFX,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6B,F-ZBMG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
+3B7B76,F-ZBFY,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B75,F-ZBFV,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B74,F-ZBFW,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B73,F-ZBEG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B72,F-ZBEU,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B71,F-ZBME,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B70,F-ZBMF,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6F,F-ZBFP,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6E,F-ZBFS,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6D,F-ZBFN,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6C,F-ZBFX,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6B,F-ZBMG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
@@ -7090,10 +7090,10 @@ ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US De
 A1CD07,N215KS,Sbs Prgm Ofc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
 407990,G-SADB,Skyborne Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Sock Puppet,https://bit.ly/3rpxuMM
+40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 4404D6,OE-FMF,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 440378,OE-VDP,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 440377,OE-VDO,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
 A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
 A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
@@ -7370,7 +7370,7 @@ AE13D1,04-01778,United States Army,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice
 ADFD76,91-00506,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 ADFD74,91-00507,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 AE56A8,13-20576,US National Guard,UH-60A Blackhawk,H60,Mil,Choppa,National Guard,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/National_Guard_(United_States)
-A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,????,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
+A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,ZZZZ,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
 3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.bundeswehr.de/de/organisation/luftwaffe
 43C883,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
 43C87A,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
@@ -8149,7 +8149,6 @@ AE0137,63-7978,United States Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,
 ADFF10,63-7995,United States Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFF0D,62-3559,United States Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFEDF,62-3558,United States Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://www.airforce.com
-#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
 AE07AA,59-1520,United States Air Force,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://www.airforce.com
 AE07A6,59-1474,United States Air Force,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://www.airforce.com
 AE07A5,59-1471,United States Air Force,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://www.airforce.com
@@ -9742,10 +9741,10 @@ ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A001B1,N1TF,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
 A0007F,N1F,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
-43EA88,M-ISTY,Hampshire Aviation,Gulfstream G280,G280,Civ,Play Misty For Me,Early Morning,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=rPOlakkBlj8
-43EA70,M-INTY,Hampshire Aviation,Gulfstream G280,G280,Civ,Fresh,Mint,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
-43EADA,M-OVIE,Hampshire Aviation,Gulfstream G650,GLF6,Civ,Hollywood,The Movies,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=xLVChRVfZ74
 404E15,G-EEKY,Horizon Flight Training,Piper PA-28 Cherokee,P28A,Civ,Revenge Of The Nerds,Training Wheels,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=1mRG2oAQhso
+43EA88,M-ISTY,INEOS,Gulfstream G280,G280,Civ,Play Misty For Me,Early Morning,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=rPOlakkBlj8
+43EA70,M-INTY,INEOS,Gulfstream G280,G280,Civ,Fresh,Mint,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
+43EADA,M-OVIE,INEOS,Gulfstream G650,GLF6,Civ,Hollywood,The Movies,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=xLVChRVfZ74
 43E9DF,M-JCBC,J C Bamford Excavators,Sikorsky S-76 C,S76,Civ,JCB,Digger,Vanity Plate,Vanity Plate,https://youtu.be/nLuoCl8ZA2M?t=8
 43E8C5,M-JCBA,J C Bamford Excavators,Sikorsky S-76 C,S76,Civ,JCB,Digger,Vanity Plate,Vanity Plate,https://youtu.be/nLuoCl8ZA2M?t=8
 43EB60,2-ODAY,J2ASM Air Inc,Bombardier Challenger 601,CL60,Civ,Not Yesterday,Not Tomorrow,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=eTGE9153VFE
@@ -9913,8 +9912,8 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 405106,G-CKOD,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 4050FA,G-KOBH,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 404EBF,G-CKLD,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
-406AB8,G-CLLX,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 406887,G-SAXL,Private,Schempp-Hirth Duo Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
+406AB8,G-CLLX,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 406528,G-DXLT,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 404EB2,G-KEPE,Private,Schempp-Hirth Nimbus 3D,NIMB,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://en.wikipedia.org/wiki/Schempp-Hirth_Nimbus-3
 405870,G-CHGG,Private,Schempp-Hirth Standard Cirrus,GLID,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
@@ -9968,12 +9967,12 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 407B25,G-CLTE,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
 4079E2,G-LYFT,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
 404CEC,G-CDGD,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quik
-40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 407823,G-CLFJ,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 406CB1,G-CIJO,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 40676E,G-CHGA,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 406B3A,G-CIEM,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,http://www.pmaviationusa.com/
 405F7F,G-LPIN,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,http://www.pmaviationusa.com/

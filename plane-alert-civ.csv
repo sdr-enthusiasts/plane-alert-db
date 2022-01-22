@@ -1,5 +1,5 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
-502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+502C5C,YL-KSH,Baltic Bees display team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 511049,ES-YLR,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 511047,ES-YLF,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 AD63CB,N962CE,Everts Air Cargo,McDonnell Douglas MD80,MD83,Civ,Tactical Departure,Cargo,My Other Plane Is A F15,Aerobatic Teams,https://youtu.be/O16Oqo51hI0?t=273
@@ -57,7 +57,7 @@ A3C881,N343AP,Air Products & Chemicals,Dassault Falcon 7X,FA7X,Civ,Industrial Ga
 A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
-A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
@@ -75,23 +75,23 @@ A6F207,N547BA,Boeing Executive Flight Operations,Bombardier Challenger 650,CL60,
 A988EC,N713TS,Cactus Jack Airlines,Embraer Lineage 1000,E190,Civ,Travis Scott,Astroworld,Not A Good Human,As Seen on TV,https://en.wikipedia.org/wiki/Cactus_Jack_Records
 485B87,PH-JWL,Cartier,Dassault Falcon 2000LXS,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
 4859C1,PH-WTC,Cartier,Dassault Falcon 2000S,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
-A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A15DE5,N1876P,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A15DE5,N1876P,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AAF670,N805WM,Citigroup Inc,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A14704,N1812C,Citigroup Inc,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+AC35AB,N886RW,Coca-Cola Company,Gulfstream G600,GA6C,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 ADB41E,N982RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 AD57A2,N959RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
-AC35AB,N886RW,Coca-Cola Company,Gulfstream G600,GA6C,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://www.youtube.com/watch?v=ib-Qiyklq-Q
 A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://www.youtube.com/watch?v=vbHqUNl8YFk&t=6s
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
-AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AB5648,N83CW,Costco Wholesale,Gulfstream G550,GLF5,Civ,Giant Pizza,Free Samples,Extended Family Size,As Seen on TV,https://www.costco.com
 A2D59E,N282CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
 A2D1E7,N281CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
-AA0198,N744C,Cutrale North America,Dassault Falcon 8X,FA8X,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
-A6EAB1,N545C,Cutrale North America,Gulfstream G280,G280,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
-ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As seen on TV,https://www.youtube.com/watch?v=T8KJGtMGMSY
+AA0198,N744C,Cutrale North America,Dassault Falcon 8X,FA8X,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
+A6EAB1,N545C,Cutrale North America,Gulfstream G280,G280,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
+ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://www.youtube.com/watch?v=VIMzn_obxgw
 ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 3CBDCE,D-BONN,Deutsche Telekom,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Telecoms,Handy,As Seen on TV,https://www.telekom.com/en
 A9766C,N709EL,DFS Furniture Company,Beechjet 400,BE40,Civ,Sale Must End Soon,Reduced,Buy Now Pay Forever,As Seen on TV,https://www.youtube.com/watch?v=DGkhTEZWle4
@@ -106,8 +106,8 @@ AD08B9,N939SS,Electrolux Home Products,Dassault Falcon 900B,F900,Civ,Washing Mac
 A33D79,N308EL,Eli Lilly & Co,Gulfstream G500,GA5C,Civ,Pharmaceutical,Polio Vaccine,Insulin,As Seen on TV,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
 40721E,G-HITI,Elstree Ink,Eurocopter AS350 Squirrel,AS50,Civ,Hollywood,Is This My Good Side,Lights Camera Action,As Seen on TV,https://www.elstreestudios.co.uk
 A952A4,N70EL,Enterprise Rent-A-Car,Gulfstream G600,GA6C,Civ,Car Rental,Extra Insurance,Weekend Away,As Seen on TV,https://en.wikipedia.org/wiki/Enterprise_Rent-A-Car
-A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A16E72,N1911W,Fifth Third Bank NA,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A55D7D,N445DB,First Data Corp,Bombardier Global 5000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 4008BA,G-OFOM,Formula One Management,BAe 146 100,B461,Civ,Formula 1,Lews Hamilton,Crash Verstappen,As Seen on TV,https://www.formula1.com
@@ -124,7 +124,7 @@ ACE9E8,N931FL,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculat
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 ACC647,N922H,Honeywell International,Gulfstream G650,GLF6,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A16681,N19H,Hubbard Broadcasting Inc,Gulfstream G500,GLF5,Civ,Bizjet,Radio,Where All Minneapolis Dances,As Seen on TV,https://en.wikipedia.org/wiki/Hubbard_Broadcasting
-A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,CL60,Civ,King Prawn Ring,Frozen Food,No Palm Oil,As Seen on TV,https://www.youtube.com/watch?v=7-EVAH3HaB0
 A20C6E,N231CE,Intercontinental Exchange,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,FCOJ,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A3AC7F,N336EB,J C Flowers & Co LLC,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
@@ -132,8 +132,8 @@ A7C807,N600J,Johnson & Johnson,Gulfstream G550,GLF5,Civ,One Shot,Baby Powder,Can
 A63AB8,N500J,Johnson & Johnson,Gulfstream G550,GLF5,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
 A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
-A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7CB30,N601CH,JP Morgan Chase Bank,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A8B82A,N661CH,JP Morgan Chase Bank,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7DE71,N606KG,Keurig Green Mountain,Cessna Citation Sovereign,C680,Civ,The Coffee Express,DRM,Pods,As Seen on TV,https://www.keurig.com/content/greenmountaincoffee
 885A6B,HS-VSK,King Power International,Gulfstream G650,GLF6,Civ,Duty Free,Not A Monopoly,Thailand,As Seen on TV,https://en.wikipedia.org/wiki/King_Power
@@ -194,12 +194,12 @@ AC3625,N886WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Su
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43E90D,M-ABEU,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 4AC9B4,SE-RMT,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
-AA5B89,N767A,Saudi Aramco,Boeing 767,B762,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-A8927F,N651XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+AA5B89,N767A,Saudi Aramco,Boeing 767,B762,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A8927F,N651XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 4241C2,VP-CYT,Saudi Bin Laden Group,Bombardier Global 6000,GLEX,Civ,Not That One,Construction,One Bad Apple,As Seen on TV,https://en.wikipedia.org/wiki/Saudi_Binladin_Group
-42447F,VQ-BXD,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-424462,VQ-BXH,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
-4243BC,VQ-BXG,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Global Warming,As Seen on TV,https://xkcd.com/1732/
+42447F,VQ-BXD,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+424462,VQ-BXH,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+4243BC,VQ-BXG,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A6E3B2,N543GL,Skechers USA,Bombardier Global 6000,GLEX,Civ,Shoes,Mum Likes Them,Comfy,As Seen on TV,https://www.skechers.co.uk/
 A18DB5,N2E,Snap Inc,Gulfstream G650 ER,GLF6,Civ,This Message Will Self Destruct,Snapchat,Snaps,As Seen on TV,https://www.youtube.com/watch?v=MA2KmJMKFrQ
 A7C683,N60SN,Sony Aviation,Dassault Falcon 8X,FA8X,Civ,The Best,Trinitron,Walkman,As Seen on TV,https://www.sony.net
@@ -216,7 +216,7 @@ AB28C5,N818TH,Tommy Hilfiger USA,Dassault Falcon 900EX,F900,Civ,Fashion,Sweatsho
 43E9D1,M-OBIL,Ulla Popken,Cessna Citation CJ4,C25C,Civ,Plus Size,Fashion,Thornton Melon,As Seen on TV,https://en.wikipedia.org/wiki/Ulla_Popken
 AA4122,N76VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
-A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
+A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 4001DB,VP-CLB,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C49,D-AGBI,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C48,D-AGBH,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
@@ -340,37 +340,37 @@ C015CE,C-FIGR,VIH Helicopters,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdo
 C020CA,C-FMKV,VIH Helicopters,Kamov Ka-32 A12,KA27,Civ,Double Vision,Vashe Zdorov'ye,Helix,Big Hello,https://vih.com
 A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
 ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-683262,UP-EM008,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831E9,UP-EM010,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831D7,UP-EM007,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-6831F8,UP-C8505,Comlux Aviation Kazakhstan,Mitsubushi CRJ-200,CRJ2,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-68323D,UP-SJ001,Comlux Aviation Kazakhstan,Sukhoi Superjet 100,SU95,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://comlux.com
-896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.dc-aviation.ae
+683262,UP-EM008,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831E9,UP-EM010,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831D7,UP-EM007,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+6831F8,UP-C8505,Comlux Aviation Kazakhstan,Mitsubushi CRJ-200,CRJ2,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+68323D,UP-SJ001,Comlux Aviation Kazakhstan,Sukhoi Superjet 100,SU95,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
+896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.dc-aviation.ae
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
-06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1D4,A7-CGP,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1CC,A7-CGG,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C7,A7-CGB,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C6,A7-CGA,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-06A1C8,A7-CGC,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
-424565,VQ-BSK,S & K Bermuda,Bombardier Global 5000,GLEX,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.planespotters.net/photos/reg/VQ-BSK
-7103BA,HZ-SK5,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7101AC,HZ-A22,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7101A5,HZ-SK7,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710148,HZ-A23,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710031,HZ-SK3,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-710030,HZ-SK2,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-7100C7,HZ-SK4,Sky Prime Aviation,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
-43EAE4,M-VITB,Sky Prime Aviation,Gulfstream G650,GLF6,Civ,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.skyprimeav.com/en/home
+06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D4,A7-CGP,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CC,A7-CGG,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C7,A7-CGB,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C6,A7-CGA,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1C8,A7-CGC,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+424565,VQ-BSK,S & K Bermuda,Bombardier Global 5000,GLEX,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.planespotters.net/photos/reg/VQ-BSK
+7103BA,HZ-SK5,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7101AC,HZ-A22,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7101A5,HZ-SK7,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710148,HZ-A23,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710031,HZ-SK3,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+710030,HZ-SK2,Sky Prime Aviation,Gulfstream G450,GLF4,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+7100C7,HZ-SK4,Sky Prime Aviation,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
+43EAE4,M-VITB,Sky Prime Aviation,Gulfstream G650,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.skyprimeav.com/en/home
 5080FD,UR-CBF,Aerovis Airlines,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorov'ye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 5083BC,UR-CPZ,Aerovis Airlines,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorov'ye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 508020,UR-82073,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorov'ye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
@@ -476,9 +476,9 @@ A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Se
 AA3410,N757AF,DJT Operations,Boeing 757,B752,Civ,Original Nuttah,Orange Danger,Lock Him Up,Dictator Alert,https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump
 A9B67C,N725DT,Donald Trump,Cessna Citation X,C750,Civ,Bad Human,Orange Danger,Lock Him Up,Dictator Alert,https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump
 01003E,SU-BND,Government of Egypt,Gulfstream G-IV SP,GLF4,Civ,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://www.youtube.com/watch?v=Cv6tuzHUuuk
-710277,HZ-AS99,Saudi Royal Flight,Airbus A318-100 ACJ,A318,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710096,HZ-AS45,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710094,HZ-AS44,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+710277,HZ-AS99,Saudi Royal Flight,Airbus ACJ318-100,ACJ3,Civ,Dictator Alert,Mohammed bin Salman,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71010B,HZ-124,Saudi Special Flight Services,Airbus A340-200,A342,Civ,Dictator Alert,Mohammed bin Salman,MBS,Dictator Alert,https://data.dictatoralert.org/dictatorships
 406C5D,G-OSRB,2 Excel Aviation,Boeing 727-2S2F,B722,Civ,Specialist,Oil Spill Dispersal,Old,Distinctive,https://www.2excelaviation.com/our-activity
 4069E7,G-OSRA,2 Excel Aviation,Boeing 727-2S2F,B722,Civ,Specialist,Oil Spill Dispersal,Old,Distinctive,https://www.2excelaviation.com/our-activity
@@ -506,7 +506,7 @@ A4EC77,N416X,Boeing,Candair T33 Mk3,T33,Civ,Testbed,Radar,One Ping Only Vasily,D
 A043C4,N116PB,Corporate,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 400D37,G-NFLA,Cranfield University,BAe-3102 Jetstream 31,JS31,Civ,Vomit Comet,Flying Classroom,,Distinctive,https://www.aerosociety.com/news/a-lesson-in-the-flying-classroom
 407B4E,G-NFLB,Cranfield University,Saab 340B,SF34,Civ,Vomit Comet,Flying Classroom,Students,Distinctive,https://www.aero-mag.com/national-flying-laboratory-centre-saab-340b/
-4079EC,G-NXTE,Electroflight,Electric NXT,????,Civ,Batteries,Spirit of Innovation,The Future,Distinctive,https://www.bbc.co.uk/news/business-57747128
+4079EC,G-NXTE,Electroflight,Electric NXT,ZZZZ,Civ,Batteries,Spirit of Innovation,The Future,Distinctive,https://www.bbc.co.uk/news/business-57747128
 AA0D27,N747GF,General Electric,Boeing 747,B744,Civ,5 Engines,Testbed,Funny Looking,Distinctive,https://cdn.airplane-pictures.net/images/uploaded-images/2019/8/17/1224376.jpg
 A03ECF,N115AJ,Google,Dassault-Breguet Alpha Jet,AJET,Civ,Cool,Fighter,,Distinctive,https://www.businessinsider.com/2008/10/the-newest-google-plane-is-a-fighter-jet-?r=US&IR=T
 AA34CE,N757HW,Honeywell Intl,Boeing 757,B752,Civ,5 Engines,Testbed,,Distinctive,https://simpleflying.com/a-look-at-honeywells-bizarre-boeing-757-flight-test-aircraft/
@@ -530,7 +530,7 @@ AB2EC4,N82CR,Northrop Grumman,Grumman GII,GLF2,Civ,Testbed,Radar,One Ping Only V
 38CF9B,F-WNOV,Novespace/CNES,Airbus A310-304,A310,Civ,Vomit Comet,Pass The Sick Bag,Zero G,Distinctive,https://www.airzerog.com/the-airbus-a310-zero-g
 C0775C,C-GTFF,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,5 Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
 C027B3,C-FPAW,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,Odd Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
-4D02F6,LX-STN,Private,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 473B2E,2-SOAR,Private,Alouette Astazou SA.318C,ALO3,Civ,Hot And High,Helicopter,Engine Swap,Distinctive,https://en.wikipedia.org/wiki/A%C3%A9rospatiale_Alouette_II
 403348,G-BTAK,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Distinctive,https://en.wikipedia.org/wiki/Acro_Sport_II
 4017C1,G-AWPZ,Private,Andreasson BA-4B,ZZZZ,Civ,Biplane,Aerobatics,Homebuild,Distinctive,https://en.wikipedia.org/wiki/Andreasson_BA-4B
@@ -563,8 +563,9 @@ A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,
 A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Flying Machines,Biplane,I Am Old,Distinctive,https://en.wikipedia.org/wiki/Travel_Air_2000
 406D00,G-CIMX,Private,Westland Scout AH.1,SCOU,Civ,Chopper,Get To The Choppa,Speak Up Sonny,Distinctive,https://en.wikipedia.org/wiki/Westland_Scout
 A22E8A,N24KC,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Airship,Totaly Safe,No Smoking Please,Distinctive,https://en.wikipedia.org/wiki/Zivko_Edge_540
+731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Odd,Distinctive,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
-4078B9,G-SHMB,Steve Hartley,Aero L-39 C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://www.youtube.com/watch?v=q2Nv3KVKHWI
 4B2F15,HB-RVP,Verein Fliegermuseum,Hawker Hunter T68,HUNT,Civ,Jet Fighter,Transonic,Historic,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
 A19B53,N202VG,Virgin Galactic,Spaceship Two,GLID,Civ,Rocket Ship,Up Up And Away,Nope-mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
@@ -652,58 +653,58 @@ AB013E,N808T,Tom Cruise,Gulfstream G-IV,GLF4,Civ,Maverick,Ethan Hunt,Xenu,Don't 
 4052F8,G-CHYE,Bristol Gliding Club,DG-505 Elan Orion,DG50,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://bggc.co.uk
 4058AC,G-DDUK,Bristol Gliding Club,Schleicher K 8 B,GLID,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://bggc.co.uk
 40793F,G-FEBU,University of Bristol,DG-1000S,DG1T,Civ,Where Is The Engine,Glider,Alright Me Baber,Gert Lush,https://en.wikipedia.org/wiki/DG_Flugzeugbau_DG-1000
-4072CE,G-TGPG,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.2excelaviation.com/our-activity
-400778,G-SWRD,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.2excelaviation.com/our-activity
-4076E5,G-KELT,Acropolis Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.acropolis-aviation.com
-AAE2CF,N800KS,AEJ Services LLC,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-00A2E4,ZS-NEX,Aeronexus,Boeing 767-ER,B763,Civ,Man Made Climate Change,Must Be Nice,Global Warming,Global Warming,https://aeronexus.aero/fleet
-710222,HZ-ATR,Al Atheer,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Boeing_Business_Jet
-A9E580,N737ER,BBJ One Inc,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Boeing_Business_Jet
-484499,P4-MLO,Comlux Aviation,Airbus A330-200,A332,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://comlux.com
-4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D2052,9H-AVK,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D2295,9H-ATB,Comlux Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://comlux.com
-484361,P4-CLA,Comlux Aviation,Boeing 767,B762,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://comlux.com
-4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://aviapages.com/aircraft/p4-xtl
-48411C,P4-787,Comlux Aviation,Boeing 787,B788,Civ,Loooong Raaaaaange,Global Warming,Private Jet,Global Warming,https://simpleflying.com/comlux-787-business-jet-20-hour-flight
-4D2097,9H-CIO,Comlux Malta,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Loooong Raaaaaange,Global Warming,Global Warming,https://comlux.com
-A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-424236,VP-BDB,Dallah Al-Baraka,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-4D2184,9H-ICE,DCS Aviation Malta,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-400066,VP-CAA,Fiore Aviation,McDonnell Douglas DC-9 87,MD87,Civ,Must Be Nice,How The Other Half Live,I Am Old,Global Warming,https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9
-42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,http://www.gainjet.com
-896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4000EE,VP-BBW,Gama Aviation,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D023B,LX-MCO,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0212,LX-MCE,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D020F,LX-GVV,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-4D0213,LX-DIO,Global Jet Luxembourg,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A9E51E,N737AT,Hillwood Airways,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-4D209F,9H-GGG,Jet Aviation Flight Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-AB6B1E,N835BZ,Jet Edge,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://www.jetmagic.com
-3C78AF,D-ANEO,K5-Aviation,Airbus A319-153NSL,A19N,Civ,Private Airline,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-3C70B8,D-ALEX,K5-Aviation,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-3C00AF,D-APGS,K5-Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,http://www.k5-aviation.com/de/portfolio_page/
-4B18B7,HB-JJJ,Nomad Aviation AG,Airbus ACJ319-133X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.nomadjet.com
-4844B8,P4-LIG,Petroff Air,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-800429,VT-IAH,Reliance Commercial Dealers,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-8960AD,A6-RJZ,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-89605E,A6-DAS,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-896448,A6-RJU,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-A88EC8,N650XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Oil Spill,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Saudi_Aramco
-42492B,VQ-BOS,Silirus Ltd,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-7103B9,HZ-SKY1,Sky Prime Aviation,Airbus A340-212,A342,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-71002E,HZ-SKY,Sky Prime Aviation,Airbus A340-642X,A346,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-710024,HZ-SKY4,Sky Prime Aviation,Airbus ACJ319-115XSL,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-7101EF,HZ-XY7,Sky Prime Aviation,Airbus ACJ320-214X,A320,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-710023,HZ-SKY2,Sky Prime Aviation,Airbus ACJ330-243,A332,Civ,Man Made Climate Change,Private Airline,Global Warming,Global Warming,https://www.skyprimeav.com/en/home
-424B3A,M-YULI,Starjet,Airbus ACJ318-112 Elite,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Global Warming,Global Warming,https://xkcd.com/1732/
-400143,VP-BWR,USAL,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://xkcd.com/1732
-AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Global Warming,Global Warming,https://en.wikipedia.org/wiki/Yucaipa_Companies
+4072CE,G-TGPG,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.2excelaviation.com/our-activity
+400778,G-SWRD,2 Excel Aviation,Boeing 737 VIP,B733,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.2excelaviation.com/our-activity
+4076E5,G-KELT,Acropolis Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.acropolis-aviation.com
+AAE2CF,N800KS,AEJ Services LLC,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+00A2E4,ZS-NEX,Aeronexus,Boeing 767-ER,B763,Civ,Man Made Climate Change,Must Be Nice,Climate Crisis,Climate Crisis,https://aeronexus.aero/fleet
+710222,HZ-ATR,Al Atheer,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+A9E580,N737ER,BBJ One Inc,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Boeing_Business_Jet
+484499,P4-MLO,Comlux Aviation,Airbus A330-200,A332,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://comlux.com
+4D22DB,9H-LIV,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D2052,9H-AVK,Comlux Aviation,Airbus ACJ319-100,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D2295,9H-ATB,Comlux Aviation,Airbus ACJ320-251N,A20N,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://comlux.com
+484361,P4-CLA,Comlux Aviation,Boeing 767,B762,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://comlux.com
+4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://aviapages.com/aircraft/p4-xtl
+48411C,P4-787,Comlux Aviation,Boeing 787,B788,Civ,Loooong Raaaaaange,Climate Crisis,Private Jet,Climate Crisis,https://simpleflying.com/comlux-787-business-jet-20-hour-flight
+4D2097,9H-CIO,Comlux Malta,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Loooong Raaaaaange,Climate Crisis,Climate Crisis,https://comlux.com
+A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+424236,VP-BDB,Dallah Al-Baraka,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+4D2184,9H-ICE,DCS Aviation Malta,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+400066,VP-CAA,Fiore Aviation,McDonnell Douglas DC-9 87,MD87,Civ,Must Be Nice,How The Other Half Live,I Am Old,Climate Crisis,https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9
+42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,http://www.gainjet.com
+896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4000EE,VP-BBW,Gama Aviation,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D023B,LX-MCO,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0212,LX-MCE,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D020F,LX-GVV,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4D0213,LX-DIO,Global Jet Luxembourg,Boeing 737NG-BBJ3,B739,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A9E51E,N737AT,Hillwood Airways,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+4D209F,9H-GGG,Jet Aviation Flight Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+AB6B1E,N835BZ,Jet Edge,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.jetmagic.com
+3C78AF,D-ANEO,K5-Aviation,Airbus A319-153NSL,A19N,Civ,Private Airline,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+3C70B8,D-ALEX,K5-Aviation,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+3C00AF,D-APGS,K5-Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+4B18B7,HB-JJJ,Nomad Aviation AG,Airbus ACJ319-133X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.nomadjet.com
+4844B8,P4-LIG,Petroff Air,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+800429,VT-IAH,Reliance Commercial Dealers,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+8960AD,A6-RJZ,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+89605E,A6-DAS,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+896448,A6-RJU,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A88EC8,N650XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Oil Spill,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Saudi_Aramco
+42492B,VQ-BOS,Silirus Ltd,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+7103B9,HZ-SKY1,Sky Prime Aviation,Airbus A340-212,A342,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+71002E,HZ-SKY,Sky Prime Aviation,Airbus A340-642X,A346,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+710024,HZ-SKY4,Sky Prime Aviation,Airbus ACJ319-115XSL,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+7101EF,HZ-XY7,Sky Prime Aviation,Airbus ACJ320-214X,A320,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+710023,HZ-SKY2,Sky Prime Aviation,Airbus ACJ330-243,A332,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Climate Crisis,https://www.skyprimeav.com/en/home
+424B3A,M-YULI,Starjet,Airbus ACJ318-112 Elite,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+400143,VP-BWR,USAL,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Yucaipa_Companies
 0640F2,5N-FGW,Nigerian Air Force,Gulfstream G550,GLF5,Civ,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
 406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
@@ -1410,7 +1411,7 @@ ACC718,N922RJ,Enloe Medical Centre,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical
 4072DA,G-HHEM,Essex and Herts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.ehaat.org
 40448B,G-HAAT,Essex and Herts Air Ambulance,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,M*A*S*H,https://www.ehaat.org
 A054E1,N120NC,Express Air Medical Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
-A06F0A,N127PT,Express Air Medical Transport,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
+A06F0A,N127PT,Express Air Medical Transport,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
 A495B7,N395DR,Express Air Medical Transport,Piper PA-42 Cheyenne III,PAY3,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://expressairmedicaltransportation.com/
 A65488,N507GA,Flagstaff Medical Center,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://en.wikipedia.org/wiki/Flagstaff_Medical_Center
 C00BDC,C-FEMT,Fox Flight Inc,Learjet 40,LJ40,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://foxflight.com/
@@ -1680,8 +1681,8 @@ A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving L
 A0F0F1,N16SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.selectmedical.com/
 A4CB5E,N408LL,SEMSA Air Ambulance,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.sierramed.org/
 44B906,OO-NHF,Service dAide Medicale dUrgence,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,M*A*S*H,https://www.samu-urgences-de-france.fr/fr/
-C059DF,C-GIAW,SkyCare Air Ambulance,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
-C03D1A,C-FXDP,SkyCare Air Ambulance,IAI 1124 Westwind,AW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
+C059DF,C-GIAW,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
+C03D1A,C-FXDP,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C07142,C-GQXD,SkyCare Air Ambulance,Piper PA-31 Navajo C,PA31,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C001B2,C-FAQR,SkyCare Air Ambulance,Piper PA-31 Navajo C,PA31,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
 C04B8E,C-GCPX,SkyCare Air Ambulance,Swearingen Merlin,SW2,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.skycare.ca/
@@ -1948,10 +1949,10 @@ C01E5B,C-FLMW,PAL Aerospace,Gulfstream G280,G280,Civ,Surveillance,Covert,Spyplan
 400722,G-RVGB,RVL Aviation Ltd,Saab 340F,SF34,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
 407990,G-SADB,Skyborne Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Sock Puppet,https://bit.ly/3rpxuMM
+40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 4404D6,OE-FMF,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 440378,OE-VDP,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 440377,OE-VDO,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 407AFE,G-WNDR,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 A7855B,N584GA,United States Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
@@ -1973,10 +1974,10 @@ A7855B,N584GA,United States Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Ni
 424B39,M-THOR,ExecuJet Europe AG,Gulfstream G500,GLF5,Civ,God Of Thunder,Mjolnir,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=ZnbuXqLmBtk
 A001B1,N1TF,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
 A0007F,N1F,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
-43EA88,M-ISTY,Hampshire Aviation,Gulfstream G280,G280,Civ,Play Misty For Me,Early Morning,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=rPOlakkBlj8
-43EA70,M-INTY,Hampshire Aviation,Gulfstream G280,G280,Civ,Fresh,Mint,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
-43EADA,M-OVIE,Hampshire Aviation,Gulfstream G650,GLF6,Civ,Hollywood,The Movies,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=xLVChRVfZ74
 404E15,G-EEKY,Horizon Flight Training,Piper PA-28 Cherokee,P28A,Civ,Revenge Of The Nerds,Training Wheels,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=1mRG2oAQhso
+43EA88,M-ISTY,INEOS,Gulfstream G280,G280,Civ,Play Misty For Me,Early Morning,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=rPOlakkBlj8
+43EA70,M-INTY,INEOS,Gulfstream G280,G280,Civ,Fresh,Mint,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
+43EADA,M-OVIE,INEOS,Gulfstream G650,GLF6,Civ,Hollywood,The Movies,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=xLVChRVfZ74
 43E9DF,M-JCBC,J C Bamford Excavators,Sikorsky S-76 C,S76,Civ,JCB,Digger,Vanity Plate,Vanity Plate,https://youtu.be/nLuoCl8ZA2M?t=8
 43E8C5,M-JCBA,J C Bamford Excavators,Sikorsky S-76 C,S76,Civ,JCB,Digger,Vanity Plate,Vanity Plate,https://youtu.be/nLuoCl8ZA2M?t=8
 43EB60,2-ODAY,J2ASM Air Inc,Bombardier Challenger 601,CL60,Civ,Not Yesterday,Not Tomorrow,Vanity Plate,Vanity Plate,https://www.youtube.com/watch?v=eTGE9153VFE
@@ -2068,8 +2069,8 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 405106,G-CKOD,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 4050FA,G-KOBH,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 404EBF,G-CKLD,Private,Schempp-Hirth Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
-406AB8,G-CLLX,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 406887,G-SAXL,Private,Schempp-Hirth Duo Discus,DISC,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
+406AB8,G-CLLX,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 406528,G-DXLT,Private,Schempp-Hirth Duo Discus,DUOD,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
 404EB2,G-KEPE,Private,Schempp-Hirth Nimbus 3D,NIMB,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://en.wikipedia.org/wiki/Schempp-Hirth_Nimbus-3
 405870,G-CHGG,Private,Schempp-Hirth Standard Cirrus,GLID,Civ,Glider,Where Is The Engine,All About That Wingspan,Who needs an Engine ?,https://www.schempp-hirth.com/en
@@ -2123,12 +2124,12 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 407B25,G-CLTE,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
 4079E2,G-LYFT,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
 404CEC,G-CDGD,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quik
-40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 407823,G-CLFJ,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 406CB1,G-CIJO,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,Ultralight,People Be Crazy,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 40676E,G-CHGA,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 406B3A,G-CIEM,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,http://www.pmaviationusa.com/
 405F7F,G-LPIN,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope-mobile,You came here in that thing ?,http://www.pmaviationusa.com/

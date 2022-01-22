@@ -1,6 +1,6 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 A2CDE5,N28ZD,Dell USA,Bombardier Global 6000,GLEX,Gov,Laptop,Michael Dell,Order Direct,As Seen on TV,https://www.dell.com
-06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GLEX,Gov,Man Made Climate Change,Private Airline,Global Warming,Bizjets,https://www.qatarexec.com.qa
+06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,,Coastguard,https://en.wikipedia.org/wiki/Argentine_National_Gendarmerie
 44B5AD,OO-MMM,Belgian Coast Guard,BN Islander 2A-21,BN2P,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://kwgc.be/en
 C04AB9,C-GCHS,Canadian Coast Guard,Bell 206L Long Ranger,B06,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
@@ -122,8 +122,8 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 32000A,MM81748,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320009,MM81747,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320008,MM81741,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
-320013,MM62208,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320012,MM62170,Italian Coast Guard,ATR 42-400MP,AT44,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
+320013,MM62208,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32000C,MM62270,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 33FE9D,MM62274,Italian Coast Guard,Piaggio P-180 Avanti II,P180,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 873E78,JA967A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
@@ -228,9 +228,9 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 4AB423,SE-MAC,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB422,SE-MAB,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
+4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,C235,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822B,TCSG-552,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
-4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,C235,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 AE4BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF1,2317,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -428,20 +428,20 @@ AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE4E00,6048,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 89621F,A6-DLM,Abu Dhabi Amiri Flight,Airbus A320-212,A320,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Election,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8960B1,A6-AUH,Abu Dhabi Amiri Flight,Boeing 737NG-BBJ2,B738,Gov,Dictator Alert,Khalifa Al Nahyan,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747,B748,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896101,A6-UAE,Abu Dhabi Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896060,A6-YAS,Abu Dhabi Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-ER,B77W,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8962E9,A6-PFA,Abu Dhabi Amiri Flight,Boeing 747,B748,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896264,A6-ALN,Abu Dhabi Amiri Flight,Boeing 777-ER,B77L,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+89629F,A6-SIL,Abu Dhabi Amiri Flight,Boeing 777-ER,B77W,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89636E,A6-PFC,Abu Dhabi Amiri Flight,Boeing 787,B788,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896571,A6-PFG,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8964C9,A6-PFE,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 7277D0,P-672,Air Koryo,Antonov An-148,A148,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7277CF,P-671,Air Koryo,Antonov An-148,A148,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-7278A5,P-885,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-7278A1,p-881,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
-72779A,P-883,Air Koryo,Ilyushin Il-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A5,P-885,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+7278A1,p-881,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
+72779A,P-883,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7278C2,P-914,Air Koryo,Ilyushin IL-76M,IL76,Gov,Dictator Alert,Kim Jong-un,Free And Fair Elections,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 72785D,P-813,Air Koryo,Tupolev Tu-134B-3,T134,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 727761,P-561,Air Koryo,Tupolev Tu-154B-2,T154,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
@@ -585,8 +585,8 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 06A00F,A7AAG,Gov of Qatar,Airbus A320-232,A320,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 40013D,VP-BAT,Gov of Qatar,Boeing 747-SP,B74S,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710334,HZ-HMS2,Gov of Saudi Arabia,A340-213X,A342,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-710333,HZ-HM1,Gov of Saudi Arabia,Boeing 747,B744,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710321,HZ-HM1A,Gov of Saudi Arabia,Boeing 747,B743,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+710333,HZ-HM1,Gov of Saudi Arabia,Boeing 747,B744,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710336,HZ-HM1C,Gov of Saudi Arabia,Boeing 747-SP,B74S,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 710322,HZ-HM1B,Gov of Saudi Arabia,Boeing 747-SP,B74S,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 71032C,HZ-HMED,Gov of Saudi Arabia,Boeing 757,B752,Gov,Dictator Alert,Mohammed bin Salman,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -600,11 +600,11 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 77CE26,YK-SQF,Gov of Syria,Yakovlev Yak-40K,YK40,Gov,Dictator Alert,Bashar al-Assad,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 39AE68,FHLTI,Gov of Togo,Dassault Falcon 7X,FA7X,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 088005,5V-TAI,Gov of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-4BD2B2,TC-TUR,Gov of Turkey,Airbus A330-243 ACJ,A332,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C2E,TC-CAN,Gov of Turkey,Airbus A340-542,A345,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Gov of Turkey,Airbus ACJ318-112 Elite,A318,Gov,Dictator Alert,Recep Tayyip Erdoğan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85C1,TC-ANA,Gov of Turkey,Airbus ACJ319-115X,A319,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BA674,TC-IST,Gov of Turkey,Airbus ACJ319-133X,A319,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+4BD2B2,TC-TUR,Gov of Turkey,Airbus ACJ330-243,A332,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BD24B,TC-TRK,Gov of Turkey,Boeing 747-BBJ,B748,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4BD259,TC-TRY,Gov of Turkey,Bombardier Challenger 850,CRJ2,Gov,Dictator Alert,Recep Tayyip Erdoğan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8D42,TC-CJB,Gov of Turkey,Embraer Legacy 650,E35L,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -851,8 +851,8 @@ A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P
 C06829,C-GNLO,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
 C06820,C-GNLF,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
 513027,E7-GPS,Gov of Republic of Srpska,Cessna Citation CJ4,C25C,Gov,Rep Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
-51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 513007,E7-SBA,Gov of Republic of Srpska,Cessna Citation I,C500,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
+51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 038613,TU-VAS,Gov of the Ivory Coast,Airbus ACJ319-133X,A319,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
 0360F8,TN-AJN,Gov of The Republic of Congo,Dassault Falcon 50,FA50,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
 036BC1,TN-ELS,Gov of The Republic of Congo,Dassault Falcon 7X,FA7X,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
@@ -885,7 +885,7 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 8004D2,VT-VDD,Government of Maharashtra,Cessna Citation XLS,C56X,Gov,Maharashtra,Bhagat Singh Koshyari,Government,Governments,https://www.maharashtra.gov.in/1125/Home
 05C05A,TZ-001,Government of Mali,Boeing 727,B722,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
 05C075,TZ-PRM,Government of Mali,Boeing 737-BBJ,B737,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
-0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
 516001,4O-MNE,Government of Montenegro,Learjet 45,LJ45,Gov,Montenegro,Milo Đukanović,Government,Governments,https://data.dictatoralert.org/dictatorships
 20103F,V5-GON,Government of Namibia,Dassault Falcon 7X,FA7X,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
 201001,V5-NAM,Government of Namibia,Dassault Falcon 900B,F900,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
@@ -952,7 +952,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 507C53,UK002,Government of Uzbekistan,Airbus A320-214SL,A320,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 507C21,UK67000,Government of Uzbekistan,Boeing 767-ER,B763,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 507C4F,UK001,Government of Uzbekistan,Boeing 787,B788,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
-888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietman,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
+888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietnam,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
 890034,7O-VIP,Government of Yemen,Boeing 757,B752,Gov,Yemen,Maeen Abdulmalik Saeed,Government,Governments,https://en.wikipedia.org/wiki/Yemen
 08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Hakainde Hichilema,Government,Governments,https://www.parliament.gov.zm
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernández,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
@@ -1028,7 +1028,7 @@ E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Go
 0D0A97,XC-MTA,Tamaulipas State Government,Robinson R44,R44,Gov,Mexico,Francisco Javier Garcia,Government,Governments,https://en.wikipedia.org/wiki/Tamaulipas
 07A201,3DC-SDF,The Kingdom of Eswatini,Airbus A340-313X,A343,Gov,Eswatini,Used To Be Swaziland,Government,Governments,http://www.gov.sz
 407A3E,G-XATW,UK Government,Airbus A321neo,A21N,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-53082294
-ADFEBA,SAM140,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
+ADFEBA,99-0004,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,99-0003,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB8,98-0002,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB7,98-0001,United States Air Force,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -1123,8 +1123,8 @@ C064F4,C-GMFZ,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefi
 C064F3,C-GMFY,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C064F2,C-GMFX,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C064F1,C-GMFW,Air Spray,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
-C06463,C-GMAK,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C0645E,C-GMAF,Air Spray,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
+C06463,C-GMAK,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 C048CF,C-GBOW,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.airspray.com
 ACC962,N923AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.airstrikefirefighters.com
 ACC5AB,N922AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.airstrikefirefighters.com
@@ -1193,10 +1193,10 @@ C06F07,C-GQBE,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Ae
 C06F06,C-GQBD,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C06F05,C-GQBC,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C06F03,C-GQBA,Government of Quebec,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
-C0537E,C-GFQB,Government of Quebec,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C0348D,C-FTXK,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C0348C,C-FTXJ,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 C03489,C-FTXG,Government of Quebec,Canadair CL-215,CL2P,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
+C0537E,C-GFQB,Government of Quebec,Canadair CL-215,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.quebec.ca/en
 46A0C7,SX-HFG,Greek Fire Dept,Eurocopter AS332 Super Puma,AS32,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
 46A0C6,SX-HFF,Greek Fire Dept,Eurocopter AS332 Super Puma,AS32,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
 46A0C5,SX-HFE,Greek Fire Dept,MBB-Kawasaki BK 117 C-1,BK17,Gov,Flying Fire Extinguisher,Aerial Firefighter,,Sam Tân,https://en.wikipedia.org/wiki/Hellenic_Fire_Service
@@ -1313,18 +1313,18 @@ A2D6FD,N282SD,San Diego City Fire Dept,Bell 412EP,B412,Gov,Flying Fire Extinguis
 A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sandiego.gov/fire
 A1A588,N205KS,Santa Barbara County Fire Department,Bell UH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
 AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
-3B7B76,F-ZBFY,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B75,F-ZBFV,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B74,F-ZBFW,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B73,F-ZBEG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B72,F-ZBEU,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B71,F-ZBME,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B70,F-ZBMF,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6F,F-ZBFP,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6E,F-ZBFS,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6D,F-ZBFN,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6C,F-ZBFX,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
-3B7B6B,F-ZBMG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Civile
+3B7B76,F-ZBFY,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B75,F-ZBFV,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B74,F-ZBFW,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B73,F-ZBEG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B72,F-ZBEU,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B71,F-ZBME,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B70,F-ZBMF,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6F,F-ZBFP,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6E,F-ZBFS,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6D,F-ZBFN,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6C,F-ZBFX,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
+3B7B6B,F-ZBMG,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.interieur.gouv.fr/Le-ministere/Securite-civile
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english

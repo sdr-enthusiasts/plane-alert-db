@@ -108,7 +108,7 @@ AE6963,170000,The Blue Angels,C-130J Super Hercules,C30J,Mil,Fat Albert,Display 
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,As Seen on TV,https://en.wikipedia.org/wiki/Royal_Danish_Air_Force
 43C392,PA474,Battle of Britiain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38E,WG518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38D,WG846,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38D,WG486,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 407BB2,G-CLXD,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38F,ZA947,Battle of Britiain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C391,PZ865,Battle of Britiain Flight,Hawker Hurricane Iic,HURI,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
@@ -121,9 +121,8 @@ AE6963,170000,The Blue Angels,C-130J Super Hercules,C30J,Mil,Fat Albert,Display 
 43C395,MK356,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 34314C,EC-404,Airbus Defence and Space Division,Airbus Military A400M Atlas C1,A400,Mil,Testbed,Specialist,Experimental,Distinctive,https://aibfamily.flights/A400m/004
 43C925,PP-XHH,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Mil,Jet Fighter,Transonic,XE688,Distinctive,https://hunterteam.com
-731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Mil,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
-156DCE,RF-93646,Russian Air Force,Ilyushin IL-76 VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
+156DCE,RF-93646,Russian Air Force,Ilyushin IL-76VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCD,RF-93645,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 AE040D,162782,United States Air Force,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
@@ -450,9 +449,9 @@ AE5968,14-5809,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Guns
 AE5967,14-5805,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE5964,14-5789,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE5962,13-5783,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE54D4,Dec-72,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE54C9,Dec-53,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
-AE4E1C,Nov-35,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE54D4,12-5772,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE54C9,12-5732,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
+AE4E1C,11-5735,United States Air Force,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A9,90-0165,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A6,90-0164,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
 AE12A5,89-0510,United States Air Force,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://www.youtube.com/watch?v=3u7_xoxJyMk
@@ -700,7 +699,7 @@ AE18AE,78-0631,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt
 4841AF,PH-OUQ,RNAF Historic Flight,Supermarine Spitfire LFIXc,SPIT,Mil,Fighter,Clipped Wings,War Bird,Historic,https://kluhv.nl/
 7C66F8,VH-UMI,Royal Australian Air Force,de Havilland Moth DH.60M,DH60,Mil,All Metal,Open Cockpit,I Am Old,Historic,https://www.airforce.gov.au
 7C2AA9,VH-IPN,Royal Australian Air Force Museum,CAC CA-27 Sabre Mk32,F86,Mil,Fighter Jet,Avon Sabre,Historic,Historic,https://en.wikipedia.org/wiki/CAC_Sabre
-7C4991,VH-OTF,Royal Australian Air Force Museum,The Vintage Aviator R.E.8 Reproduction,??????,Mil,Biplane,Reconnaissance,Historic,Historic,https://www.airforce.gov.au
+7C4991,VH-OTF,Royal Australian Air Force Museum,The Vintage Aviator R.E.8 Reproduction,ZZZZ,Mil,Biplane,Reconnaissance,Historic,Historic,https://www.airforce.gov.au
 43C331,WK608,Royal Naval Historic Flight,DHC-1 Chipmunk T10,DHC1,Mil,Air Experience Flight,Jump Johnny Jump,,Jump Johnny Jump,https://www.youtube.com/watch?v=JMz_gONS8X0
 4079FB,G-CLNI,Royal Naval Historic Flight,DHC-1 Chipmunk T10,DHC1,Mil,Air Experience Flight,Jump Johnny Jump,,Jump Johnny Jump,https://www.youtube.com/watch?v=JMz_gONS8X0
 710197,HZ-MS52,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,,M*A*S*H,https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
@@ -1061,24 +1060,24 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 3B7621,2789,French Air Force,Eurocopter EC725 Caracal,EC25,Mil,Helicoptere,Aller a la Choppa,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B771F,F-TGCI,French Air Force,Extra EA-300SC,E300,Mil,Faire Un Tonneau,Aerobatics,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B771E,F-TGCJ,French Air Force,Extra EA-300SC,E300,Mil,Faire Un Tonneau,Aerobatics,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514F,F-GUKP,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514E,F-GUKO,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514D,F-GUKN,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514C,F-GUKM,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514B,F-GUKL,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-39514A,F-GUKK,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395152,F-GUKS,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395151,F-GUKR,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395149,F-GUKJ,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395148,F-GUKI,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395147,F-GUKH,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395146,F-GUKG,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395145,F-GUKF,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395144,F-GUKE,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395143,F-GUKD,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395142,F-GUKC,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395141,F-GUKB,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-395140,F-GUKA,French Air Force,Grob G-120,G12T,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514F,F-GUKP,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514E,F-GUKO,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514D,F-GUKN,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514C,F-GUKM,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514B,F-GUKL,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+39514A,F-GUKK,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395152,F-GUKS,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395151,F-GUKR,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395149,F-GUKJ,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395148,F-GUKI,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395147,F-GUKH,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395146,F-GUKG,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395145,F-GUKF,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395144,F-GUKE,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395143,F-GUKD,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395142,F-GUKC,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395141,F-GUKB,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+395140,F-GUKA,French Air Force,Grob G-120,G120,Mil,L-Plate,Training Wheels,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75ED,5874,French Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tranker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75EC,5890,French Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tranker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B75FE,5,French Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -1800,164 +1799,164 @@ C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Orion,P3,Mil,One Ping Onl
 1575BD,RF-95677,Russian Air Force,Ilyushin IL-22 M-11-RT,IL18,Mil,Airborne Command Post,Combat Control,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-53
 1562A2,RF-90786,Russian Air Force,Ilyushin IL-22 PP,IL18,Mil,Electronic Warfare,Reconnaissance,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-54
 15632B,RF-90923,Russian Air Force,Ilyushin IL-22 PP,IL18,Mil,Electronic Warfare,Reconnaissance,Coot-B,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-55
-1551E0,RA-86496,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520A,RA-86538,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520B,RA-86539,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15520C,RA-86540,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15521B,RA-86555,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15521F,RA-86559,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155221,RA-86561,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15522C,RA-86572,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1551DF,RA-86495,Russian Air Force,Ilyushin IL-62 M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155020,RF-86048,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1552CD,RF-86733,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155329,RF-86825,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15532C,RF-86828,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155333,RA-86835,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155335,RF-86837,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155337,RA-86839,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533A,RF-86842,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533B,RF-86843,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15533F,RA-86847,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155341,RA-86849,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155343,RF-86851,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155349,RF-86857,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15534F,RA-86863,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155352,RA-86866,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155353,RA-86867,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155354,RF-86868,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155356,RF-86870,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155359,RA-86873,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535A,RF-86874,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535B,RF-86875,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15535D,RA-86877,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F5,RF-78837,Russian Air Force,Ilyushin IL-76 M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E0,RA-78816,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E1,RA-78817,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E2,RA-78818,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AF5,RF-76533,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AFA,RA-76538,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AFE,RF-76542,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B00,RF-76544,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B01,RF-76545,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B02,RF-76546,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B03,RA-76547,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B04,RF-76548,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B05,RF-76549,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B06,RF-76550,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B07,RA-76551,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B08,RF-76552,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B09,RF-76553,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B0A,RF-76554,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B0E,RF-76558,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B1C,RF-76572,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B21,RA-76577,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B30,RA-76592,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B37,RA-76599,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B3C,RF-76604,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B3D,RF-76605,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B44,RF-76612,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B45,RF-76613,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B47,RF-76615,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B5E,RA-76638,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B60,RF-76640,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B61,RF-76641,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B63,RF-76643,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B68,RA-76648,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B69,RA-76649,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B6A,RF-76650,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B7C,RF-76668,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B7D,RA-76669,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B8E,RA-76686,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B95,RF-76693,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152B9E,RF-76702,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1575B5,RF-95669,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BA9,RA-76713,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAA,RF-76714,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAE,RA-76718,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BAF,RA-76719,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB0,RF-76720,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB2,RF-76722,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB4,RF-76724,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB5,RF-76725,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BB6,RF-76726,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BBB,RF-76731,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BBD,RF-76733,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC2,RA-76738,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC3,RF-76739,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC5,RA-76741,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC7,RF-76743,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC9,RF-76745,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BCB,RF-76747,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDA,RF-76762,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDB,RA-76763,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDC,RF-76764,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE0,RF-76768,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE1,RF-76769,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE2,RF-76770,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE3,RF-76771,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE5,RF-76773,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BE8,RA-76776,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BEB,RF-76779,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15339E,RA-78750,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533A5,RF-78757,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AA,RA-78762,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AC,RA-78764,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533AE,RF-78766,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B0,RF-78768,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B8,RA-78776,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533B9,RF-78777,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533BA,RF-78778,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C0,RF-78784,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C4,RF-78788,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C5,RF-78789,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C6,RF-78790,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533C7,RF-78791,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CA,RA-78794,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CB,RF-78795,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CC,RA-78796,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533CD,RF-78797,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D3,RF-78803,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D5,RF-78805,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D7,RF-78807,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533D9,RF-78809,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DA,RF-78810,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DB,RF-78811,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DD,RF-78813,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533DF,RF-78815,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533EE,RA-78830,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533EF,RA-78831,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F1,RF-78833,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F2,RF-78834,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F3,RA-78835,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F6,RA-78838,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533F8,RA-78840,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FA,RA-78842,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FC,RA-78844,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FD,RA-78845,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533FF,RA-78847,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153402,RA-78850,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155357,RA-86871,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155358,RF-86872,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155371,RF-86897,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155372,RF-86898,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155375,RF-86901,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-155376,RF-86902,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537A,RA-86906,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537B,RF-86907,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537C,RF-86908,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15537E,RA-86910,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152AF2,RF-76530,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BC4,RF-76740,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BDF,RA-76767,Russian Air Force,Ilyushin IL-76 MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333D,RF-78653,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333E,RF-78654,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15333F,RF-78655,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153340,RF-78656,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153341,RF-78657,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153342,RF-78658,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153343,RF-78659,Russian Air Force,Ilyushin IL-76 MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-152BCA,76746,Russian Air Force,Ilyushin IL-76 MD-M,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1551E0,RA-86496,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520A,RA-86538,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520B,RA-86539,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15520C,RA-86540,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15521B,RA-86555,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15521F,RA-86559,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155221,RA-86561,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15522C,RA-86572,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1551DF,RA-86495,Russian Air Force,Ilyushin IL-62M,IL62,Mil,The Last Of Us,Vashe Zdorov'ye,Classic,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155020,RF-86048,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1552CD,RF-86733,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155329,RF-86825,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15532C,RF-86828,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155333,RA-86835,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155335,RF-86837,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155337,RA-86839,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533A,RF-86842,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533B,RF-86843,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15533F,RA-86847,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155341,RA-86849,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155343,RF-86851,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155349,RF-86857,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15534F,RA-86863,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155352,RA-86866,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155353,RA-86867,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155354,RF-86868,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155356,RF-86870,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155359,RA-86873,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535A,RF-86874,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535B,RF-86875,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15535D,RA-86877,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F5,RF-78837,Russian Air Force,Ilyushin IL-76M,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E0,RA-78816,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E1,RA-78817,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E2,RA-78818,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AF5,RF-76533,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AFA,RA-76538,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AFE,RF-76542,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B00,RF-76544,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B01,RF-76545,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B02,RF-76546,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B03,RA-76547,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B04,RF-76548,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B05,RF-76549,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B06,RF-76550,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B07,RA-76551,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B08,RF-76552,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B09,RF-76553,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B0A,RF-76554,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B0E,RF-76558,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B1C,RF-76572,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B21,RA-76577,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B30,RA-76592,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B37,RA-76599,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B3C,RF-76604,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B3D,RF-76605,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B44,RF-76612,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B45,RF-76613,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B47,RF-76615,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B5E,RA-76638,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B60,RF-76640,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B61,RF-76641,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B63,RF-76643,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B68,RA-76648,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B69,RA-76649,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B6A,RF-76650,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B7C,RF-76668,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B7D,RA-76669,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B8E,RA-76686,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B95,RF-76693,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152B9E,RF-76702,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1575B5,RF-95669,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BA9,RA-76713,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAA,RF-76714,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAE,RA-76718,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BAF,RA-76719,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB0,RF-76720,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB2,RF-76722,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB4,RF-76724,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB5,RF-76725,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BB6,RF-76726,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BBB,RF-76731,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BBD,RF-76733,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC2,RA-76738,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC3,RF-76739,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC5,RA-76741,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC7,RF-76743,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC9,RF-76745,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BCB,RF-76747,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDA,RF-76762,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDB,RA-76763,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDC,RF-76764,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE0,RF-76768,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE1,RF-76769,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE2,RF-76770,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE3,RF-76771,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE5,RF-76773,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BE8,RA-76776,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BEB,RF-76779,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15339E,RA-78750,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533A5,RF-78757,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AA,RA-78762,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AC,RA-78764,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533AE,RF-78766,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B0,RF-78768,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B8,RA-78776,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533B9,RF-78777,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533BA,RF-78778,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C0,RF-78784,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C4,RF-78788,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C5,RF-78789,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C6,RF-78790,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533C7,RF-78791,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CA,RA-78794,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CB,RF-78795,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CC,RA-78796,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533CD,RF-78797,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D3,RF-78803,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D5,RF-78805,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D7,RF-78807,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533D9,RF-78809,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DA,RF-78810,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DB,RF-78811,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DD,RF-78813,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533DF,RF-78815,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533EE,RA-78830,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533EF,RA-78831,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F1,RF-78833,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F2,RF-78834,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F3,RA-78835,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F6,RA-78838,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533F8,RA-78840,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FA,RA-78842,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FC,RA-78844,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FD,RA-78845,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533FF,RA-78847,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153402,RA-78850,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155357,RA-86871,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155358,RF-86872,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155371,RF-86897,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155372,RF-86898,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155375,RF-86901,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+155376,RF-86902,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537A,RA-86906,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537B,RF-86907,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537C,RF-86908,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15537E,RA-86910,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152AF2,RF-76530,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BC4,RF-76740,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BDF,RA-76767,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333D,RF-78653,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333E,RF-78654,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15333F,RF-78655,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153340,RF-78656,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153341,RF-78657,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153342,RF-78658,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153343,RF-78659,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+152BCA,76746,Russian Air Force,Ilyushin IL-76MD-M,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 152B0C,RA-76556,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 157048,RF-94280,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 157049,RF-94281,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -1966,20 +1965,20 @@ C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Orion,P3,Mil,One Ping Onl
 15704C,RF-94284,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 15704D,RF-94285,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 1533DE,RA-78814,Russian Air Force,Ilyushin IL-78,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-1533E8,RA-78824,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157042,RF-94274,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15704F,RF-94287,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157050,RF-94288,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703D,RF-94269,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157052,RF-94290,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703F,RF-94271,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157041,RF-94273,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157043,RF-94275,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157045,RF-94277,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157044,RF-94276,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-15703E,RF-94270,Russian Air Force,Ilyushin IL-78 M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-157040,RF-94272,Russian Air Force,Ilyushin IL-78 M-2,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
-153395,RF-78741,Russian Air Force,Ilyushin IL-78 M-90A,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+1533E8,RA-78824,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157042,RF-94274,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15704F,RF-94287,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157050,RF-94288,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703D,RF-94269,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157052,RF-94290,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703F,RF-94271,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157041,RF-94273,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157043,RF-94275,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157045,RF-94277,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157044,RF-94276,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+15703E,RF-94270,Russian Air Force,Ilyushin IL-78M,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+157040,RF-94272,Russian Air Force,Ilyushin IL-78M-2,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
+153395,RF-78741,Russian Air Force,Ilyushin IL-78M-90A,IL76,Mil,Air2Air,Tanker,Benzin,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
 14346B,RF-13419,Russian Air Force,Kamov Ka-52,KA52,Mil,Attack Helicopter,Coaxial Rotor,Hokum,Other Air Forces,https://en.wikipedia.org/wiki/Kamov_Ka-50
 143484,RF-13444,Russian Air Force,Kamov Ka-52,KA52,Mil,Attack Helicopter,Coaxial Rotor,Hokum,Other Air Forces,https://en.wikipedia.org/wiki/Kamov_Ka-50
 1571C2,RF-94658,Russian Air Force,LET L-410 UVP-E-S,L410,Mil,Unpressurised,Extreme Conditions,Accident Prone,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -2464,16 +2463,16 @@ AE5C8F,15-10338,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All We
 AE5C8E,15-10358,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
 AE5C8D,15-10348,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
 AE5C8C,15-10352,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,,Oxcart,https://asc.army.mil/web/portfolio-item/airborne-reconnaissance-low-arl-2/
+AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
+AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5C92,11-00287,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5A42,11-00286,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
-AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5622,13-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5403,11-00285,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE5402,11-00284,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FF,11-00283,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FE,11-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FD,12-00281,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
-AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FB,12-00279,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE53FA,12-00280,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
 AE4C62,10-00742,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://www.airforce-technology.com/projects/mc-liberty
@@ -3110,7 +3109,7 @@ AE13D1,04-01778,United States Army,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice
 ADFD76,91-00506,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 ADFD74,91-00507,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 AE56A8,13-20576,US National Guard,UH-60A Blackhawk,H60,Mil,Choppa,National Guard,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/National_Guard_(United_States)
-A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,????,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
+A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,ZZZZ,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
 3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.bundeswehr.de/de/organisation/luftwaffe
 43C883,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
 43C87A,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
