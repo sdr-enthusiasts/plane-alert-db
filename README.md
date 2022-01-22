@@ -37,8 +37,8 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 The list contains **10149** unique aircraft in **46** different categories.
 
 - [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (10149)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2156)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (5644)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2157)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (5643)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (859)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1490)
 - [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (3615)
@@ -55,6 +55,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - As Seen on TV \- Companies and Brands (183)
 - Big Hello \- Large Helicopters (sic) (110)
 - Bizjets \- Fancy pants planes for fancy pants people (33)
+- Climate Crisis \- Oil Companies, Large Business Jets - BBJs and ACJs (52)
 - Coastguard \- Coastguard, Customs and Border Patrols (425)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (102)
 - Dictator Alert \- People of potentially questionable morals and values (312)
@@ -65,7 +66,6 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (287)
 - Gas Bags \- Would you like to ride in my beautiful balloon ? (7)
 - Governments \- Aircraft registered to Governments (211)
-- Global Warming \- Oil Companies, Large Business Jets - BBJs and ACJs (52)
 - Gunship \- Brrrrrrrrrrrrrrrrrrrt (256)
 - Hired Gun \- Why do the dirty work when someone else can do it for you ? (44)
 - Historic \- It's older than I am, and most likely has a prop. (150)
