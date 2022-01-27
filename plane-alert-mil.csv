@@ -109,16 +109,15 @@ AE6963,170000,The Blue Angels,C-130J Super Hercules,C30J,Mil,Fat Albert,Display 
 43C392,PA474,Battle of Britiain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38E,WG518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38D,WG486,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-407BB2,G-CLXD,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38F,ZA947,Battle of Britiain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C391,PZ865,Battle of Britiain Flight,Hawker Hurricane Iic,HURI,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C390,LF363,Battle of Britiain Flight,Hawker Hurricane Iic,HURI,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C393,P7350,Battle of Britiain Flight,Supermarine Spitfire Iia,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C394,AB910,Battle of Britiain Flight,Supermarine Spitfire LFVb,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C393,P7350,Battle of Britiain Flight,Supermarine Spitfire IIa,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C395,MK356,Battle of Britiain Flight,Supermarine Spitfire Mk LFIXe,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C396,TE311,Battle of Britiain Flight,Supermarine Spitfire Mk XVI,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C394,AB910,Battle of Britiain Flight,Supermarine Spitfire MkVb,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C398,PS915,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C397,PM631,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C396,TE311,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C395,MK356,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 34314C,EC-404,Airbus Defence and Space Division,Airbus Military A400M Atlas C1,A400,Mil,Testbed,Specialist,Experimental,Distinctive,https://aibfamily.flights/A400m/004
 43C925,PP-XHH,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Mil,Jet Fighter,Transonic,XE688,Distinctive,https://hunterteam.com
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
@@ -416,7 +415,7 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3F991D,50+29,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F9911,50+17,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3EB90F,50+82,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-E80642,921,Chilean Air Force,Boeing 737,B735,Mil,Chile,Sebastián Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
+E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Sebastián Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
 7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
@@ -2217,7 +2216,7 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,L410,Mil,Unpressurised,Extreme Co
 4D03C2,LX-N90444,NATO,Boeing E-3A Sentry,E3TF,Mil,N.A.T.O,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03C1,LX-N90443,NATO,Boeing E-3A Sentry,E3TF,Mil,N.A.T.O,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03C0,LX-N90442,NATO,Boeing E-3A Sentry,E3TF,Mil,N.A.T.O,AWACS,Open Skies,Oxcart,https://www.nato.int
-33FD45,MM-AV-SA0018,NATO,RQ-4D Phoenix,RQ4,Mil,UAV,Eye In The Sky,Alliance Ground Surveillance,Oxcart,https://en.wikipedia.org/wiki/Alliance_Ground_Surveillance
+33FD45,MM-AV-SA0018,NATO,RQ-4D Phoenix,Q4,Mil,UAV,Eye In The Sky,Alliance Ground Surveillance,Oxcart,https://en.wikipedia.org/wiki/Alliance_Ground_Surveillance
 43C3A4,ZH106,Royal Air Force,Boeing E-3D Sentry,E3CF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 43C3A2,ZH104,Royal Air Force,Boeing E-3D Sentry,E3CF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 43C3A1,ZH103,Royal Air Force,Boeing E-3D Sentry,E3CF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -2254,16 +2253,16 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,L410,Mil,Unpressurised,Extreme Co
 142F5C,RA-12124,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 1575C6,RF-95686,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 1575C3,RF-95683,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
-156F01,RF-93953,Russian Air Force,Beriev A-100,IL76,Mil,Airborne Early Warning,Active Phased Array,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-100
-14C5AA,RF-50602,Russian Air Force,Beriev A-50,IL76,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-14C5AE,RF-50606,Russian Air Force,Beriev A-50,IL76,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-14C5A9,RF-50601,Russian Air Force,Beriev A-50,IL76,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-14C5B2,RF-50610,Russian Air Force,Beriev A-50,IL76,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-14C5B0,RF-50608,Russian Air Force,Beriev A-50,IL76,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-156F00,RF-93952,Russian Air Force,Beriev A-50U,IL76,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-15703C,RF-94268,Russian Air Force,Beriev A-50U,IL76,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-156B1D,RF-92957,Russian Air Force,Beriev A-50U,IL76,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
-156F0E,RF-93966,Russian Air Force,Beriev A-50U,IL76,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+156F01,RF-93953,Russian Air Force,Beriev A-100,A50,Mil,Airborne Early Warning,Active Phased Array,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-100
+14C5AA,RF-50602,Russian Air Force,Beriev A-50,A50,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+14C5AE,RF-50606,Russian Air Force,Beriev A-50,A50,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+14C5A9,RF-50601,Russian Air Force,Beriev A-50,A50,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+14C5B2,RF-50610,Russian Air Force,Beriev A-50,A50,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+14C5B0,RF-50608,Russian Air Force,Beriev A-50,A50,Mil,Airborne Early Warning,Analogue,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+156F00,RF-93952,Russian Air Force,Beriev A-50U,A50,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+15703C,RF-94268,Russian Air Force,Beriev A-50U,A50,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+156B1D,RF-92957,Russian Air Force,Beriev A-50U,A50,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
+156F0E,RF-93966,Russian Air Force,Beriev A-50U,A50,Mil,Airborne Early Warning,Digital,Mainstay,Oxcart,https://en.wikipedia.org/wiki/Beriev_A-50
 14FC07,RF-64519,Russian Air Force,Tupolev Tu-214 ON,T204,Mil,Open Skies,Treaty Monitoring,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC0D,RF-64525,Russian Air Force,Tupolev Tu-214 ON,T204,Mil,Open Skies,Treaty Monitoring,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC11,RA-64529,Russian Air Force,Tupolev Tu-214 PU-SBUS,T204,Mil,Special Purpose,Airborne Command Post,Rare,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -2965,7 +2964,6 @@ A41409,N362DD,United States Air Force,PZL-M28 Skytuck,M28,Mil,Covert,Special Ops
 AE0D35,05-27046,United States Air Force,Sikorsky HH-60G Blackhawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE1D98,161410,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D94,159887,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
-AC0220,N973GQ,US Air Force,Someone Hiding Something,ZZZZ,Mil,Covert,Impostor,Up To No Good,Special Forces,https://en.wikipedia.org/wiki/Black_operation
 AE68E0,95-3058,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68C0,16-3025,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
 AE68BE,15-3086,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
@@ -3109,7 +3107,7 @@ AE13D1,04-01778,United States Army,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice
 ADFD76,91-00506,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 ADFD74,91-00507,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not A Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 AE56A8,13-20576,US National Guard,UH-60A Blackhawk,H60,Mil,Choppa,National Guard,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/National_Guard_(United_States)
-A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,ZZZZ,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
+A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
 3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.bundeswehr.de/de/organisation/luftwaffe
 43C883,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
 43C87A,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450
