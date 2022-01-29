@@ -34,15 +34,14 @@ If you want to add the list in addition to your local plane-alert-db.txt list, y
 
 # Current Content
 
-The list contains **10149** unique aircraft in **46** different categories.
+The list contains **10153** unique aircraft in **46** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (10149)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2157)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (5643)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (10153)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2163)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (5641)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (859)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1490)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (3615)
-- [community-list.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/community-list.csv) - Open list to add your suggestions to. These will be moved to the main list in time.
+- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (3619)
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
 
@@ -59,9 +58,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Coastguard \- Coastguard, Customs and Border Patrols (425)
 - Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (102)
 - Dictator Alert \- People of potentially questionable morals and values (312)
-- Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft, Testbeds (193)
+- Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft, Testbeds (192)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (76)
-- Don't you know who I am ? \- Famous People. I was going to say notable, but I'll go with Famous (7)
+- Don't you know who I am ? \- Famous People. I was going to say notable, but I'll go with Famous (14)
 - Football  \- Actual, Aussie Rules or American. We don't discriminate. (2)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (287)
 - Gas Bags \- Would you like to ride in my beautiful balloon ? (7)
@@ -85,7 +84,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Royal Navy Fleet Air Arm \- Aircraft of the Royal Navy Fleet Air Arm (96)
 - Sam Tân \- Firefighting Aircraft. (285)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (174)
-- Special Forces \- The best of the best of the best. Sir. (152)
+- Special Forces \- The best of the best of the best. Sir. (151)
 - Toy Soldiers \- Armies from around the world (110)
 - UAV \- It's not natural, I tell 'ya (14)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
