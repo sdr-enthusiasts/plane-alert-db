@@ -41,7 +41,8 @@ The list contains **10153** unique aircraft in **46** different categories.
 - [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (5641)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (859)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1490)
-- [badgers-best.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/badgers-best.csv) - My own personal selections from the main list. (3619)
+- [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv) - The list of interesting aircraft, with tags,categories,links, and up to 3 image links per aircraft. (10153)
+
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
 
@@ -95,7 +96,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Who needs an Engine ? \- Gliders etc (70)
 - You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (59)
 - Zoomies \- Fast jets, fighters. Anything that moves fast (149)
-
+- 
 # To do / Ideas
 
 No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign
