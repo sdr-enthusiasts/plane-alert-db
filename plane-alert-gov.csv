@@ -1,6 +1,6 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 A2CDE5,N28ZD,Dell USA,Bombardier Global 6000,GLEX,Gov,Laptop,Michael Dell,Order Direct,As Seen on TV,https://www.dell.com
-06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,,Coastguard,https://en.wikipedia.org/wiki/Argentine_National_Gendarmerie
 44B5AD,OO-MMM,Belgian Coast Guard,BN Islander 2A-21,BN2P,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://kwgc.be/en
 C04AB9,C-GCHS,Canadian Coast Guard,Bell 206L Long Ranger,B06,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
@@ -461,8 +461,8 @@ AE4E00,6048,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime P
 894081,A9C-ISA,Bahrain Defence Force,Boeing 737NG,B738,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 152A60,RA-76384,Ceiba Cargo,Ilyushin IL-76TD-90VD,IL76,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 495238,CSTQX,Ceiba Intercontinental,Boeing 777-LR,B77L,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80AE,YV1004,Conviasa,Airbus A340-211,A342,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D81EC,YV3016,Conviasa,Embraer EMB-190STD,E190,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80AE,YV1004,Conviasa,Airbus A340-211,A342,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D81EC,YV3016,Conviasa,Embraer EMB-190STD,E190,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8961DC,A6-RJ2,Dubai Air Wing,Avro 146-RJ85,RJ85,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8961DB,A6-RJ1,Dubai Air Wing,Avro 146-RJ85,RJ85,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89605A,A6-HRS,Dubai Air Wing,Boeing 737-BBJ,B737,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -516,17 +516,17 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 8953E3,V8-OAS,Gov of Brunei,Boeing 787,B788,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
 09C008,XT-BFA,Gov of Burkina Faso,Boeing 727,B722,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Burkina_Faso
 034002,TJ-AAW,Gov of Cameroon,Grumman GIII,GLF3,Gov,Dictator Alert,Paul Biya,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084006,TT-ABE,Gov of Chad,ATR 42-300,AT43,Gov,Dictator Alert,Idriss Déby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084002,TT-ABD,Gov of Chad,Boeing 737-BBJ,B737,Gov,Dictator Alert,Idriss Déby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-08401E,TT-ABG,Gov of Chad,Dornier Do 328,J328,Gov,Dictator Alert,Idriss Déby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084C00,TT-AAI,Gov of Chad,Grumman GII,GLF2,Gov,Dictator Alert,Idriss Déby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-084F00,TT-ABC,Gov of Chad,McDonnell Douglas MD-87,MD87,Gov,Dictator Alert,Idriss Déby,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-08400F,TT-DCO,Gov of Chad,Mil Mi-17,MI8,Gov,Dictator Alert,Idriss Déby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+084006,TT-ABE,Gov of Chad,ATR 42-300,AT43,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+084002,TT-ABD,Gov of Chad,Boeing 737-BBJ,B737,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08401E,TT-ABG,Gov of Chad,Dornier Do 328,J328,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+084C00,TT-AAI,Gov of Chad,Grumman GII,GLF2,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+084F00,TT-ABC,Gov of Chad,McDonnell Douglas MD-87,MD87,Gov,Dictator Alert,Idriss Deby,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08400F,TT-DCO,Gov of Chad,Mil Mi-17,MI8,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 501D13,9A-CRO,Gov of Croatia,Bombardier Challenger 604,CL60,Gov,Government,Must Be Nice,Free And Fair Election,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Croatia
-08CE96,9Q-CLK,Gov of Democratic Republic of Congo,Boeing 707-138B,B701,Gov,Dictator Alert,Félix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
-08CBCB,9Q-CDC,Gov of Democratic Republic of Congo,Boeing 727,B721,Gov,Dictator Alert,Félix Tshisekedi,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-08CBC8,9S-CBA,Gov of Democratic Republic of Congo,Boeing 727,B722,Gov,Dictator Alert,Félix Tshisekedi,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-08CBAB,9Q-CGC,Gov of Democratic Republic of Congo,Gulfstream G-IV,GLF4,Gov,Dictator Alert,Félix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08CE96,9Q-CLK,Gov of Democratic Republic of Congo,Boeing 707-138B,B701,Gov,Dictator Alert,Felix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08CBCB,9Q-CDC,Gov of Democratic Republic of Congo,Boeing 727,B721,Gov,Dictator Alert,Felix Tshisekedi,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08CBC8,9S-CBA,Gov of Democratic Republic of Congo,Boeing 727,B722,Gov,Dictator Alert,Felix Tshisekedi,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+08CBAB,9Q-CGC,Gov of Democratic Republic of Congo,Gulfstream G-IV,GLF4,Gov,Dictator Alert,Felix Tshisekedi,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 010024,SU-GGG,Gov of Egypt,Airbus A340-212,A342,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 010137,SU-BRF,Gov of Egypt,Cessna Citation Sovereign,C680,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
 01006D,SU-AXN,Gov of Egypt,Dassault Falcon 20 E5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
@@ -598,8 +598,8 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 778663,YK-ASC,Gov of Syria,Dassault Falcon 900,F900,Gov,Dictator Alert,Bashar al-Assad,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 77CE27,YK-SQG,Gov of Syria,Yakovlev Yak-40K,YK40,Gov,Dictator Alert,Bashar al-Assad,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 77CE26,YK-SQF,Gov of Syria,Yakovlev Yak-40K,YK40,Gov,Dictator Alert,Bashar al-Assad,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-39AE68,FHLTI,Gov of Togo,Dassault Falcon 7X,FA7X,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-088005,5V-TAI,Gov of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbé,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+39AE68,FHLTI,Gov of Togo,Dassault Falcon 7X,FA7X,Gov,Dictator Alert,Faure Gnassingbe,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+088005,5V-TAI,Gov of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbe,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C2E,TC-CAN,Gov of Turkey,Airbus A340-542,A345,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Gov of Turkey,Airbus ACJ318-112 Elite,A318,Gov,Dictator Alert,Recep Tayyip Erdoğan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85C1,TC-ANA,Gov of Turkey,Airbus ACJ319-115X,A319,Gov,Dictator Alert,Recep Tayyip Erdoğan,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -619,7 +619,7 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 601862,EZ-S714,Gov of Turkmenistan,EH-101 Merlin Mk643,EH10,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 601857,EZ-S721,Gov of Turkmenistan,Sikorsky S-92 A,S92,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 601856,EZ-S720,Gov of Turkmenistan,Sikorsky S-92 A,S92,Gov,Dictator Alert,Gurbanguly Berdimuhamedow,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80ED,YVO157,Gov of Venezuela,Beechjet 400,BE40,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80ED,YVO157,Gov of Venezuela,Beechjet 400,BE40,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 010148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D3,SU-BTT,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://www.youtube.com/watch?v=Cv6tuzHUuuk
 0101D1,SU-BTV,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://www.youtube.com/watch?v=Cv6tuzHUuuk
@@ -647,21 +647,21 @@ E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be 
 70C0B3,A4OAD,Oman Royal Flight,Gulfstream G550,GLF5,Gov,Dictator Alert,Haitham bin Tarik,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 762AF3,J-755,Pakistan Air Force,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Imran Khan,Free And Fair Elections,Dictator Alert,https://www.pakistan.gov.pk
 762BF4,J-756,Pakistan Air Force,Gulfstream G450,GLF4,Gov,Dictator Alert,Imran Khan,Free And Fair Elections,Dictator Alert,https://www.pakistan.gov.pk
-AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D819B,YV2865,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8181,YV2763,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D82E8,YV3360,Petroleos de Venezuela,Dassault Falcon 2000EX,F2TH,Gov,Dictator Alert,Nicolás Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80EE,YV1128,Petroleos de Venezuela,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Election,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8167,YV2726,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolás Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D809F,YV2040,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolás Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80EC,YV2486,Petroleos de Venezuela,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Nicolás Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80E9,YV2485,Petroleos de Venezuela,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Nicolás Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8173,YV2738,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8169,YV2734,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8163,YV2716,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8106,YV1118,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D819B,YV2865,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8181,YV2763,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D82E8,YV3360,Petroleos de Venezuela,Dassault Falcon 2000EX,F2TH,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80EE,YV1128,Petroleos de Venezuela,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Election,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8167,YV2726,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D809F,YV2040,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80EC,YV2486,Petroleos de Venezuela,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80E9,YV2485,Petroleos de Venezuela,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8173,YV2738,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8169,YV2734,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8163,YV2716,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8106,YV1118,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48D960,1,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://en.wikipedia.org/wiki/Polish_Air_Force
 48D980,110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Poland
 48D961,2,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Poland
@@ -725,12 +725,12 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-ER,B77W,Gov,Dictator Alert,Moh
 4B8681,TC-ATA,Turkish Government,Gulfstream G-IV,GLF4,Gov,Recep Tayyip Erdoğan,Dictator Alert,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4b9030,TC-DAP,Turkish Government,Gulfstream G550,GLF5,Gov,Recep Tayyip Erdoğan,Dictator Alert,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B8C4B,TC-CBK,Turkish Government,Gulfstream G550,GLF5,Gov,Recep Tayyip Erdoğan,Dictator Alert,Free and Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D80A4,YV1129,Venezuela Government,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8032,207,Venezuelan Air Force,Boeing 737,B732,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-3CE2D2,YV3083,Venezuelan Air Force,Dornier Do 228-212,D228,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-3CC011,YV3000,Venezuelan Air Force,Dornier Do 228-NG,D228,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-0D8373,YV2984,Venezuelan Government,Airbus ACJ319-133X,A319,Gov,Dictator Alert,Nicolás Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D80A4,YV1129,Venezuela Government,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8032,207,Venezuelan Air Force,Boeing 737,B732,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+3CE2D2,YV3083,Venezuelan Air Force,Dornier Do 228-212,D228,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+3CC011,YV3000,Venezuelan Air Force,Dornier Do 228-NG,D228,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+0D8373,YV2984,Venezuelan Government,Airbus ACJ319-133X,A319,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 50802D,UR-74010,Antonov Airlines,Antonov An-74TK-200,AN72,Gov,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
 A89BB0,N654BA,Janet Airlines,B200 Super King Air,BE20,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 A8B80A,N661BA,Janet Airlines,B200 Super King Air,BE20,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
@@ -850,12 +850,12 @@ A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P
 683063,UP-42721,Gov of Kazakhstan,Yakovlev Yak-42D,YK42,Gov,Kazakhstan,Kassym-Jomart Tokayev,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Kazakhstan
 C06829,C-GNLO,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
 C06820,C-GNLF,Gov of Newfoundland and Labrador,B350C Super King Air,B350,Gov,Newfoundland And Labrador,Canada,Government,Governments,https://www.newfoundlandlabrador.com
-513027,E7-GPS,Gov of Republic of Srpska,Cessna Citation CJ4,C25C,Gov,Rep Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
-513007,E7-SBA,Gov of Republic of Srpska,Cessna Citation I,C500,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
-51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Željka Cvijanović,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
+513027,E7-GPS,Gov of Republic of Srpska,Cessna Citation CJ4,C25C,Gov,Rep Of Srpska,Zeljka Cvijanovic,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
+513007,E7-SBA,Gov of Republic of Srpska,Cessna Citation I,C500,Gov,Republic Of Srpska,Zeljka Cvijanovic,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
+51300B,E7-SMS,Gov of Republic of Srpska,Cessna Citation I,C525,Gov,Republic Of Srpska,Zeljka Cvijanovic,Government,Governments,https://en.wikipedia.org/wiki/Republika_Srpska
 038613,TU-VAS,Gov of the Ivory Coast,Airbus ACJ319-133X,A319,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
-0360F8,TN-AJN,Gov of The Republic of Congo,Dassault Falcon 50,FA50,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
-036BC1,TN-ELS,Gov of The Republic of Congo,Dassault Falcon 7X,FA7X,Gov,Republic of Congo,Félix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
+0360F8,TN-AJN,Gov of The Republic of Congo,Dassault Falcon 50,FA50,Gov,Republic of Congo,Felix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
+036BC1,TN-ELS,Gov of The Republic of Congo,Dassault Falcon 7X,FA7X,Gov,Republic of Congo,Felix Tshisekedi,,Governments,https://en.wikipedia.org/wiki/Republic_of_the_Congo
 60003C,EK-RA01,Government of Armenia,Airbus A319-132,A319,Gov,Armenia,Armen Sarkissian,Government,Governments,https://www.gov.am/en
 7608AB,AP-BEK,Government of Balochistan,Learjet 31A,LJ31,Gov,Pakistan,Syed Zahoor Ahmad Agha,Government,Governments,https://balochistan.gov.pk
 760970,AP-BKP,Government of Balochistan,Learjet 45XR,LJ45,Gov,Pakistan,Syed Zahoor Ahmad Agha,Government,Governments,https://balochistan.gov.pk
@@ -864,9 +864,9 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 451E92,LZ-AOB,Government of Bulgaria,Airbus A319-112,A319,Gov,Bulgaria,Rumen Radev,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
 451C42,LZ-OOI,Government of Bulgaria,Dassault Falcon 2000,F2TH,Gov,Bulgaria,Rumen Radev,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
 451CB8,LZ-CAT,Government of Bulgaria,Mil Mi-8S,MI8,Gov,Bulgaria,Rumen Radev,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Bulgaria
-032007,9U-BKB,Government of Burundi,Gulfstream G600,GLF6,Gov,Burundi,Évariste Ndayishimiye,Government,Governments,https://burundi.gov.bi
+032007,9U-BKB,Government of Burundi,Gulfstream G600,GLF6,Gov,Burundi,evariste Ndayishimiye,Government,Governments,https://burundi.gov.bi
 8003D1,VT-CTG,Government of Chhattisgarh,B200 Super King Air,BE20,Gov,Chhattisgarh,Anusuiya Uikey,Government,Governments,https://www.cgstate.gov.in
-0D04FB,XC-DGO,Government of Durango,Learjet 35A,LJ35,Gov,Colorado,José Rosas Aispuro Torres,Government,Governments,https://youtu.be/E3BVteW_rnE?t=2233
+0D04FB,XC-DGO,Government of Durango,Learjet 35A,LJ35,Gov,Colorado,Jose Rosas Aispuro Torres,Government,Governments,https://youtu.be/E3BVteW_rnE?t=2233
 044037,9G-EXE,Government of Ghana,Dassault Falcon 900EX,F900,Gov,Ghana,Nana Akufo-Addo,Government,Governments,https://www.ghana.gov.gh
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,CL60,Gov,Gujarat,Acharya Devvrat,Government,Governments,https://gujaratindia.gov.in
 800D31,VT-HCA,Government of Haryana,B200GT Super King Air,BE20,Gov,Haryana,Bandaru Dattatreya,Government,Governments,https://haryana.gov.in
@@ -874,8 +874,8 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 728618,YI-APX,Government of Iraq,Airbus A300-B4-203,A30B,Gov,Iraq,Barham Salih,Government,Governments,https://gds.gov.iq
 728666,YI-ASF,Government of Iraq,Boeing 737NG,B738,Gov,Iraq,Barham Salih,Government,Governments,https://gds.gov.iq
 80045E,VT-JKK,Government of Jammu & Kashmir,B350 Super King Air,B350,Gov,Kashmir,Manoj Sinha,Government,Governments,https://www.jk.gov.in/jammukashmir
-87C002,80-1111,Government of Japan,Boeing 777-ER,B77W,Gov,Japan,Shinzō Abe,Government,Governments,https://www.japan.go.jp/
-86346F,JA6759,Government of Japan,Sikorsky S-76 B,S76,Gov,Japan,Shinzō Abe,Government,Governments,https://www.japan.go.jp
+87C002,80-1111,Government of Japan,Boeing 777-ER,B77W,Gov,Japan,Shinzo Abe,Government,Governments,https://www.japan.go.jp/
+86346F,JA6759,Government of Japan,Sikorsky S-76 B,S76,Gov,Japan,Shinzo Abe,Government,Governments,https://www.japan.go.jp
 744A61,JY-RSA,Government of Jordan,AgustaWestland AW.139,A139,Gov,Jordan,Abdullah II,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Jordan
 4243FD,VQ-BNZ,Government of Jordan,Gulfstream G650 ER,GLF6,Gov,Jordan,Abdullah II,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Jordan
 71BC65,10001,Government of Korea,Boeing 747,B744,Gov,Corporate Dictatorship,Annyeonghasimnikka,Government,Governments,https://en.wikipedia.org/wiki/Government_of_South_Korea
@@ -883,10 +883,10 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 51200F,Z3-MKD,Government of Macedonia,Learjet 60,LJ60,Gov,Macedonia,Stevo Pendarovski,Government,Governments,https://vlada.mk/?ln=en-gb
 800141,VT-MPT,Government of Madhya Pradesh,B200 Super King Air,BE20,Gov,Madhya Pradesh,Mangubhai C. Patel,Government,Governments,https://mp.gov.in
 8004D2,VT-VDD,Government of Maharashtra,Cessna Citation XLS,C56X,Gov,Maharashtra,Bhagat Singh Koshyari,Government,Governments,https://www.maharashtra.gov.in/1125/Home
-05C05A,TZ-001,Government of Mali,Boeing 727,B722,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
-05C075,TZ-PRM,Government of Mali,Boeing 737-BBJ,B737,Gov,Mali,Assimi Goïta,Government,Governments,https://en.wikipedia.org/wiki/Mali
-0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andrés Obrador,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
-516001,4O-MNE,Government of Montenegro,Learjet 45,LJ45,Gov,Montenegro,Milo Đukanović,Government,Governments,https://data.dictatoralert.org/dictatorships
+05C05A,TZ-001,Government of Mali,Boeing 727,B722,Gov,Mali,Assimi Goita,Government,Governments,https://en.wikipedia.org/wiki/Mali
+05C075,TZ-PRM,Government of Mali,Boeing 737-BBJ,B737,Gov,Mali,Assimi Goita,Government,Governments,https://en.wikipedia.org/wiki/Mali
+0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andres Obrador,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
+516001,4O-MNE,Government of Montenegro,Learjet 45,LJ45,Gov,Montenegro,Milo Dukanovic,Government,Governments,https://data.dictatoralert.org/dictatorships
 20103F,V5-GON,Government of Namibia,Dassault Falcon 7X,FA7X,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
 201001,V5-NAM,Government of Namibia,Dassault Falcon 900B,F900,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
 201002,V5-NAG,Government of Namibia,Learjet 31A,LJ31,Gov,Namibia,Hage Geingob,Government,Governments,https://www.gov.na
@@ -918,23 +918,23 @@ C07B3F,C-GURM,Government of Quebec,DHC-8-315Q,DH8C,Gov,Quebec,Être Juuuuuussste
 06E01A,9XR-OG,Government of Rwanda,Mil Mi-17-1V,MI8,Gov,Rwanda,Paul Kagame,Government,Governments,https://www.gov.rw
 E17283,LV-WJC,Government of Santa Fe,AgustaWestland AW.109,A109,Gov,Santa Fe,Omar Perotti,Government,Governments,https://www.santafenm.gov
 070ED4,6V-ONE,Government of Senegal,Airbus ACJ319-115X,A319,Gov,Senegal,Macky Sall,Government,Governments,https://www.sec.gouv.sn
-4C05A0,YU-BNA,Government of Serbia,Dassault Falcon 50,FA50,Gov,Serbia,Aleksandar Vučić,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
-4C4A21,YU-SRB,Government of Serbia,Embraer Legacy 600,E35L,Gov,Serbia,Aleksandar Vučić,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
-4C0639,YU-BRZ,Government of Serbia,Learjet 31A,LJ31,Gov,Serbia,Aleksandar Vučić,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
-4C1C86,YU-HEG,Government of Serbia,Sikorsky S-76 B,S76,Gov,Serbia,Aleksandar Vučić,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
+4C05A0,YU-BNA,Government of Serbia,Dassault Falcon 50,FA50,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
+4C4A21,YU-SRB,Government of Serbia,Embraer Legacy 600,E35L,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
+4C0639,YU-BRZ,Government of Serbia,Learjet 31A,LJ31,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
+4C1C86,YU-HEG,Government of Serbia,Sikorsky S-76 B,S76,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
 7608A5,AP-BEE,Government of Sindh,Bell 206L Long Ranger,B06,Gov,Sindh,Imran Ismail,Government,Governments,https://www.sindh.gov.pk
 7608A6,AP-BEF,Government of Sindh,Bell 412HP,B412,Gov,Sindh,Imran Ismail,Government,Governments,https://www.sindh.gov.pk
 760919,AP-BHY,Government of Sindh,Learjet 45XR,LJ45,Gov,Sindh,Imran Ismail,Government,Governments,https://www.sindh.gov.pk
-505C09,OM-BYK,Government of Slovakia,Airbus ACJ319-115X,A319,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
-505C06,OM-BYA,Government of Slovakia,Airbus ACJ319-115X,A319,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
-505C04,OM-BYD,Government of Slovakia,Bell 429 GlobalRanger,B429,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
-505C08,OM-BYC,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
-505C07,OM-BYB,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
-505C02,OM-BYU,Government of Slovakia,Mil Mi-17,MI8,Gov,Slovakia,Zuzana Čaputová,Government,Governments,https://www.vlada.gov.sk
+505C09,OM-BYK,Government of Slovakia,Airbus ACJ319-115X,A319,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
+505C06,OM-BYA,Government of Slovakia,Airbus ACJ319-115X,A319,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
+505C04,OM-BYD,Government of Slovakia,Bell 429 GlobalRanger,B429,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
+505C08,OM-BYC,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
+505C07,OM-BYB,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
+505C02,OM-BYU,Government of Slovakia,Mil Mi-17,MI8,Gov,Slovakia,Zuzana caputova,Government,Governments,https://www.vlada.gov.sk
 80007A,VT-EUX,Government of Tamil Nadu State,Cessna Citation V,C560,Gov,Tamil Nadu,M. K. Stalin,Government,Governments,https://www.tn.gov.in
 080022,5H-CCM,Government of Tanzania,Fokker F28 3000,F28,Gov,Tanzania,Samia Suluhu Hassan,Government,Governments,https://www.tanzania.go.tz
 08000F,5H-ONE,Government of Tanzania,Gulfstream G550,GLF5,Gov,Tanzania,Samia Suluhu Hassan,Government,Governments,https://www.tanzania.go.tz
-49DF29,OK-WYI,Government of the Czech Republic,LET L-410 UVP-E,L410,Gov,Czechia,Miloš Zeman,Government,Governments,https://www.vlada.cz/en
+49DF29,OK-WYI,Government of the Czech Republic,LET L-410 UVP-E,L410,Gov,Czechia,Milos Zeman,Government,Governments,https://www.vlada.cz/en
 09A01E,C5-AFT,Government of the Gambia,Canadair Challenger 601,CL60,Gov,The Gambia,Adama Barrow,Government,Governments,https://en.wikipedia.org/wiki/The_Gambia
 485920,PH-GOV,Government of The Netherlands,Boeing 737-BBJ,B737,Gov,The Netherlands,Mark Rutte,Government,Governments,https://www.government.nl
 0D0C40,XC-MED,Government of the State of Yucatan,Bell 429 GlobalRanger,B429,Gov,Yucatan,Mauricio Vila Dosal,Government,Governments,https://en.wikipedia.org/wiki/Yucat%C3%A1n
@@ -955,7 +955,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietnam,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
 890034,7O-VIP,Government of Yemen,Boeing 757,B752,Gov,Yemen,Maeen Abdulmalik Saeed,Government,Governments,https://en.wikipedia.org/wiki/Yemen
 08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Hakainde Hichilema,Government,Governments,https://www.parliament.gov.zm
-E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernández,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
+E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernandez,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
 4682A6,678,Greek Air Force,Gulfstream G500,GLF5,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
@@ -990,10 +990,10 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Ja
 700008,YA-KAM,Kam Air,Boeing 767,B762,Gov,Afghanistan,The Taliban,Government,Governments,https://en.wikipedia.org/wiki/Afghanistan
 07A001,3DC-SWZ,King Mswati III of Eswatini,McDonnell Douglas DC-9 87,MD87,Gov,Eswatini,Used To Be Swaziland,Government,Governments,http://www.gov.sz
 A55698,N443JP,Kurdistan Regional Government,Cessna 208B Caravan,C208,Gov,Kurdistan,Nechirvan Barzani,Government,Governments,https://gov.krd/english
-0D0A70,XC-LPC,Mexican State Gov,Bell 429 GlobalRanger,B429,Gov,Mexico,Andrés Manuel López Obrador,,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
-0D0CE2,XC-HEX,Mexican State Government,Bell 206B Jet Ranger,B06,Gov,Mexico,Andrés Manuel López Obrador,,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
-0D0BDC,XC-LLW,Mexican State Government,Bell 407,B407,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
-0D01DC,XC-JEF,Mexican State Government,Bell 407,B407,Gov,Mexico,Andrés Manuel López Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D0A70,XC-LPC,Mexican State Gov,Bell 429 GlobalRanger,B429,Gov,Mexico,Andres Manuel Lopez Obrador,,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D0CE2,XC-HEX,Mexican State Government,Bell 206B Jet Ranger,B06,Gov,Mexico,Andres Manuel Lopez Obrador,,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D0BDC,XC-LLW,Mexican State Government,Bell 407,B407,Gov,Mexico,Andres Manuel Lopez Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
+0D01DC,XC-JEF,Mexican State Government,Bell 407,B407,Gov,Mexico,Andres Manuel Lopez Obrador,Government,Governments,https://en.wikipedia.org/wiki/State_governments_of_Mexico
 140759,RA-01881,Moscow Government,MBB-Kawasaki BK 117 C-1,BK17,Gov,Moscow,Sergey Sobyanin,Government,Governments,https://www.mos.ru/en
 064051,5N-FGT,Nigerian Air Force,Boeing 737-BBJ,B737,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
 0640F1,5N-FGV,Nigerian Air Force,Dassault Falcon 7X,FA7X,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
@@ -1004,7 +1004,7 @@ ABC1F0,N857GA,PPG Industries Inc,Gulfstream G550,GLF5,Gov,Tanzania,Samia Suluhu 
 7C1522,VH-EGK,Queensland Government,AgustaWestland AW.139,A139,Gov,Queensland,Dr Jeannette Young,Government,Governments,https://www.qld.gov.au
 7C151D,VH-EGF,Queensland Government,AgustaWestland AW.139,A139,Gov,Queensland,Dr Jeannette Young,Government,Governments,https://www.qld.gov.au
 06407E,5N-RSN,Rivers State Government,AgustaWestland AW.139,A139,Gov,Nigeria,Ezenwo Nyesom Wike,Government,Governments,http://riversstate.gov.ng
-A73B05,N565RS,Rivers State Government,Bombardier Global 5000,GLEX,Gov,Nigeria,Ezenwo Nyesom Wike,Government,Governments,http://riversstate.gov.ng
+A73B05,N565RS,Rivers State Government,Bombardier Global 5000,GL5T,Gov,Nigeria,Ezenwo Nyesom Wike,Government,Governments,http://riversstate.gov.ng
 064057,5N-RSG,Rivers State Government,Embraer Legacy 600,E35L,Gov,Nigeria,Ezenwo Nyesom Wike,Our Lady Queen Of Victories,Governments,http://riversstate.gov.ng
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC3,A332,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-53082294
 02010F,CN-MMS,Royal Moroccan Government,AgustaWestland AW.139,A139,Gov,Morocco,Aziz Akhannouch,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Morocco
@@ -1012,17 +1012,17 @@ C87F01,NZ7572,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacind
 C87F00,NZ7571,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacinda Ardern,Government,Governments,https://www.newzealand.com
 151950,RF-72016,Russian FSB,Antonov An-72,AN72,Gov,I Must Break You,Cheburashka,Government,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
 00AEC9,ZS-RSA,South African Air Force,Boeing 737-BBJ,B737,Gov,South Africa,Cyril Ramaphosa,Government,Governments,https://www.gov.za
-354555,T.22-1,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sánchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
+354555,T.22-1,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
 A1EFFE,N224BH,State Gov of Akwa Ibom,Gulfstream G450,GLF4,Gov,Nigeria,Udom Gabriel Emmanuel,Government,Governments,https://akwaibomstate.gov.ng
 E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
-0D0391,XC-HIS,State Gov of Chiapas,Learjet 25D,LJ25,Gov,Mexico,Rutilio Escandón,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
-0D035B,XC-HHJ,State Gov of Chiapas,Learjet 35A,LJ35,Gov,Mexico,Rutilio Escandón,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
-0D0373,XC-GDC,State Gov of Chihuahua,Cessna Citation CJ3,C25B,Gov,Mexico,María Eugenia Campos Galván,Government,Governments,https://en.wikipedia.org/wiki/Chihuahua_(state)
+0D0391,XC-HIS,State Gov of Chiapas,Learjet 25D,LJ25,Gov,Mexico,Rutilio Escandon,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
+0D035B,XC-HHJ,State Gov of Chiapas,Learjet 35A,LJ35,Gov,Mexico,Rutilio Escandon,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
+0D0373,XC-GDC,State Gov of Chihuahua,Cessna Citation CJ3,C25B,Gov,Mexico,María Eugenia Campos Galvan,Government,Governments,https://en.wikipedia.org/wiki/Chihuahua_(state)
 E48392,PP-EJO,State Gov of Minas Gerais,B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Roraima
 0D0334,XC-GDT,State Gov of Tamaulipas,Cessna Citation Encore,C560,Gov,Mexico,Francisco Javier Garcia,Government,Governments,https://en.wikipedia.org/wiki/Tamaulipas
-0D06B2,XC-TJN,State Gov of Veracruz,Learjet 40XR,LJ40,Gov,Mexico,Cuitláhuac García Jiménez,Government,Governments,https://en.wikipedia.org/wiki/Veracruz
+0D06B2,XC-TJN,State Gov of Veracruz,Learjet 40XR,LJ40,Gov,Mexico,Cuitlahuac García Jimenez,Government,Governments,https://en.wikipedia.org/wiki/Veracruz
 4A8199,102004,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Sweden,Magdalena Andersson,Government,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
 4A822A,102005,Swedish Air Force,Gulfstream G550 TP-102D,GLF5,Gov,Sweden,Magdalena Andersson,Government,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
 0D0A97,XC-MTA,Tamaulipas State Government,Robinson R44,R44,Gov,Mexico,Francisco Javier Garcia,Government,Governments,https://en.wikipedia.org/wiki/Tamaulipas
