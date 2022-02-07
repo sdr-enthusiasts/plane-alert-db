@@ -1,7 +1,9 @@
 # plane-alert-db
 
 
-This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** . I use it to run an automated twitter account using my own adsb data https://twitter.com/GetToTheChopp11 
+This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** . 
+
+I use it to run an automated twitter account using my own adsb data **https://twitter.com/GetToTheChopp11** 
 
 # Current Content
 
@@ -13,7 +15,7 @@ The list contains **10865** unique aircraft in **47** different categories. Ther
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (858)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1520)
 
-There is also a second version of each of the above lists with up to 3 image image links per aircraft.
+There is also a second version of each of the above lists with up to 3 image image links per aircraft. Please consider this experimental, do not come to rely of any of the image links.
 
 - [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv)
 - [plane-alert-civ-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ-images.csv)
