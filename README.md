@@ -1,11 +1,7 @@
 # plane-alert-db
 
 
-This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** and takes the form 
-
-- $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
-
-e.g 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,L39,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** . I use it to run an automated twitter account using my own adsb data https://twitter.com/GetToTheChopp11 
 
 # Current Content
 
@@ -80,6 +76,13 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Zoomies \- Fast jets, fighters. Anything that moves fast. (131)
 
 # Planefence
+
+The list takes the form 
+
+- $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
+
+e.g 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,L39,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+
 To use this list with Planefence, simply configure your planefence.config setup to include the following line:
 
 - PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
