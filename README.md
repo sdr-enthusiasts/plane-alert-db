@@ -9,16 +9,23 @@ e.g 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,L39,Civ,Do A Barrel Roll,
 
 # Current Content
 
-The list contains **10865** unique aircraft in **47** different categories.
+The list contains **10865** unique aircraft in **47** different categories. There is 1 main list and 5 sub-lists as dsecribed below
 
 - [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (10865)
 - [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2331)
 - [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (6156)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (858)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1520)
-- [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv) - The list of interesting aircraft, with tags,categories,links, and up to 3 image links per aircraft. (10865)
 
-This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
+There is also a second version of each of the above lists with up to 3 image image links per aircraft.
+
+- [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv)
+- [plane-alert-civ-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ-images.csv)
+- [plane-alert-mil-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil-images.csv)
+- [plane-alert-pol-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol-images.csv)
+- [plane-alert-gov-iamges.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov-images.csv)
+
+This [Google Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
 
 # Description of Categories
 
@@ -212,8 +219,6 @@ This is not intented to be a definitive list, especially when it comes to aircra
 
 This data has been gathered from far too many sources to mention, but some sites have been *really* useful.
 
-https://whatisflying.com/en/database/aircraft-types
-
 https://github.com/jbroutier/whatisflying-db
 
 https://www.flightdb.net/index.php
@@ -235,3 +240,5 @@ https://scramble.nl/
 https://www.foxtrotcharlie.ovh/
 
 https://www.planelogger.com/
+
+https://www.jetphotos.com/
