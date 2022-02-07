@@ -1,7 +1,7 @@
 # plane-alert-db
 
 
-This project consists of lists of 'interesting' aircraft, formatted as CSV files. **The list is designed to work with the excellent https://github.com/kx1t/docker-planefence** . 
+This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **https://github.com/kx1t/docker-planefence** . 
 
 I use it to run an automated twitter account using my own adsb data **https://twitter.com/GetToTheChopp11** 
 
@@ -15,7 +15,7 @@ The list contains **10865** unique aircraft in **47** different categories. Ther
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (858)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1520)
 
-There is also a second version of each of the above lists with up to 3 image image links per aircraft. Please consider this experimental, do not come to rely of any of the image links.
+There is also a second version of each of the above lists with up to 3 image image links per aircraft. **Please consider this experimental, do not come to rely of any of the image links**
 
 - [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv)
 - [plane-alert-civ-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ-images.csv)
@@ -29,8 +29,8 @@ This [Google Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-49
 
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
-- Aerobatic Teams \- Red Arrows, Blue Angels etc. (59)
-- Army Air Corp \- UK Army Air Corp. Mainly Helicopters. (91)
+- Aerobatic Teams \- Red Arrows, Blue Angels etc (59)
+- Army Air Corp \- UK Army Air Corp. Mainly Helicopters (91)
 - As Seen on TV \- Companies and Brands (207)
 - Big Hello \- Large Helicopters (sic) (110)
 - Bizjets \- Fancy pants planes for fancy pants people (33)
@@ -41,41 +41,41 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft, Testbeds (163)
 - Dogs with Jobs \- Aircraft with specific roles and/or modifications (83)
 - Don't you know who I am ? \- Famous People. I was going to say notable, but I'll go with Famous (16)
-- Football  \- Actual, Aussie Rules or American. We don't discriminate. (2)
+- Football  \- Actual, Aussie Rules or American. We don't discriminate (2)
 - GAF \- Aircraft of the German Air Force, thank to Rhodan76 (318)
 - Gas Bags \- Would you like to ride in my beautiful balloon ? (14)
 - Governments \- Aircraft registered to Governments (223)
 - Gunship \- Brrrrrrrrrrrrrrrrrrrt (256)
 - Hired Gun \- Why do the dirty work when someone else can do it for you ? (47)
-- Historic \- It's older than I am, and most likely has a prop. (182)
+- Historic \- It's older than I am, and most likely has a prop (182)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (18)
-- Joe Cool \- Cool Planes. Or at least I think they are cool. (73)
-- Jump Johnny Jump \- de Havilland Chipmunks. Air Cadets of a certain age will understand. (387)
-- M\*A\*S\*H \- Air Ambulance and Medical Flights
+- Joe Cool \- Cool Planes. Or at least I think they are cool (73)
+- Jump Johnny Jump \- de Havilland Chipmunks. Air Cadets of a certain age will understand (387)
+- M\*A\*S\*H \- Air Ambulance and Medical Flights (lots)
 - Nuclear \- Nuclear Emergency Support Team etc (15)
 - Other Air Forces \- Air Force aircraft that are not RAF or USAF (1763)
 - Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (122)
 - Oxcart \- Intelligence gathering aircraft (431)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (837)
-- Ptolemy would be proud \- Mapping and Aerial Survey aircraft.  (70)
+- Ptolemy would be proud \- Mapping and Aerial Survey aircraft  (70)
 - Quango \- Nato, United Nations, World Bank etc (30)
-- Radiohead \- Very Very special aircraft. Think VC25. (6)
+- Radiohead \- Very Very special aircraft. Think VC25 (6)
 - RAF \- Aircraft of the Royal Air Force (231)
 - Royal Aircraft \- Aircraft used or owned by the UK Royal Family (8)
 - Royal Navy Fleet Air Arm \- Aircraft of the Royal Navy Fleet Air Arm (96)
-- Sam Tân \- Firefighting Aircraft. (288)
+- Sam Tân \- Firefighting Aircraft (288)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (174)
-- Special Forces \- The best of the best of the best. Sir. (156)
+- Special Forces \- The best of the best of the best. Sir (156)
 - Toy Soldiers \- Armies from around the world (131)
 - UAV \- It's not natural, I tell 'ya (15)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- United States Navy \- United States naval avaitors. Some say they are the best of the best. (211)
+- United States Navy \- United States naval avaitors. Some say they are the best of the best (211)
 - USAF \- Aircraft of the United States Air Force (2111)
 - Vanity Plate \- Distinctive registrations (64)
 - Watch Me Fly \- Flying and Training Schools (96)
 - Who needs an Engine ? \- Gliders etc (70)
-- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand). (88)
-- Zoomies \- Fast jets, fighters. Anything that moves fast. (131)
+- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand) (88)
+- Zoomies \- Fast jets, fighters. Anything that moves fast (131)
 
 # Planefence
 
