@@ -7,31 +7,6 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 e.g 502C5C,YL-KSH,Baltic Bees display team,Aero L-39 C,L39,Civ,Do A Barrel Roll,Display Team,,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 
-Add these characters to the column headers to control the behavior of PlaneAlert
-
-- "$" \- Tweet this column as #hashtag
-- "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
-- "$#"\- Don't show on the website, tweet as a #hashtag
-
-in the example above the #hashtags would be 'Air Ambo','Choppa' and 'EXPL'. Tag2, Tag3 and Link will not be shown on the PA website. Please be aware if your tweets are too long they will be truncated by PF/PA. To prevent this you should exclude CMPG and Category from your tweets - this will ensure all tweets fits inside the char limit.
-
-- CMPG = Civilian, Military, Police, Government
-- Tag 1 = Funny/amusing
-- Tag 2 = Useful/relevant
-- Tag 3 = Anything goes
-- Link - Either an informative or funny link. All are SFW, except maybe the Disney plane.
-
-# Planefence
-To use this list with Planefence, simply configure your planefence.config setup to include the following line:
-
-- PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
-
-If you want to add the list in addition to your local plane-alert-db.txt list, you can do the following:
-
-- PF_ALERTLIST=plane-alert-db.txt,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
-
-**Note -- the priority of use is first-to-last, so if you want your local list to be interpreted first, move it to the front of the list**
-
 # Current Content
 
 The list contains **10865** unique aircraft in **47** different categories.
@@ -42,7 +17,6 @@ The list contains **10865** unique aircraft in **47** different categories.
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (858)
 - [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1520)
 - [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv) - The list of interesting aircraft, with tags,categories,links, and up to 3 image links per aircraft. (10865)
-
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
 
@@ -97,6 +71,24 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Who needs an Engine ? \- Gliders etc (70)
 - You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand). (88)
 - Zoomies \- Fast jets, fighters. Anything that moves fast. (131)
+
+# Planefence
+To use this list with Planefence, simply configure your planefence.config setup to include the following line:
+
+- PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
+
+If you want to add the list in addition to your local plane-alert-db.txt list, you can do the following:
+
+- PF_ALERTLIST=plane-alert-db.txt,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
+
+**Note -- the priority of use is first-to-last, so if you want your local list to be interpreted first, move it to the front of the list**
+
+Add these characters to the column headers to control the behavior of PlaneAlert
+
+- "$" \- Tweet this column as #hashtag
+- "#" \- Don't show on the website (it will ignore this for the ICAO field, which is always shown)
+- "$#"\- Don't show on the website, tweet as a #hashtag
+
 
 # To do / Ideas
 
