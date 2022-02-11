@@ -452,7 +452,7 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3EB90F,50+82,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Sebastian Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
-6015,FAM-002,Mozambique Air Force,Hawker 125 850XP,H25B,Mil,Bizjet,Government,Mozambique,Governments,https://w.wiki/4nDc
+006015,FAM-002,Mozambique Air Force,Hawker 125 850XP,H25B,Mil,Bizjet,Government,Mozambique,Governments,https://w.wiki/4nDc
 E880E8,FAP3001,Paraguayan Air Force,Cessna Citation Sovereign,C680,Mil,VIP Transport,Government,Paraguay,Governments,https://w.wiki/4n2D
 7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
@@ -1655,7 +1655,7 @@ A82420,1434,Royal Jordanian Air Force,Cessna 208B Caravan,C208,Mil,Surveillance,
 743598,356,Royal Jordanian Air Force,PZL-M28 Skytuck,M28,Mil,Utility,Light Transport,Protect And Defend Sovereignty,Other Air Forces,https://w.wiki/4n2z
 0200AC,CN-MMT,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 02012D,CN-MMR,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
-20136,CN-MMH,Royal Moroccan Air Force,Gulfstream G650,GLF6,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
+020136,CN-MMH,Royal Moroccan Air Force,Gulfstream G650,GLF6,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 480850,Q-01,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480851,Q-02,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480852,Q-03,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
@@ -2630,7 +2630,7 @@ ADB4AD,101,Pakistan Navy,Hawker 125 850XP,H25B,Mil,Surveillance,Eye In The Sky,S
 780074,B-4061,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 780075,B-4062,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 780076,B-4062,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
-7800C10,B-4063,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+7800C9,B-4063,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7800C9,B-4063,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7800CA,B-4064,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0949,B-4065,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
@@ -3510,7 +3510,7 @@ E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Obse
 0AC104,EJC-1125,Colombian Army,B350 Super King Air,B350,Mil,Electronic Countermeasures,SIGNIT,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC10B,EJC-1126,Colombian Army,B350 Super King Air,B350,Mil,Electronic Countermeasures,SIGNIT,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC191,EJC-1138,Colombian Army,Cessna 208B-EX Caravan,C208,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
-1108,EJC-1108,Colombian Army,Turbo Commander 690D,AC90,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
+001108,EJC-1108,Colombian Army,Turbo Commander 690D,AC90,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 3AAB97,3948,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AAB8C,4230,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AAB47,3856,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
@@ -5232,7 +5232,7 @@ AE179E,91-0320,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strik
 AE179C,91-0316,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE179B,91-0313,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE179A,91-0603,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
-AE1799,36526,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
+AE1799,Tactical,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE1797,91-0310,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE1796,91-0335,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE1795,00-3002,United States Air Force,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
@@ -5851,35 +5851,35 @@ AE0114,97-5303,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane
 AE0113,96-5302,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0112,96-5301,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0111,96-5300,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
-AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE58AD,61-0031,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5897,60-0062,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5896,60-0061,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5895,60-0060,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5894,60-0059,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5893,60-0058,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5891,60-0056,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE588C,60-0048,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE588A,60-0045,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5889,60-0044,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5883,60-0033,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5882,60-0032,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5881,60-0029,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE587E,60-0025,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE587D,60-0024,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE587B,60-0022,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE587A,60-0021,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5875,60-0012,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5873,60-0009,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5872,60-0008,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5871,60-0007,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE5870,60-0005,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
-AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,BUFF,Strategic Bomber,USAF,https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress
+AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,The Warrior,USAF,https://w.wiki/3iUw
+AE58AD,61-0031,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5897,60-0062,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5896,60-0061,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5895,60-0060,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5894,60-0059,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5893,60-0058,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5891,60-0056,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE588C,60-0048,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE588A,60-0045,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5889,60-0044,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5883,60-0033,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5882,60-0032,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5881,60-0029,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587E,60-0025,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587D,60-0024,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587B,60-0022,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587A,60-0021,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5875,60-0012,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5873,60-0009,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5872,60-0008,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5871,60-0007,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5870,60-0005,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 AE63F8,66-8404,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE63E5,65-10342,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFFC8,64-13304,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon

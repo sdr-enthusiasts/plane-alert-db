@@ -92,6 +92,7 @@ ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,
 AAFC2C,N807DC,Danaher Corp,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 ABA6DA,N85V,Dart Container Corp,Gulfstream G500,GLF5,Civ,Red Solo Cup,Containers,Bizjet,As Seen on TV,https://w.wiki/4md$
 A6C4DB,N535V,Dart Container Corp,Gulfstream G500,GLF5,Civ,Red Solo Cup,Containers,Bizjet,As Seen on TV,https://w.wiki/4md$
+A2CDE5,N28ZD,Dell USA,Bombardier Global 6000,GLEX,Civ,Laptop,Michael Dell,Order Direct,As Seen on TV,https://www.dell.com
 4B846E,TC-ACN,Deniz Bank,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4me3
 3CBDCE,D-BONN,Deutsche Telekom,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Telecoms,Handy,As Seen on TV,https://www.telekom.com/en
 A9766C,N709EL,DFS Furniture Company,Beechjet 400,BE40,Civ,Sale Must End Soon,Reduced,Buy Now Pay Forever,As Seen on TV,https://youtu.be/DGkhTEZWle4
@@ -1410,6 +1411,7 @@ A8825D,N64751,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado
 403D80,G-BXDH,RAE Aero Club,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 4022E1,G-BNZC,The Shuttleworth Collection,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C00B3B,CF-EGO,Vintage Wings of Canada,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+4B42F2,HB-ZJE,AAA Alpine Air Ambulance,Eurocopter EC135 P1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.air-ambulance.ch/
 4B4410,HB-ZUE,AAA Alpine Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.air-ambulance.ch/
 AC6CBB,N9ZB,Aerospace Medical Sleep Consultants,Cessna Citation I,C550,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.aeromedsleep.com/
 A89F5F,N655AT,Air Ambulance by Air Trek,Cessna Citation I,C500,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.medjets.com/
@@ -1808,6 +1810,7 @@ AC7832,N902SH,Sanford Medical Center,B200GT Super King Air,BE20,Civ,Air Ambo,Med
 4008A8,G-SCAA,Scotlands Charity Air Ambulance,Eurocopter EC135 T1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scaa.org.uk/
 400DFC,G-EMAA,Scotlands Charity Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scaa.org.uk/
 406D68,G-SASN,Scottish Air Ambulance Service,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scaa.org.uk
+400DC2,G-SASC,Scottish Ambulance Service,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scottishambulance.com/
 4077C8,G-ISAS,Scottish Ambulance Service,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scottishambulance.com/
 4077C7,G-GSAS,Scottish Ambulance Service,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.scottishambulance.com/
 A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.selectmedical.com/
@@ -1914,7 +1917,6 @@ ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,CL60,Civ,Covert,
 A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spyplane,All About That Wingspan,Oxcart,https://en.wikipedia.org/wiki/Grob_G_520
 407B44,G-GMAF,Gama Aviation,B200 Super King Air,BE20,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 407765,G-YVIP,Gama Aviation,B200 Super King Air,BE20,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
-400DC2,G-SASC,Gama Aviation,B200 Super King Air,BE20,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 400D64,G-PCOP,Gama Aviation,B200 Super King Air,BE20,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 4073E1,G-DAYP,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 406A2E,G-GMAD,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
