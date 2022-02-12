@@ -96,6 +96,7 @@ ADCA0B,N988NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,
 AC705B,N900NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 AC643B,N898NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 ACE463,N93M,3M Company,Gulfstream G650 ER,GLF6,Civ,Chemicals,Mining,Sticky Tape,As Seen on TV,https://en.wikipedia.org/wiki/3M
+AC6F37,N900AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A3C881,N343AP,Air Products & Chemicals,Dassault Falcon 7X,FA7X,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
@@ -103,7 +104,7 @@ ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy 
 A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
-AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
+AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms Company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
 A8908B,N651BA,Bank of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 C047EB,C-GBGC,Barrick Gold Corp,Gulfstream G500,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 C05613,C-GGPM,Barrick Gold Corp,Gulfstream G550,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
@@ -116,6 +117,7 @@ A2AE06,N272BC,Bissell Inc,Bombardier Challenger 350,CL35,Civ,Mega Maid,Vacuum Cl
 AB79E3,N839BA,Boeing Executive Flight Operations,Boeing 737NG-BBJ2,B737,Civ,Man Made Climate Change,Boeing Business Jet,MCAS,As Seen on TV,https://xkcd.com/1732
 A6F207,N547BA,Boeing Executive Flight Operations,Bombardier Challenger 650,CL60,Civ,Bizjet,Must Be Nice,MCAS,As Seen on TV,https://en.wikipedia.org/wiki/Boeing
 AA1AB5,N750GX,Bombardier Aerospace Corp,Bombardier Global 7500,GL7T,Civ,We Make Planes,Bizjet,Aerospace,As Seen on TV,https://en.wikipedia.org/wiki/Bombardier_Aviation
+A7D9FC,N605BS,Boston Scientific Corp,Bombardier Challenger 605,CL60,Civ,Bizjet,Taxus Stent,Medical Devices,As Seen on TV,https://en.wikipedia.org/wiki/Boston_Scientific
 A988EC,N713TS,Cactus Jack Airlines,Embraer Lineage 1000,E190,Civ,Travis Scott,Astroworld,Not A Good Human,As Seen on TV,https://en.wikipedia.org/wiki/Cactus_Jack_Records
 485B87,PH-JWL,Cartier,Dassault Falcon 2000LXS,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
 4859C1,PH-WTC,Cartier,Dassault Falcon 2000S,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
@@ -131,6 +133,8 @@ A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Telecoms,Customer Ser
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
 AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A0BE47,N147SF,Constellation Brands,Gulfstream G550,GLF5,Civ,Bizjet,Booze,Alcohol,As Seen on TV,https://en.wikipedia.org/wiki/Constellation_Brands
+A493A2,N394WJ,CoPart Inc,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 AB5648,N83CW,Costco Wholesale,Gulfstream G550,GLF5,Civ,Giant Pizza,Free Samples,Extended Family Size,As Seen on TV,https://www.costco.com
 A2D59E,N282CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
 A2D1E7,N281CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
@@ -168,10 +172,10 @@ A7907F,N587G,General Dynamics Corp,Gulfstream G550,GLF5,Civ,Arms Company,Aerospa
 A78CC8,N586G,General Dynamics Corp,Gulfstream G550,GLF5,Civ,Arms Company,Aerospace,Defense,As Seen on TV,https://en.wikipedia.org/wiki/General_Dynamics
 A0046F,N10XG,Google Inc,Gulfstream G550,GLF5,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
 A8926A,N651WE,Google Inc,Gulfstream G650 ER,GLF6,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
-A2CEA4,N280GU,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en
-A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream G500,GLF5,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en
-AD441A,N954GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en/
-A9CBA5,N730GD,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en/
+A2CEA4,N280GU,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream G500,GLF5,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+AD441A,N954GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en/
+A9CBA5,N730GD,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en/
 3CD2CC,D-CHDC,Heidelberg Cement AG,Cessna Citation Sovereign,C680,Civ,Concrete,Climate Crisis,Kendeng Mountains,As Seen on TV,https://w.wiki/4nmV
 ACE9E8,N931FL,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
 A5767D,N451GV,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
@@ -235,7 +239,7 @@ A094F7,N1368M,Met Life Insurance Company,Bombardier Global 5000,GL5T,Civ,Bizjet,
 39AE37,F-HLRX,Michelin Air Services,Dassault Falcon 2000S,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
 A6C3AA,N535GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
 A184D7,N1972N,Nike Inc,Gulfstream G650 ER,GLF6,Civ,Swoosh,Waffle,Nike,As Seen on TV,https://w.wiki/3iVT
-A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,K1xt,As Seen on TV,https://www.microsoft.com
+A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,kx1t,As Seen on TV,https://www.microsoft.com
 7618CC,AP-FFL,Pak-Arab Fertilizers,Bombardier Challenger 605,CL60,Civ,Nitrates,Urea,Calcium Amonium Nitrate,As Seen on TV,https://youtu.be/7-EVAH3HaB0
 AADF08,N8VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
 AA198D,N75VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
@@ -251,7 +255,7 @@ A7DB57,N605RP,Purina Petcare,Bombardier Challenger 605,CL60,Civ,Nestle is Evil,P
 AC39DC,N887WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Sucks,As Seen on TV,https://en.wikipedia.org/wiki/Qualcomm
 AC3625,N886WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Sucks,As Seen on TV,https://en.wikipedia.org/wiki/Qualcomm
 A875A2,N644RV,Rafael Vinoly Architects,Dassault Falcon 2000,F2TH,Civ,Architect,Walkie Talkie,Monstrous Carbuncle,As Seen on TV,https://en.wikipedia.org/wiki/20_Fenchurch_Street
-4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
+4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms Company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
 4B199D,HB-JSF,Robert Bosch,Bombardier Challenger 650,CL60,Civ,Bizjet,Power Tools,Jobs A Good Un,As Seen on TV,https://en.wikipedia.org/wiki/Robert_Bosch_GmbH
 4B184A,HB-JFE,Rolex,Bombardier Global 6000,GLEX,Civ,Wrist Watch,Oyster,How Much,As Seen on TV,https://www.rolex.com
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,As Seen on TV,https://w.wiki/4n6X
@@ -869,10 +873,10 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 0D8106,YV1118,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-48D981,112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D960,1,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEo
-48D980,110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D961,2,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D961,0002,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 4241BB,VP-CAL,Prince Mohammed bin Fahd al Saud,Boeing 777-LR,B77L,Gov,Saudi Arabia,Government,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A05B,A7AFE,Qatar Amiri Flight,Airbus A310-308,A310,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A038,A7-HHM,Qatar Amiri Flight,Airbus A330-202,A332,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1789,6 +1793,7 @@ A848AC,N6328T,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber
 A520CB,N43AF,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 4B2ED2,HB-RTA,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 4B2D25,HB-RCN,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+44A9F9,OO-JOY,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 403D06,G-OHAL,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4030B1,G-BRXY,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4B2D23,HB-RCL,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
@@ -2684,6 +2689,7 @@ A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spypl
 7B0FCD,B-4068,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B7026,B-4069,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 789002,B-4661,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+498447,2601,Czech Air Force,Let L-410 UVP-E,L410,Mil,What Big Eyes You Have,Surveillance,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Czech_Air_Force
 3B77DD,201,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B77DC,202,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B77DB,203,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -2728,7 +2734,7 @@ A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spypl
 3F5360,46+24,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3EBFCE,46+56,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F5FEE,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Luftwaffe,Oxcart,https://w.wiki/4meM
+3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
 4CA44B,280,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41E,283,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41D,282,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
@@ -2764,6 +2770,8 @@ A5782B,N4510,Private,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,All About T
 43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
 43C918,ZP801,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
 43C91E,ZP807,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
+43C91D,ZP806,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
+43C91F,ZP808,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
 43C39D,ZZ666,Royal Air Force,Boeing RC-135W Airseeker,R135,Mil,Eye In The Sky,SIGINT,Reconnaissance,Oxcart,https://www.raf.mod.uk
 43C39C,ZZ665,Royal Air Force,Boeing RC-135W Airseeker,R135,Mil,Eye In The Sky,SIGINT,Reconnaissance,Oxcart,https://www.raf.mod.uk
 43C38C,ZZ664,Royal Air Force,Boeing RC-135W Airseeker,R135,Mil,Eye In The Sky,SIGINT,Reconnaissance,Oxcart,https://www.raf.mod.uk
@@ -2895,7 +2903,6 @@ AE148F,94-0285,United States Air Force,E-8C J-STARS,B703,Mil,Combat Control,Quar
 AE148E,94-0284,United States Air Force,E-8C J-STARS,B703,Mil,Combat Control,Quarterback,Surveillance,Oxcart,https://www.military.com/equipment/e-8c-joint-stars
 AE148D,93-1097,United States Air Force,E-8C J-STARS,B703,Mil,Combat Control,Quarterback,Surveillance,Oxcart,https://www.military.com/equipment/e-8c-joint-stars
 AE148B,92-3290,United States Air Force,E-8C J-STARS,B703,Mil,Combat Control,Quarterback,Surveillance,Oxcart,https://www.military.com/equipment/e-8c-joint-stars
-AE148A,92-3289,United States Air Force,E-8C J-STARS,B703,Mil,Combat Control,Quarterback,Surveillance,Oxcart,https://www.military.com/equipment/e-8c-joint-stars
 AE0965,80-1091,United States Air Force,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE0959,80-1078,United States Air Force,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
 AE094E,80-1065,United States Air Force,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2

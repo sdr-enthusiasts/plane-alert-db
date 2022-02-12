@@ -47,6 +47,7 @@ ADCA0B,N988NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,
 AC705B,N900NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 AC643B,N898NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 ACE463,N93M,3M Company,Gulfstream G650 ER,GLF6,Civ,Chemicals,Mining,Sticky Tape,As Seen on TV,https://en.wikipedia.org/wiki/3M
+AC6F37,N900AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A3C881,N343AP,Air Products & Chemicals,Dassault Falcon 7X,FA7X,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
@@ -54,7 +55,7 @@ ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy 
 A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
-AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
+AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms Company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
 A8908B,N651BA,Bank of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 C047EB,C-GBGC,Barrick Gold Corp,Gulfstream G500,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 C05613,C-GGPM,Barrick Gold Corp,Gulfstream G550,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
@@ -67,6 +68,7 @@ A2AE06,N272BC,Bissell Inc,Bombardier Challenger 350,CL35,Civ,Mega Maid,Vacuum Cl
 AB79E3,N839BA,Boeing Executive Flight Operations,Boeing 737NG-BBJ2,B737,Civ,Man Made Climate Change,Boeing Business Jet,MCAS,As Seen on TV,https://xkcd.com/1732
 A6F207,N547BA,Boeing Executive Flight Operations,Bombardier Challenger 650,CL60,Civ,Bizjet,Must Be Nice,MCAS,As Seen on TV,https://en.wikipedia.org/wiki/Boeing
 AA1AB5,N750GX,Bombardier Aerospace Corp,Bombardier Global 7500,GL7T,Civ,We Make Planes,Bizjet,Aerospace,As Seen on TV,https://en.wikipedia.org/wiki/Bombardier_Aviation
+A7D9FC,N605BS,Boston Scientific Corp,Bombardier Challenger 605,CL60,Civ,Bizjet,Taxus Stent,Medical Devices,As Seen on TV,https://en.wikipedia.org/wiki/Boston_Scientific
 A988EC,N713TS,Cactus Jack Airlines,Embraer Lineage 1000,E190,Civ,Travis Scott,Astroworld,Not A Good Human,As Seen on TV,https://en.wikipedia.org/wiki/Cactus_Jack_Records
 485B87,PH-JWL,Cartier,Dassault Falcon 2000LXS,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
 4859C1,PH-WTC,Cartier,Dassault Falcon 2000S,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
@@ -82,6 +84,8 @@ A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Telecoms,Customer Ser
 A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
 AAC36A,N793CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A0BE47,N147SF,Constellation Brands,Gulfstream G550,GLF5,Civ,Bizjet,Booze,Alcohol,As Seen on TV,https://en.wikipedia.org/wiki/Constellation_Brands
+A493A2,N394WJ,CoPart Inc,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 AB5648,N83CW,Costco Wholesale,Gulfstream G550,GLF5,Civ,Giant Pizza,Free Samples,Extended Family Size,As Seen on TV,https://www.costco.com
 A2D59E,N282CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
 A2D1E7,N281CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pump,Rolling Coal,As Seen on TV,https://www.cummins.com
@@ -92,6 +96,7 @@ ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,
 AAFC2C,N807DC,Danaher Corp,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 ABA6DA,N85V,Dart Container Corp,Gulfstream G500,GLF5,Civ,Red Solo Cup,Containers,Bizjet,As Seen on TV,https://w.wiki/4md$
 A6C4DB,N535V,Dart Container Corp,Gulfstream G500,GLF5,Civ,Red Solo Cup,Containers,Bizjet,As Seen on TV,https://w.wiki/4md$
+3837DA,F-WWGF,Dassault Aviation,Dassault Falcon 2000LXS,F2TH,Civ,We Make Planes,Jet Fighters,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Dassault_Aviation
 A2CDE5,N28ZD,Dell USA,Bombardier Global 6000,GLEX,Civ,Laptop,Michael Dell,Order Direct,As Seen on TV,https://www.dell.com
 4B846E,TC-ACN,Deniz Bank,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4me3
 3CBDCE,D-BONN,Deutsche Telekom,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Telecoms,Handy,As Seen on TV,https://www.telekom.com/en
@@ -119,10 +124,11 @@ A7907F,N587G,General Dynamics Corp,Gulfstream G550,GLF5,Civ,Arms Company,Aerospa
 A78CC8,N586G,General Dynamics Corp,Gulfstream G550,GLF5,Civ,Arms Company,Aerospace,Defense,As Seen on TV,https://en.wikipedia.org/wiki/General_Dynamics
 A0046F,N10XG,Google Inc,Gulfstream G550,GLF5,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
 A8926A,N651WE,Google Inc,Gulfstream G650 ER,GLF6,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
-A2CEA4,N280GU,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en
-A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream G500,GLF5,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en
-AD441A,N954GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en/
-A9CBA5,N730GD,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,Like A G5,As Seen on TV,https://www.gulfstream.com/en/
+A2CEA4,N280GU,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+A7C7E6,N600GS,Gulfstream Aerospace Corp,Gulfstream G500,GLF5,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+A78912,N585GA,Gulfstream Aerospace Corp,Gulfstream G500,GA5C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+AD441A,N954GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en/
+A9CBA5,N730GD,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en/
 3CD2CC,D-CHDC,Heidelberg Cement AG,Cessna Citation Sovereign,C680,Civ,Concrete,Climate Crisis,Kendeng Mountains,As Seen on TV,https://w.wiki/4nmV
 ACE9E8,N931FL,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
 A5767D,N451GV,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
@@ -186,7 +192,7 @@ A094F7,N1368M,Met Life Insurance Company,Bombardier Global 5000,GL5T,Civ,Bizjet,
 39AE37,F-HLRX,Michelin Air Services,Dassault Falcon 2000S,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
 A6C3AA,N535GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
 A184D7,N1972N,Nike Inc,Gulfstream G650 ER,GLF6,Civ,Swoosh,Waffle,Nike,As Seen on TV,https://w.wiki/3iVT
-A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,K1xt,As Seen on TV,https://www.microsoft.com
+A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,kx1t,As Seen on TV,https://www.microsoft.com
 7618CC,AP-FFL,Pak-Arab Fertilizers,Bombardier Challenger 605,CL60,Civ,Nitrates,Urea,Calcium Amonium Nitrate,As Seen on TV,https://youtu.be/7-EVAH3HaB0
 AADF08,N8VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
 AA198D,N75VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
@@ -202,8 +208,10 @@ A7DB57,N605RP,Purina Petcare,Bombardier Challenger 605,CL60,Civ,Nestle is Evil,P
 AC39DC,N887WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Sucks,As Seen on TV,https://en.wikipedia.org/wiki/Qualcomm
 AC3625,N886WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Sucks,As Seen on TV,https://en.wikipedia.org/wiki/Qualcomm
 A875A2,N644RV,Rafael Vinoly Architects,Dassault Falcon 2000,F2TH,Civ,Architect,Walkie Talkie,Monstrous Carbuncle,As Seen on TV,https://en.wikipedia.org/wiki/20_Fenchurch_Street
-4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
+42410,VP-CNR,Rashid Engineering,Gulfstream G650,GLF6,Civ,Billionaire,Bizjet,Lady Moura,As Seen on TV,https://en.wikipedia.org/wiki/Nasser_Ibrahim_Al-Rashid
+4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms Company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
 4B199D,HB-JSF,Robert Bosch,Bombardier Challenger 650,CL60,Civ,Bizjet,Power Tools,Jobs A Good Un,As Seen on TV,https://en.wikipedia.org/wiki/Robert_Bosch_GmbH
+4B199E,HB-JSG,Robert Bosch GmbH,Bombardier Challenger 605,CL60,Civ,Power Tools,White Goods,Bizjet,As Seen on TV,https://en.wikipedia.org/wiki/Robert_Bosch_GmbH
 4B184A,HB-JFE,Rolex,Bombardier Global 6000,GLEX,Civ,Wrist Watch,Oyster,How Much,As Seen on TV,https://www.rolex.com
 43EA86,M-ABJA,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
@@ -501,6 +509,7 @@ AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,
 403B6A,G-YAKX,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 44CAB3,OO-RUS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 4039F4,G-BVXK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+44E6D6,OO-YVV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 402678,G-BMJY,Private,Yakovlev Yak-18A,YK18,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18
 3D2C78,D-EPCA,Private,Yakovlev Yak-18T,Y18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
@@ -677,6 +686,8 @@ A63954,N50TV,Portland Oregon's Shared News Chopper,Bell 206B Jet Ranger,B06,Civ,
 40100E,G-VANC,Skydive Ireland,GA-8 Airvan,GA8,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 406634,G-SYLV,Skydive Swansea,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,http://www.skydiveswansea.co.uk
 407986,G-SVAN,Skydive UK,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://tinyurl.com/2p86yrwp
+7C6AA1,VH-VCJ,Skytraders,Airbus A319-132LR,A319,Civ,South Pole,Ice Runway,Antartic,Dogs with Jobs,https://en.wikipedia.org/wiki/Skytraders
+7C6B4C,VH-VHA,Skytraders,CASA C-212 Aviocar 400,C212,Civ,Skibird,Ice Runway,Antartic,Dogs with Jobs,https://en.wikipedia.org/wiki/Skytraders
 0081F2,ZS-ASN,Spectrem 2000 Microsurvey,Douglas DC-3 BT-67,DC3T,Civ,Weather Recon,Turboprop,Rejuvenated,Dogs with Jobs,https://cdn.jetphotos.com/full/2/42922_1255822940.jpg
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,SC7,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://abpic.co.uk/pictures/registration/C-FARA
 C001BB,C-FARA,Summit Air,Short Skyvan 3-100,SC7,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://abpic.co.uk/pictures/registration/C-FARA
@@ -845,10 +856,12 @@ A6C25D,N5345N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,
 A5840C,N4545N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 406E76,G-CIPE,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 40313A,G-BSDS,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+40780A,G-CLEN,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4039B3,G-ISDN,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A57267,N450D,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4B2D04,HB-RBG,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+AA651D,N769Y,Private,Brunner-Winkle Bird CK,ZZZZ,Civ,Biplane,Joyride,Historic,Historic,https://en.wikipedia.org/wiki/Brunner-Winkle_Bird
 401F85,G-BJAL,Private,Bucker 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
 A36C3A,N32CS,Private,CAC Boomerang CA-13,CA19,Civ,The Front Fell Off,Replica,Fighter,Historic,https://w.wiki/4o4i
 401FD1,G-BJST,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
@@ -875,12 +888,15 @@ A1B748,N21BF,Private,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestruc
 AD2D55,N94804,Private,Ercoupe 415-E,ERCO,Civ,Nearly Foolproof,Double Vision,I Am Old,Historic,https://en.wikipedia.org/wiki/ERCO_Ercoupe
 4B1B4C,HB-KIU,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
 3D0B74,D-ECOY,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
+45C1F4,OY-POT,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
 4B2D38,HB-RDG,Private,General Motors TBM-3R Avenger,TBM,Civ,Torpedo Bomber,Midway,WW2,Historic,https://en.wikipedia.org/wiki/Grumman_TBF_Avenger
+406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Historic,Historic,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
 404736,G-HRLI,Private,Hawker Hurricane,HURI,Civ,Historic,War Bird,WW2,Historic,https://w.wiki/4o4R
 4045F0,G-HUPW,Private,Hawker Hurricane,HURI,Civ,Historic,War Bird,WW2,Historic,https://w.wiki/4o4R
 4B2DC0,HB-RIM,Private,Junkers F 13,F13,Civ,Shiny,History,All Metal,Historic,https://en.wikipedia.org/wiki/Junkers_F_13
 A0C7D4,N14999,Private,Lockheed Electra Junior L12A,L12,Civ,All Metal,Radial Engine,I Am Old,Historic,https://w.wiki/4o4F
 4070BE,G-HOUR,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
+406BE5,G-CIGH,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
 4B2CF2,HB-RAO,Private,Morane-Saulnier MS.317,MS31,Civ,Primary Trainer,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_MS.315
 4B0B69,HB-EIJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 3821E9,F-BIPJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
@@ -890,8 +906,12 @@ A848AC,N6328T,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber
 A520CB,N43AF,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 4B2ED2,HB-RTA,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 4B2D25,HB-RCN,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+44A9F9,OO-JOY,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+A4D7B6,N4109C,Private,North American T-6G Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 403D06,G-OHAL,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4030B1,G-BRXY,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
+407946,G-CLKH,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
+4077CC,G-CLDH,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4B2D23,HB-RCL,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1C,HB-RCE,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1B,HB-RCD,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
@@ -961,24 +981,29 @@ AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Chur
 4017C1,G-AWPZ,Private,Andreasson BA-4B,ZZZZ,Civ,Biplane,Aerobatics,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Andreasson_BA-4B
 401416,G-AIBW,Private,Auster J/1N Alpha,J1,Civ,Highwing,Gipsy Major,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/Auster_Autocrat
 4063F1,G-ASCH,Private,Beagle A.61 Terrier 2,AUS6,Civ,Rejuvenated,Highwing,Auster,Joe Cool,https://en.wikipedia.org/wiki/Beagle_Terrier
+486043,PH-TRZ,Private,Blackshape Gabriel,GABR,Civ,Sleek,Shiny,Fast,Joe Cool,https://www.airforce-technology.com/projects/blackshape-gabriel/
 A9702C,N707SN,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://cirrusaircraft.com/aircraft/vision-jet
 43EDEE,2-YOLO,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://cirrusaircraft.com/aircraft/vision-jet
 407B7D,G-MRKM,Private,CubCrafters Carbon Cub CCK-1865,PA18,Civ,STOL,Carbon Fibre,Who Needs A Runway,Joe Cool,https://en.wikipedia.org/wiki/CubCrafters_Carbon_Cub_EX
 406FD2,G-EVMK,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+A8F778,N677TX,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 403A16,G-REDX,Private,Experimental Aviation Berkut,BKUT,Civ,Whoosh,Shiny,Canards,Joe Cool,https://en.wikipedia.org/wiki/Berkut_360
 3D3ECF,D-EWAP,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 4039E9,G-SIII,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 40436D,G-XXHP,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 49D104,OK-ELC,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
+3D427D,D-EXKV,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 407347,G-HEDL,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406DEF,G-GEJS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 406FB7,G-IISC,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406FED,G-IHHI,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D4253,D-EXJF,Private,Extra NG,EXNG,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://tinyurl.com/5vmpwb4w
+48645B,PH-IBM,Private,Extra NG,EXNG,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://tinyurl.com/5vmpwb4w
 485FB5,PH-WAG,Private,Fisher Celebrity,CLBR,Civ,Biplane,Tail Dragger,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Fisher_Celebrity
 407C1D,G-GAMB,Private,Game Composites Gamebird GB1,GB1,Civ,Do A Barrel Roll,All Carbon,Unlimted Aerobatics,Joe Cool,https://gamecomposites.com/
 4B2F1A,HB-RVU,Private,Hawker Hunter F58,HUNT,Civ,Jet Fighter,Transonic,Cargo,Joe Cool,https://en.wikipedia.org/wiki/Hawker_Hunter
+406D6D,G-ISAC,Private,Isaacs Spitfire,ISPT,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://en.wikipedia.org/wiki/Isaacs_Spitfire
 407336,G-RHOD,Private,Just Aircraft Super STOL,ZZZZ,Civ,To Be Faaaaaaaaaaaaaaaaaaair,STOL,I Do Need No Stinking Runway,Joe Cool,https://justaircraft.com
 AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Duck To Water,Joe Cool,https://en.wikipedia.org/wiki/Lake_Renegade
 404CE3,G-CDDP,Private,Laser Z-230,LAKR,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4o4r
@@ -989,16 +1014,20 @@ AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Du
 405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 AA7934,N774PM,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 170000,G-TWRL,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+A02B06,N11N,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 3D355A,D-ESLM,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+44BAA5,OO-NUE,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4490D0,OO-DFP,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A345AF,N31NL,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4059FD,G-SJBI,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+4031D3,G-KITI,Private,Pitts Special S-2SE,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 478710,LN-PLO,Private,Republic RC-3 Seabee,RC3,Civ,Amphibian,Shiny,Historic,Joe Cool,https://w.wiki/4o3Z
 402F0E,G-BRFB,Private,Rutan Long-Ez,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://en.wikipedia.org/wiki/Rutan_Long-EZ
 A3BC70,N34RD,Private,Rutan VariEze,VEZE,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://w.wiki/4o3T
 406F24,G-XCID,Private,Saab Safir S-91D,SB91,Civ,Training Wheels,L-Plate,Bork Bork Bork,Joe Cool,https://en.wikipedia.org/wiki/Saab_91_Safir
 4079BE,G-SCHW,Private,Schweizer 269C,H269,Civ,Chopper,Lightweight,Bubble Canopy,Joe Cool,https://en.wikipedia.org/wiki/Schweizer_S300
 403147,G-WHRL,Private,Schweizer 269C,H269,Civ,Chopper,Lightweight,Bubble Canopy,Joe Cool,https://w.wiki/4o3R
+40671E,G-YELP,Private,Sherwood Ranger ST,ULAC,Civ,Biplane,Ultralight,Nope-mobile,Joe Cool,https://en.wikipedia.org/wiki/Tiger_Cub_Developments_Sherwood_Ranger
 40764B,G-RAZI,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260
 401187,G-MACH,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260
 4064A5,G-MRJP,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,I Want One Of Those,Joe Cool,https://silence-aircraft.de/en/aircraft
@@ -1006,18 +1035,22 @@ A3BC70,N34RD,Private,Rutan VariEze,VEZE,Civ,Whoosh,Shiny,Spaceship Spaceship Spa
 40118A,G-TWSR,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,I Want One Of Those,Joe Cool,https://silence-aircraft.de/en/aircraft
 4480A2,OO-162,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,I Want One Of Those,Joe Cool,https://silence-aircraft.de/en/aircraft
 405E74,G-TWSS,Private,Silence Aircraft Twister 2L,TWST,Civ,Not A Spitfire,Twister,I Want One Of Those,Joe Cool,https://silence-aircraft.de/en/aircraft
+407349,G-IPII,Private,Steen Skybolt 1-A,BOLT,Civ,Biplane,Aerobatics,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Steen_Skybolt
 4063D6,G-CGOI,Private,Stewart S-51D,S51D,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4o4s
 A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
 A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
 402A39,G-BOBT,Private,Stolp SA.300 Starduster Too,SA30,Civ,Biplane,Aerobatics,Cool,Joe Cool,https://en.wikipedia.org/wiki/Stolp_Starduster_Too
+A1F7AA,N226DV,Private,Stolp SA.300 Starduster Too,SA30,Civ,Biplane,Aerobatics,Cool,Joe Cool,https://en.wikipedia.org/wiki/Stolp_Starduster_Too
 4020C1,G-BLES,Private,Stolp SA.750 Acroduster Too,SA75,Civ,Aerobatics,Biplane,Do A Barrel Roll,Joe Cool,https://w.wiki/4nzX
 4B2196,HB-MSS,Private,Sukhoi Su-26 M2,SU26,Civ,Do A Barrel Roll,Pass The Sick Bag,Unlimted Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Sukhoi_Su-26
 406987,G-ENAA,Private,Supermarine Aircraft Spitfire Mk26,SASP,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzV
 406C1D,G-DHYS,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
 406B70,G-CIFD,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
 407078,G-FION,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
+405C40,G-MUZY,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
 A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Flying Machines,Biplane,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/Travel_Air_2000
 406D00,G-CIMX,Private,Westland Scout AH.1,SCOU,Civ,Chopper,Get To The Choppa,Speak Up Sonny,Joe Cool,https://en.wikipedia.org/wiki/Westland_Scout
+403B1A,G-BWHU,Private,Westland Scout AH.1,SCOU,Civ,Chopper,Get To The Choppa,Speak Up Sonny,Joe Cool,https://en.wikipedia.org/wiki/Westland_Scout
 A22E8A,N24KC,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Airship,Totaly Safe,No Smoking Please,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 403B11,G-MIII,Private Owner,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-300
 470803,G-MXII,Private Owner,Pitts Monster P-12 (Amateur Built),PTMS,Civ,Do A Barrel Roll,Biplane,Bolshoi,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Model_12
@@ -2309,8 +2342,10 @@ C0010A,C-FAKF,Private,AutoGyro Europe Cavalon,CLON,Civ,Little Nellie,Gyrocopter,
 407234,G-CJTC,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 407053,G-GYRA,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 406727,G-MRLS,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
+40628E,G-OTTY,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 406B25,G-YROL,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 40698B,G-RDNY,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
+407855,G-VMSO,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 405DCD,G-CFKA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 401257,G-JBRE,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
 405A3B,G-DADA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope-mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
