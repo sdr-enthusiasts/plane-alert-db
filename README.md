@@ -3,7 +3,6 @@
 
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **https://github.com/kx1t/docker-planefence** . 
 
-I use it to run an automated twitter account using my own adsb data **https://twitter.com/GetToTheChopp11** 
 
 # Current Content
 
