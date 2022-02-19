@@ -127,6 +127,7 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 320013,MM62208,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32000C,MM62270,Italian Coast Guard,ATR 42-400MP,AT45,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 33FE9D,MM62274,Italian Coast Guard,Piaggio P-180 Avanti II,P180,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
+32002E,MM62311,Italian Customs Police,ATR 72-600MPA,AT76,Gov,Maritime Patrol,Coastguard,Eye In The Sky,Coastguard,https://en.wikipedia.org/wiki/Guardia_di_Finanza
 873E78,JA967A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
 873E56,JA966A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
 873E34,JA965A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
@@ -230,7 +231,7 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 4AB423,SE-MAC,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB422,SE-MAB,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
-4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,C235,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
+4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822B,TCSG-552,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 AE4BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -670,6 +671,8 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D982,111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D961,0002,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
@@ -836,6 +839,7 @@ ADFEB3,73-1676,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of Th
 484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply ,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
 398895,F-HCEV,D.G. de l'Aviation Civile,B200GT Super King Air,BE20,Gov,Flying Classroom,Ou Sont Les Bagages,Vomit Comet,Dogs with Jobs,https://www.ecologie.gouv.fr
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,GLF5,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
+3B7F72,F-ZAFT,DGA Essais en Vol,Fokker F100,F100,Gov,Testbed,ABE-NG,Flight Test,Dogs with Jobs,https://www.aeroflight.co.uk/ops/gov/dga-essais-en-vol.htm
 AACABF,N795BP,DoE Powerline Inspection,Bell 407,B407,Gov,Overload,Poweline Inspection,Wichita Lineman,Dogs with Jobs,https://www.energy.gov
 ABCC7D,N86,Federal Aviation Administration,Bombardier Challenger 601,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
 ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
@@ -845,6 +849,10 @@ AC42FA,N89,Federal Aviation Administration,Bombardier Challenger 605,CL60,Gov,FA
 400DE5,G-HIJK,Met Office,Cessna 421 Golden Eagle,C421,Gov,Weather Recon,Measuring Stick,Nice Weather For Ducks,Dogs with Jobs,https://tinyurl.com/2p9druuh
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
 A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P68,Gov,Fish,Wildlife,Nature Patrol,Dogs with Jobs,https://wdfw.wa.gov
+3CC9AB,D-CDRF,DRF Luftrettung,Learjet 35A,LJ35,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+4043AD,G-EHMS,London Air Ambulance,MD 900 Explorer,EXPL,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
+7C6A62,VH-VAS,Mac Rescue,Bell 412EP,B412,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://tinyurl.com/58nvjmda
+4068DA,G-HMDX,Specialist Aviation Services,MD 900 Explorer,EXPL,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
 800C3D,VT-ALW,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 800585,VT-ALV,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Sebastian Piñera,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
@@ -971,6 +979,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernandez,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
+4681E4,135L-484,Greek Air Force,Embraer Legacy 600,E35L,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
 4682A6,678,Greek Air Force,Gulfstream G500,GLF5,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
 71CC55,HL9455,GyeongGi Provincial Government,Eurocopter AS365 Dauphin,AS65,Gov,Korea,Moon Jae-in,Government,Governments,https://english.gg.go.kr
 78920E,B-LVJ,Hong Kong Government Flying Service,Airbus Helicopters H175,EC75,Gov,Hong Kong,Carrie Lam,Government,Governments,https://www.gfs.gov.hk/eng/aboutgfs.htm
@@ -1053,10 +1062,6 @@ AE11F6,01-1941,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The S
 AE115D,01-2015,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE0945,14611,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Government,Aviation Vanguard Of The Homeland,Governments,https://w.wiki/4nmf
-3CC9AB,D-CDRF,DRF Luftrettung,Learjet 35A,LJ35,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
-4043AD,G-EHMS,London Air Ambulance,MD 900 Explorer,EXPL,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
-7C6A62,VH-VAS,Mac Rescue,Bell 412EP,B412,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://tinyurl.com/58nvjmda
-4068DA,G-HMDX,Specialist Aviation Services,MD 900 Explorer,EXPL,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
 A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
@@ -1495,7 +1500,7 @@ AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.justice.gov
-A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
+A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
 400EE3,G-BYVF,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/

@@ -932,7 +932,7 @@ A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-ER,B77W,Gov,Dictator Alert,Moh
 71002D,HZ-SK1,Saudi Ministry of Finance,Gulfstream G400SP,GLF4,Gov,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 710096,HZ-AS45,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 710094,HZ-AS44,Saudi Royal Flight,Airbus A320-200,A320,Civ,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
-710277,HZ-AS99,Saudi Royal Flight,Airbus ACJ318-100,ACJ3,Civ,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
+710277,HZ-AS99,Saudi Royal Flight,Airbus ACJ318-100,A318,Civ,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 71010B,HZ-124,Saudi Special Flight Services,Airbus A340-200,A342,Civ,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 896063,A6-ESH,Sharjah Rulers Flight,Airbus ACJ319-132,A319,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896436,A6-SHJ,Sharjah Rulers Flight,Airbus ACJ320-232XSL,A320,Gov,Dictator Alert,Mohammed bin Rashid Al Maktoum,,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1119,16 +1119,36 @@ A4533A,N378TP,ETPC Aviation,Embraer Lineage 1000E,E190,Civ,Bizjet,Madea,Tyler Pe
 A2AE0A,N272BG,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
 A64304,N502SX,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
 A835AF,N629TS,Falcon Landing LLC,Gulfstream G650,GLF6,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
-A34877,N310SX,Falcon Landing LLC,Not Yet Allocated,????,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
-AB1270,N812SX,Falcon Landing LLC,Not Yet Allocated,????,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
-AB817F,N840SX,Falcon Landing LLC,Not Yet Allocated,????,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
-ACDD88,N928SX,Falcon Landing LLC,Not Yet Allocated,????,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
+A34877,N310SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
+AB1270,N812SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
+AB817F,N840SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
+ACDD88,N928SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am ?,https://youtu.be/bvim4rsNHkQ
 A4A848,N4DP,Green Chair Productions Inc,Gulfstream G-IV,GLF4,Civ,Dr Phil,Ineffective,Harmful,Don't you know who I am ?,https://en.wikipedia.org/wiki/Phil_McGraw#Controversies_and_lawsuits
 424B0B,M-GFGC,Greensill Capital,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Lex Greensill,Don't you know who I am ?,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 4073B5,G-GARE,Grosvenor Estates,Cessna Citation XLS,C56X,Civ,Money Money Money,Must Be Nice,Owns Half Of London,Don't you know who I am ?,https://en.wikipedia.org/wiki/Grosvenor_Group
 A77C26,N5811M ,Jerry Moss,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Music Mogul,A&M Records,Don't you know who I am ?,https://en.wikipedia.org/wiki/Jerry_Moss
 AB013E,N808T,Tom Cruise,Gulfstream G-IV,GLF4,Civ,Maverick,Ethan Hunt,Xenu,Don't you know who I am ?,https://youtu.be/EPzvExtJgxw
 42481F,VP-CTO,Wings of Grace,Bombardier Global 7500,GL7T,Civ,Bizjet,Billionaire ,Folorunso Alakija,Don't you know who I am ?,https://en.wikipedia.org/wiki/Folorunso_Alakija
+A638E1,N50PE,Primecare Medical,B200GT Super King Air,BE20,Civ,Air Ambo,Correctional Healthcare,Saving Lives,Flying Doctors,http://www.primecaremedical.com/
+AB63E5,N833EB,Remote Area Medical Foundation,Cessna 208 Caravan,C208,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ramusa.org/
+AB87AD,N842EB,Remote Area Medical Foundation,Cessna 208B Caravan,C208,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ramusa.org/
+ADB4D1,N982Z,Remote Area Medical Foundation,Douglas C-47A Dakota,DC3T,Civ,Air Ambo,Medical Evac,Dakota,Flying Doctors,https://www.ramusa.org/
+A1A64D,N205TP,Remote Medical Flights,Pilatus PC-6 B2-H4,PC6T,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.remotemedical.com/
+710197,HZ-MS52,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710196,HZ-MS51,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+71020A,HZ-MS75,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710209,HZ-MS74,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710208,HZ-MS73,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710205,HZ-MS72,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710204,HZ-MS71,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+7101A1,HZ-MS4A,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710022,HZ-MS4C,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream G500,GLF5,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream G500,GLF5,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710386,HZ-128,Saudi Armed Forces Medical Services,L-100-30 Hercules,C130,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+71021E,HZ-MS1B,Saudi Armed Forces Medical Services,Learjet 60XR,LJ60,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+71021D,HZ-MS1A,Saudi Armed Forces Medical Services,Learjet 60XR,LJ60,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 43EA62,M-LCFC,Leicester City Football Club,Boeing 737-BBJ,B737,Civ,Jumpers For Goalposts,Boeing Business Jet,LCFC,Football ,https://www.lcfc.com
 48434F,P4-MES,Roman Abramovitch,Boeing 767-ER,B763,Civ,Jumpers For Goalposts,The Bandit,Chelsea,Football ,https://youtu.be/jAG4XXCOj48
 A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,https://youtu.be/5akEgsZSfhg
@@ -1945,26 +1965,6 @@ A22E8A,N24KC,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Airship,Totaly Safe,No
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 404516,G-IBII,Private Owner,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,http://www.matadorsaerobaticteam.com
-A638E1,N50PE,Primecare Medical,B200GT Super King Air,BE20,Civ,Air Ambo,Correctional Healthcare,Saving Lives,Flying Doctors,http://www.primecaremedical.com/
-AB63E5,N833EB,Remote Area Medical Foundation,Cessna 208 Caravan,C208,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ramusa.org/
-AB87AD,N842EB,Remote Area Medical Foundation,Cessna 208B Caravan,C208,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ramusa.org/
-ADB4D1,N982Z,Remote Area Medical Foundation,Douglas C-47A Dakota,DC3T,Civ,Air Ambo,Medical Evac,Dakota,Flying Doctors,https://www.ramusa.org/
-A1A64D,N205TP,Remote Medical Flights,Pilatus PC-6 B2-H4,PC6T,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.remotemedical.com/
-710197,HZ-MS52,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710196,HZ-MS51,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-71020A,HZ-MS75,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710209,HZ-MS74,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710208,HZ-MS73,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710205,HZ-MS72,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710204,HZ-MS71,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-7101A1,HZ-MS4A,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710022,HZ-MS4C,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream G500,GLF5,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-7101E0,HZ-MS5A,Saudi Armed Forces Medical Services,Gulfstream G500,GLF5,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710386,HZ-128,Saudi Armed Forces Medical Services,L-100-30 Hercules,C130,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-71021E,HZ-MS1B,Saudi Armed Forces Medical Services,Learjet 60XR,LJ60,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-71021D,HZ-MS1A,Saudi Armed Forces Medical Services,Learjet 60XR,LJ60,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
@@ -2679,7 +2679,6 @@ A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spypl
 780074,B-4061,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 780075,B-4062,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 780076,B-4062,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
-7800C9,B-4063,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7800C9,B-4063,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7800CA,B-4064,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0949,B-4065,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
@@ -3693,35 +3692,6 @@ AE0114,97-5303,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane
 AE0113,96-5302,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0112,96-5301,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0111,96-5300,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
-AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,The Warrior,USAF,https://w.wiki/3iUw
-AE58AD,61-0031,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5897,60-0062,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5896,60-0061,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5895,60-0060,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5894,60-0059,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5893,60-0058,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5891,60-0056,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE588C,60-0048,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE588A,60-0045,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5889,60-0044,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5883,60-0033,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5882,60-0032,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5881,60-0029,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587E,60-0025,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587D,60-0024,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587B,60-0022,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587A,60-0021,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5875,60-0012,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5873,60-0009,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5872,60-0008,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5871,60-0007,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5870,60-0005,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,E550,Civ,Beer,Dont Drink And Fly,Vanity Plate,Vanity Plate,https://youtu.be/sAk_rq4VnuY
 3C0699,D-ARMY,Air Hamburg,Embraer Legacy 650,E35L,Civ,Army Men,Yes Sarge,Vanity Plate,Vanity Plate,https://youtu.be/wEKmJkY9E38
 3CD34E,D-CHIC,Air Hamburg,Embraer Phenom 300,E55P,Civ,Goodtimes,Looking Good,Vanity Plate,Vanity Plate,https://youtu.be/oQT9rT74WYM
@@ -3740,7 +3710,7 @@ AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Roo
 43E9EA,M-DRIL,Drilling Systems,Pilatus PC-12 47E,PC12,Civ,Diamond Tipped,Making Holes,Vanity Plate,Vanity Plate,https://youtu.be/v-_GDCI-aeg
 40666C,G-EZUS,Easyjet,Airbus A320-214,A320,Civ,Jesus He Knows Me,And He Knows Im Right,Vanity Plate,Vanity Plate,https://youtu.be/35K6vQRt67g
 424B39,M-THOR,ExecuJet Europe AG,Gulfstream G500,GLF5,Civ,God Of Thunder,Mjolnir,Vanity Plate,Vanity Plate,https://youtu.be/ZnbuXqLmBtk
-A00001,N1,Federal Avaitaion Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
+A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A001B1,N1TF,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
 A0007F,N1F,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
 4D0207,LX-RAY,Global Jet Luxembourg,Gulfstream G650 ER,GLF6,Civ,Vanity Plate,X-RAY,Wilhelm Rontgen,Vanity Plate,https://w.wiki/4mg4
@@ -3914,6 +3884,8 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 43C494,ZJ914,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C493,ZJ913,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43CAEE,ZK340,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
+43CB0B,ZK382,Royal Air Force,Eurofighter Typhoon T3,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 480508,F-009,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 480501,F-002,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
+48050D,F-014,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 AF351F,13-5067,United States Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
