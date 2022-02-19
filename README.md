@@ -3,27 +3,26 @@
 
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **https://github.com/kx1t/docker-planefence** . 
 
-# Please only make any changes to plane-alert-db.csv - all other files (except PIA) are generated from this file, and if you do not make your changes there they will be overwritten
-
+*Please only suggest/make any changes to plane-alert-db.csv on github - all other files (except PIA) are generated from this file, and if you do not make your changes there they will be overwritten and lost
 
 # Current Content
 
-The list contains **10934** unique aircraft in **47** different categories.
+The list contains **11025** unique aircraft in **47** different categories.
 
-- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (10934)
-- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2367)
-- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (6191)
+- [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (11025)
+- [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2410)
+- [plane-alert-mil.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil.csv) - Military Only. (6234)
 - [plane-alert-pol.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol.csv) - Police Forces. (857)
-- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1519)
+- [plane-alert-gov.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1524)
 
 
 There is also a second version of each of the above lists with up to 3 image image links per aircraft. **Please consider this experimental, do not come to rely of any of the image links**
 
-- [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv) - The list of interesting aircraft, with tags,categories and links. (10934)
-- [plane-alert-civ-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ-images.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2367)
-- [plane-alert-mil-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil-images.csv) - Military Only. (6191)
+- [plane-alert-db-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db-images.csv) - The list of interesting aircraft, with tags,categories and links. (11025)
+- [plane-alert-civ-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ-images.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2410)
+- [plane-alert-mil-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-mil-images.csv) - Military Only. (6234)
 - [plane-alert-pol-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-pol-images.csv) - Police Forces. (857)
-- [plane-alert-gov-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov-images.csv) - Governments, Gov Agencies and Dictators. (1519)
+- [plane-alert-gov-images.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-gov-images.csv) - Governments, Gov Agencies and Dictators. (1524)
 
 This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
 
@@ -34,29 +33,29 @@ Think of categories like groups, with similar or related aircraft listed togethe
 
 - Aerobatic Teams \- Red Arrows, Blue Angels etc. (59)
 - Army Air Corp \- UK Army Air Corp. Mainly Helicopters. (91)
-- As Seen on TV \- Companies and Brands (214)
+- As Seen on TV \- Companies and Brands (229)
 - Big Hello \- Large Helicopters (sic) (110)
 - Bizjets \- Fancy pants planes for fancy pants people (33)
 - Climate Crisis \- Oil Companies, Large Business Jets - BBJs and ACJs (56)
-- Coastguard \- Coastguard, Customs and Border Patrols (428)
-- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (112)
-- Dictator Alert \- People of potentially questionable morals and values (318)
+- Coastguard \- Coastguard, Customs and Border Patrols (429)
+- Da Comrade \- Russian or Soviet Aircraft. I love their design, so they get their own category (113)
+- Dictator Alert \- People of potentially questionable morals and values (320)
 - Distinctive \- Unique and/or special aircraft e.g The AN-225 Myria, NASA aircraft, Testbeds (163)
-- Dogs with Jobs \- Aircraft with specific roles and/or modifications (85)
+- Dogs with Jobs \- Aircraft with specific roles and/or modifications (91)
 - Don't you know who I am ? \- Famous People. I was going to say notable, but I'll go with Famous (16)
 - Football  \- Actual, Aussie Rules or American. We don't discriminate. (2)
-- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (328)
+- GAF \- Aircraft of the German Air Force, thank to Rhodan76 (357)
 - Gas Bags \- Would you like to ride in my beautiful balloon ? (14)
-- Governments \- Aircraft registered to Governments (223)
+- Governments \- Aircraft registered to Governments (224)
 - Gunship \- Brrrrrrrrrrrrrrrrrrrt (256)
 - Hired Gun \- Why do the dirty work when someone else can do it for you ? (47)
-- Historic \- It's older than I am, and most likely has a prop. (191)
+- Historic \- It's older than I am, and most likely has a prop. (199)
 - Jesus he Knows me \- Aircraft owned and operated by Religious organisations (18)
-- Joe Cool \- Cool Planes. Or at least I think they are cool. (86)
+- Joe Cool \- Cool Planes. Or at least I think they are cool. (94)
 - Jump Johnny Jump \- de Havilland Chipmunks. Air Cadets of a certain age will understand. (387)
-- M\*A\*S\*H \- Air Ambulance and Medical Flights
+- Flying Doctors \- Air Ambulance and Medical Flights (492)
 - Nuclear \- Nuclear Emergency Support Team etc (15)
-- Other Air Forces \- Air Force aircraft that are not RAF or USAF (1778)
+- Other Air Forces \- Air Force aircraft that are not RAF or USAF (1787)
 - Other Navies \- Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (123)
 - Oxcart \- Intelligence gathering aircraft (432)
 - Police Forces \- Your friendly neighbourhood flying (insert local colloquialism here) (837)
@@ -69,15 +68,15 @@ Think of categories like groups, with similar or related aircraft listed togethe
 - Sam Tân \- Firefighting Aircraft. (288)
 - Sock Puppet \- Someone Pretending to be something they are not e.g. Covert DOJ Aircraft (174)
 - Special Forces \- The best of the best of the best. Sir. (156)
-- Toy Soldiers \- Armies from around the world (131)
+- Toy Soldiers \- Armies from around the world (135)
 - UAV \- It's not natural, I tell 'ya (15)
 - UK National Police Air Service \- Your friendly neighbourhood flying bobby (24)
-- United States Navy \- United States naval avaitors. Some say they are the best of the best. (211)
-- USAF \- Aircraft of the United States Air Force (2115)
+- United States Navy \- United States naval avaitors. Some say they are the best of the best. (206)
+- USAF \- Aircraft of the United States Air Force (2121)
 - Vanity Plate \- Distinctive registrations (64)
 - Watch Me Fly \- Flying and Training Schools (97)
 - Who needs an Engine ? \- Gliders etc (70)
-- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand). (90)
+- You came here in that thing ? \- Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand). (91)
 - Zoomies \- Fast jets, fighters. Anything that moves fast. (133)
 
 # Planefence
