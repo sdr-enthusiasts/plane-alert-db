@@ -258,7 +258,7 @@ A875A2,N644RV,Rafael Vinoly Architects,Dassault Falcon 2000,F2TH,Civ,Architect,W
 4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms Company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
 4B199D,HB-JSF,Robert Bosch,Bombardier Challenger 650,CL60,Civ,Bizjet,Power Tools,Jobs A Good Un,As Seen on TV,https://en.wikipedia.org/wiki/Robert_Bosch_GmbH
 4B184A,HB-JFE,Rolex,Bombardier Global 6000,GLEX,Civ,Wrist Watch,Oyster,How Much,As Seen on TV,https://www.rolex.com
-45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,As Seen on TV,https://w.wiki/4n6X
+45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 43EA86,M-ABJA,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43E90D,M-ABEU,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
@@ -1092,7 +1092,7 @@ C027B3,C-FPAW,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,Odd Engines
 731821,EP-FAA,Qeshm Fars Air,Boeing 747-281B,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Odd,Distinctive,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
-14FC10,RA-64528,Rossiya Special Flight Squadron,Tupolev Tu-214SR,T214,Gov,Doomsday Plane,Comms Relay,Presidential,Distinctive,https://theaviationist.com/tag/tu-214sr/
+14FC10,RA-64528,Rossiya Special Flight Squadron,Tupolev Tu-214SR,T204,Gov,Doomsday Plane,Comms Relay,Presidential,Distinctive,https://theaviationist.com/tag/tu-214sr/
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
 156DCE,RF-93646,Russian Air Force,Ilyushin IL-76VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCD,RF-93645,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -1106,7 +1106,7 @@ ADFEB4,73-1677,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of Th
 ADFEB3,73-1676,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://foxtrotalpha.jalopnik.com/the-worlds-most-secretive-737-is-really-the-usafs-most-1686479619
 4B2F15,HB-RVP,Verein Fliegermuseum,Hawker Hunter T68,HUNT,Civ,Jet Fighter,Transonic,Historic,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
-A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope-mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
+A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope Mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
 A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 15211F,RA-74015,VSV,Antonov An-74,AN72,Civ,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
@@ -1273,8 +1273,7 @@ E17283,LV-WJC,Government of Santa Fe,AgustaWestland AW.109,A109,Gov,Santa Fe,Oma
 0D0C40,XC-MED,Government of the State of Yucatan,Bell 429 GlobalRanger,B429,Gov,Yucatan,Mauricio Vila Dosal,Government,Governments,https://en.wikipedia.org/wiki/Yucat%C3%A1n
 02A1CE,TS-IOO,Government of Tunisia,Boeing 737-BBJ,B737,Gov,Tunisia,Kais Saied,Government,Governments,https://en.wikipedia.org/wiki/Tunisia
 06804E,5X-UGF,Government of Uganda,Gulfstream G550,GLF5,Gov,Must Be Nice,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
-508226,UR-PAB,Government of Uganda,Mil Mi-8MTV,MI8,Gov,Ukraine,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Ukraine
-50815F,UR-ABA,Government of Ukraine,Airbus ACJ319 115CJ,A319,Gov,Ukraine,Maidan Revolution,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Ukraine
+508226,UR-PAB,Government of Uganda,Mil Mi-8MTV,MI8,Gov,Uganda,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
 E909FB,CX-CIB,Government Of Uruguay,BAe 125 700A,H25B,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://en.wikipedia.org/wiki/Uruguay
 E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://en.wikipedia.org/wiki/Uruguay
 800B69,VT-UPJ,Government of Uttar Pradesh,B200 Super King Air,BE20,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
@@ -1922,7 +1921,7 @@ A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Tourin
 AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Duck To Water,Joe Cool,https://en.wikipedia.org/wiki/Lake_Renegade
 404CE3,G-CDDP,Private,Laser Z-230,LAKR,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4o4r
 403347,G-TBAG,Private,Murphy Renegade 912,RENE,Civ,Biplane,Barnstormer,Cool,Joe Cool,https://w.wiki/4nzf
-40226D,G-NORD,Private,Nord NC.854,NC85,Civ,You Came Here In That Thing,Highwing,Nope-mobile,Joe Cool,https://en.wikipedia.org/wiki/Nord_NC.850
+40226D,G-NORD,Private,Nord NC.854,NC85,Civ,You Came Here In That Thing,Highwing,Nope Mobile,Joe Cool,https://en.wikipedia.org/wiki/Nord_NC.850
 38AC1B,F-AZKM,Private,North American Rockwell OV-10A Bronco,V10,Civ,Eye In The Sky,Observation,Twin Boom,Joe Cool,http://www.warbirdalley.com/ov10.htm
 40307A,G-BRVL,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -3332,15 +3331,15 @@ A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,
 43C383,ZH537,Joint Special Forces Aviation Wing,BN Islander CC2,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C388,ZG848,Joint Special Forces Aviation Wing,BN Islander R1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
-AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
+AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 ADEDBE,N997MG,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADD70A,N991HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADC21E,N986HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -3506,17 +3505,17 @@ AE27A7,04-2021,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
-AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE2863,86-0162,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE2817,86-0174,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCE,86-0166,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com

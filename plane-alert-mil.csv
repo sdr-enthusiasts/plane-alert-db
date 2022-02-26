@@ -106,7 +106,7 @@ A11CF8,17-01609,Us Army Golden Knights,DHC-8-311,DH8C,Mil,Jump Johnny Jump,Perfe
 43C24F,ZJ186,Army Air Corps,Westland WAH-64D Apache AH1,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Longbow,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C24B,ZJ182,Army Air Corps,Westland WAH-64D Apache AH1,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Longbow,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C24A,ZJ181,Army Air Corps,Westland WAH-64D Apache AH1,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Longbow,Army Air Corp,http://torinak.com/qaop#!tomahawk
-45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,As Seen on TV,https://w.wiki/4n6X
+45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 43C392,PA474,Battle of Britiain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38E,WG518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38D,WG486,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
@@ -1483,10 +1483,10 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 7583B1,140,Philippine Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 400910,10669,Philippine Air Force,Fokker F27 500,F27,Mil,Military Transport,Friendship,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 758674,1251,Philippine Air Force,Gulfstream G280,G280,Mil,VIP Transport,Bizjet,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
-48D846,17,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-48D84B,21,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D846,017,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D84B,021,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D841,012,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-48D853,24,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D853,024,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 497C73,17403,Portuguese Air Force,Dassault Falcon 50,FA50,Mil,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C2B,15112,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
 43C960,ZB131,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
@@ -2537,10 +2537,6 @@ A030FC,SMR-2202,Sri Lankan Air Force,B200 Super King Air,BE20,Mil,Maritime Patro
 896C3C,1302,UAE Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 896C40,1230,UAE Air Force,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 896C0E,1216,UAE Air Force,L-100-30 Hercules,C130,Mil,Cargo,Tactical Airlift,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
-50FF3B,76683,Ukraine Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/4n4i
-50FFC0,76697,Ukraine Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/4n4i
-50FF3A,76699,Ukraine Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/4n4i
-50FFE2,UR-76665,Ukraine Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/4n4i
 896C3E,1229,United Arab Emirates Air Force,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C0D,1215,United Arab Emirates Air Force,L-100-30 Hercules,C130,Mil,Cargo,Tactical Airlift,UAE,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 507FA1,07 WHITE,Uzbek Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Strategic Airlift,Other Air Forces,https://w.wiki/4nFR
@@ -3437,15 +3433,15 @@ A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,C
 43C383,ZH537,Joint Special Forces Aviation Wing,BN Islander CC2,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C388,ZG848,Joint Special Forces Aviation Wing,BN Islander R1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
-AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
+AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 ADEDBE,N997MG,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADD70A,N991HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADC21E,N986HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -3712,7 +3708,7 @@ AE54B5,10-2043,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold
 AE5422,11-2047,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE541D,Tactical,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE27A7,04-2021,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
+AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE1762,166760,United States Marine Corps,Bell Textron AH-1Z Viper,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE176F,166768,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
@@ -5169,17 +5165,17 @@ AE4ED3,10-0104,United States Air Force,Cirrus SR20 T-53A,SR20,Mil,Training Wheel
 AE4ED2,10-0103,United States Air Force,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4ED1,10-0102,United States Air Force,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4ED0,10-0101,United States Air Force,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
-AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 A99DCE,N719DG,United States Air Force,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A99A17,N718DG,United States Air Force,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A99660,N717DG,United States Air Force,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
