@@ -672,6 +672,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D982,111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D8E1,1502,Polish Air Force,C-130E Hercules,C130,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
@@ -692,7 +693,10 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 06A1E4,A7-HBJ,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A0A2,A7-HHE,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A037,A7-AAM,Qatar Amiri Flight,Bombardier Global 6000,GLEX,Gov,Dictator Alert,Tamim bin Hamad Al Thani,,Dictator Alert,https://data.dictatoralert.org/dictatorships
+70C07E,556,Royal Air Force of Oman,Airbus A320-214,A320,Gov,Dictator Alert,Haitham bin Tarik,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 70C07C,555,Royal Air Force of Oman,Airbus ACJ320-214X,A320,Gov,Dictator Alert,Haitham bin Tarik,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+70C07B,554,Royal Air Force of Oman,Airbus ACJ320-214X,A320,Gov,Dictator Alert,Haitham bin Tarik,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+70C08C,557,Royal Air Force of Oman,Gulfstream G-IV,GLF4,Gov,Dictator Alert,Haitham bin Tarik,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 14F118,RA-61720,Russia Special Flight Detachment,Antonov An-148 100EA,A148,Gov,Dictator Alert,Vladimir Putin,Vova,Dictator Alert,https://data.dictatoralert.org/dictatorships
 14F114,RA-61716,Russia Special Flight Detachment,Antonov An-148 100EA,A148,Gov,Dictator Alert,Vladimir Putin,Vova,Dictator Alert,https://data.dictatoralert.org/dictatorships
 157711,RA-96017,Russia Special Flight Detachment,Ilyushin IL-96-300,IL96,Gov,Dictator Alert,Vladimir Putin,Vova,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -846,6 +850,7 @@ ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,CL60,Gov,FA
 AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
 AC42FA,N89,Federal Aviation Administration,Bombardier Challenger 605,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,A319,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
+3F6EEA,76+11,German Air Force,Airbus Helicopters EC-645 T2,EC45,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 400DE5,G-HIJK,Met Office,Cessna 421 Golden Eagle,C421,Gov,Weather Recon,Measuring Stick,Nice Weather For Ducks,Dogs with Jobs,https://tinyurl.com/2p9druuh
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
 A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P68,Gov,Fish,Wildlife,Nature Patrol,Dogs with Jobs,https://wdfw.wa.gov
@@ -978,6 +983,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernandez,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
+468111,273,Greek Air Force,Dassault Falcon 7X,FA7X,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
 4681E4,135L-484,Greek Air Force,Embraer Legacy 600,E35L,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
 4682A6,678,Greek Air Force,Gulfstream G500,GLF5,Gov,Greece,Katerina Sakellaropoulou,Government,Governments,https://en.wikipedia.org/wiki/Greece
 71CC55,HL9455,GyeongGi Provincial Government,Eurocopter AS365 Dauphin,AS65,Gov,Korea,Moon Jae-in,Government,Governments,https://english.gg.go.kr
@@ -1002,6 +1008,7 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Ja
 7386C0,4X-ISR,Israel Presidential Transport,Boeing 767-3ER,B763,Gov,Israel,Wings Of Zion,Government,Governments,https://en.wikipedia.org/wiki/Wing_of_Zion
 33FFF9,MM62174,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFC1,MM62209,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFAF,MM62243,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFFB,MM62029,Italian Air Force,Dassault Falcon 50,FA50,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
@@ -1076,6 +1083,7 @@ ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutron
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
+4A81F9,102002,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Electonic Reccon,Covert,Surveillance,Oxcart,https://en.wikipedia.org/wiki/Swedish_royal_family
 AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
 AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
 AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
@@ -1383,6 +1391,7 @@ A95413,N70VC,Ventura County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Fl
 A7C6C4,N60VC,Ventura County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://vcfd.org
 C03194,C-FSUD,Ventura County Fire Department,Turbo Commander 690B,AC90,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.magaero.ca
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
+405D6F,G-DOSB,Acrobat Ltd,Diamond Aircraft DA42,DA42,Gov,Surveillance,Covert,Spyplane,Sock Puppet,https://tinyurl.com/3p7pbahf
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210 Centurion,C210,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
 A674DF,N515JW,Aerographics Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
 A4CBEB,N408SB,Aircraft Associates Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
@@ -1493,6 +1502,7 @@ AB371B,AB371B,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,
 A2440B,N245RB,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
 A22AEF,N239LF,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
 A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
+3DF5BF,D-HNHV,German Air Force,Eurocopter EC145 D-3,EC45,Gov,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/luftwaffe
 A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
@@ -1502,23 +1512,3 @@ AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
-400EE3,G-BYVF,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EE0,G-BYVC,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400ECF,G-BYUK,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EBB,G-BYWF,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EB7,G-BYWB,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EAF,G-BYXS,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EA8,G-BYXK,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EA4,G-BYXG,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EA2,G-BYXE,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EA1,G-BYXD,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400E9B,G-BYWX,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400E90,G-BYWM,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400E8F,G-BYWL,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400E99,G-BYWW,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EC9,G-BYUE,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400ECA,G-BYUF,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400ECC,G-BYUH,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400ED0,G-BYUL,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400E8E,G-BYWK,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
-400EA0,G-BYXC,Ministry of Defence,Grob G-115 E Tutor,G115,Gov,L-Plate,Training Wheels,Elementary Flying Training,Watch Me Fly,https://www.raf.mod.uk/aircraft/tutor-t1/
