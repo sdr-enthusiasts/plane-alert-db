@@ -185,6 +185,7 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3FB950,54+38,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F6219,54+31,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F4EFE,54+16,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4F0F,54+25,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3EB0FD,82+01,German Air Force,AS532 Cougar U2,AS32,Mil,Chopper,Military Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FA360,70+96,German Air Force,Bell UH-1D Iroquois,UH1,Mil,Chopper,Huey,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F7B3C,14+04,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -214,7 +215,6 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3EA836,30+75,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E9335,3X+XX,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F84D6,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FA18D,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FA855,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F854A,30+55,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3EAF7E,30+96,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -260,6 +260,14 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3FA1A4,30+89,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F818D,31+18,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FBABF,31+00,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB3E3,31+06,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8FA4,30+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6EB6,30+42,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7827,30+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8A9A,31+44,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA18D,31+53,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6FB0,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6AC9,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FB103,98+03,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F8F1B,30+27,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F8F18,30+24,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -427,6 +435,7 @@ A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://
 3FAA12,84+18,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAA06,84+06,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAA05,84+05,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E93F1,????,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -519,7 +528,6 @@ E880E8,FAP3001,Paraguayan Air Force,Cessna Citation Sovereign,C680,Mil,VIP Trans
 885334,60203,Royal Thai Air Force,Airbus A320-214SL,A320,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 885337,60205,Royal Thai Air Force,Airbus A320-214SL,A320,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 885332,60202,Royal Thai Air Force,Airbus ACJ319-115X,A319,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
-885334,60203,Royal Thai Air Force,Airbus ACJ320-214SL,A320,Mil,Thailand,Tank Top,Never Let Anyone Invade,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 880DB6,11-111,Royal Thai Air Force,Boeing 737,B734,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 8821AB,HS-HMK,Royal Thai Air Force,Boeing 737NG-BBJ2,B738,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 885336,HS-TYV,Royal Thai Airforce,Airbus A340-541,A345,Mil,VIP Transport,Air Chief Marshall Fufu,Government,Governments,https://w.wiki/4nsw
@@ -837,6 +845,7 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 44F635,H-21,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F638,H-24,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F649,H-35,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+44F645,H-31,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F654,H-46,Belgian Air Component,AgustaWestland AW.109,A109,Mil,Chopper,Waffles,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 49524A,CS-TRJ,Belgian Air Component,Airbus A321-231,A321,Mil,Not a Bus,Waffles,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F42E,CH-13,Belgian Air Component,C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
@@ -848,7 +857,8 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 44F425,CH-05,Belgian Air Component,C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F424,CH-04,Belgian Air Component,C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F423,CH-03,Belgian Air Component,C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
-449825,BAF83,Belgian Air Component,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Nice,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+449825,OO-FAE,Belgian Air Component,Dassault Falcon 7X,FA7X,Mil,VIP Transport,Force Aerienne,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+44B2AD,OO-LUM,Belgian Air Component,Dassault Falcon 7X,FA7X,Mil,VIP Transport,Luchtmacht,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F481,CD-01,Belgian Air Component,Dassault Falcon 900B,F900,Mil,Bizjet,Must Be Nice,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F860,AT-30,Belgian Air Component,Dassault-Breguet Alpha Jet,AJET,Mil,Waffles,Do A Barrel Roll,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F846,AT-26,Belgian Air Component,Dassault-Breguet Alpha Jet,AJET,Mil,Waffles,Do A Barrel Roll,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
@@ -907,6 +917,7 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 44F160,FA-110,Belgian Air Component,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F127,FA-97,Belgian Air Component,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F101,FA-81,Belgian Air Component,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+44F147,FA-107,Belgian Air Component,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F024,FB-14,Belgian Air Component,F-16BM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F040,FB-20,Belgian Air Component,F-16BM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F044,FB-24,Belgian Air Component,F-16BM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
@@ -982,7 +993,6 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 4C8080,701,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
 4C8081,702,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
 4C8082,703,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
-498421,3085,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 498422,2801,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 498421,3085,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 498426,5105,Czech Air Force,Bombardier Challenger 601,CL60,Mil,Bizjet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
@@ -991,6 +1001,8 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 498487,453,Czech Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 498486,452,Czech Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 4984B6,482,Czech Air Force,CASA C-295 MW,C295,Mil,Tactical Airlift,Cargo,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
+4984B5,0481,Czech Air Force,CASA C-295 MW,C295,Mil,Tactical Airlift,Cargo,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
+49842F,9240,Czech Air Force,SAAB Gripen JAS-39 C,SB39,Mil,Fighter Jet,Griffin,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 498428,260,Czech Air Force,Yakovlev Yak-40K,YK40,Mil,Trijet,Not So VIP,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 498427,1257,Czech Air Force,Yakovlev Yak-40K,YK40,Mil,Trijet,Not So VIP,The Air Is Our Sea,Other Air Forces,https://en.wikipedia.org/wiki/Czech_Air_Force
 E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Nice,Fuerza Aerea Ecuatoriana,Other Air Forces,https://en.wikipedia.org/wiki/Ecuadorian_Air_Force
@@ -1421,6 +1433,7 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Ot
 502FA7,25,Latvian Air Force,Antonov An-2 R,AN2,Mil,Indestructible,Biplane,All For Latvia,Other Air Forces,https://w.wiki/4nEV
 801801,L-915,Lebanese Air Force,IAR 330M,PUMA,Mil,Chopper,Military Transport,Here I Am Lebanon's Sky,Other Air Forces,https://w.wiki/4nEW
 503FD2,07 BLUE,Lithuanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,LK KOP,Other Air Forces,https://en.wikipedia.org/wiki/Lithuanian_Air_Force
+503FD3,08 BLUE,Lithuanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,LK KOP,Other Air Forces,https://en.wikipedia.org/wiki/Lithuanian_Air_Force
 44F681,CT-01,Luxembourg Armed Forces,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Airlift,Lëtzebuerger Armei,Other Air Forces,https://en.wikipedia.org/wiki/Luxembourg_Army
 0D064E,3403,Mexican Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D0650,3404,Mexican Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
@@ -1502,6 +1515,7 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 7583B1,140,Philippine Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 400910,10669,Philippine Air Force,Fokker F27 500,F27,Mil,Military Transport,Friendship,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 758674,1251,Philippine Air Force,Gulfstream G280,G280,Mil,VIP Transport,Bizjet,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
+48D8E0,1501,Polish Air Force,C-130E Hercules,C130,Mil,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D846,017,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D84B,021,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D841,012,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
@@ -1524,8 +1538,6 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 76E312,763,Republic Of Singapore Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Above All,Other Air Forces,https://w.wiki/4n2j
 76E313,764,Republic Of Singapore Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Above All,Other Air Forces,https://w.wiki/4n2j
 76E314,765,Republic Of Singapore Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Above All,Other Air Forces,https://w.wiki/4n2j
-345309,EC-335,Republic Of Singapore Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Above All,Other Air Forces,https://w.wiki/4n2j
-345304,EC-336,Republic Of Singapore Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Above All,Other Air Forces,https://w.wiki/4n2j
 7684C1,751,Republic Of Singapore Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,Above All,Other Air Forces,https://w.wiki/4n2j
 76E309,730,Republic Of Singapore Air Force,C-130H Hercules,C130,Mil,Military Transport,Tactical Airlift,Above All,Other Air Forces,https://w.wiki/4n2j
 76E30A,731,Republic Of Singapore Air Force,C-130H Hercules,C130,Mil,Military Transport,Tactical Airlift,Above All,Other Air Forces,https://w.wiki/4n2j
@@ -1555,8 +1567,8 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 76E732,9118,Republic Of Singapore Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,Above All,Other Air Forces,https://w.wiki/4n2j
 76E733,9119,Republic Of Singapore Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,Above All,Other Air Forces,https://w.wiki/4n2j
 4A35AC,2703,Romanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Forțele Aeriene Române,Other Air Forces,https://en.wikipedia.org/wiki/Romanian_Air_Force
-70C078,501,Royal Air Force of Oman,C-130H Hercules,C130,Mil,Tactical Airlift,Cargo,Oman,Other Air Forces,https://en.wikipedia.org/wiki/Royal_Air_Force_of_Oman
-70C08E,506,Royal Air Force of Oman,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,Oman,Other Air Forces,https://en.wikipedia.org/wiki/Royal_Air_Force_of_Oman
+70C078,501,Royal Air Force of Oman,C-130H Hercules,C130,Mil,Tactical Airlift,Cargo,Oman,Other Air Forces,https://w.wiki/4n2s
+70C08E,506,Royal Air Force of Oman,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,Oman,Other Air Forces,https://w.wiki/4n2s
 70C08D,505,Royal Air Force of Oman,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,Oman,Other Air Forces,https://w.wiki/4n2s
 7CF9C8,A39-006,Royal Australian Air Force,Airbus A330 203MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF9C9,A39-007,Royal Australian Air Force,Airbus A330 203MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
@@ -1711,6 +1723,7 @@ C2B53F,130603,Royal Canadian Air Force,CC-130J-30 Super Hercules,C30J,Mil,Tactic
 C2B535,130602,Royal Canadian Air Force,CC-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B52B,130601,Royal Canadian Air Force,CC-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B567,130607,Royal Canadian Air Force,CC-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
+C2B5CB,130617,Royal Canadian Air Force,CC-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B3FF,177705,Royal Canadian Air Force,CC-177 Globemaster III,C17,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B3F5,177704,Royal Canadian Air Force,CC-177 Globemaster III,C17,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B3EB,177703,Royal Canadian Air Force,CC-177 Globemaster III,C17,Mil,Tactical Airlift,Cargo,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
@@ -1899,12 +1912,12 @@ C87F12,NZ3306,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Choppe
 C87F11,NZ3305,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F13,NZ3307,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F14,NZ3308,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
-478117,5699,Royal Norwegian Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
+478115,5601,Royal Norwegian Air Force,C-130J Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 478117,5699,Royal Norwegian Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 43C7DD,ZZ102,Royal Norwegian Air Force,EH-101 Merlin Mk612,EH10,Mil,Helicopter,Whirly Bird,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 7102FC,2404,Royal Saudi Air Force,Airbus A330-202MRTT,A332,Mil,Air2Air,Tanker,RSAF,Other Air Forces,https://w.wiki/4nsx
-3435C2,2402,Royal Saudi Air Force,Airbus A330-202MRTT,A332,Mil,Air2Air,Tanker,RSAF,Other Air Forces,https://w.wiki/4nsx
 7102FA,2402,Royal Saudi Air Force,Airbus A330-202MRTT,A332,Mil,Air2Air,Tanker,RSAF,Other Air Forces,https://w.wiki/4nsx
+7102F9,2401,Royal Saudi Air Force,Airbus A330-202MRTT,A332,Mil,Air2Air,Acharya Devvrat,RSAF,Other Air Forces,https://w.wiki/4nsx
 71038C,HZ-109,Royal Saudi Air Force,British Aerospace 125 800B,H25B,Mil,VIP Transport,Bizjet,Must Be Nice,Other Air Forces,https://w.wiki/4nsx
 710388,485,Royal Saudi Air Force,VC-130H Hercules,C130,Mil,VIP Transport,Rare,RSAF,Other Air Forces,https://w.wiki/4nsx
 142C1A,RA-11290,Russian Air Force,Antonov An-12,AN12,Mil,Ere Me Now,Vashe Zdorovye,Cub,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -2544,7 +2557,11 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,L410,Mil,Unpressurised,Extreme Co
 008569,ZS-CAQ,South African Air Force,Dassault Falcon 50,FA50,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4n3$
 00856B,ZS-CAS,South African Air Force,Dassault Falcon 50,FA50,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4n3$
 00A272,ZS-NAN,South African Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4n3$
+345309,EC-335,Spanish Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
+345304,EC-336,Spanish Air Force,Airbus A330-243MRTT,A332,Mil,Air2Air,Refuel,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3532C4,T.23-06,Spanish Air Force,Airbus Military A400M Atlas C1,A400,Mil,Tactical Airlift,Military Transport,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
+3532C5,TK.23-07,Spanish Air Force,Airbus Military A400M Atlas C1,A400,Mil,Tactical Airlift,Military Transport,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
+3532C3,T.23-05,Spanish Air Force,Airbus Military A400M Atlas C1,A400,Mil,Tactical Airlift,Military Transport,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3542C4,T.18-4,Spanish Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3542C5,T-18-5,Spanish Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3542C3,T.18-3,Spanish Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
@@ -2553,6 +2570,8 @@ A030FC,SMR-2202,Sri Lankan Air Force,B200 Super King Air,BE20,Mil,Maritime Patro
 4A8185,84005,Swedish Air Force,C-130H Hercules,C130,Mil,Airlift,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A8182,84002,Swedish Air Force,C-130H Hercules,C130,Mil,Airlift,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A8188,84008,Swedish Air Force,C-130H Hercules,C130,Mil,Airlift,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+4A8184,84004,Swedish Air Force,C-130H Hercules,C130,Mil,Airlift,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+4A82F9,60063,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A81F4,100008,Swedish Air Force,Saab 340B,SF34,Mil,Transport,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4B7FD5,T-721,Swiss Air Force,B350C Super King Air,B350,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7F44,T-751,Swiss Air Force,Bombardier Challenger 604,CL60,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
@@ -2663,6 +2682,7 @@ E849C4,AN-235,Ecuadorian Navy,B350 Super King Air,B350,Mil,Light Transport,Utili
 3B9B72,10,French Navy,NH Industries NH90 NFH,NH90,Mil,Vive La France,Etre Marin,Honour Homeland Valour Discipline,Other Navies,https://www.etremarin.fr
 3B9B6F,13,French Navy,NH Industries NH90 NFH,NH90,Mil,Vive La France,Etre Marin,Honour Homeland Valour Discipline,Other Navies,https://www.etremarin.fr
 3B9B6C,16,French Navy,NH Industries NH90 NFH,NH90,Mil,Vive La France,Etre Marin,Honour Homeland Valour Discipline,Other Navies,https://www.etremarin.fr
+3FA2CE,89+58,German Navy,Sea King Mk41,S61,Mil,Search And Rescue,Sea King,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3FA991,83+17,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 80030C,IN320,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
 80030E,IN322,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
@@ -2778,7 +2798,6 @@ ADB4AD,101,Pakistan Navy,Hawker 125 850XP,H25B,Mil,Surveillance,Eye In The Sky,S
 7B7026,B-4069,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 789002,B-4661,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 498447,2601,Czech Air Force,Let L-410 UVP-E,L410,Mil,What Big Eyes You Have,Surveillance,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Czech_Air_Force
-498447,2601,Czech Air Force,Let L-410 UVP-E,L410,Mil,What Big Eyes You Have,Surveillance,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Czech_Air_Force
 3B77DD,201,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B77DC,202,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 3B77DB,203,French Air Force,Boeing E-3F Sentry,E3CF,Mil,Eye In The Sky,AWACS,Armee De Lair,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -2820,10 +2839,12 @@ ADB4AD,101,Pakistan Navy,Hawker 125 850XP,H25B,Mil,Surveillance,Eye In The Sky,S
 3F5FEE,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F458F,46+48,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
+3F6004,60+04,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
 4CA44B,280,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41E,283,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41D,282,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41C,281,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
+A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 4D03D0,LX-N90459,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CF,LX-N90458,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CE,LX-N90456,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
@@ -2879,7 +2900,6 @@ E8C235,AE-565,Peruvian Navy,Fokker F50,F50,Mil,SIGNIT,Eye In The Sky,Non Deserit
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F424,C-168,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F430,M-518,Royal Danish Air Force,EH-101 Merlin Mk512,EH10,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
-478121,53,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
 478120,41,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
 478121,053,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 142F5C,RA-12124,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -3143,21 +3163,22 @@ AE10E2,92-13124,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerial
 AE10E1,92-13123,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
 AE10E0,92-13122,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
 AE10DF,92-13120,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://tinyurl.com/2j9nrkap
-AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 44C1E7,G-11,Belgian Federal Police,MD 900 Explorer,EXPL,Mil,Police Squad,You Aint Seen Me Right,NOTAR,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Belgium)
 480C43,T-057,MRTT Fleet,Airbus A330-243MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://w.wiki/4mxH
 480C44,T-058,MRTT Fleet,Airbus A330-243MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://w.wiki/4mxH
@@ -3280,7 +3301,6 @@ AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 43C4C7,ZD984,Royal Air Force,Boeing-Vertol Chinook HC4,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C4C5,ZA713,Royal Air Force,Boeing-Vertol Chinook HC4,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C4C0,ZA671,Royal Air Force,Boeing-Vertol Chinook HC4,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
-43C4BA,ZA718,Royal Air Force,Boeing-Vertol Chinook HC4,H47,Mil,Bravo November,Wocka Wocka,Twin Rotor,RAF,https://en.wikipedia.org/wiki/Bravo_November
 43C5FB,ZH904,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5FA,ZH903,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5F9,ZH902,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
@@ -3401,6 +3421,7 @@ AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 43C45C,XX329,736 Naval Air Squadron,BAe Hawk T1a,HAWK,Mil,Top..ish Gun,Callsign Viper,Broke The Hard Deck,Royal Navy Fleet Air Arm,https://youtu.be/jk0gBZtTYUA
 43C439,XX285,736 Naval Air Squadron,BAe Hawk T1a,HAWK,Mil,Top..ish Gun,Callsign Viper,Broke The Hard Deck,Royal Navy Fleet Air Arm,https://youtu.be/jk0gBZtTYUA
 43C435,XX280,736 Naval Air Squadron,BAe Hawk T1a,HAWK,Mil,Top..ish Gun,Callsign Viper,Broke The Hard Deck,Royal Navy Fleet Air Arm,https://youtu.be/jk0gBZtTYUA
+405358,ZJ165,Royal Navy Fleet Air Arm,AS365 Dauphin,AS65,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
 43CF31,ZZ392,Royal Navy Fleet Air Arm,AW159 Wildcat AH1,LYNX,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
 43C768,ZZ527,Royal Navy Fleet Air Arm,AW159 Wildcat AH1,LYNX,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
 43C762,ZZ521,Royal Navy Fleet Air Arm,AW159 Wildcat AH1,LYNX,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
@@ -3493,13 +3514,14 @@ AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 43C306,ZH826,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj69
 43C304,ZH824,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 501F9A,895,Croatian Air Force,Air Tractor AT-802AF,AT8T,Mil,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4mdB
-A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Sock Puppet,https://meta.aero/msa
 43C39B,ZJ782,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C39A,ZJ781,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C399,ZJ780,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C207,ZJ787,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C13E,ZJ785,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C0AE,ZJ783,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
+3DF5BF,D-HNHV,German Air Force,Eurocopter EC145 D-3,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/luftwaffe
+3DF5C0,D-HNHW,German Army,Eurocopter H145,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/heer
 43C2B5,ZZ419,Joint Special Forces Aviation Wing,B350C Shadow R1,B350,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C2B4,ZZ418,Joint Special Forces Aviation Wing,B350C Shadow R1,B350,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C2B3,ZZ417,Joint Special Forces Aviation Wing,B350C Shadow R1,B350,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
@@ -3685,6 +3707,7 @@ E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Obse
 0AC191,EJC-1138,Colombian Army,Cessna 208B-EX Caravan,C208,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 001108,EJC-1108,Colombian Army,Turbo Commander 690D,AC90,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 459902,OY-FHB,Danish Home Guard,BN Islander 2A-21,BN2P,Mil,Dads Army,Volunteers,Hjemmevaernet,Toy Soldiers,https://en.wikipedia.org/wiki/Home_Guard_(Denmark)
+459901,OY-FHA,Danish Home Guard,BN Islander 2A-21,BN2P,Mil,Dads Army,Volunteers,Hjemmevaernet,Toy Soldiers,https://en.wikipedia.org/wiki/Home_Guard_(Denmark)
 3AAB97,3948,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AAB8C,4230,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AAB47,3856,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
@@ -3769,33 +3792,37 @@ E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Obse
 3AABFA,156,French Army,SOCATA TBM 700B,TBM7,Mil,Flight Test,Armee De Terre,Ou Sont Les Bagages,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AABF9,159,French Army,SOCATA TBM 700B,TBM7,Mil,Flight Test,Armee De Terre,Ou Sont Les Bagages,Toy Soldiers,https://www.defense.gouv.fr/terre
 3AABF8,160,French Army,SOCATA TBM 700B,TBM7,Mil,Flight Test,Armee De Terre,Ou Sont Les Bagages,Toy Soldiers,https://www.defense.gouv.fr/terre
-3FA937,82+55,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8BD0,77+03,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F892A,77+04,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAD9D,77+06,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FBDFC,77+07,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F89B0,78+26,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8C41,79+15,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA74D,78+15,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB866,78+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8B7D,78+17,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FA82A,79+03,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E857E,79+10,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8032,79+14,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FBBC5,79+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8975,79+27,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F793F,79+28,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9B11,78+19,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FB88A,78+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB57B,78+32,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E9CD6,78+33,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FBA06,78+34,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FBEFC,78+38,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FACFE,78+39,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F814B,78+40,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FB65B,79+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8A64,79+32,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA937,82+55,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FA935,82+53,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FA93F,82+63,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FA933,82+51,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FA938,82+57,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8BD0,77+03,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F892A,77+04,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FAD9D,77+06,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FBDFC,77+07,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F89B0,78+26,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8C41,79+15,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3EA74D,78+15,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3EB866,78+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8B7D,78+17,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FA82A,79+03,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3E857E,79+10,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8032,79+14,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FBBC5,79+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8975,79+27,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F793F,79+28,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F9B11,78+19,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FB88A,78+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3EB57B,78+32,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3E9CD6,78+33,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FBA06,78+34,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FBEFC,78+38,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FACFE,78+39,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F814B,78+40,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FB65B,79+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3F8A64,79+32,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 33FCD6,MM81522,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FDE4,MM81550,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FDE3,MM81551,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
@@ -3815,7 +3842,6 @@ A87566,N644PK,Pakistan Army,Cessna 206H Stationair,C206,Mil,Medical Evac,Air Amb
 A8791D,N645PK,Pakistan Army,Cessna 206H Stationair,C206,Mil,Medical Evac,Air Ambo,Saving Lives,Toy Soldiers,https://w.wiki/4myg
 AB1F34,5079,Pakistan Army,Cessna 208B-EX Caravan,C208,Mil,Medical Evac,Air Ambo,Saving Lives,Toy Soldiers,https://w.wiki/4myg
 761047,4270,Pakistan Army,Gulfstream G450,GLF4,Mil,Bizjet,Must Be Nice,Pakistan,Toy Soldiers,https://www.paf.gov.pk/#
-761047,4270,Pakistan Army,Gulfstream G450,GLF4,Mil,Bizjet,Must Be Nice,Pakistan,Toy Soldiers,https://www.paf.gov.pk/#
 E8CFCF,EP-861,Peruvian Army,Cessna Citation XLS,C56X,Mil,VIP Transport,Bizjet,Until The Last Cartridge Has Been Fired,Toy Soldiers,https://w.wiki/4nEc
 AE660C,17-01001,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook
 AE04F4,84-0165,United States Army,C-12F Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
@@ -3823,6 +3849,8 @@ AE04F2,84-00162,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So V
 AE0402,84-00157,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE0401,84-00156,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE116E,84-00177,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
+AE03F9,84-00173,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
+AE0878,84-00181,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE57D7,10-00261,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE5775,10-00260,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE5774,10-00259,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
