@@ -961,10 +961,10 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 AE4BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF1,2317,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BEF,2315,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mobile,Coastguard,https://www.uscg.mil/
+AE4BEF,2315,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Corpus Christi,Coastguard,https://www.uscg.mil/
 AE4BEE,2314,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BE8,2313,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4BE8,2313,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Corpus Christi,Coastguard,https://www.uscg.mil/
 AE270A,2312,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2709,2311,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2708,2310,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1505,7 +1505,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D982,111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
@@ -2982,6 +2982,7 @@ A73B05,N565RS,Rivers State Government,Bombardier Global 5000,GL5T,Gov,Nigeria,Ez
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC3,A332,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-53082294
 7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+C2B355,15001,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Gov,Justin Trudeau,Government,To Be Faaaaaaaaaaaaaaaaaaair,Governments,http://www.rcaf-arc.forces.gc.ca/en
 45F422,C-080,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Denmark,Mette Frederiksen,Government,Governments,https://en.wikipedia.org/wiki/Denmark
 02010F,CN-MMS,Royal Moroccan Government,AgustaWestland AW.139,A139,Gov,Morocco,Aziz Akhannouch,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Morocco
 C87F01,NZ7572,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacinda Ardern,Government,Governments,https://www.newzealand.com
@@ -3665,7 +3666,7 @@ A22E8A,N24KC,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Airship,Totaly Safe,No
 405ED2,G-BOXH,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 404516,G-IBII,Private Owner,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,http://www.matadorsaerobaticteam.com
+406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 407B74,G-CLWK,Army Air Corp,DHC-1 Chipmunk T10,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Army Air Corp,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401AF0,G-BBMV,Boultbee,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -4309,9 +4310,9 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 01007C,SU-BAK,Egyptian Air Force,C-130H Hercules,C130,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://en.wikipedia.org/wiki/Egyptian_Air_Force
 511122,44 BLACK,Estonian Air Force,C-145A Combat Coyote,M28,Mil,Military Transport,Rugged,Home To The Stars,Other Air Forces,https://w.wiki/4mej
 46788F,CC-2,Finnish Air Force,CASA C-295 M,C295,Mil,Cargo,Chonky Boy,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
-46788D,LJ-1,Finnish Air Force,Learjet 35A,LJ35,Civ,M*A*S*H,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
-46788C,LJ-2,Finnish Air Force,Learjet 35A,LJ35,Civ,M*A*S*H,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
-46788B,LJ-3,Finnish Air Force,Learjet 35A,LJ35,Civ,M*A*S*H,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
+46788D,LJ-1,Finnish Air Force,Learjet 35A,LJ35,Civ,Flying Doctors,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
+46788C,LJ-2,Finnish Air Force,Learjet 35A,LJ35,Civ,Flying Doctors,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
+46788B,LJ-3,Finnish Air Force,Learjet 35A,LJ35,Civ,Flying Doctors,Bizjet,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 467895,PI-06,Finnish Air Force,Pilatus PC-12 47,PC12,Civ,Liason,Turboprop,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 467894,PI-05,Finnish Air Force,Pilatus PC-12 47,PC12,Civ,Liason,Turboprop,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 467893,PI-04,Finnish Air Force,Pilatus PC-12 47,PC12,Civ,Liason,Turboprop,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
@@ -4726,7 +4727,7 @@ ABC123,HR-3604,Indonesian Air Force,Eurocopter AS365 N3 Dauphin,AS65,Mil,Militar
 738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A01,272,Israeli Air Force,Boeing 707-3L6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A41,IAF120,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
+738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738B4E,663,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://en.wikipedia.org/wiki/Israeli_Air_Force
@@ -4838,7 +4839,7 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 48D843,014,Polish Air Force,CASA C-295 M,C295,Civ,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D841,012,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D853,024,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-48D826,0206,Polish Air Force,PZL M-28 B1TD Bryza,M28,Gov,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D826,0206,Polish Air Force,PZL M-28 B1TD Bryza,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 497C71,17401,Portuguese Air Force,Dassault Falcon 50,FA50,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C73,17403,Portuguese Air Force,Dassault Falcon 50,FA50,Mil,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C2B,15112,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
@@ -5028,7 +5029,6 @@ C2B3C3,15004,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Re
 C2B3B9,15003,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B37D,15005,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
-C2B355,15001,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
@@ -6239,7 +6239,6 @@ AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept 
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A41050,N361DB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A2B573,N274BB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 4069D9,G-LBSB,Ministry of Defence,B350C Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 AD64DB,N962PB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AD645E,N962JB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -6386,7 +6385,7 @@ ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US De
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F424,C-168,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F430,M-518,Royal Danish Air Force,EH-101 Merlin Mk512,EH10,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
-478120,41,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
+478120,041,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 478121,053,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 142F5C,RA-12124,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 1575C6,RF-95686,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -6405,7 +6404,7 @@ ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US De
 14FC0D,RF-64525,Russian Air Force,Tupolev Tu-214 ON,T204,Mil,Open Skies,Treaty Monitoring,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC11,RA-64529,Russian Air Force,Tupolev Tu-214 PU-SBUS,T204,Mil,Special Purpose,Airborne Command Post,Rare,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC12,RA-64530,Russian Air Force,Tupolev Tu-214 PU-SBUS,T204,Mil,Special Purpose,Airborne Command Post,Rare,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
-14FBFF,64511,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
+14FBFF,RF-64511,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC02,RF-64514,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 400F2B,G-CDZT,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
 400A84,G-RAFL,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
@@ -6676,22 +6675,22 @@ AE10E2,92-13124,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerial
 AE10E1,92-13123,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
 AE10E0,92-13122,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
 AE10DF,92-13120,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
@@ -7994,34 +7993,34 @@ ADFDF8,82-8000,US Government,Boeing VC25A,B742,Gov,Air Force One,Government,POTU
 43C06F,ZJ120,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
 43C06E,ZJ119,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
 43C06D,ZJ118,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
-43C32B,ZH841,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj76
+43C32B,ZH841,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C32A,ZH864,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C328,ZH862,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj90
-43C327,ZH861,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj89
-43C326,ZH860,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj88
-43C323,ZH857,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj87
-43C322,ZH856,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj86
-43C320,ZH854,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj85
-43C31F,ZH853,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj84
-43C31D,ZH851,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj83
-43C31C,ZH850,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj82
-43C319,ZH847,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj81
-43C318,ZH846,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj80
-43C317,ZH845,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj79
-43C316,ZH843,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj78
-43C315,ZH842,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj77
+43C328,ZH862,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C327,ZH861,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C326,ZH860,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C323,ZH857,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C322,ZH856,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C320,ZH854,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31F,ZH853,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31D,ZH851,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31C,ZH850,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C319,ZH847,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C318,ZH846,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C317,ZH845,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C316,ZH843,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C315,ZH842,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C314,ZH840,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C313,ZH839,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://www.cornwallvrs.duckdns.org/ZH839.mp4
-43C311,ZH837,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj74
+43C313,ZH839,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C311,ZH837,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C310,ZH836,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C30F,ZH835,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C30E,ZH834,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj73
+43C30E,ZH834,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C30D,ZH833,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C30C,ZH832,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj72
-43C30B,ZH831,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Civ,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://www.qinetiq.com/en
-43C308,ZH828,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj71
-43C307,ZH827,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj70
-43C306,ZH826,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj69
+43C30C,ZH832,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C30B,ZH831,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Civ,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C308,ZH828,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C307,ZH827,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C306,ZH826,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C304,ZH824,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 A42299,N366AC,Aero Flite,Avro 146-RJ100,RJ1H,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://youtu.be/Qtyk7PoiKSo
 A48A3A,N392AC,Aero Flite,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://fireaviation.com/tag/aero-flite
@@ -11787,3 +11786,135 @@ A3026F,N293UP,United Parcel Service (UPS),MD-11,MD11,Civ,You Came Here In That T
 480501,F-002,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 48050D,F-014,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 AF351F,13-5067,United States Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
+AB374C,N82123,Adobe Inc,Gulfstream G650 ER,GLF6,Civ,PDF,Photoshop,Dreamweaver,As Seen on TV,https://en.wikipedia.org/wiki/Adobe_Inc.
+AB9657,N846CB,Chubb Flight Operations,Gulfstream G650 ER,GLF6,#N/A,Bizjet,Insurance,Reverse Gambling,As Seen on TV,https://w.wiki/4vc2
+A47991,N388FT,Franklin Templeton Travel,Gulfstream G500,GLF5,#N/A,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4vbz
+A79437,N588GA,Gulfstream Aerospace Corp,Gulfstream G500,GA5C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+A066DC,N125GA,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+A6D8EC,N540LF,Gulfstream Aerospace Corp,Gulfstream G650 ER,GLF6,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
+AA9212,N780RW,IBM Corp,Gulfstream G650 ER,GLF6,Civ,HAL,Counting Machines,Big Blue,As Seen on TV,https://en.wikipedia.org/wiki/IBM
+39A529,F-HJJJ,JCDecaux Group,Dassault Falcon 900LX,F900,Civ,Advertising,Billboards,Street Furniture,As Seen on TV,https://en.wikipedia.org/wiki/JCDecaux
+343359,EC-LBB,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
+39ADEC,F-HLPM,Michelin Air Services,Dassault Falcon 2000LXS,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
+39ADED,F-HLPN,Michelin Air Services,Dassault Falcon 2000LXS,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
+A7E2C5,N607RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
+3D7CC7,D-FTMT,QinetiQ GmbH,Pilatus PC-12 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
+A0C99B,N15UC,The United Company,Gulfstream G500,GLF5,Civ,Bizjet,Climate Crisis,Fossil Fuels,As Seen on TV,https://www.unitedco.net/
+06A1D1,A7-CGM,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+485013,PH-DTY,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+395D69,F-GXLJ,Airbus Transport Intl,Airbus A330-743L Beluga XL,A337,Civ,Absolute Unit,Beluga XL,Smiley Face,Distinctive,https://en.wikipedia.org/wiki/Airbus_Beluga_XL
+4069000,G-IIJI,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Distinctive,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
+3E1210,D-HYAQ,ADAC Luftrettung,Airbus Helicopters MBB-BK 117 D-2 (H145),EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DDC04,D-HDOM,ADAC Luftrettung,Airbus Helicopters MBB-BK 117 D-2 (H145),EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+49D429,OK-ANS,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
+AA1A20,N750AY,Skydive North West,Pacific Aerospace PAC750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://skydivenorthwest.co.uk/
+3DDC74,D-HDSU,DRF Luftrettung,Airbus Helicopters MBB-BK 117 D-2 (H145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+406206,G-RSCU,Irish Community Rapid Response,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://communityairambulance.ie/
+4D0288,LX-HPG,Luxembourg Air Rescue,MD 900 Explorer,EXPL,Civ,Air Ambo,Flying Doctors,Medical Evac,Flying Doctors,https://www.lar.lu/en
+3F4038,30+29,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9C06,30+49,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+354556,T.22-2,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
+A756EB,N572MA,Meta Aerospace,Boeing KC-135R,K35R,Civ,Air2Air,Refuel,Tanker,Hired Gun,https://meta.aero/
+A75334,N571MA,Meta Aerospace,Boeing KC-135R,K35R,Civ,Air2Air,Refuel,Tanker,Hired Gun,https://meta.aero/
+A7496D,N569MA,Meta Aerospace,Boeing KC-135R,K35R,Civ,Air2Air,Refuel,Tanker,Hired Gun,https://meta.aero/
+A75AA2,N573MA,Meta Aerospace,Boeing KC-135R,K35R,Civ,Air2Air,Refuel,Tanker,Hired Gun,https://meta.aero/
+A8D972,N67AU,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+AD5AE7,N96MG,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+A5E6E1,N48GL,Phoenix Air,Gulfstream G-IV,GLF4,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A12598,N173PA,Phoenix Air,Gulfstream III,GLF3,Civ,Airborne Biomedical Containment System,Ebola,Dirty Business,Hired Gun,https://phoenixair.com/
+A150CE,N184PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A16971,N190PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A17FBB,N196PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A18372,N197PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A14D17,N183PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+AB277B,N818EC,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A548F5,N44HB,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A18729,N198PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A16361,N189PA,Phoenix Air,Gulfstream II SP,GLF2,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A101D0,N164PA,Phoenix Air,Gulfstream II B,GLF2,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A10587,N165PA,Phoenix Air,Gulfstream II B,GLF2,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A69910,N524PA,Phoenix Air,Learjet 35,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+AAE0D0,N80PG,Phoenix Air,Learjet 35,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6D932,N540PA,Phoenix Air,Learjet 35A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6FAA1,N549PA,Phoenix Air,Learjet 35A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A745E8,N568PA,Phoenix Air,Learjet 35A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6E80E,N544PA,Phoenix Air,Learjet 35A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6D6D9,N54PA,Phoenix Air,Learjet 36,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6F333,N547PA,Phoenix Air,Learjet 36,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A97B00,N71PG,Phoenix Air,Learjet 36,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6A435,N527PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A725D7,N56PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A36D3D,N32PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A6EBC5,N545PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A81530,N62PG,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A0FE19,N163PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A15485,N185PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A11A73,N170PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A17496,N193PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A170DF,N192PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A11E2A,N171PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A4C07A,N405PA,Phoenix Air,Embraer EMB 120ER,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A4D566,N410PA,Phoenix Air,Embraer EMB 120RT,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A59AE1,N460PA,Phoenix Air,Embraer EMB 120RT,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A5AD74,N465PA,Phoenix Air,Embraer EMB 120RT,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+C05E5B,C-GJTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C01275,C-FGZS,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+4045EB,G-CBEL,Anglia Aircraft Restoration,Hawker Iraqi Fury,FURY,Civ,Whoosh,Sea Fury,Fighter,Historic,https://tinyurl.com/mtrkj8uu
+3D2EFF,D-EQAX,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Historic,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
+402426,G-CTIX,Private,Supermarine Spitfire TIX,SPIT,Civ,PT462,Warbird,Merlin Engine,Historic,https://www.aerialcollective.co.uk/spitfire-pt462-history/
+459299,OY-DTY,Private,KZ-VII Laerke U-4,KZ7,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/SAI_KZ_VII
+4062C6,G-PULR,Private,Pitts Special S-2E,PTS2,Civ,Spirit Of Ayre,Do A Barrel Roll,Aerobatics,Joe Cool,https://highflyersonline.com/a-very-special-pitts-special/
+404F87,G-CVII,Private,Rihn DR-107 One Design,RODS,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4vbr
+407821,G-EZMT,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+3D11C8,D-EEZG,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+4020EE,G-BLMN,Private,Rutan Long-Ez,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://en.wikipedia.org/wiki/Rutan_Long-EZ
+A7E89D,N6089U,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+406C6C,G-CIIK,Private,Yakovlev Yak-55,YK55,Civ,Aerobatics,Do A Barrel Roll,Soviet Union,Joe Cool,https://en.wikipedia.org/wiki/Yakovlev_Yak-55
+40497E,G-CCFO,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+3D427A,D-EXKS,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
+3D4365,EC-KFV,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+3D3D03,D-EVIX,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+3D435A,D-EXTI,Private,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
+A88BB7,N65PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+3D1DC0,D-EJNC,Private,Extra EA230,E230,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-230
+484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+44F643,H-29,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+4CA1EB,264,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
+87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
+48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D823,0216,Polish Air Force,PZL M-28 B1TD Bryza,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+43C961,ZB132,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
+06A255,A7-MAC,Qatar Emiri Air Force,C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
+0200AB,CN-MMK,Royal Moroccan Air Force,Cessna Citation XLS+,C56X,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
+7102,1631,Royal Saudi Air Force,C-130H-30 Hercules,C130,Mil,Tactical Airlift,Chonky Boy,RSAF,Other Air Forces,https://w.wiki/4nsx
+4B820A,93-005,Turkish Air Force,Cessna Citation VII,C650,Mil,Bizjet,VIP Transport,Türk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
+A0FA0C,N162KQ,Meta Special Aerospace,Quest Aircraft Company Kodiak 100,KODI,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A05CD7,N122TP,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+AA2D66,N755JB,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A3E8E6,N351DY,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/2p8dtmuw
+AA7132,N772HP,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A3E4FB,N350BW,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A7C772,N600CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+AB800C,N840CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A174C8,N193RA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A3E5C2,N350KV,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A41B5B,N364CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A9DDD1,N735CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+AB8EE8,N844CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A3A4DE,N334CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+ACF101,N933CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A1A93D,N206KQ,Meta Special Aerospace,Quest Aircraft Company Kodiak 100,KODI,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+4A35A7,1104,Romanian Air Force,Antonov An-30,AN30,Mil,Aerial Cartography,Photo Recon,Forțele Aeriene Române,Oxcart,https://en.wikipedia.org/wiki/Antonov_An-30
+402316,G-PIPB,High Level Photography,Eurocopter AS355 Twin Squirrel,AS55,Civ,Aerial Cartography,Photo Recon,Aerial Survey,Ptolemy would be proud,https://highlevelphotography.co.uk/
+401EF9,G-OPMJ,Jefferson Air Photography,Cessna 172M Skyhawk,C172,Civ,Aerial Survey,Surveillance,Eye In The Sky,Ptolemy would be proud,http://www.jeffersonairphotography.com/
+44DA74,OO-VST,Vansteelandt Aerial Survey,Tecnam P.2006T,P06T,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.vansteelandt.be/
+3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
+3FA934,82+52,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+33FE0B,MM62156,Italian Army,Dornier Do 228-212,D228,Mil,Military Transport,STOL,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
+3D0FB7,D-EEEX,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing ?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
+48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Velocity_XL
+4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
+44A7D0,OO-I20,Private,Spacek Minisport SD-1 TD,ZZZZ,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Spacek_SD-1_Minisport

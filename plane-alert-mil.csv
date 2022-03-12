@@ -1411,7 +1411,7 @@ ABC123,HR-3604,Indonesian Air Force,Eurocopter AS365 N3 Dauphin,AS65,Mil,Militar
 738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A01,272,Israeli Air Force,Boeing 707-3L6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A41,IAF120,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
+738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738B4E,663,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
 738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://en.wikipedia.org/wiki/Israeli_Air_Force
@@ -1520,6 +1520,7 @@ A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guard
 48D84B,021,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D841,012,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D853,024,Polish Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D826,0206,Polish Air Force,PZL M-28 B1TD Bryza,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 497C73,17403,Portuguese Air Force,Dassault Falcon 50,FA50,Mil,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C2B,15112,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
 43C960,ZB131,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
@@ -1708,7 +1709,6 @@ C2B3C3,15004,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Re
 C2B3B9,15003,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B37D,15005,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
-C2B355,15001,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air,Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2B373,144618,Royal Canadian Air Force,Bombardier CC-144C,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
 C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Bizjet,Must Be Nice,Puppers,Other Air Forces,http://www.rcaf-arc.forces.gc.ca/en
@@ -2844,7 +2844,6 @@ ADB4AD,101,Pakistan Navy,Hawker 125 850XP,H25B,Mil,Surveillance,Eye In The Sky,S
 4CA41E,283,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41D,282,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41C,281,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
-A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 4D03D0,LX-N90459,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CF,LX-N90458,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CE,LX-N90456,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
@@ -2900,7 +2899,7 @@ E8C235,AE-565,Peruvian Navy,Fokker F50,F50,Mil,SIGNIT,Eye In The Sky,Non Deserit
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F424,C-168,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F430,M-518,Royal Danish Air Force,EH-101 Merlin Mk512,EH10,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
-478120,41,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
+478120,041,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 478121,053,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 142F5C,RA-12124,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 1575C6,RF-95686,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -2919,7 +2918,7 @@ E8C235,AE-565,Peruvian Navy,Fokker F50,F50,Mil,SIGNIT,Eye In The Sky,Non Deserit
 14FC0D,RF-64525,Russian Air Force,Tupolev Tu-214 ON,T204,Mil,Open Skies,Treaty Monitoring,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC11,RA-64529,Russian Air Force,Tupolev Tu-214 PU-SBUS,T204,Mil,Special Purpose,Airborne Command Post,Rare,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC12,RA-64530,Russian Air Force,Tupolev Tu-214 PU-SBUS,T204,Mil,Special Purpose,Airborne Command Post,Rare,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
-14FBFF,64511,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
+14FBFF,RF-64511,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 14FC02,RF-64514,Russian Air Force,Tupolev Tu-214 R,T204,Mil,SIGINT,ELINT,No Codename,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
 4A8220,100004,Swedish Air Force,S100B Argus ,SF34,Mil,AEW,SIGINT,What Big Eyes You Have,Oxcart,https://w.wiki/4nmh
 4A81F8,102003,Swedish Air Force,S102B Korpen,GLF4,Mil,ELINT,Covert,Bork Bork,Oxcart,https://tinyurl.com/86ejw7hz
@@ -3485,33 +3484,33 @@ AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,
 43C06F,ZJ120,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
 43C06E,ZJ119,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
 43C06D,ZJ118,Royal Navy Fleet Air Arm,EH-101 Merlin HC4,EH10,Mil,Chopper,Whirly Bird,Not A Wizard,Royal Navy Fleet Air Arm,https://www.royalnavy.mod.uk
-43C32B,ZH841,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj76
+43C32B,ZH841,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C32A,ZH864,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C328,ZH862,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj90
-43C327,ZH861,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj89
-43C326,ZH860,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj88
-43C323,ZH857,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj87
-43C322,ZH856,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj86
-43C320,ZH854,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj85
-43C31F,ZH853,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj84
-43C31D,ZH851,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj83
-43C31C,ZH850,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj82
-43C319,ZH847,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj81
-43C318,ZH846,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj80
-43C317,ZH845,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj79
-43C316,ZH843,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj78
-43C315,ZH842,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj77
+43C328,ZH862,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C327,ZH861,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C326,ZH860,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C323,ZH857,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C322,ZH856,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C320,ZH854,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31F,ZH853,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31D,ZH851,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C31C,ZH850,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C319,ZH847,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C318,ZH846,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C317,ZH845,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C316,ZH843,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C315,ZH842,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C314,ZH840,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C313,ZH839,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://www.cornwallvrs.duckdns.org/ZH839.mp4
-43C311,ZH837,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj74
+43C313,ZH839,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C311,ZH837,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C310,ZH836,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C30F,ZH835,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C30E,ZH834,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj73
+43C30E,ZH834,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C30D,ZH833,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
-43C30C,ZH832,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj72
-43C308,ZH828,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj71
-43C307,ZH827,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj70
-43C306,ZH826,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj69
+43C30C,ZH832,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C308,ZH828,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C307,ZH827,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+43C306,ZH826,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C304,ZH824,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 501F9A,895,Croatian Air Force,Air Tractor AT-802AF,AT8T,Mil,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4mdB
 43C39B,ZJ782,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
@@ -6707,3 +6706,16 @@ ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 480501,F-002,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 48050D,F-014,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
 AF351F,13-5067,United States Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
+3F4038,30+29,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9C06,30+49,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+44F643,H-29,Belgian Air Component,Agusta A.109 BA,A109,Mil,Get To The Choppa,Multi Role,Utility,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+4CA1EB,264,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
+48D823,0216,Polish Air Force,PZL M-28 B1TD Bryza,M28,Mil,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+43C961,ZB132,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
+06A255,A7-MAC,Qatar Emiri Air Force,C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
+0200AB,CN-MMK,Royal Moroccan Air Force,Cessna Citation XLS+,C56X,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
+7102,1631,Royal Saudi Air Force,C-130H-30 Hercules,C130,Mil,Tactical Airlift,Chonky Boy,RSAF,Other Air Forces,https://w.wiki/4nsx
+4B820A,93-005,Turkish Air Force,Cessna Citation VII,C650,Mil,Bizjet,VIP Transport,Türk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
+4A35A7,1104,Romanian Air Force,Antonov An-30,AN30,Mil,Aerial Cartography,Photo Recon,Forțele Aeriene Române,Oxcart,https://en.wikipedia.org/wiki/Antonov_An-30
+3FA934,82+52,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+33FE0B,MM62156,Italian Army,Dornier Do 228-212,D228,Mil,Military Transport,STOL,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc

@@ -237,10 +237,10 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 AE4BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF1,2317,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BEF,2315,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mobile,Coastguard,https://www.uscg.mil/
+AE4BEF,2315,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Corpus Christi,Coastguard,https://www.uscg.mil/
 AE4BEE,2314,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4BE8,2313,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4BE8,2313,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Corpus Christi,Coastguard,https://www.uscg.mil/
 AE270A,2312,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2709,2311,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2708,2310,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -670,7 +670,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 0D80FF,YV2565,Petroleos de Venezuela,Learjet 45,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8100,YV2567,Petroleos de Venezuela,Learjet 45XR,LJ45,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D982,111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
@@ -1036,6 +1036,7 @@ ABC1F0,N857GA,PPG Industries Inc,Gulfstream G550,GLF5,Gov,Tanzania,Samia Suluhu 
 A73B05,N565RS,Rivers State Government,Bombardier Global 5000,GL5T,Gov,Nigeria,Ezenwo Nyesom Wike,Government,Governments,http://riversstate.gov.ng
 064057,5N-RSG,Rivers State Government,Embraer Legacy 600,E35L,Gov,Nigeria,Ezenwo Nyesom Wike,Our Lady Queen Of Victories,Governments,http://riversstate.gov.ng
 43C6F9,ZZ336,Royal Air Force,Airbus Voyager KC3,A332,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-53082294
+C2B355,15001,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Gov,Justin Trudeau,Government,To Be Faaaaaaaaaaaaaaaaaaair,Governments,http://www.rcaf-arc.forces.gc.ca/en
 02010F,CN-MMS,Royal Moroccan Government,AgustaWestland AW.139,A139,Gov,Morocco,Aziz Akhannouch,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Morocco
 C87F01,NZ7572,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacinda Ardern,Government,Governments,https://www.newzealand.com
 C87F00,NZ7571,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacinda Ardern,Government,Governments,https://www.newzealand.com
@@ -1082,7 +1083,6 @@ ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutron
 3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
 48D8E1,1502,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-48D826,0206,Polish Air Force,PZL M-28 B1TD Bryza,M28,Gov,Skytruck,STOL,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 405D6F,G-DOSB,Acrobat Ltd,Diamond Aircraft DA42,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
@@ -1184,22 +1184,22 @@ ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US De
 A1CD07,N215KS,Sbs Prgm Ofc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 4A81F9,102002,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Electonic Reccon,Covert,Surveillance,Oxcart,https://en.wikipedia.org/wiki/Swedish_royal_family
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Mae West,Oxcart,https://www.uscg.mil/
-A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
-A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
@@ -1513,3 +1513,13 @@ AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
+06A1D1,A7-CGM,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+49D429,OK-ANS,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
+33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+354556,T.22-2,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
+A8D972,N67AU,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+AD5AE7,N96MG,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
+48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
