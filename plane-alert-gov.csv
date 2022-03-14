@@ -1,6 +1,7 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A131,A7-CEF,Qatar Executive,Bombardier Global Express XRS,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D1,A7-CGM,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/4mcb
 44B5AD,OO-MMM,Belgian Coast Guard,BN Islander 2A-21,BN2P,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://kwgc.be/en
 C04AB9,C-GCHS,Canadian Coast Guard,Bell 206L Long Ranger,B06,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
@@ -839,6 +840,7 @@ ADFEB4,73-1677,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of Th
 ADFEB3,73-1676,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 7C39D5,VH-LPJ,Air Affairs Australia,Learjet 35,LJ35,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
 484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply ,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
+49D429,OK-ANS,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
 398895,F-HCEV,D.G. de l'Aviation Civile,B200GT Super King Air,BE20,Gov,Flying Classroom,Ou Sont Les Bagages,Vomit Comet,Dogs with Jobs,https://www.ecologie.gouv.fr
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,GLF5,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
 3B7F72,F-ZAFT,DGA Essais en Vol,Fokker F100,F100,Gov,Testbed,ABE-NG,Flight Test,Dogs with Jobs,https://www.aeroflight.co.uk/ops/gov/dga-essais-en-vol.htm
@@ -1010,6 +1012,7 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Ja
 33FFFB,MM62029,Italian Air Force,Dassault Falcon 50,FA50,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 87C003,80-1112,Japanese Air Self Defence Force,Boeing 777-3ER,B77W,Gov,Japan,Fumio Kishida,Government,Governments,https://www.japan.go.jp
 75044F,9M-TMJ,Johor State Government,Gulfstream G650 ER,GLF6,Gov,Malaysia,Ismail Sabri Yaakob,Government,Governments,https://www.johor.gov.my
 75041A,9M-ZZZ,Johor State Government,Gulfstream G650 ER,GLF6,Gov,Malaysia,Ismail Sabri Yaakob,Government,Governments,https://www.johor.gov.my
@@ -1043,6 +1046,7 @@ C87F00,NZ7571,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacind
 151950,RF-72016,Russian FSB,Antonov An-72,AN72,Gov,I Must Break You,Cheburashka,Government,Governments,https://en.wikipedia.org/wiki/Federal_Security_Service
 00AEC9,ZS-RSA,South African Air Force,Boeing 737-BBJ,B737,Gov,South Africa,Cyril Ramaphosa,Government,Governments,https://www.gov.za
 354555,T.22-1,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
+354556,T.22-2,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
 A1EFFE,N224BH,State Gov of Akwa Ibom,Gulfstream G450,GLF4,Gov,Nigeria,Udom Gabriel Emmanuel,Government,Governments,https://akwaibomstate.gov.ng
 E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
 0D0391,XC-HIS,State Gov of Chiapas,Learjet 25D,LJ25,Gov,Mexico,Rutilio Escandon,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
@@ -1067,6 +1071,9 @@ AE11F6,01-1941,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The S
 AE115D,01-2015,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE0945,14611,United States Air Force,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Government,Aviation Vanguard Of The Homeland,Governments,https://w.wiki/4nmf
+A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+A8D972,N67AU,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
+AD5AE7,N96MG,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
 A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
@@ -1082,7 +1089,10 @@ ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutron
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
+87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
 48D8E1,1502,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+020130,CN-MBH,Royal Moroccan Air Force,Boeing 747-BBJ,B748,Gov,VIP Transport,Government,Morocco,Other Air Forces,https://w.wiki/4n3m
 4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 405D6F,G-DOSB,Acrobat Ltd,Diamond Aircraft DA42,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
@@ -1473,6 +1483,7 @@ AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60
 3B7B3F,F-ZBMI,Securite Civile,DHC-8-400 MR,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 C06DC8,C-GPOX,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B86,F-ZBMC,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
+3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
@@ -1513,13 +1524,3 @@ AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
-06A1D1,A7-CGM,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-49D429,OK-ANS,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
-33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
-354556,T.22-2,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
-A8D972,N67AU,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
-A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
-AD5AE7,N96MG,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
-87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
-48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
