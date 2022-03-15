@@ -3757,7 +3757,7 @@ A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Fly
 406481,G-PMIZ,Private Owner,Pitts Special P-12,PTMS,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405ED2,G-BOXH,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-404516,G-IBII,Private Owner,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -4863,7 +4863,6 @@ A6C6CF,1304,Mexican Air Force,Bell 407GX,B407,Mil,Choppa,Military Transport,Hono
 0D0971,3526,Mexican Air Force,Boeing 737NG,B738,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D09E7,3527,Mexican Air Force,Boeing 737NG,B738,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D0A13,3528,Mexican Air Force,Boeing 737NG,B738,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
-0D054A,3911,Mexican Air Force,Bombardier Challenger 605,CL60,Mil,VIP Transport,Bizjet,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D0872,3911,Mexican Air Force,Bombardier Challenger 605,CL60,Mil,VIP Transport,Bizjet,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D082C,3616,Mexican Air Force,C-130K Hercules,C130,Mil,Cargo,Heavy Duty,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D082D,3617,Mexican Air Force,C-130K Hercules,C130,Mil,Cargo,Heavy Duty,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
@@ -9104,10 +9103,10 @@ AE13D1,04-01778,United States Army,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice
 ADFD76,91-00506,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not a Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 ADFD74,91-00507,United States Army,Swearingen C-26B Metro,SW4,Mil,Bizjet,Not a Bus,Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Fairchild_C-26_Metroliner
 AE56A8,13-20576,US National Guard,UH-60A Blackhawk,H60,Mil,Choppa,National Guard,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/National_Guard_(United_States)
-406EA2,G-CIPX,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-4068C8,G-CHNS,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-407672,G-CKYP,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-407951,G-UASA,Bristow Helicopters,Schiebel Camcopter S-100,ZZZZ,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
+406EA2,G-CIPX,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+4068C8,G-CHNS,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+407672,G-CKYP,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+407951,G-UASA,Bristow Helicopters,Schiebel Camcopter S-100,ZZZZ,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
 3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.bundeswehr.de/de/organisation/luftwaffe
 43C883,Tactical,Royal Air Force,Thales Watchkeeper WK450,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Thales_Watchkeeper_WK450

@@ -1864,7 +1864,7 @@ A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Fly
 406481,G-PMIZ,Private Owner,Pitts Special P-12,PTMS,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405ED2,G-BOXH,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-404516,G-IBII,Private Owner,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2560,10 +2560,10 @@ A0956B,N137CG,Coulson Aviation,Boeing 737,B733,Civ,Flying Fire Extinguisher,Hot 
 71D407,HL9407,Ulsan Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Hot Hot Hot Hot,Helix,Sam Tân,https://en.wikipedia.org/wiki/Fire_services_in_South_Korea
 A1A4B7,N205BH,Ventura County Fire Department,Bell EH-1H Iroquois,UH1,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://vcfd.org
 AAE162,N80VC,Ventura County Fire Department,UH-60L Blackhawk,H60,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://vcfd.org
-406EA2,G-CIPX,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-4068C8,G-CHNS,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-407672,G-CKYP,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
-407951,G-UASA,Bristow Helicopters,Schiebel Camcopter S-100,ZZZZ,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://en.wikipedia.org/wiki/Schiebel_Camcopter_S-100
+406EA2,G-CIPX,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+4068C8,G-CHNS,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+407672,G-CKYP,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+407951,G-UASA,Bristow Helicopters,Schiebel Camcopter S-100,ZZZZ,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 407AFE,G-WNDR,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 A7855B,N584GA,United States Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
