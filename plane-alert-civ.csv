@@ -431,7 +431,7 @@ ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Pro
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
 06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
@@ -1597,7 +1597,7 @@ A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,DC3T,Civ,Turboprop,Rejuvenated,Inde
 C03C29,C-FWUI,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C038D9,C-FVNS,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 4073FF,G-VNAM,O-1 Aviation,Cessna O-1A Bird Dog,O1,Civ,War Bird,Liason,Historic,Historic,https://w.wiki/4nDg
-A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
+A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
 403085,G-BRWR,Private,Aeronca Chief 11AC,AR11,Civ,Flight Training,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Aeronca_11_Chief
 4062CF,G-APRO,Private,Auster Aircraft Auster 6A Tugmaster,AUS6,Civ,Highwing,Historic,Glider Tug,Historic,https://en.wikipedia.org/wiki/Auster_Tugmaster
 401491,G-ANHX,Private,Auster AOP.5,AUS6,Civ,Observation,Liason,WW2,Historic,http://www.aerialvisuals.ca/AirframeDossier.php?Serial=114444
@@ -2332,7 +2332,6 @@ A88D5B,N650GL,Leonid Mikhelson,Gulfstream G650,GLF6,Civ,Oligarch,Dirty Money,Dis
 ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,CL60,Civ,Covert,ISR,SIGINT,Oxcart,https://actualcontrol.substack.com/p/openskys-open-api
 A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spyplane,All About That Wingspan,Oxcart,https://en.wikipedia.org/wiki/Grob_G_520
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,BN Defender BN-2T-4R,BN2P,Civ,Surveillance,Covert,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Britten-Norman
-407757,G-OUEG,Catreus,Bombardier Global 6000,GLEX,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
 406EEC,G-RSXP,Catreus,Cessna Citation XLS,C56X,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
 43EE55,2-WKTK,Diamond Executive Aviation,B200T Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
 4D02CB,LX-FPP,Diamond Executive Aviation,B200T Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero

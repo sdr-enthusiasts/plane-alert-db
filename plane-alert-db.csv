@@ -553,7 +553,7 @@ ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Pro
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
 06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
@@ -3475,7 +3475,7 @@ A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,DC3T,Civ,Turboprop,Rejuvenated,Inde
 C03C29,C-FWUI,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C038D9,C-FVNS,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 4073FF,G-VNAM,O-1 Aviation,Cessna O-1A Bird Dog,O1,Civ,War Bird,Liason,Historic,Historic,https://w.wiki/4nDg
-A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
+A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
 403085,G-BRWR,Private,Aeronca Chief 11AC,AR11,Civ,Flight Training,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Aeronca_11_Chief
 4062CF,G-APRO,Private,Auster Aircraft Auster 6A Tugmaster,AUS6,Civ,Highwing,Historic,Glider Tug,Historic,https://en.wikipedia.org/wiki/Auster_Tugmaster
 401491,G-ANHX,Private,Auster AOP.5,AUS6,Civ,Observation,Liason,WW2,Historic,http://www.aerialvisuals.ca/AirframeDossier.php?Serial=114444
@@ -4602,19 +4602,19 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 3B76A0,300,French Air Force,DHC-6 Twin Otter 300,DHC6,Mil,STOL,Lands On Anything,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B769F,730,French Air Force,DHC-6 Twin Otter 300,DHC6,Mil,STOL,Lands On Anything,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B769E,745,French Air Force,DHC-6 Twin Otter 300,DHC6,Mil,STOL,Lands On Anything,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B773E,54,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B773C,64,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7739,72,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7737,75,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7735,78,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7733,82,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7731,84,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7730,86,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B772F,89,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B772D,91,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B772C,92,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B772A,96,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7729,98,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B773E,054,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B773C,064,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7739,072,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7737,075,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7735,078,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7733,082,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7731,084,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7730,086,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B772F,089,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B772D,091,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B772C,092,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B772A,096,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7729,098,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7728,99,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7726,102,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7725,103,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -4622,9 +4622,9 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 3B7723,107,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7722,108,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7721,111,French Air Force,Embraer 121 Xingu AA,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B773B,66,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B7732,83,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B772E,90,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B773B,066,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7732,083,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B772E,090,French Air Force,Embraer 121 Xingu AN,E121,Mil,Shingoo,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B761C,2233,French Air Force,Eurocopter AS332 Super Puma,AS32,Mil,Helicoptere,Aller a la Choppa,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B761B,2235,French Air Force,Eurocopter AS332 Super Puma,AS32,Mil,Helicoptere,Aller a la Choppa,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B761A,2377,French Air Force,Eurocopter AS332 Super Puma,AS32,Mil,Helicoptere,Aller a la Choppa,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -4715,14 +4715,14 @@ E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Ni
 3B77FF,105,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77FE,104,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77FD,103,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77FA,95,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F9,94,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F8,93,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F7,80,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F6,78,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F5,77,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F3,35,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B77F2,33,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77FA,095,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F9,094,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F8,093,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F7,080,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F6,078,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F5,077,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F3,035,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77F2,033,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77F1,111,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77F0,117,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77EF,125,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -6234,7 +6234,6 @@ ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,CL60,Civ,Covert,
 A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spyplane,All About That Wingspan,Oxcart,https://en.wikipedia.org/wiki/Grob_G_520
 4009B4,G-WPNS,Britten-Norman Aircraft Ltd,BN Defender BN-2T-4R,BN2P,Civ,Surveillance,Covert,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Britten-Norman
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B Jet Ranger,B06,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-407757,G-OUEG,Catreus,Bombardier Global 6000,GLEX,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
 406EEC,G-RSXP,Catreus,Cessna Citation XLS,C56X,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
 AA6025,N768KD,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
 A64465,N5025,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
