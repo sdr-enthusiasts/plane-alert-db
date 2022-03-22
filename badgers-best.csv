@@ -1906,14 +1906,14 @@ AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Du
 403347,G-TBAG,Private,Murphy Renegade 912,RENE,Civ,Biplane,Barnstormer,Cool,Joe Cool,https://w.wiki/4nzf
 40226D,G-NORD,Private,Nord NC.854,NC85,Civ,You Came Here In That Thing,Highwing,Nope Mobile,Joe Cool,https://en.wikipedia.org/wiki/Nord_NC.850
 38AC1B,F-AZKM,Private,North American Rockwell OV-10A Bronco,V10,Civ,Eye In The Sky,Observation,Twin Boom,Joe Cool,http://www.warbirdalley.com/ov10.htm
-40307A,G-BRVL,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-AA7934,N774PM,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-170000,G-TWRL,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-3D355A,D-ESLM,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-4490D0,OO-DFP,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-A345AF,N31NL,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-4059FD,G-SJBI,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+40307A,G-BRVL,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+AA7934,N774PM,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+170000,G-TWRL,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+3D355A,D-ESLM,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+4490D0,OO-DFP,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+A345AF,N31NL,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+4059FD,G-SJBI,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 478710,LN-PLO,Private,Republic RC-3 Seabee,RC3,Civ,Amphibian,Shiny,Historic,Joe Cool,https://w.wiki/4o3Z
 402F0E,G-BRFB,Private,Rutan Long-Ez,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://en.wikipedia.org/wiki/Rutan_Long-EZ
 A3BC70,N34RD,Private,Rutan VariEze,VEZE,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://w.wiki/4o3T
@@ -2657,7 +2657,7 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,L410,Mil,Unpressurised,Extreme Co
 40729C,G-SCIR,2 Excel Aviation,Piper PA-31 Navajo C,PA31,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 400C86,G-UMMI,2 Excel Aviation,Piper PA-31 Navajo C,PA31,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-405D6F,G-DOSB,Acrobat Ltd,Diamond Aircraft DA42,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
+405D6F,G-DOSB,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
 406848,G-UKAL,Aero Lease UK (Police),Cessna F406 Caravan II,F406,Civ,Surveillance,The Police,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210 Centurion,C210,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A674DF,N515JW,Aerographics Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
