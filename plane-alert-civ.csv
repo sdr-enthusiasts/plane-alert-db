@@ -431,7 +431,6 @@ ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Pro
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
 06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
@@ -526,6 +525,7 @@ A9E513,N737AG,Funair Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Chan
 43EC3E,2-SGSG,Gain Jet Ireland,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,http://www.gainjet.com
 896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+406C60,G-LSCW,Gama Aviation,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 424059,VP-BNZ,Gazpromavia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 43E76B,M-URUS,Global Jet Austria GmbH,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -1112,7 +1112,7 @@ A0B5FF,N145HN,HealthNet Aeromedical Services,MBB-Kawasaki BK 117 C-2,BK17,Civ,Ai
 401166,G-IASC,IAS Medical Ltd,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
 A91DE9,N687HB,Inflight Medical Services International,Mitsubishi MU-2B -36,MU2,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.inflightmed.com/
 406206,G-RSCU,Irish Community Rapid Response,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://communityairambulance.ie/
-3CE600,XA-DOC,Jet Rescue,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jet-rescue.com/
+3CE600,XA-DOC,Jet Rescue,Learjet 36A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jet-rescue.com/
 3CD803,D-CJCL,Jetcall Ambulance,Learjet 31A,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetcall.eu/service/aircraft-charter/ambulance.html
 3DEBD7,D-HJOH,Johanniter Luftrettung,Eurocopter AS365 N3 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
 3DD735,D-HJLA,Johanniter Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
@@ -1243,6 +1243,7 @@ A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Ai
 4008A7,G-NIHM,Northern Ireland Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airambulanceni.org/
 A07C57,N130MU,Ohio Medical Transportation,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://ohiomedicaltransport.com/
 A07C1A,N130KH,Ohio Medical Transportation,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://ohiomedicaltransport.com/
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 AC9AA0,N911CM,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A24F04,N248PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A24796,N246PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
@@ -1749,6 +1750,7 @@ AC953B,N91KH,Rhema Bible Church,Bombardier Challenger 601,CL60,Civ,Jesus He Know
 AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://en.wikipedia.org/wiki/Douglas_DC-8
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-12 47,PC12,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.ams.org.za
 406D43,G-COXI,ABD Networks LLP,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
+404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 45BA61,OY-NSA,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
 404005,G-BYCT,Private,Aero L-29 Delfin,L29,Civ,Da Comrade,Jet Trainer,Must Be Nice,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-29_Delf%C3%ADn
 4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
@@ -1864,7 +1866,6 @@ A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Fly
 406481,G-PMIZ,Private Owner,Pitts Special P-12,PTMS,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405ED2,G-BOXH,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2357,7 +2358,6 @@ A65921,N508RB,Five Point Aerial Survey,Cessna 208B,C208,Civ,Palm Beach County Sh
 406A2E,G-GMAD,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 400D24,G-BJEC,Gama Aviation,BN Islander CC2,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
-406C60,G-LSCW,Gama Aviation,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A05CD7,N122TP,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 AA2D66,N755JB,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa

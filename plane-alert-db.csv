@@ -553,7 +553,6 @@ ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Pro
 780926,B-8255,Deer Jet Beijing,Gulfstream G550,GLF5,Civ,Bizjet,How The Other Half Live,Man Made Climate Change,Bizjets,http://en.deerjet.com/
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 39C5C6,F-HROG,Investairs,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
-3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 3981A4,F-HANE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 A6E07B,N542MP,Pans UK Holdings,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://www.hondajet.com
 06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
@@ -651,6 +650,7 @@ A9E513,N737AG,Funair Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Chan
 43EC3E,2-SGSG,Gain Jet Ireland,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,http://www.gainjet.com
 896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+406C60,G-LSCW,Gama Aviation,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 424059,VP-BNZ,Gazpromavia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 43E76B,M-URUS,Global Jet Austria GmbH,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -1756,12 +1756,12 @@ AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Od
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://youtu.be/q2Nv3KVKHWI
+A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://foxtrotalpha.jalopnik.com/the-worlds-most-secretive-737-is-really-the-usafs-most-1686479619
 AE040D,162782,USAF,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 ADFEB6,75-0125,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB5,74-0787,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB3,73-1676,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
-A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://foxtrotalpha.jalopnik.com/the-worlds-most-secretive-737-is-really-the-usafs-most-1686479619
 4B2F15,HB-RVP,Verein Fliegermuseum,Hawker Hunter T68,HUNT,Civ,Jet Fighter,Transonic,Historic,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
 A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope Mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
@@ -2103,7 +2103,7 @@ A0B5FF,N145HN,HealthNet Aeromedical Services,MBB-Kawasaki BK 117 C-2,BK17,Civ,Ai
 401166,G-IASC,IAS Medical Ltd,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
 A91DE9,N687HB,Inflight Medical Services International,Mitsubishi MU-2B -36,MU2,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.inflightmed.com/
 406206,G-RSCU,Irish Community Rapid Response,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://communityairambulance.ie/
-3CE600,XA-DOC,Jet Rescue,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jet-rescue.com/
+3CE600,XA-DOC,Jet Rescue,Learjet 36A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jet-rescue.com/
 3CD803,D-CJCL,Jetcall Ambulance,Learjet 31A,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetcall.eu/service/aircraft-charter/ambulance.html
 3DEBD7,D-HJOH,Johanniter Luftrettung,Eurocopter AS365 N3 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
 3DD735,D-HJLA,Johanniter Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
@@ -2236,6 +2236,7 @@ A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Ai
 4008A7,G-NIHM,Northern Ireland Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airambulanceni.org/
 A07C57,N130MU,Ohio Medical Transportation,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://ohiomedicaltransport.com/
 A07C1A,N130KH,Ohio Medical Transportation,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://ohiomedicaltransport.com/
+3989E4,F-HCPE,Oyonnair,Piaggio P-180 Avanti II,P180,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 AC9AA0,N911CM,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A24F04,N248PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A24796,N246PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
@@ -3040,6 +3041,7 @@ E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Go
 0D0A97,XC-MTA,Tamaulipas State Government,Robinson R44,R44,Gov,Mexico,Francisco Javier Garcia,Government,Governments,https://en.wikipedia.org/wiki/Tamaulipas
 07A201,3DC-SDF,The Kingdom of Eswatini,Airbus A340-313X,A343,Gov,Eswatini,Used To Be Swaziland,Government,Governments,http://www.gov.sz
 407A3E,G-XATW,UK Government,Airbus A321neo,A21N,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-60159230
+A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Government,Aviation Vanguard Of The Homeland,Governments,https://w.wiki/4nmf
 AE4AEC,19-0018,USAF,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE4AEA,09-0017,USAF,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 AE4AE8,09-0016,USAF,Boeing C-32A,B752,Mil,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -3053,50 +3055,9 @@ AE11F7,01-0041,USAF,Boeing C-40B,B737,Mil,VIP,Office In The Sky,Government,Gover
 AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE115D,01-2015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE0945,14611,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
-A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Government,Aviation Vanguard Of The Homeland,Governments,https://w.wiki/4nmf
 0AC8F9,FAC1686,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
 0AC8F5,FAC1654,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
 0AC8F4,FAC1658,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
-AE690E,18-5905,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE6203,18-5891,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE6201,18-5886,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE61FE,18-5882,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE61FA,17-5877,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5F14,17-5869,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5F0E,16-5861,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5E02,16-5852,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5E00,16-5846,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5DFF,16-5844,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5DF9,16-5837,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5DF8,16-5835,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5C93,15-5811,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE596C,14-5803,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE596B,14-5797,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5969,14-5787,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5968,14-5809,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5967,14-5805,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5964,14-5789,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE5962,13-5783,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE54D4,12-5772,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE54C9,12-5732,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE4E1C,11-5735,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE12A9,90-0165,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE12A6,90-0164,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE12A5,89-0510,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE129E,87-0128,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE02D8,89-1054,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE02D6,89-1052,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05DC,87-9286,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05BE,90-1058,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05BD,88-1308,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05BC,88-1307,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05BB,88-1306,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05BA,88-1305,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05B9,88-1304,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05B7,88-1302,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE05B6,88-1301,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE02FB,87-9288,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE19F9,82-0665,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
 AE19F7,82-0663,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
 AE19F6,82-0662,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
@@ -3310,6 +3271,46 @@ AE18B7,78-0633,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt
 AE18B6,78-0632,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
 AE18B3,78-0638,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
 AE18AE,78-0631,USAF,A-10 Thunderbolt II,A10,Mil,Warthog,Brrrrrrrrrrrrrrrrrrrrrrt,Run Away,Gunship,https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II
+AE690E,18-5905,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE6203,18-5891,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE6201,18-5886,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE61FE,18-5882,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE61FA,17-5877,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5F14,17-5869,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5F0E,16-5861,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5E02,16-5852,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5E00,16-5846,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5DFF,16-5844,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5DF9,16-5837,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5DF8,16-5835,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5C93,15-5811,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE596C,14-5803,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE596B,14-5797,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5969,14-5787,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5968,14-5809,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5967,14-5805,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5964,14-5789,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE5962,13-5783,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE54D4,12-5772,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE54C9,12-5732,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE4E1C,11-5735,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE12A9,90-0165,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE12A6,90-0164,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE12A5,89-0510,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE129E,87-0128,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE02D8,89-1054,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE02D6,89-1052,USAF,AC-130U Hercules,C130,Mil,Spooky,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05DC,87-9286,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05BE,90-1058,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05BD,88-1308,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05BC,88-1307,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05BB,88-1306,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05BA,88-1305,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05B9,88-1304,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05B7,88-1302,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE05B6,88-1301,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE02FB,87-9288,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
@@ -3642,6 +3643,7 @@ AC953B,N91KH,Rhema Bible Church,Bombardier Challenger 601,CL60,Civ,Jesus He Know
 AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://en.wikipedia.org/wiki/Douglas_DC-8
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-12 47,PC12,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.ams.org.za
 406D43,G-COXI,ABD Networks LLP,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
+404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 45BA61,OY-NSA,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
 404005,G-BYCT,Private,Aero L-29 Delfin,L29,Civ,Da Comrade,Jet Trainer,Must Be Nice,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-29_Delf%C3%ADn
 4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
@@ -3757,7 +3759,6 @@ A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Fly
 406481,G-PMIZ,Private Owner,Pitts Special P-12,PTMS,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405ED2,G-BOXH,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -6290,7 +6291,6 @@ AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept 
 406A2E,G-GMAD,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 400D24,G-BJEC,Gama Aviation,BN Islander CC2,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
-406C60,G-LSCW,Gama Aviation,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 3FBFA1,46+55,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3FBAF9,46+35,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3FB159,98+77,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
@@ -6557,6 +6557,99 @@ A045CB,N1167A,Tenax Aerospace,B350 Super King Air,B350,Civ,Surveillance,ISR,Eye 
 440377,OE-VDO,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 4B82DF,TCB-752,Turkish Navy,ATR 72-600MPA,AT72,Mil,Maritime Patrol,Detect,Locate,Oxcart,https://www.airforce-technology.com/projects/atr-72-mp-maritime-patrol-aircraft/
+A60693,N488CR,United States Army,Bombardier Challenger 650,CL60,Mil,Artemis,HADES,SIGINT,Oxcart,https://www.itamilradar.com/2021/08/29/artemis-visited-libya/
+AE6255,16-00374,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5F1A,16-00397,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C91,15-10332,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C90,15-10577,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C8F,15-10338,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C8E,15-10358,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C8D,15-10348,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5C8C,15-10352,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
+AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k5
+AE5C92,11-00287,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k6
+AE5A42,11-00286,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k7
+AE5622,13-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k8
+AE5403,11-00285,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k9
+AE5402,11-00284,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k10
+AE53FF,11-00283,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k11
+AE53FE,11-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k12
+AE53FD,12-00281,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k13
+AE53FB,12-00279,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k14
+AE53FA,12-00280,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k15
+AE4C62,10-00742,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k16
+AE4C60,10-00730,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k17
+AE4C1F,10-00729,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k18
+AE58B7,11-00267,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE58B6,11-00266,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE5752,12-00277,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE5623,13-00283,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE4C5E,10-00728,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE2F63,09-00646,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE2F62,09-00644,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE2F61,09-00642,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE2923,08-00329,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE291E,08-00376,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
+AE6041,80-23378,United States Army,RC-12D Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1207,89-00276,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1206,89-00275,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1205,89-00274,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1202,89-00270,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1201,89-00269,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1200,89-00268,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E5,93-00700,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10DE,91-00518,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE08FE,92-13121,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE515E,88-00325,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE120C,93-00701,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE120B,93-00699,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE120A,93-00697,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1209,91-00517,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1208,91-0516,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE1204,89-00273,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E4,93-00698,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E3,92-13125,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E2,92-13124,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E1,92-13123,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10E0,92-13122,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE10DF,92-13120,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
+AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
+AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
+A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AB3343,N8200R,SOCOM,DHC-8-202,DH8B,Mil,Covert,STAMP,Surveillance,Oxcart,https://tinyurl.com/4wk32j49
+AB333B,N8200H,SOCOM,DHC-8-202,DH8B,Mil,Covert,STAMP,Surveillance,Oxcart,https://tinyurl.com/4wk32j49
+AB333E,N8200L,SOCOM,DHC-8-202,DH8B,Mil,Covert,STAMP,Surveillance,Oxcart,https://tinyurl.com/4wk32j49
 B191D8,75-0528,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 AE11E9,79-0003,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 AE11E8,79-0002,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -6737,96 +6830,6 @@ ADFD85,92-0372,USAF,Swearingen RC-26B Condor,SW4,Mil,Wot U Smoking,Eye In The Sk
 ADFD7F,92-0373,USAF,Swearingen RC-26B Condor,SW4,Mil,Wot U Smoking,Eye In The Sky,Reconnaissance,Oxcart,https://w.wiki/4mck
 ADFD6E,90-0529,USAF,Swearingen RC-26B Condor,SW4,Mil,Wot U Smoking,Eye In The Sky,Reconnaissance,Oxcart,https://w.wiki/4mck
 AE1488,86-0416,USAF,TE-8A J-STARS,B703,Mil,Training Wheels,Quarterback,Radar,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS
-A60693,N488CR,United States Army,Bombardier Challenger 650,CL60,Mil,Artemis,HADES,SIGINT,Oxcart,https://www.itamilradar.com/2021/08/29/artemis-visited-libya/
-AE6255,16-00374,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5F1A,16-00397,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C91,15-10332,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C90,15-10577,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C8F,15-10338,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C8E,15-10358,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C8D,15-10348,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5C8C,15-10352,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE58B5,11-00268,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
-AE53FC,12-00278,United States Army,MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k5
-AE5C92,11-00287,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k6
-AE5A42,11-00286,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k7
-AE5622,13-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k8
-AE5403,11-00285,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k9
-AE5402,11-00284,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k10
-AE53FF,11-00283,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k11
-AE53FE,11-00282,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k12
-AE53FD,12-00281,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k13
-AE53FB,12-00279,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k14
-AE53FA,12-00280,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k15
-AE4C62,10-00742,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k16
-AE4C60,10-00730,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k17
-AE4C1F,10-00729,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k18
-AE58B7,11-00267,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE58B6,11-00266,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE5752,12-00277,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE5623,13-00283,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE4C5E,10-00728,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE2F63,09-00646,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE2F62,09-00644,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE2F61,09-00642,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE2923,08-00329,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE291E,08-00376,United States Army,MC-12W Liberty,BE20,Mil,Surveillance,Covert,ISR,Oxcart,https://www.americanspecialops.com/usaf-special-operations/aircraft/mc-12w/
-AE6041,80-23378,United States Army,RC-12D Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1207,89-00276,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1206,89-00275,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1205,89-00274,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1202,89-00270,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1201,89-00269,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1200,89-00268,United States Army,RC-12N Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E5,93-00700,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10DE,91-00518,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE08FE,92-13121,United States Army,RC-12P Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE515E,88-00325,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE120C,93-00701,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE120B,93-00699,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE120A,93-00697,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1209,91-00517,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1208,91-0516,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE1204,89-00273,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E4,93-00698,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E3,92-13125,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E2,92-13124,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E1,92-13123,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10E0,92-13122,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE10DF,92-13120,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://en.wikipedia.org/wiki/Beechcraft_RC-12_Guardrail
-AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4AE5,2713,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4AE4,2712,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
-AE4AE3,2711,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4AE2,2710,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
-A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
@@ -8458,6 +8461,38 @@ AAE162,N80VC,Ventura County Fire Department,UH-60L Blackhawk,H60,Civ,Flying Fire
 43C383,ZH537,Joint Special Forces Aviation Wing,BN Islander CC2,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C388,ZG848,Joint Special Forces Aviation Wing,BN Islander R1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
+AE1D98,161410,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
+AE1D94,159887,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
+AAB2FA,N789LL,US SOCOM,B350 Super King Air,B350,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
+A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
+AE68E0,95-3058,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68C0,16-3025,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68BE,15-3086,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68BD,12-3047,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68BC,12-3050,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68BB,12-3085,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68BA,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B9,12-3060,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B8,11-3097,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B7,11-3075,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B6,11-3031,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B5,11-3016,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B4,10-3026,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B3,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B2,10-3077,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68B1,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68AF,07-3093,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AE68AD,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AC8997,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A739E7,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A486EA,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A3BE59,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A790EC,N587LJ,US SOCOM,Gates C-21A,LJ35,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
+A87A31,N6450L,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
+A8649B,N64TR,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
+A6692B,N512DC,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
+A3E533,N350EB,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
+A2C83E,N279DH,US Special Operations Command,PZL-M28 Skytuck,M28,Mil,Covert,STOL,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 AE640B,07-1933,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE571E,12-1964,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE540C,22221,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
@@ -8467,6 +8502,11 @@ AE4EEB,09-0042,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Til
 AE4EEA,08-0047,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4ECE,10-1952,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4A7E,07-1933,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEC,10-0053,USAF,Bell CV-22B Osprey,V22,Mil,Helipad Smasher,Rotorwash,Tiltrotor,Special Forces,https://ukdefencejournal.org.uk/us-air-force-destroy-british-hospital-helipad/
+AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 ADEDBE,N997MG,USAF,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADD70A,N991HA,USAF,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADC21E,N986HA,USAF,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -8546,52 +8586,12 @@ AE1293,89-0282,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfi
 AE1292,90-0162,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE128F,85-0011,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
 AE1259,89-0280,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130
-A41409,N362DD,USAF,PZL-M28 Skytuck,M28,Mil,Covert,Special Ops,STOL,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE0D35,05-27046,USAF,Sikorsky HH-60G Blackhawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
-AE1D98,161410,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
-AE1D94,159887,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
-AAB2FA,N789LL,US SOCOM,B350 Super King Air,B350,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
-AB3343,N8200R,US SOCOM,DHC-8-202,DH8B,Mil,Special Ops,Covert,SOCOM,Special Forces,https://w.wiki/4meC
-AB333B,N8200H,US SOCOM,DHC-8-202,DH8B,Mil,Special Ops,Covert,SOCOM,Special Forces,https://w.wiki/4meC
-A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
-AE68E0,95-3058,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68C0,16-3025,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68BE,15-3086,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68BD,12-3047,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68BC,12-3050,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68BB,12-3085,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68BA,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B9,12-3060,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B8,11-3097,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B7,11-3075,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B6,11-3031,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B5,11-3016,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B4,10-3026,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B3,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B2,10-3077,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68B1,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68AF,07-3093,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AE68AD,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AC8997,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A739E7,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A486EA,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A3BE59,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A790EC,N587LJ,US SOCOM,Gates C-21A,LJ35,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
-A87A31,N6450L,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-A8649B,N64TR,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-A6692B,N512DC,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-A3E533,N350EB,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-AB333E,N8200L,US Special Operations Command,DHC-8-202,DH8B,Mil,Covert,STOL,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-A2C83E,N279DH,US Special Operations Command,PZL-M28 Skytuck,M28,Mil,Covert,STOL,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
-AE4EEC,10-0053,USAF,Bell CV-22B Osprey,V22,Mil,Helipad Smasher,Rotorwash,Tiltrotor,Special Forces,https://ukdefencejournal.org.uk/us-air-force-destroy-british-hospital-helipad/
-AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE54D9,13-5778,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE54D7,13-5776,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE4E19,1399550,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE4BE6,09-5713,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
+A41409,N362DD,USAF,PZL-M28 Skytuck,M28,Mil,Covert,Special Ops,STOL,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+AE0D35,05-27046,USAF,Sikorsky HH-60G Blackhawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 E20047,AE-227,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E20048,AE-228,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E20030,AE-186,Argentine Army,Cessna Citation Bravo,C55B,Mil,Bizjet,VIP Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
@@ -9350,6 +9350,43 @@ AE03D5,CNV6722,United States Navy,KC-130T Hercules,C130,Mil,USMC,Air2Air,Tactica
 AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
 ADFD6D,900528,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
+AE58A7,61-0018,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,Night Train,USAF,https://w.wiki/3iUw
+AE5873,60-0009,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5871,60-0007,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5870,60-0005,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5872,60-0008,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589A,61-0003,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5899,61-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5897,60-0062,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5896,60-0061,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5895,60-0060,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5894,60-0059,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5893,60-0058,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58AD,61-0031,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE58AA,61-0020,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5881,60-0029,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587F,60-0026,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587E,60-0025,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587D,60-0024,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587C,60-0023,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587A,60-0021,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5876,60-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5875,60-0012,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE587B,60-0022,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5889,60-0044,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE588C,60-0048,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5882,60-0032,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE588A,60-0045,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5883,60-0033,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5885,60-0037,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE5891,60-0056,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 ADFD13,95-0071,USAF,Beech T-1A Jayhawk,BE40,Mil,USAF,Training Wheels,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFD12,95-0070,USAF,Beech T-1A Jayhawk,BE40,Mil,USAF,Training Wheels,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFD11,95-0069,USAF,Beech T-1A Jayhawk,BE40,Mil,USAF,Training Wheels,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -10918,6 +10955,89 @@ AE0559,83-1285,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Figh
 AE053E,69-0024,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Fight And Win,USAF,https://www.airforce.com
 AE051D,68-0216,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Fight And Win,USAF,https://www.airforce.com
 AE051A,68-0213,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Fight And Win,USAF,https://www.airforce.com
+AE63F8,66-8404,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE63E5,65-10342,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFC8,64-13304,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFC7,64-13301,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFC5,64-13285,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0101,67-14842,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00FF,65-10457,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00FE,65-10432,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00FD,65-10399,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00F4,61-0938,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00E9,66-4327,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00C9,67-14955,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00C1,63-8247,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00A4,68-8203,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00A3,69-7073,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE00A0,68-8145,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0099,67-14929,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0090,66-8392,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE008A,66-8379,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0085,66-8373,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE007F,66-8365,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE007A,66-8359,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0076,66-8350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0075,66-4387,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0071,66-4374,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE006A,66-4355,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0067,66-4349,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0062,66-4344,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0061,66-4343,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0059,66-4321,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0052,65-10339,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0050,65-10332,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE004F,65-10322,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0046,70-1955,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0045,70-1950,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0044,70-1589,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0042,70-1581,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE003D,70-1562,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE003C,69-7080,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0039,68-8206,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0038,68-8196,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0037,68-8193,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0036,68-8173,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0035,68-8171,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0034,68-8160,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0033,68-8159,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE002F,68-8110,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE002B,67-14949,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0027,67-14940,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0026,67-14936,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0025,67-14931,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0017,65-10430,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0014,65-10396,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE000D,65-10364,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0007,64-13246,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0005,64-13233,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0003,64-13219,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0001,64-13199,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE0000,63-8146,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFF5,68-8217,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFF2,68-8147,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFE8,67-14916,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFE6,67-14848,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFDA,66-4330,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFC9,65-10412,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFB6,64-13257,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFFAB,66-8380,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF9F,69-7075,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF9E,69-7074,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF9D,68-8215,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF99,68-8202,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF98,68-8200,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF96,68-8198,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF95,68-8188,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF94,68-8187,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF8D,68-8163,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF89,68-8146,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF81,68-8101,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF68,70-1951,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF62,69-7083,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF60,68-8191,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF5F,68-8190,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE1EAA,08-3941,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1EA9,08-3940,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1EA8,08-3939,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -11353,126 +11473,6 @@ AE0114,97-5303,USAF,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Rec
 AE0113,96-5302,USAF,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0112,96-5301,USAF,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
 AE0111,96-5300,USAF,WC-130J Super Hercules,C30J,Mil,Hurricane Hunter,Weather Recon,Into The Storm,USAF,https://en.wikipedia.org/wiki/Lockheed_WC-130
-AE58A7,61-0018,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,Night Train,USAF,https://w.wiki/3iUw
-AE5873,60-0009,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5871,60-0007,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5870,60-0005,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE586D,60-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5872,60-0008,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE589A,61-0003,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5899,61-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5897,60-0062,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5896,60-0061,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5895,60-0060,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5894,60-0059,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5893,60-0058,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58B2,61-0039,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58AE,61-0034,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58AD,61-0031,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE58AA,61-0020,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5881,60-0029,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587F,60-0026,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587E,60-0025,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587D,60-0024,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587C,60-0023,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587A,60-0021,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5876,60-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5875,60-0012,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE587B,60-0022,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5889,60-0044,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE588C,60-0048,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5882,60-0032,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE588A,60-0045,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5883,60-0033,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5885,60-0037,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5891,60-0056,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE63F8,66-8404,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE63E5,65-10342,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFC8,64-13304,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFC7,64-13301,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFC5,64-13285,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0101,67-14842,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00FF,65-10457,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00FE,65-10432,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00FD,65-10399,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00F4,61-0938,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00E9,66-4327,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00C9,67-14955,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00C1,63-8247,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00A4,68-8203,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00A3,69-7073,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE00A0,68-8145,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0099,67-14929,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0090,66-8392,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE008A,66-8379,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0085,66-8373,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE007F,66-8365,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE007A,66-8359,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0076,66-8350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0075,66-4387,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0071,66-4374,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE006A,66-4355,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0067,66-4349,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0062,66-4344,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0061,66-4343,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0059,66-4321,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0052,65-10339,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0050,65-10332,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE004F,65-10322,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0046,70-1955,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0045,70-1950,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0044,70-1589,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0042,70-1581,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE003D,70-1562,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE003C,69-7080,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0039,68-8206,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0038,68-8196,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0037,68-8193,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0036,68-8173,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0035,68-8171,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0034,68-8160,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0033,68-8159,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE002F,68-8110,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE002B,67-14949,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0027,67-14940,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0026,67-14936,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0025,67-14931,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0017,65-10430,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0014,65-10396,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE000D,65-10364,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0007,64-13246,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0005,64-13233,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0003,64-13219,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0001,64-13199,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-AE0000,63-8146,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFF5,68-8217,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFF2,68-8147,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFE8,67-14916,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFE6,67-14848,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFDA,66-4330,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFC9,65-10412,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFB6,64-13257,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFFAB,66-8380,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF9F,69-7075,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF9E,69-7074,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF9D,68-8215,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF99,68-8202,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF98,68-8200,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF96,68-8198,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF95,68-8188,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF94,68-8187,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF8D,68-8163,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF89,68-8146,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF81,68-8101,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF68,70-1951,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF62,69-7083,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF60,68-8191,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF5F,68-8190,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
-ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,E550,Civ,Beer,Dont Drink And Fly,Vanity Plate,Vanity Plate,https://youtu.be/sAk_rq4VnuY
 3C0699,D-ARMY,Air Hamburg,Embraer Legacy 650,E35L,Civ,Army Men,Yes Sarge,Vanity Plate,Vanity Plate,https://youtu.be/wEKmJkY9E38
 3C7865,D-ANCE,Air Hamburg,Embraer Legacy 650,E35L,Civ,The Greatest Dancer,Bizjet,Vanity Plate,Vanity Plate,https://youtu.be/sOnqjkJTMaA
