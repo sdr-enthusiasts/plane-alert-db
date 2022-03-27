@@ -7,7 +7,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 # Current Content
 
-The list contains **11919** unique aircraft in **48** different categories.
+The list contains **11841** unique aircraft in **48** different categories.
 
 - [plane-alert-db.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-db.csv) - The list of interesting aircraft, with tags,categories and links. (11919)
 - [plane-alert-civ.csv](https://github.com/Sportsbadger/plane-alert-db/blob/main/plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (2815)
