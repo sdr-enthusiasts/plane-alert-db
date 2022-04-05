@@ -948,7 +948,7 @@ A88CCC,N650AT,Air Ambulance by Air Trek,Cessna Citation VII,C650,Civ,Air Ambo,Me
 0D031E,XA-MMI,Air One Ambulance,Learjet 25D,LJ25,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aironeambulance.com/airambulance/
 39BA4F,F-HOSP,Airlec Air Espace,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airlecairespace.com/
 39B2EB,F-HMXL,Airlec Air Espace,Cessna Citation II,C550,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airlecairespace.com/
-AB3C0C,N823AM,Airmed Intl LLC,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com
+AB3C0C,N823AM,Airmed International,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com
 485E49,PH-DOC,ANWB Medical Air Assistance,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 48605C,PH-UMC,ANWB Medical Air Assistance,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 48605B,PH-LLN,ANWB Medical Air Assistance,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
@@ -1401,7 +1401,7 @@ ACE73A,N930SA,Spectrum Medical Aviation Inc Trustee,SOCATA TBM 930,TBM9,Civ,Air 
 406EC4,G-TVAL,Thames Valley Air Ambulance,Eurocopter EC135 T3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.tvairambulance.org.uk/
 407AF7,G-WNAS,The Air Ambulance Service,AgustaWestland AW.109 SP Grand New,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://theairambulanceservice.org.uk/
 407AF6,G-DRLA,The Air Ambulance Service,AgustaWestland AW.109 SP Grand New,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://theairambulanceservice.org.uk/
-4071EB,G-TCAA,The Children's Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,,Flying Doctors,https://theairambulanceservice.org.uk/childrens-air-ambulance
+4071EB,G-TCAA,The Children's Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://theairambulanceservice.org.uk/
 406F3E,G-NHAD,The Great North Air Ambulance,Eurocopter AS365 N3 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.greatnorthairambulance.co.uk/
 A46464,N382TC,Trinity Air Ambulance,Learjet 35,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://trinityairambulance.com/
 A56FC8,N45AE,Trinity Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://trinityairambulance.com/
@@ -1569,7 +1569,7 @@ A4BDF0,N40402,Commemorative Air Force,Grumman TBM-3 Avenger,TBM,Civ,War Bird,His
 A001E0,N1VC,Commemorative Air Force,Mikoyan-Gurevich MiG-17,MG17,Civ,Mig,Historic,Vashe Zdorovye,Historic,https://commemorativeairforce.org/
 A78F4D,N5865V,Commemorative Air Force,North American B-25J Mitchell,B25,Civ,War Bird,Historic,Bomber,Historic,https://commemorativeairforce.org/
 AD6DC6,N9643C,Commemorative Air Force,North American B-25J Mitchell,B25,Civ,War Bird,Historic,Devil Dog,Historic,https://commemorativeairforce.org/
-406E97,G-DHHF,DH Heritage Flight,SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+406E97,G-DHHF,DH Heritage Flight,SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/uk-harvards/g-dhhf/
 4B2F13,HB-RVN,Eric Chardonnens,F+W Emmen DH-100 Vampire FB6,VAMP,Civ,Fighter,I Am Old,What We Do In The Shadows,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,SWOR,Civ,Torpedo Bomber,Stringbag,WW2,Historic,https://navywings.org.uk
 43C32D,W5856,Fly Navy Heritage Trust,Fairey Swordfish IV,SWOR,Civ,Torpedo Bomber,Stringbag,WW2,Historic,https://navywings.org.uk
@@ -1621,13 +1621,13 @@ A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,
 A57267,N450D,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4B2D04,HB-RBG,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 AA651D,N769Y,Private,Brunner-Winkle Bird CK,ZZZZ,Civ,Biplane,Joyride,Historic,Historic,https://en.wikipedia.org/wiki/Brunner-Winkle_Bird
-401F85,G-BJAL,Private,Bucker 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
+401F85,G-BJAL,Private,Bucker 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
 A36C3A,N32CS,Private,CAC Boomerang CA-13,CA19,Civ,The Front Fell Off,Replica,Fighter,Historic,https://w.wiki/4o4i
-401FD1,G-BJST,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
-3D8879,D-FXXX,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
+401FD1,G-BJST,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,Wacky Wabbit,Historic,https://www.t6harvard.com/uk-harvards/aj-841-wacky-wabbit/
+3D8879,D-FXXX,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fxxx/
 A95566,N700JR,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
-4069D5,G-CHYN,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
-4030E2,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
+4069D5,G-CHYN,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/uk-harvards/g-chyn/
+4030E2,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/uk-harvards/g-bsbg/
 3D166C,D-EGSY,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
 A8787D,N645H,Private,Curtiss-Wright Travel Air 4000 E,TVL4,Civ,Biplane,Open Cockpit,History,Historic,https://en.wikipedia.org/wiki/Travel_Air_2000
 401A4E,G-AAZP,Private,De Havilland DH-80A Puss Moth,DH80,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Puss_Moth
@@ -1669,17 +1669,17 @@ A0C7D4,N14999,Private,Lockheed Electra Junior L12A,L12,Civ,All Metal,Radial Engi
 4B2CF2,HB-RAO,Private,Morane-Saulnier MS.317,MS31,Civ,Primary Trainer,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_MS.315
 4B0B69,HB-EIJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 3821E9,F-BIPJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
-449026,OO-DAF,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://w.wiki/4nze
-406FA5,G-CIUW,Private,Noorduyn AT-16ND Harvard Sk16A,T6,Civ,Trainer,History,WW2,Historic,https://w.wiki/4nze
+449026,OO-DAF,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/belgium-harvards/oo-daf-full-history/
+406FA5,G-CIUW,Private,Noorduyn AT-16ND Harvard Sk16A,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/uk-harvards/g-ciuw/
 3D6062,D-FITE,Private,North American Harvard II,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 A848AC,N6328T,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
 AA6FC8,N7715C,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
 A520CB,N43AF,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
 A12AB7,N1742R,Private,North American T-28D Trojan,T28,Civ,Basic Trainer,Radial Engine,Historic,Historic,https://en.wikipedia.org/wiki/North_American_T-28_Trojan
 4B2ED2,HB-RTA,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
-4B2D25,HB-RCN,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
-44A9F9,OO-JOY,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
-A4D7B6,N4109C,Private,North American T-6G Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+4B2D25,HB-RCN,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/swiss-air-force/hb-rcn/
+44A9F9,OO-JOY,Private,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/belgium-harvards/g-tdjn/
+A4D7B6,N4109C,Private,North American T-6G Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/belgium-harvards/n4109c-full-history/
 403D06,G-OHAL,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4030B1,G-BRXY,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 407946,G-CLKH,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
@@ -2620,7 +2620,7 @@ A00187,N1RP,Roger Penske,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,Vanity Plate,
 C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizjet,All That Glitters,Golden,Vanity Plate,https://youtu.be/ntG50eXbBtc
 48B9C9,SP-OOK,Smart Jet,Beechjet 400XP,BE40,Civ,Spy Vs Spy,Ghostly,Vanity Plate,Vanity Plate,https://www.smart-jet.pl/fleet
 489009,SP-EAK,Smart Jet,Beechjet 400XP,BE40,Civ,Speak And Spell,Thus Spoke Zarathustra,Vanity Plate,Vanity Plate,https://youtu.be/mL2k1Gp8ywE
-402315,G-TAFF,Taff Smith,CASA 1-131E Jungmann,BU31,Civ,Biplane,Do A Barrel Roll,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
+402315,G-TAFF,Taff Smith,CASA 1-131E Jungmann,BU31,Civ,Biplane,Do A Barrel Roll,Vanity Plate,Vanity Plate,https://w.wiki/4trf
 43E96B,M-BIGG,The World Is Yours,Bombardier Global 5000,GL5T,Civ,Mr Small,Over Compensating,Vanity Plate,Vanity Plate,https://youtu.be/AER3Zg5S200
 43EA85,M-RBIG,Volantair LP,Learjet 45,LJ45,Civ,Mr Small,Vanity Plate,Sad,Vanity Plate,https://www.dailypost.co.uk/news/north-wales-news/who-mr-big-currently-flying-13778035
 43ECD8,2-SLOW,Volare Aviation,Bombardier Challenger 604,CL60,Civ,Bizjet,Must Be Nice,Hare and Tortoise,Vanity Plate,https://youtu.be/HHKwnUa3txo?t=21
@@ -2755,7 +2755,7 @@ ADD295,N99ZM,Moelis & Company Manager,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand
 A19950,N2019C,Bombardier Aerospace Corp,Bombardier Global 6500,GLEX,Civ,We Make Planes,Bizjet,Aerospace,As Seen on TV,https://en.wikipedia.org/wiki/Bombardier_Aviation
 A15A72,N1868M,Met Life Insurance Company,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Insurance,Getalife,As Seen on TV,https://youtu.be/6CBE3SNdcjg
 3D7F2E,D-FUKK,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fukk/
-401DCB,G-BGPB,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://en.wikipedia.org/wiki/Canadian_Car_and_Foundry
+401DCB,G-BGPB,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/uk-harvards/g-bspb/
 3D2AE4,D-EOMM,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
 484A58,PH-SLA,Slagboom en Peeters Luchtfotografie,Cessna 180J Skywagon 180,C180,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/mttrvpe4
 3D67CA,D-FLOC,Skydive Binz,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Dogs with Jobs,https://www.sky-fun.de/
