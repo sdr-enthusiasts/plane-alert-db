@@ -1,7 +1,10 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
 06A0D8,A7-CEE,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A133,A7-CEI,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1F0,A7-TAA,Qatar Executive,Bombardier Global 6000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A131,A7-CEF,Qatar Executive,Bombardier Global Express XRS,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D1,A7-CGM,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CE,A7-CGI,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/4mcb
 44B5AD,OO-MMM,Belgian Coast Guard,BN Islander 2A-21,BN2P,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://kwgc.be/en
 C04AB9,C-GCHS,Canadian Coast Guard,Bell 206L Long Ranger,B06,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
@@ -39,6 +42,7 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 484FD6,PH-FBH,Dutch Caribbean Coastguard,AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Dutch_Caribbean_Coast_Guard
 4856F3,PH-CGB,Dutch Caribbean Coastguard,DHC-8-106 MPA,DH8A,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://tinyurl.com/zvz74c9s
 485694,PH-CGA,Dutch Caribbean Coastguard,DHC-8-106 MPA,DH8A,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://tinyurl.com/zvz74c9s
+4614A6,OH-HVI,Finland Frontier Guard,Eurocopter AS332 Super Puma,AS32,Gov,Copper Chopper,Border Patrol,Rajavartiolaitos,Coastguard,https://w.wiki/4zgX
 4614AC,OH-HVO,Finnish Coast Guard,AgustaWestland AW.119,A119,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://raja.fi/en/frontpage
 4614AB,OH-HVN,Finnish Coast Guard,AgustaWestland AW.119,A119,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://raja.fi/en/frontpage
 4614AA,OH-HVM,Finnish Coast Guard,AgustaWestland AW.119,A119,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://raja.fi/en/frontpage
@@ -220,6 +224,7 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 71DF05,B705,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF04,B704,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF03,B703,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
+502C4F,YL-HML,Latvian Border Guard,AgustaWestland A.109 E Power,A109,Gov,Copper Chopper,Border Patrol,Valsts Robezsardze,Coastguard,https://www.rs.gov.lv/en/about-us
 0600CB,MP-CG-3,Mauritius Coast Guard,Dornier Do 228-101,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://police.govmu.org/police/
 484646,PH-CGC,Netherlands Coast Guard,Dornier Do 228-212,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustwacht.nl/en
 484607,PH-CGN,Netherlands Coast Guard,Dornier Do 228-212,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustwacht.nl/en
@@ -941,6 +946,7 @@ C07B3F,C-GURM,Government of Quebec,DHC-8-315Q,DH8C,Gov,Quebec,Être Juuuuuussste
 06E01A,9XR-OG,Government of Rwanda,Mil Mi-17-1V,MI8,Gov,Rwanda,Paul Kagame,Government,Governments,https://www.gov.rw
 E17283,LV-WJC,Government of Santa Fe,AgustaWestland AW.109,A109,Gov,Santa Fe,Omar Perotti,Government,Governments,https://www.santafenm.gov
 070ED4,6V-ONE,Government of Senegal,Airbus ACJ319-115X,A319,Gov,Senegal,Macky Sall,Government,Governments,https://www.sec.gouv.sn
+0703FA,6V-SEN,Government of Senegal,Airbus ACJ320-251N,A20N,Gov,Senegal,Macky Sall,Government,Governments,https://www.sec.gouv.sn
 4C05A0,YU-BNA,Government of Serbia,Dassault Falcon 50,FA50,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
 4C4A21,YU-SRB,Government of Serbia,Embraer Legacy 600,E35L,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
 4C0639,YU-BRZ,Government of Serbia,Learjet 31A,LJ31,Gov,Serbia,Aleksandar Vucic,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Serbia
@@ -1025,6 +1031,7 @@ A55698,N443JP,Kurdistan Regional Government,Cessna 208B Caravan,C208,Gov,Kurdist
 140759,RA-01881,Moscow Government,MBB-Kawasaki BK 117 C-1,BK17,Gov,Moscow,Sergey Sobyanin,Government,Governments,https://www.mos.ru/en
 064051,5N-FGT,Nigerian Air Force,Boeing 737-BBJ,B737,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
 0640F1,5N-FGV,Nigerian Air Force,Dassault Falcon 7X,FA7X,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
+0640F0,5N-FGU,Nigerian Air Force,Dassault Falcon 7X,FA7X,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
 76092D,AP-BIM,NW Frontier Prov,AS350 Squirrel B3,AS50,Gov,NW Frontier Province,Canada,Government,Governments,https://en.wikipedia.org/wiki/North-West_Frontier_Province
 898056,P2-PNG,Papua New Guinea Government,B350 Super King Air,B350,Gov,Papua New Guinea,James Marape,Government,Governments,https://en.wikipedia.org/wiki/Papua_New_Guinea
 89804C,P2-ANW,Papua New Guinea Government,Dassault Falcon 900EX,F900,Gov,Papua New Guinea,James Marape,Government,Governments,https://w.wiki/3igv
@@ -1086,6 +1093,7 @@ A047D4,N117SR,US Department of Energy,Eurocopter EC145,EC45,Gov,mmm Neutrons,Nuc
 A0441D,N116SR,US Department of Energy,Eurocopter EC145,EC45,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
+3B756A,F-UJCK,French Air Force,Airbus A330-243MRTT,A332,Gov,Air2Air,Tanker,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
 87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
@@ -1465,6 +1473,7 @@ A2D6FD,N282SD,San Diego City Fire Dept,Bell 412EP,B412,Gov,Flying Fire Extinguis
 A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sandiego.gov/fire
 A1A588,N205KS,Santa Barbara County Fire Department,Bell UH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
 AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.sbcfire.com
+3B7B65,F-ZBFJ,Securite Civile,B200 Super King Air,BE20,Gov,Water Bomber Group,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B76,F-ZBFY,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B75,F-ZBFV,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B74,F-ZBFW,Securite Civile,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
@@ -1481,6 +1490,7 @@ AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60
 C06DC8,C-GPOX,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B86,F-ZBMC,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
+3B7B90,F-ZBQA,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
@@ -1517,14 +1527,10 @@ AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+4A35D2,672,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
+4A35F9,818,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
+4A35FA,819,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.justice.gov
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
-0703FA,6V-SEN,Government of Senegal,Airbus ACJ320-251N,A20N,Gov,Senegal,Macky Sall,Government,Governments,https://www.sec.gouv.sn
-3B7B65,F-ZBFJ,Securite Civile,B200 Super King Air,BE20,Gov,Water Bomber Group,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
-06A133,A7-CEI,Qatar Executive,Bombardier Global 5000,GL5T,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-06A1F0,A7-TAA,Qatar Executive,Bombardier Global 6000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-0640F0,5N-FGU,Nigerian Air Force,Dassault Falcon 7X,FA7X,Gov,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
-06A1CE,A7-CGI,Qatar Executive,Gulfstream G650,GLF6,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-4A35D2,672,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
