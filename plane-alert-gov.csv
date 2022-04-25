@@ -55,6 +55,7 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 3B7B20,F-ZBGQ,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
 3B7B41,F-ZBGM,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
 3B7B40,F-ZBGL,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
+3DD2F3,D-HADF,German Air Force,Eurocopter H145M,EC45,Gov,Search And Rescue,Chopper,Saving Lives,Coastguard,https://www.bundeswehr.de/de/organisation/luftwaffe
 46F488,HC-36,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
 46F487,HC-35,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
 46F486,HC-34,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
@@ -677,6 +678,7 @@ AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Ni
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48AD06,SP-LIG,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D961,0002,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
@@ -855,6 +857,8 @@ AC1B7B,N88,Federal Aviation Administration,Bombardier Challenger 604,CL60,Gov,FA
 AC42FA,N89,Federal Aviation Administration,Bombardier Challenger 605,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,A319,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 3F6EEA,76+11,German Air Force,Airbus Helicopters EC-645 T2,EC45,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
+393173,F-GMLT,Institut National Geographique,B200T Super King Air,BE20,Gov,Mapping,Aerial Survey,Aerial Cartography,Dogs with Jobs,https://w.wiki/566g
+405580,G-SMMB,Marine Scotland,Cessna F406 Caravan II,F406,Gov,Fisheries,Marine Patrol,Surveillance,Dogs with Jobs,https://w.wiki/4$Pk
 400DE5,G-HIJK,Met Office,Cessna 421 Golden Eagle,C421,Gov,Weather Recon,Measuring Stick,Nice Weather For Ducks,Dogs with Jobs,https://tinyurl.com/2p9druuh
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
 A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P68,Gov,Fish,Wildlife,Nature Patrol,Dogs with Jobs,https://wdfw.wa.gov
@@ -1015,6 +1019,7 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Ja
 33FFC1,MM62209,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAF,MM62243,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFFB,MM62029,Italian Air Force,Dassault Falcon 50,FA50,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFFE,MM62026,Italian Air Force,Dassault Falcon 50,FA50,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
@@ -1053,6 +1058,7 @@ C87F00,NZ7571,Royal New Zealand Air Force,Boeing 757,B752,Gov,New Zealand,Jacind
 00AEC9,ZS-RSA,South African Air Force,Boeing 737-BBJ,B737,Gov,South Africa,Cyril Ramaphosa,Government,Governments,https://www.gov.za
 354555,T.22-1,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
 354556,T.22-2,Spanish Air Force,Airbus A310-304,A310,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
+341518,T.21-02,Spanish Air Force,CASA C-295 M,C295,Gov,Spain,Pedro Sanchez,Government,Governments,https://www.lamoncloa.gob.es/lang/en/Paginas/index.aspx
 A1EFFE,N224BH,State Gov of Akwa Ibom,Gulfstream G450,GLF4,Gov,Nigeria,Udom Gabriel Emmanuel,Government,Governments,https://akwaibomstate.gov.ng
 E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
 0D0391,XC-HIS,State Gov of Chiapas,Learjet 25D,LJ25,Gov,Mexico,Rutilio Escandon,Government,Governments,https://en.wikipedia.org/wiki/Chiapas
@@ -1095,12 +1101,16 @@ ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutron
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 3B756A,F-UJCK,French Air Force,Airbus A330-243MRTT,A332,Gov,Air2Air,Tanker,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7F76,301,French Air Force,Dassault Rafale B,RFAL,Gov,Canards,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
 87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
 48D8E1,1502,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+C2BE09,188769,Royal Canadian Air Force,McDonnell Douglas CF-188 Hornet,F18H,Gov,Fighter Jet,Zoomies,RCAF,Other Air Forces,https://tinyurl.com/2dm3r7e2
 020130,CN-MBH,Royal Moroccan Air Force,Boeing 747-BBJ,B748,Gov,VIP Transport,Government,Morocco,Other Air Forces,https://w.wiki/4n3m
+C87F04,NZ7003,Royal New Zealand Air Force,C-130H Hercules,C130,Gov,Cargo,Tactical Airlift,Te Tauaarangi o Aotearoa,Other Air Forces,https://w.wiki/4tZv
 4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+4B7FA7,T-312,Swiss Air Force,Eurocopter AS332 Super Puma,AS32,Gov,Neutral,Chopper,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 405D6F,G-DOSB,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
 AD46BF,N9546T,Aerographics (DOJ),Cessna 210 Centurion,C210,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1115,6 +1125,27 @@ AA6025,N768KD,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To 
 A64465,N5025,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
 A44973,N3755P,Central Intelligence Agency,L-100-30 Hercules,C130,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
 A4E6C5,N415AT,Department Of Justice,Bell 407,B407,Gov,Surveillance,Covert,US Dept Of Justice,Oxcart,https://www.justice.gov
+A03F75,N115H,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB2055,N816H,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A0F9B2,N162G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB0DC2,N811H,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A6DC39,N541G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A4DC24,N412G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB7E6E,N84KN,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A15C88,N187V,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A72AA1,N561A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A7EEBE,N610A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A99257,N716A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB1838,N814A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+ACB0AC,N917A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A0F740,N161V,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A022E9,N108F,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A8426D,N631L,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A0CF44,N151Q,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A1D898,N218Q,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A4F670,N419K,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A67C51,N517K,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A17016,N192F,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A3A5DB,N334ND,FBI,Cessna 206H,C206,Gov,FBI,Covert,Surveillance,Oxcart,https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php
 ADBAD9,N984JS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AAF9D8,N806TH,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1239,6 +1270,8 @@ A52242,N43RF,NOAA,Lockheed WP-3D Orion,P3,Gov,Miss Piggy,Cyclone Research,Hurric
 A4FAC3,N42RF,NOAA,Lockheed WP-3D Orion,P3,Gov,Kermit,Cyclone Research,Hurricane Hunter,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A32155,N300WQ,Woolpert,B300 Super King Air,BE30,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
 A4C47F,N406SD,Woolpert,Cessna F406 Caravan II,F406,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
+4B0EA6,HB-FOG,Armasuisse,Pilatus PC-12 Eagle,PC12,Gov,Defense Procurement,Test Flight,Calibration,Quango,https://www.ar.admin.ch/en/home.html
+4B0D6D,HB-FCF,Armasuisse,Pilatus PC-6 B1-H2,PC6T,Gov,Defense Procurement,Test Flight,Calibration,Quango,https://www.ar.admin.ch/en/home.html
 503DAF, LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 343282,EC-KUL,United Nations,ATR 72-500,AT75,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
@@ -1491,6 +1524,7 @@ C06DC8,C-GPOX,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,W
 3B7B86,F-ZBMC,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B90,F-ZBQA,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
+3B7B9A,F-ZBPQ,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
@@ -1527,10 +1561,9 @@ AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
+3EADE8,76+07,German Air Force,Airbus Helicopters EC-645 T2,EC45,Gov,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+AE5D37,16-20814,United States Army,Sikorsky UH-60M,H60,Gov,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 4A35D2,672,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 4A35F9,818,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 4A35FA,819,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.justice.gov
-A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
-A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
-39B415,F-HNAV,Ecole Aviation Civile,B200GT Super King Air,BE20,Gov,Vive La France,Flying Classroom,Vomit Comet,Watch Me Fly,https://www.enac.fr/en
