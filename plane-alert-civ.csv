@@ -48,7 +48,6 @@ A7F8F0,N6123C,The Flying Bulls,North American B-25J Mitchell,B25,Civ,Already Has
 A92949,N69KL,The Flying Bulls,Sukhoi Su-29,SU29,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440323,OE-EAS,The Flying Bulls,Vought F4U Corsair,CORS,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 407BBD,G-NGTC,The Starlings Display Team,Extra NG,EXNG,Civ,Aerobatics,The Starlings,Display Team,Aerobatic Teams,https://tinyurl.com/5vmpwb4w
-43C93C,ZM714,Army Air Corp,AH-64E Apache,H64,Civ,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corp,http://torinak.com/qaop#!tomahawk
 AC67F2,N899NC,21st Century Fox,Gulfstream G550,GLF5,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 ADCA0B,N988NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 AC705B,N900NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
@@ -363,12 +362,6 @@ A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washe
 A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 44C1AB,OO-PMK,Zoutman Industries,SOCATA TBM 850,TBM8,Civ,Salty,Technical Salts,Wellness Salt,As Seen on TV,https://www.zoutman.com/en
 863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-50821C,UR-CIT,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F6,UR-CIR,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F5,UR-CIQ,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F4,UR-CIP,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-508295,UR-CIW,Artic Group,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-50821B,UR-CIS,Artic Group,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
 147B68,RA-31592,Aviakrug,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
 147986,RA-31110,Avialift Vladivostok,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147B67,RA-31591,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
@@ -674,25 +667,12 @@ A35B1E,N315TS,Tutor-Saliba Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climat
 A0FB13,N162WC,Washington Corp,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Yucaipa_Companies
 320004,MM62249,Italian Customs Police,Piaggio P-180 Avanti II,P180,Civ,Maritime Patrol,Coastguard,Eye In The Sky,Coastguard,https://en.wikipedia.org/wiki/Guardia_di_Finanza
-5080FD,UR-CBF,Aerovis Airlines,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5083BC,UR-CPZ,Aerovis Airlines,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 51008B,EW-435TI,Aviakompania Grodno,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 451DA8,LZ-FLL,Bright Flight,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
-5080BA,UR-CCP,Cavok Air,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-50822D,UR-CNN,Cavok Air,Antonov An-12 B,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082FB,UR-KDM,Cavok Air,Antonov An-12 BK,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082A8,UR-CKM,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082A0,UR-CKL,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-508116,UR-CEZ,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-50808F,UR-CBG,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-508179,UR-CJN,Cavok Air,Antonov An-12 TB,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 404D7C,G-CDJJ,Digitakumi Ltd,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-5080D5,UR-CSJ,Eleron,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
-508359,UR-FSA,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 6010E9,EX-76007,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
-5083E5,UR-FSC,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 6010DF,EX-76003,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 51007E,EW-328TG,Genex Air,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
 51003B,EW-259TG,Genex Air,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
@@ -1517,20 +1497,20 @@ A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And
 406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-A3AFE6,N337AX,ATAC Usa,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3999C,N331AX ,ATAC Usa,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A38C1E,N328AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A395E5,N330AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3A878,N335AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A38FD5,N329AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A39D53,N334AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3AC2F,N336AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3B39D,N338AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3B754,N339AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3BD64,N340AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3C11B,N341AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A4C6B8,N407AX,ATAC Usa,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A4C301,N706AX,ATAC Usa,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3AFE6,N337AX,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A38C1E,N328AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A395E5,N330AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3A878,N335AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A38FD5,N329AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A39D53,N334AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3AC2F,N336AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3B39D,N338AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3B754,N339AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3BD64,N340AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3C11B,N341AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A4C6B8,N407AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A4C301,N706AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 3982A5,F-HAVF,Aviation Defence Service,BAE Jetstream 41,JS41,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
 393C00,F-GPAA,Aviation Defence Service,Dassault Falcon 20 ECM,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://www.planespotters.net/airline/Aviation-Defense-Service
 393C03,F-GPAD,Aviation Defence Service,Dassault Falcon 20E,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
@@ -2546,7 +2526,7 @@ A88D5B,N650GL,Leonid Mikhelson,Gulfstream G650,GLF6,Civ,Oligarch,Dirty Money,Dis
 8A0329,AI-7302,Indonesian Air Force,Boeing 737,B732,Civ,VIP Transport,Must Be Nice,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 8A032A,AI-7303,Indonesian Air Force,Boeing 737,B732,Civ,VIP Transport,Must Be Nice,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 4CA1EA,263,Irish Air Corps,Pilatus PC-9 M,PC9,Civ,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
-33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
+33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,https://tinyurl.com/ycknd373
 48D843,014,Polish Air Force,CASA C-295 M,C295,Civ,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 497CAB,16711,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C71,17401,Portuguese Air Force,Dassault Falcon 50,FA50,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt

@@ -64,7 +64,7 @@ A92949,N69KL,The Flying Bulls,Sukhoi Su-29,SU29,Civ,Already Has Wings,Display Te
 43C0EE,XX177,The Red Arrows,BAe Hawk T1a,HAWK,Mil,Turn And Burn,Display Team,Aerobatics,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
 407BBD,G-NGTC,The Starlings Display Team,Extra NG,EXNG,Civ,Aerobatics,The Starlings,Display Team,Aerobatic Teams,https://tinyurl.com/5vmpwb4w
 A11CF8,17-01609,Us Army Golden Knights,DHC-8-311,DH8C,Mil,Jump Johnny Jump,Perfectly Serviceable Aircraft,STRAC,Aerobatic Teams,https://w.wiki/4nFV
-43C93C,ZM714,Army Air Corp,AH-64E Apache,H64,Civ,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corp,http://torinak.com/qaop#!tomahawk
+43C93C,ZM714,Army Air Corp,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C933,ZM705,Army Air Corps,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C93A,ZM712,Army Air Corps,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corp,http://torinak.com/qaop#!tomahawk
 43C72D,ZJ248,Army Air Corps,AS350 Squirrel,AS50,Mil,Kung Fu Grip,Chopper,The Skys No Limit,Army Air Corp,https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)
@@ -484,12 +484,6 @@ A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always 
 43C398,PS915,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C397,PM631,Battle of Britiain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-50821C,UR-CIT,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F6,UR-CIR,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F5,UR-CIQ,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-5081F4,UR-CIP,Artic Group,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-508295,UR-CIW,Artic Group,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
-50821B,UR-CIS,Artic Group,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.articgroup.ch
 147B68,RA-31592,Aviakrug,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
 147986,RA-31110,Avialift Vladivostok,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147B67,RA-31591,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
@@ -1232,25 +1226,12 @@ AE27F4,6003,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE27F3,6002,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E00,6048,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-5080FD,UR-CBF,Aerovis Airlines,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5083BC,UR-CPZ,Aerovis Airlines,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 51008B,EW-435TI,Aviakompania Grodno,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 451DA8,LZ-FLL,Bright Flight,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
-5080BA,UR-CCP,Cavok Air,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-50822D,UR-CNN,Cavok Air,Antonov An-12 B,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082FB,UR-KDM,Cavok Air,Antonov An-12 BK,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082A8,UR-CKM,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-5082A0,UR-CKL,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-508116,UR-CEZ,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-50808F,UR-CBG,Cavok Air,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-508179,UR-CJN,Cavok Air,Antonov An-12 TB,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 404D7C,G-CDJJ,Digitakumi Ltd,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-5080D5,UR-CSJ,Eleron,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
-508359,UR-FSA,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 6010E9,EX-76007,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
-5083E5,UR-FSC,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 6010DF,EX-76003,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 51007E,EW-328TG,Genex Air,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
 51003B,EW-259TG,Genex Air,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
@@ -3083,7 +3064,7 @@ E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Ja
 33FFAE,MM62244,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFAD,MM62245,Italian Air Force,Dassault Falcon 900EX,F900,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
-87C003,80-1112,Japanese Air Self Defence Force,Boeing 777-3ER,B77W,Gov,Japan,Fumio Kishida,Government,Governments,https://www.japan.go.jp
+87C003,80-1112,Japan Air Self Defence Force,Boeing 777-3ER,B77W,Gov,Japan,Fumio Kishida,Government,Governments,https://www.japan.go.jp
 75044F,9M-TMJ,Johor State Government,Gulfstream G650 ER,GLF6,Gov,Malaysia,Ismail Sabri Yaakob,Government,Governments,https://www.johor.gov.my
 75041A,9M-ZZZ,Johor State Government,Gulfstream G650 ER,GLF6,Gov,Malaysia,Ismail Sabri Yaakob,Government,Governments,https://www.johor.gov.my
 700008,YA-KAM,Kam Air,Boeing 767,B762,Gov,Afghanistan,The Taliban,Government,Governments,https://en.wikipedia.org/wiki/Afghanistan
@@ -3420,20 +3401,20 @@ AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunshi
 406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-A3AFE6,N337AX,ATAC Usa,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3999C,N331AX ,ATAC Usa,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A38C1E,N328AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A395E5,N330AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3A878,N335AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A38FD5,N329AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A39D53,N334AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3AC2F,N336AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3B39D,N338AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3B754,N339AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3BD64,N340AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3C11B,N341AX,ATAC Usa,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A4C6B8,N407AX,ATAC Usa,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A4C301,N706AX,ATAC Usa,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3AFE6,N337AX,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A38C1E,N328AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A395E5,N330AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3A878,N335AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A38FD5,N329AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A39D53,N334AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3AC2F,N336AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3B39D,N338AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3B754,N339AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3BD64,N340AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3C11B,N341AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A4C6B8,N407AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A4C301,N706AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 3982A5,F-HAVF,Aviation Defence Service,BAE Jetstream 41,JS41,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
 393C00,F-GPAA,Aviation Defence Service,Dassault Falcon 20 ECM,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://www.planespotters.net/airline/Aviation-Defense-Service
 393C03,F-GPAD,Aviation Defence Service,Dassault Falcon 20E,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
@@ -5106,27 +5087,27 @@ ABC123,HR-3604,Indonesian Air Force,Eurocopter AS365 N3 Dauphin,AS65,Mil,Militar
 4CA1ED,266,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1EB,264,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA41A,269,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
-738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A01,272,Israeli Air Force,Boeing 707-3L6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738B4E,663,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738B49,662,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Other Air Forces,https://www.iaf.org.il/9202-en/IAF.aspx
-738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://en.wikipedia.org/wiki/Israeli_Air_Force
+738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
+738A01,272,Israeli Air Force,Boeing 707-3L6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
+738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
+738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
+738B4E,663,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
+738B49,662,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
+A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Other Air Forces,https://w.wiki/4e3x
+738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
 33FFB4,MM62223,Italian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,With Valour To The Stars,Other Air Forces,https://en.wikipedia.org/wiki/Alenia_C-27J_Spartan
 33FFBC,MM62218,Italian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,With Valour To The Stars,Other Air Forces,https://en.wikipedia.org/wiki/Alenia_C-27J_Spartan
-33FE92,MM62229,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
-33FE7D,MM62227,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
-33FE7A,MM62226,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
-33FE77,MM62228,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
+33FE92,MM62229,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
+33FE7D,MM62227,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
+33FE7A,MM62226,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
+33FE77,MM62228,Italian Air Force,Boeing KC-767A,B762,Mil,Air2Air,Tanker,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 33FFF2,MM62178,Italian Air Force,C-130J Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 33FFF1,MM62179,Italian Air Force,C-130J Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 33FFF3,MM62177,Italian Air Force,C-130J Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 33FFE5,MM62191,Italian Air Force,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 33FFE3,MM62193,Italian Air Force,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
-33FFC0,MM62210,Italian Air Force,Dassault Falcon 900EX,F900,Mil,Bizjet,Must Be Nice,With Valour To The Stars,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
-33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,http://www.aeronautica.difesa.it/Pagine/default.aspx
+33FFC0,MM62210,Italian Air Force,Dassault Falcon 900EX,F900,Mil,Bizjet,Must Be Nice,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
+33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,https://tinyurl.com/ycknd373
 038F46,TU-VAI,Ivory Coast Air Force,Gulfstream G400SP,GLF4,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
 038615,TU-VAE,Ivory Coast Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
 87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
