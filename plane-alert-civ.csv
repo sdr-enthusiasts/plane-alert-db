@@ -55,7 +55,9 @@ AC643B,N898NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,
 A9C9C5,N73M,3M Company,Gulfstream G550,GLF5,Civ,Chemicals,Mining,Sticky Tape,As Seen on TV,https://en.wikipedia.org/wiki/3M
 AB5714,N83M,3M Company,Gulfstream G550,GLF5,Civ,Chemicals,Mining,Sticky Tape,As Seen on TV,https://en.wikipedia.org/wiki/3M
 ACE463,N93M,3M Company,Gulfstream G650 ER,GLF6,Civ,Chemicals,Mining,Sticky Tape,As Seen on TV,https://en.wikipedia.org/wiki/3M
+AAE1E8,N800AL,Abbott Laboratories,Gulfstream G450,GLF4,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 AC6F37,N900AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
+A6FF76,N550AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A004BF,N100AL,Abbott Laboratories,Gulfstream G650 ER,GLF6,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A6FF7F,N550AV,Abbvie US,Gulfstream G550,GLF5,Civ,Bizjet,Biotech,Pharmaceuticals,As Seen on TV,https://en.wikipedia.org/wiki/AbbVie
 A706ED,N552AV,Abbvie US,Gulfstream G550,GLF5,Civ,Bizjet,Biotech,Pharmaceuticals,As Seen on TV,https://en.wikipedia.org/wiki/AbbVie
@@ -66,14 +68,20 @@ A722E7,N559X,American Express Travel,Gulfstream G550,GLF5,Civ,That Will Do Nicel
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 A71DBA,N558GA,Amgen,Gulfstream G550,GLF5,Civ,Bizjet,Genetics,Biotechnology,As Seen on TV,https://en.wikipedia.org/wiki/Amgen
 ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
+A4BB80,N404AC,Apache Corporation,Gulfstream G280,G280,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms Company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
 A4ACBD,N400BC,Ball Corp,Bombardier Global 6000,GLEX,Civ,Bizjet,Glass Jars,In Space Manufacturing,As Seen on TV,https://en.wikipedia.org/wiki/Ball_Corporation
+0D0B1A,XC-BDM,Banco de Mexico,Bombardier Challenger 700,CRJ7,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.banxico.org.mx/
+AC6089,N897NH,Banco General SA,Cessna Citation CJ4,C25C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bgeneral.com/
 A19DF5,N203JE,Banesco Banco,Bombardier Global 7500,GL7T,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://en.wikipedia.org/wiki/Banesco
+A2E0A8,N285BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A8908B,N651BA,Bank of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A89442,N652BA,Bank of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
+AA9F6A,N784AH,Bank of New York Mellon,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bnymellon.com/
+3006A0,I-JACK,Barilla,Honda Jet,HDJT,Civ,Pasta,Continuous Baking,If My Grandmother Had Wheels She Would Have Been A Bike,As Seen on TV,https://w.wiki/5AZc
 C047EB,C-GBGC,Barrick Gold Corp,Gulfstream G500,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 C05613,C-GGPM,Barrick Gold Corp,Gulfstream G550,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 3CBC49,D-BOBI,BASF,Dassault Falcon 2000LX,F2TH,Civ,Tapes,Chemicals,Dyes,As Seen on TV,https://en.wikipedia.org/wiki/BASF
@@ -94,8 +102,12 @@ A7D9FC,N605BS,Boston Scientific Corp,Bombardier Challenger 605,CL60,Civ,Bizjet,T
 A988EC,N713TS,Cactus Jack Airlines,Embraer Lineage 1000,E190,Civ,Travis Scott,Astroworld,Not A Good Human,As Seen on TV,https://en.wikipedia.org/wiki/Cactus_Jack_Records
 485B87,PH-JWL,Cartier,Dassault Falcon 2000LXS,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
 4859C1,PH-WTC,Cartier,Dassault Falcon 2000S,F2TH,Civ,Jewellery,Luxury Goods,Diamonds,As Seen on TV,https://blog.krosengart.com/de-beers-diamonds-controversy
+A46E21,N385CT,Caterpillar Inc,Bombardier Challenger 604,CL60,Civ,Backhoe,Digger,797F,As Seen on TV,https://en.wikipedia.org/wiki/Caterpillar_797
+AAD24A,N797CT,Caterpillar Inc,Bombardier Global 6000,GLEX,Civ,Backhoe,Digger,797F,As Seen on TV,https://en.wikipedia.org/wiki/Caterpillar_797
+AC2DC7,N884MC,Chevron USA,Embraer Praetor 600,E550,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A15DE5,N1876P,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A16AAD,N1901G,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AB9657,N846CB,Chubb Flight Operations,Gulfstream G650 ER,GLF6,Civ,Bizjet,Insurance,Reverse Gambling,As Seen on TV,https://w.wiki/4vc2
 C04A51,C-GCDS,Cirque du Soleil,Bombardier Global Express,GLEX,Civ,Bizjet,Circus,Expensive,As Seen on TV,https://en.wikipedia.org/wiki/Cirque_du_Soleil
 ABF09B,N869DK,Cirrus Design Corp,Cirrus Jet Vision SF50,SF50,Civ,Aerospace,We Make Planes,Backpack Tadpole V-Jet,As Seen on TV,https://cirrusaircraft.com/
@@ -120,6 +132,9 @@ AA0198,N744C,Cutrale North America,Dassault Falcon 8X,FA8X,Civ,Orange Juice,Oran
 A6EAB1,N545C,Cutrale North America,Gulfstream G280,G280,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://youtu.be/VIMzn_obxgw
 ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://youtu.be/VIMzn_obxgw
 ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
+AB1257,N812RX,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
+A389DE,N327RX,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
+A1CA0D,N214TF,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 AAFC2C,N807DC,Danaher Corp,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 A58C21,N457AD,Dangote Group,Bombardier Global 7500,GL7T,Civ,Bizjet,Conglomerate,West Africa,As Seen on TV,https://en.wikipedia.org/wiki/Dangote_Group
 45C922,OY-RIB,Danish Crown,Piaggio P-180 Avanti EVO,P180,Civ,Pusher Prop,Meat,Factory Farming,As Seen on TV,https://w.wiki/4z4s
@@ -144,6 +159,7 @@ AD08B9,N939SS,Electrolux Home Products,Dassault Falcon 900B,F900,Civ,Washing Mac
 A33D79,N308EL,Eli Lilly & Co,Gulfstream G500,GA5C,Civ,Pharmaceutical,Polio Vaccine,Insulin,As Seen on TV,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
 A339C2,N307EL,Eli Lilly & Co,Gulfstream G500,GA5C,Civ,Pharmaceutical,Polio Vaccine,Insulin,As Seen on TV,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
 40721E,G-HITI,Elstree Ink,Eurocopter AS350 Squirrel,AS50,Civ,Hollywood,Is This My Good Side,Lights Camera Action,As Seen on TV,https://www.elstreestudios.co.uk
+A74C7F,N57EL,Enterprise Rent-A-Car,Gulfstream G500,GA5C,Civ,Car Rental,Extra Insurance,Weekend Away,As Seen on TV,https://en.wikipedia.org/wiki/Enterprise_Rent-A-Car
 A952A4,N70EL,Enterprise Rent-A-Car,Gulfstream G600,GA6C,Civ,Car Rental,Extra Insurance,Weekend Away,As Seen on TV,https://en.wikipedia.org/wiki/Enterprise_Rent-A-Car
 A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A19203,N200A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
@@ -183,13 +199,17 @@ A96B72,N706GD,Gulfstream Aerospace Corp,Gulfstream G700,GA7C,Civ,Bizjets,How The
 A63B6F,N500RH,Hendrick Motorsports,Gulfstream G500,GLF5,Civ,Bizjet,NASCAR,I Wanna Go Fast,As Seen on TV,https://en.wikipedia.org/wiki/Hendrick_Motorsports
 ACE9E8,N931FL,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
 A5767D,N451GV,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
+A588FD,N456GA,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
 ADC98B,N988H,Honeywell International,Dassault Falcon 8X,FA8X,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
+A11999,N170EH,Honeywell International,Embraer EMB-170 LR,E170,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 ACC647,N922H,Honeywell International,Gulfstream G650,GLF6,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
+A18698,N198HF,Hormel Foods,Gulfstream G280,G280,Civ,Spam,Wonderful Spam,Lovely Spam,As Seen on TV,https://en.wikipedia.org/wiki/Spam_(food)
 A8298F,N625HR,Houston Rockets,Boeing 767-3ER,B763,Civ,Houston Rockets,NBA,Basketball,As Seen on TV,https://www.nba.com/rockets/
 A16681,N19H,Hubbard Broadcasting Inc,Gulfstream G500,GLF5,Civ,Bizjet,Radio,Where All Minneapolis Dances,As Seen on TV,https://en.wikipedia.org/wiki/Hubbard_Broadcasting
 A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 AA9212,N780RW,IBM Corp,Gulfstream G650 ER,GLF6,Civ,HAL,Counting Machines,Big Blue,As Seen on TV,https://en.wikipedia.org/wiki/IBM
+AA9244,N780TW,IBM Corp,Gulfstream G650 ER,GLF6,Civ,HAL,Counting Machines,Big Blue,As Seen on TV,https://en.wikipedia.org/wiki/IBM
 43E9B5,M-FRZN,Iceland Frozen Foods,Bombardier Challenger 605,CL60,Civ,King Prawn Ring,Frozen Food,No Palm Oil,As Seen on TV,https://youtu.be/7-EVAH3HaB0
 424B75,M-CHEM,Ineos,Gulfstream G500,GLF5,Civ,Chemicals,Grenadiers,Sir Jim Ratcliffe,As Seen on TV,https://w.wiki/4mki
 43E97C,M-USIC,INEOS,Gulfstream G550,GLF5,Civ,Chemicals,Grenadiers,Sir Jim Ratcliffe,As Seen on TV,https://w.wiki/4mki
@@ -215,6 +235,7 @@ A7DE71,N606KG,Keurig Green Mountain,Cessna Citation Sovereign,C680,Civ,The Coffe
 71C068,HL8068,Korean Air,Gulfstream G650 ER,GLF6,Civ,Bizjet,Must Be Nice,Nut Rage,As Seen on TV,https://en.wikipedia.org/wiki/Nut_rage_incident
 A5DF79,N478GS,L-3 Harris,Gulfstream G-IV SP,GLF4,Civ,C6ISR,Defense Contractor,Bizjet,As Seen on TV,https://en.wikipedia.org/wiki/L3Harris_Technologies
 A5D4AA,N475LC,L-3 Harris,Gulfstream G-IV SP,GLF4,Civ,Eavesdropping,Defense Contractor,Sensors,As Seen on TV,https://en.wikipedia.org/wiki/L3Harris_Technologies
+AA6D15,N771DM,Laredo Petroleum,Cessna Citation CJ3,C25B,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 424267,VP-BMS,Las Vegas Sands Corp,Airbus A340-541,A345,Civ,Man Made Climate Change,Snake Eyes,House Always Wins,As Seen on TV,https://youtu.be/HwEYKpnEETQ
 AAB300,N789LS,Las Vegas Sands Corp,Boeing 737,B733,Civ,Man Made Climate Change,Boeing Business Jet,House Always Wins,As Seen on TV,https://youtu.be/r1Zp0B6KViE
 AAAF49,N788LS,Las Vegas Sands Corp,Boeing 737,B733,Civ,Man Made Climate Change,Boeing Business Jet,House Always Wins,As Seen on TV,https://youtu.be/6oXER4zQJq0
@@ -237,6 +258,7 @@ A3B0DB,N337LS,Las Vegas Sands Corp,Gulfstream G550,GLF5,Civ,The Gambler,Snake Ey
 A3AD24,N336LS,Las Vegas Sands Corp,Gulfstream G550,GLF5,Civ,The Gambler,Snake Eyes,House Always Wins,As Seen on TV,https://youtu.be/TRfk2RRoLRY
 A7C7A5,N600EB,Len Blavatnik,Gulfstream G600,GA6C,Civ,Bizjet,Billionaire,Oligarch,As Seen on TV,https://en.wikipedia.org/wiki/Len_Blavatnik
 AA918C,N780LM,Liberty Media Corp,Dassault Falcon 7X,FA7X,Civ,Formula 1,Lews Hamilton,Crash Verstappen,As Seen on TV,http://www.libertymedia.com
+A57090,N45JE,Liberty Mutual Insurance,Gulfstream G550,GLF5,Civ,Bizjet,Insurance,Bunch of Bankers,As Seen on TV,https://en.wikipedia.org/wiki/Liberty_Mutual
 A2A77B,N270LE,Liberty Mutual Insurance,Gulfstream G650 ER,GLF6,Civ,Bizjet,Insurance,Bunch of Bankers,As Seen on TV,https://en.wikipedia.org/wiki/Liberty_Mutual
 3CDD18,D-CLAM,Liebherr Aerospace,Embraer Phenom 300,E55P,Civ,Controls,Landing Gear,Avionics,As Seen on TV,https://www.liebherr.com/en/gbr/start/start-page.html
 3CDD21,D-CLAV,Liebherr Aerospace,Embraer Phenom 300,E55P,Civ,Controls,Landing Gear,Avionics,As Seen on TV,https://www.liebherr.com/en/gbr/start/start-page.html
@@ -246,8 +268,12 @@ A88E98,N650VC,Lockheed Martin Corp,Gulfstream G650 ER,GLF6,Civ,Bizjet,Skunk Work
 395580,F-GVMA,LVMH Services,Bombardier Global 5000,GL5T,Civ,How The Other Half Live,Luxury Goods,Worthless Tat,As Seen on TV,https://www.lvmh.com
 395588,F-GVMI,LVMH Services,Bombardier Global 6000,GLEX,Civ,How The Other Half Live,Luxury Goods,Worthless Tat,As Seen on TV,https://www.lvmh.com
 39D702,F-HVYC,Lyreco SA,Cessna Citation XLS,C56X,Civ,Bizjet,Office Supplies,Printer Paper,As Seen on TV,https://en.wikipedia.org/wiki/Lyreco
+AA955C,N781MM,Mandalay Resorts,Embraer Legacy 500,E550,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
+AA9913,N782MM,Mandalay Resorts,Embraer Legacy 500,E550,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
 AAA438,N785MM,Mandalay Resorts,Embraer Lineage 1000E,E190,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
 A9A862,N721MM,Mandalay Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
+A5042E,N422MP,Marathon Petroleum Company LP,Bombardier Challenger 300,CL30,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+A50B9C,N424MP,Marathon Petroleum Company LP,Bombardier Challenger 350,CL35,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A8184A,N620X,Massachusetts Mutual Life Insurance Co,Dassault Falcon 900LX,F900,Civ,Insurance,Bizjet,Reverse Gambling,As Seen on TV,https://w.wiki/4qPz
 C0203E,C-FMFL,McCain Foods,Dassault Falcon 2000LX,F2TH,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
 C02F67,C-FRYS,McCain Foods,Learjet 75,LJ75,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
@@ -255,15 +281,19 @@ A17DD1,N1955M,McDonalds Corp,Bombardier Global 6000,GLEX,Civ,Would You Like Frie
 A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That ?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
 345595,EC-MSC,Mercadona SA,Bombardier Global 6000,GLEX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
 343359,EC-LBB,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
+3423D4,EC-JQE,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
 A094F7,N1368M,Met Life Insurance Company,Bombardier Global 5000,GL5T,Civ,Bizjet,Insurance,Getalife,As Seen on TV,https://youtu.be/6CBE3SNdcjg
 A15A72,N1868M,Met Life Insurance Company,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Insurance,Getalife,As Seen on TV,https://youtu.be/6CBE3SNdcjg
 39ADEC,F-HLPM,Michelin Air Services,Dassault Falcon 2000LXS,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
 39ADED,F-HLPN,Michelin Air Services,Dassault Falcon 2000LXS,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
 39AE37,F-HLRX,Michelin Air Services,Dassault Falcon 2000S,F2TH,Civ,Bibendum,Tyres,Michelin Guide,As Seen on TV,https://en.wikipedia.org/wiki/Michelin
+A91338,N684MT,Micron Technology,Gulfstream G650 ER,GLF6,Civ,Memory,SSD,Crucial,As Seen on TV,https://en.wikipedia.org/wiki/Micron_Technology
 ADD295,N99ZM,Moelis & Company Manager,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/4woo
 4B183E,HB-JES,MWM AG,Gulfstream G500,GLF5,Civ,Bizjet,Diesel Power,Engines,As Seen on TV,https://w.wiki/4woq
 A6C3AA,N535GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
+A6BC3C,N533GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
 A105DC,N165SL,Nextgen Partners,Piaggio P-180 Avanti II,P180,Civ,Venture Capital,Aaaaaaaand its gone,Pusher Prop,As Seen on TV,https://nextgenpartners.org/
+A3F6D3,N3546,Nike Inc,Gulfstream G550,GLF5,Civ,Swoosh,Waffle,Air Jordan,As Seen on TV,https://w.wiki/3iVT
 A184D7,N1972N,Nike Inc,Gulfstream G650 ER,GLF6,Civ,Swoosh,Waffle,Air Jordan,As Seen on TV,https://w.wiki/3iVT
 A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,kx1t,As Seen on TV,https://www.microsoft.com
 A4FD39,N420SK,Oshkosh Corp,Bombardier Challenger 604,CL60,Civ,Trucks,Fire Engines,Military Vehicles,As Seen on TV,https://en.wikipedia.org/wiki/Oshkosh_Corporation
@@ -274,7 +304,9 @@ AADF08,N8VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good S
 AA198D,N75VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
 A4C18C,N4050,PayPal,Gulfstream G650 ER,GLF6,Civ,PayPal,Middle Man,Money For Nothing,As Seen on TV,https://en.wikipedia.org/wiki/PayPal
 AB1D35,N815PA,Pepsi Americas,Bombardier Global 5000,GL5T,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
+A658F0,N508PC,Pepsico,Bombardier Challenger 604,CL60,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
 A642A6,N502PC,Pepsico,Gulfstream G-IV SP,GLF4,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
+A63B38,N500PC,Pepsico,Gulfstream G400SP,GLF4,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
 A7C2CD,N6CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A6357E,N5CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A4A82F,N4CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
@@ -282,11 +314,14 @@ A31AE0,N3CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Bio
 A0014E,N1PG,Pfizer,Gulfstream G650 ER,GLF6,Civ,Bizjet,Consumer Goods,Conglomerate,As Seen on TV,https://en.wikipedia.org/wiki/Procter_%26_Gamble
 A715EF,N556CH,Phantom Air Services,Gulfstream G650 ER,GLF6,Civ,Humanitarian,Rescue,Security,As Seen on TV,https://phantomservices.com/
 A88E0D,N650PP,Postobon SA,Bombardier Challenger 650,CL60,Civ,Wrong Turn At Albuquerque,Soft Drinks,Columbia,As Seen on TV,https://www.postobon.com
+A7C3D9,N6PG,Procter & Gamble,Bombardier Challenger 350,CL35,Civ,Bizjet,Conglomerate,Consumer Goods,As Seen on TV,https://w.wiki/4wyR
+A95128,N7PG,Procter & Gamble,Bombardier Challenger 350,CL35,Civ,Bizjet,Conglomerate,Consumer Goods,As Seen on TV,https://w.wiki/4wyR
 A18E9D,N2PG,Procter & Gamble,Gulfstream G650 ER,GLF6,Civ,Bizjet,Conglomerate,Consumer Goods,As Seen on TV,https://w.wiki/4wyR
 AC1F1D,N880PC,Promega Corp,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Biotechnology,Enzymes,As Seen on TV,https://en.wikipedia.org/wiki/Promega
 AB2E82,N82A,Prudential Insurance Co of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7E2C5,N607RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A7E67C,N608RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
+A7DF0E,N606RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A7DB57,N605RP,Purina Petcare,Bombardier Challenger 605,CL60,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 3D7CC7,D-FTMT,QinetiQ GmbH,Pilatus PC-12 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
 AC39DC,N887WT,Qualcomm,Gulfstream G650 ER,GLF6,Civ,Semiconductor,Patents,CDMA Sucks,As Seen on TV,https://en.wikipedia.org/wiki/Qualcomm
@@ -303,6 +338,7 @@ A7DAE5,N605M,Rockwell Automation,Bombardier Challenger 605,CL60,Civ,Bizjet,Autom
 43EA86,M-ABJA,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43E90D,M-ABEU,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
+ADA5F1,N979JW,S C Johnson & Son,Dassault Falcon 7X,FA7X,Civ,Bizjet,Cleaning Products,Mr Muscle,As Seen on TV,https://w.wiki/4rP4
 ADCD70,N989JW,S C Johnson & Son,Dassault Falcon 8X,FA8X,Civ,Bizjet,Cleaning Products,Mr Muscle,As Seen on TV,https://w.wiki/4rP4
 4AC9B4,SE-RMT,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
 4AC96C,SE-RKL,SAAB Aircraft AB,Gulfstream G550,GLF5,Civ,Aerospace,Defense,Bizjet,As Seen on TV,https://w.wiki/4nsD
@@ -316,6 +352,7 @@ A8927F,N651XA,Saudi Aramco,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climat
 42447F,VQ-BXD,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 424462,VQ-BXH,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 4243BC,VQ-BXG,Shell Aviation,Dassault Falcon 8X,FA8X,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
+71C200,HL8200,SK Telecomm,Gulfstream G550,GLF5,Civ,Bizjet,Telecoms,Corporate Dictatorship,As Seen on TV,https://en.wikipedia.org/wiki/SK_Telecom
 71C372,HL8372,SK Telecomm,Gulfstream G650 ER,GLF6,Civ,Bizjet,Telecoms,Corporate Dictatorship,As Seen on TV,https://en.wikipedia.org/wiki/SK_Telecom
 A6E3B2,N543GL,Skechers USA,Bombardier Global 6000,GLEX,Civ,Shoes,Mum Likes Them,Comfy,As Seen on TV,https://www.skechers.co.uk/
 A18DB5,N2E,Snap Inc,Gulfstream G650 ER,GLF6,Civ,This Message Will Self Destruct,Snapchat,Snaps,As Seen on TV,https://youtu.be/MA2KmJMKFrQ
@@ -324,6 +361,7 @@ A74DAD,N57SN,Sony Aviation,Dassault Falcon 8X,FA8X,Civ,The Best,Trinitron,Walkma
 71C080,HL8080,South Korea Telecom,Airbus ACJ319-115XSL,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Telecoms,As Seen on TV,https://xkcd.com/1732/
 43EA43,M-SPEK,Specsavers International Healthcare,B350 Super King Air,B350,Civ,Mr Magoo,2nd Pair Free,Glasses,As Seen on TV,https://youtu.be/4f7DhNzB5Rg
 43EA40,M-SPEC,Specsavers International Healthcare,B350 Super King Air,B350,Civ,Mr Magoo,2nd Pair Free,Glasses,As Seen on TV,https://youtu.be/4f7DhNzB5Rg
+A9A83D,N721L,Starbucks,Gulfstream G550,GLF5,Civ,Kara Thrace,Coffee,Multinational,As Seen on TV,https://en.wikipedia.org/wiki/Starbucks
 A16692,N19HS,Starbucks,Gulfstream G650 ER,GLF6,Civ,Kara Thrace,Coffee,Multinational,As Seen on TV,https://en.wikipedia.org/wiki/Starbucks
 A14F52,N1838S,Stephens Group,Dassault Falcon 7X,FA7X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7DF20,N606SG,Stephens Group,Dassault Falcon 900EX,F900,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
@@ -341,9 +379,12 @@ AB28C5,N818TH,Tommy Hilfiger USA,Dassault Falcon 900EX,F900,Civ,Fashion,Sweatsho
 43E9D1,M-OBIL,Ulla Popken,Cessna Citation CJ4,C25C,Civ,Plus Size,Fashion,Thornton Melon,As Seen on TV,https://en.wikipedia.org/wiki/Ulla_Popken
 A74DDA,N57UH,United Healthcare Services,Gulfstream G550,GLF5,Civ,Insurance,Driving Up Costs,Healthcare Should Be Free,As Seen on TV,https://www.uhc.com
 AC74F0,N901X,United States Steel Corp,Gulfstream G500,GLF5,Civ,Steel,Bizjet,JP Morgan,As Seen on TV,https://w.wiki/4sK7
+ACB29F,N917VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+AAF663,N805VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 AA4122,N76VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
+A5D93F,N476V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 4001DB,VP-CLB,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C49,D-AGBI,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3C5C48,D-AGBH,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
@@ -357,8 +398,22 @@ A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmerica
 3CF774,D-CVAA,Volkswagen Air Service,Pilatus PC-24,PC24,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3CF8BE,D-CVMS,Volkswagen Air Service,Pilatus PC-24,PC24,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3CD90E,D-CJMS,Volkswagen Air Service,Pilatus PC-24,PC24,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
+A0EF95,N16CP,WalMart,Cessna Citation Sovereign,C680,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A0C82F,N15DP,WalMart,Cessna Citation Sovereign,C680,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 AA4A1A,N762MS,WalMart,Gulfstream G650 ER,GLF6,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A4B8D1,N403LS,WalMart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+ADD498,N990WA,WalMart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+AAE955,N802AK,WalMart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A1B489,N209MD,WalMart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A14C0F,N183CM,WalMart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A58501,N455DG,WalMart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A5707C,N45HK,WalMart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+C07B59,C-GUSM,WalMart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A5719F,N45VA,WalMart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+ADC192,N986BL,WalMart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washer,White Goods,As Seen on TV,https://en.wikipedia.org/wiki/Whirlpool_Corporation
+AD7F99,N969WR,Wynn Resorts,Gulfstream G280,G280,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
+AC1D80,N88WR,Wynn Resorts,Gulfstream G550,GLF5,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 44C1AB,OO-PMK,Zoutman Industries,SOCATA TBM 850,TBM8,Civ,Salty,Technical Salts,Wellness Salt,As Seen on TV,https://www.zoutman.com/en
 863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
@@ -667,8 +722,11 @@ A35B1E,N315TS,Tutor-Saliba Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climat
 A0FB13,N162WC,Washington Corp,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Yucaipa_Companies
 320004,MM62249,Italian Customs Police,Piaggio P-180 Avanti II,P180,Civ,Maritime Patrol,Coastguard,Eye In The Sky,Coastguard,https://en.wikipedia.org/wiki/Guardia_di_Finanza
+152AC4,RA-76484,Abakan Air,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+152C07,RA-76807,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+152C2E,RA-76846,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 51008B,EW-435TI,Aviakompania Grodno,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 451DA8,LZ-FLL,Bright Flight,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
 404D7C,G-CDJJ,Digitakumi Ltd,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
@@ -700,6 +758,10 @@ AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,
 40474C,G-CBOZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 484FFD,PH-YAX,Private,Aerostar Yak-52,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 44E42B,OO-YAK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4.03E+19,G-BXJB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+47242D,HA-NSF,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+484FF6,PH-DTW,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+503C27,LY-NXC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 4402D1,OE-AHH,Private,Aerostar Yak-52 TW,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 402678,G-BMJY,Private,Yakovlev Yak-18A,YK18,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18
@@ -727,6 +789,7 @@ A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,S
 6010EC,Ex-74001,Sapsan Airline,Antonov An-74,AN72,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Antonov,Da Comrade,https://tinyurl.com/yt8u994n
 6010F6,EX-76008,Sapsan Airline,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 600829,4K-AZ41,Silk Way Airlines,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
+600828,4K-AZ40,Silk Way Airlines,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 600864,4K-AZ100,Silk Way Airlines,Ilyushin IL-76TD-90,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 600865,4K-AZ101,Silk Way Airlines,Ilyushin IL-76TD-90SW,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 5100FE,EW-510TH,Trans Avia,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
@@ -787,6 +850,8 @@ A043C4,N116PB,Corporate,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpac
 400D37,G-NFLA,Cranfield University,BAe-3102 Jetstream 31,JS31,Civ,Vomit Comet,Flying Classroom,Students,Distinctive,https://tinyurl.com/294ynstx
 407B4E,G-NFLB,Cranfield University,Saab 340B,SF34,Civ,Vomit Comet,Flying Classroom,Students,Distinctive,https://www.aero-mag.com/national-flying-laboratory-centre-saab-340b/
 4079EC,G-NXTE,Electroflight,Electric NXT,NXTE,Civ,Batteries,Spirit of Innovation,The Future,Distinctive,https://www.bbc.co.uk/news/business-57747128
+4B2D37,HB-RDF,Espace Passion,Dassault Mirage IIID-S,MIRA,Civ,Delta Wing,Zoomies,Unicorn,Distinctive,http://www.clindailes.ch/en/espace-passion/
+38CE9B,F-AZZK,Flying Heritage Collection,Yakovlev Yak-3 UPW,YK3,Civ,Replica,Fighter,Da Comrade,Distinctive,https://en.wikipedia.org/wiki/Yakovlev_Yak-3
 AA0D27,N747GF,General Electric,Boeing 747,B744,Civ,5 Engines,Testbed,Funny Looking,Distinctive,https://cdn.airplane-pictures.net/images/uploaded-images/2019/8/17/1224376.jpg
 A03ECF,N115AJ,Google,Dassault-Breguet Alpha Jet,AJET,Civ,Cool,Fighter,Zoomies,Distinctive,https://tinyurl.com/2ydfv6pk
 43C853,XE688,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Civ,Jet Fighter,Transonic,XE688,Distinctive,https://hunterteam.com
@@ -803,6 +868,7 @@ A4CB56,N408LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr
 4850AD,P4-LAS,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 898080,P2-LAD,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 484497,P4-LAE,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+A4B155,N401LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 406C65,G-JWMA,Martin Baker Aircraft,Gloster Meteor T7,METR,Civ,Ejector Seat,Jump Johnny Jump,WWII Jet Fighter,Distinctive,https://martin-baker.com
 AAF67D,N805X,Northrop Gruman,Bombardier Challenger 700,CRJ7,Civ,Testbed,Radar,Id Get That Seen Too,Distinctive,https://bit.ly/3Dq8gRh
 AAF2C6,N804X,Northrop Gruman,Bombardier Challenger 700,CRJ7,Civ,Testbed,Radar,Id Get That Seen Too,Distinctive,https://bit.ly/3Dq8gRh
@@ -811,6 +877,7 @@ AB2EC4,N82CR,Northrop Grumman,Grumman GII,GLF2,Civ,Testbed,Radar,One Ping Only V
 C0775C,C-GTFF,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,5 Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
 C027B3,C-FPAW,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,Odd Engines,Testbed,Loooong Raaaaaange,Distinctive,https://en.wikipedia.org/wiki/Pratt_%26_Whitney
 A79DB2,N590D,Private,Cessna O-2A Skymaster,C337,Civ,Bat21,Forward Air Control,PSYOPS,Distinctive,https://en.wikipedia.org/wiki/Cessna_O-2_Skymaster
+40382D,G-BVEZ,Private,Hunting Percival Jet Provost T3A,JPRO,Civ,Jet Trainer,Unpressurised,Flying Rust Bucket,Distinctive,https://www.baesystems.com/en-uk/heritage/jet-provost
 3FF809,D-MIRE,Private,WDFL Sunwheel,ULAC,Civ,Biplane,Aerobatics,Homebuild,Distinctive,https://en.wikipedia.org/wiki/Dallach_Sunwheel
 489A50,SP-GTR,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Distinctive,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
 4069E3,G-IIJI,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Distinctive,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
@@ -824,15 +891,23 @@ A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,N
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
 A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 15211F,RA-74015,VSV,Antonov An-74,AN72,Civ,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
+AAC6EA,N794AJ,Zero Gravity Corporation,Boeing 727-227FW,B722,Civ,Trijet,Zero G,Vomit Comet,Distinctive,https://www.gozerog.com/
 407009,G-UKCS,2 Excel Aviation,Piper PA-31 Navajo B,PA31,Civ,Oil Spill Dispersal,Specialist,Eye In The Sky,Dogs with Jobs,https://www.2excelaviation.com/our-activity
 3E0965,D-HUTH,ADAC Luftrettung,Eurocopter EC135,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DD2CA,D-HABQ,ADAC Luftrettung,Eurocopter EC135,EC35,Civ,Olive Drab,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DD7BB,D-HBYH,ADAC Luftrettung,Eurocopter EC135 P1,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DD66F,D-HBLN,ADAC Luftrettung,Eurocopter EC135 P1,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DFB80,D-HPMM,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0D41,D-HWFH,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DE71C,D-HHTS,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DE4F5,D-HGYN,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DF81F,D-HOFF,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Michael Knight,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DE5FF,D-HHIT,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3.00E+235,D-HSAN,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DF049,D-HLGB,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DF006,D-HLDM,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,651 Squadron RAF,Dogs with Jobs,https://luftrettung.adac.de
+3DF03F,D-HLFR,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3DF926,D-HOPI,ADAC Luftrettung,Eurocopter EC135 P2,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DEF14,D-HKUE,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DEDA7,D-HKGD,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3DE53C,D-HHBG,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
@@ -840,9 +915,12 @@ A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,B
 3E0F5F,D-HXAD,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F5E,D-HXAC,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F5D,D-HXAB,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3E02ED,D-HSHP,ADAC Luftrettung,Eurocopter EC135 P2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F90,D-HXCA,ADAC Luftrettung,Eurocopter EC135 P3,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F78,D-HXBC,ADAC Luftrettung,Eurocopter EC135 P3,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F91,D-HXCB,ADAC Luftrettung,Eurocopter EC135 P3,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3E0F76,D-HXBA,ADAC Luftrettung,Eurocopter EC135 P3,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3E0F77,D-HXBB,ADAC Luftrettung,Eurocopter EC135 P3,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E0F60,D-HXAE,ADAC Luftrettung,Eurocopter EC135 T2+,EC35,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E120D,D-HYAN,ADAC Luftrettung,Eurocopter EC145,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E1204,D-HYAE,ADAC Luftrettung,Eurocopter EC145,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
@@ -857,11 +935,16 @@ A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,B
 3E1211,D-HYAR,ADAC Luftrettung,Eurocopter H145,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E1212,D-HYAS,ADAC Luftrettung,Eurocopter H145,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3E1206,D-HYAG,ADAC Luftrettung,Eurocopter H145,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
+3E120A,D-HYAK,ADAC Luftrettung,Eurocopter H145M,EC45,Civ,Big Bird,Chopper,Allgemeiner Deutscher Automobil-Club,Dogs with Jobs,https://luftrettung.adac.de
 3924A4,F-GJFE,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
 399625,F-HFRF,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
+3924A0,F-GJFA,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
+399675,F-HFTV,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
+390CE3,F-GDHD,Aero Sotravia,BN Islander 2A-27,BN2P,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
 7C4E12,VH-PPG,AeroRescue,Dornier D328-110,D328,Civ,Specialist,Special Mission,She'll Be Right,Dogs with Jobs,https://www.aerorescue.com.au
 A80161,N615AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Research,Eye In The Sky,Airborne Science,Dogs with Jobs,http://www.twinotter.com/
 A9AEC1,N723AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Research,Eye In The Sky,Airborne Science,Dogs with Jobs,http://www.twinotter.com/
+A7FDAA,N614AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Research,Eye In The Sky,Airborne Science,Dogs with Jobs,http://www.twinotter.com/
 471454,HA-HSE,Arctic Group,Mil Mi-8T,MI8,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,http://www.articgroup.ch
 403C0C,G-INTV,Arena Aviation,Eurocopter AS355 Twin Squirrel,AS55,Civ,TV Chopper,Specialist,Is This My Good Side,Dogs with Jobs,https://www.arena-aircraft.com
 401387,G-TVHD,Arena Aviation,Eurocopter AS355 Twin Squirrel,AS55,Civ,TV Chopper,Specialist,Is This My Good Side,Dogs with Jobs,https://www.arena-aircraft.com
@@ -904,6 +987,7 @@ A4061A,N3589B,Era Alaska,Piper PA-31 Navajo C,PA31,Civ,Extreme Weather,Polar Exp
 43E7CE,M-ODKZ,Flight Coordination Services,Dassault Falcon 900EX,F900,Civ,Bizjet,Ooh Get You,The Guvnor,Dogs with Jobs,https://www.acl-uk.org
 403576,G-HEBS,Hebridean Air Services,BN Islander 2B-26,BN2P,Civ,Whiskey Galore,Barra,Uisge Beath,Dogs with Jobs,https://youtu.be/g_2SlqF0kA0
 407126,G-BIGB,Heli-Lift Services,Bell 212,B212,Civ,Helicrane,Spraying,Huey,Dogs with Jobs,https://www.heli-liftservices.com/index.html
+A04B9B,N118TG,International Air Response,C-130A Hercules,C130,Civ,Government Contractor,Entertainment,Energy,Dogs with Jobs,https://internationalairresponse.com/
 40704C,G-LAUD,Loch Lomond Seaplanes,Cessna 208 Caravan Amphibian,C208,Civ,Seaplane,Amphibian,Highlands,Dogs with Jobs,https://www.lochlomondseaplanes.com/
 A399C3,N331CL,Massachusetts Institute Of Technology,Saab 340B,SF34,Civ,Flying Classroom,Vomit Comet,Students,Dogs with Jobs,https://www.mit.edu
 39B26E,F-HMTO,Meteo France,ATR 42-320,AT43,Civ,Weather Recon,Measuring Stick,Nice Weather For Ducks,Dogs with Jobs,https://w.wiki/4yjD
@@ -930,6 +1014,7 @@ A63954,N50TV,Portland Oregon's Shared News Chopper,Bell 206B Jet Ranger,B06,Civ,
 7C6AA1,VH-VCJ,Skytraders,Airbus A319-132LR,A319,Civ,South Pole,Ice Runway,Antartic,Dogs with Jobs,https://en.wikipedia.org/wiki/Skytraders
 7C6B4C,VH-VHA,Skytraders,CASA C-212 Aviocar 400,C212,Civ,Skibird,Ice Runway,Antartic,Dogs with Jobs,https://en.wikipedia.org/wiki/Skytraders
 0081F2,ZS-ASN,Spectrem 2000 Microsurvey,Douglas DC-3 BT-67,DC3T,Civ,Weather Recon,Turboprop,Rejuvenated,Dogs with Jobs,https://cdn.jetphotos.com/full/2/42922_1255822940.jpg
+AB2AE6,N819BB,Tailwind Air,Cessna 208 Caravan Amphibian,C208,Civ,Seaplane,Amphibian,Floatplane,Dogs with Jobs,https://en.wikipedia.org/wiki/Tailwind_Air_Service
 48406F,PH-LAB,TU Delft,Cessna Citation II,C550,Civ,Airborne Science,Flying Classroom,Technology,Dogs with Jobs,https://www.tudelft.nl/
 A20747,N23MN,Weather Modification LLC,B200 Super King Air,BE20,Civ,Cloudbusting,Environment Monitoring,Make It Rain,Dogs with Jobs,http://www.weathermodification.com/
 A22F46,N24SR,Weather Modification LLC,B200 Super King Air,BE20,Civ,Cloudbusting,Environment Monitoring,Make It Rain,Dogs with Jobs,http://www.weathermodification.com/
@@ -954,14 +1039,28 @@ A4A848,N4DP,Green Chair Productions Inc,Gulfstream G-IV,GLF4,Civ,Dr Phil,Ineffec
 424B0B,M-GFGC,Greensill Capital,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Lex Greensill,Don't you know who I am ?,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 4073B5,G-GARE,Grosvenor Estates,Cessna Citation XLS,C56X,Civ,Money Money Money,Must Be Nice,Owns Half Of London,Don't you know who I am ?,https://en.wikipedia.org/wiki/Grosvenor_Group
 A77C26,N5811M ,Jerry Moss,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Music Mogul,A&M Records,Don't you know who I am ?,https://en.wikipedia.org/wiki/Jerry_Moss
+A0AEFD,N143MW,Mark Wahlberg,Bombardier Global Express,GLEX,Civ,Marky Mark,Sans Funky Bunch,Actor,Don't you know who I am ?,https://en.wikipedia.org/wiki/Mark_Wahlberg
 486201,PH-DTF,Max Verstappen,Dassault Falcon 900EX,F900,Civ,Crash Verstappen,Hamilton Woz Robbed,Justice4Lewis,Don't you know who I am ?,https://w.wiki/52ik
 4D403F,3A-MGA,Monaco Royal Family,Dassault Falcon 8X,FA8X,Civ,Royalty,Grimaldi,Princess Grace,Don't you know who I am ?,https://en.wikipedia.org/wiki/House_of_Grimaldi
 AB013E,N808T,Tom Cruise,Gulfstream G-IV,GLF4,Civ,Maverick,Ethan Hunt,Xenu,Don't you know who I am ?,https://youtu.be/EPzvExtJgxw
 42481F,VP-CTO,Wings of Grace,Bombardier Global 7500,GL7T,Civ,Bizjet,Billionaire ,Folorunso Alakija,Don't you know who I am ?,https://en.wikipedia.org/wiki/Folorunso_Alakija
 4B42F2,HB-ZJE,AAA Alpine Air Ambulance,Eurocopter EC135 P1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.air-ambulance.ch/
 4B4410,HB-ZUE,AAA Alpine Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.air-ambulance.ch/
+A21557,N233TJ,Aero Air,Cessna Citation CJ3,C25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+A0C628,N149WW,Aero Air,Cessna Citation CJ3,C25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+A9CB4B,N730CP,Aero Air,Cessna Citation M2,C25M,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+AC606C,N897MD,Aero Air,Cessna Citation M2,C25M,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+A491E3,N394CM,Aero Air,Cessna Citation Mustang,C510,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+AB04F9,N809TD,Aero Air,Embraer Legacy 600,E35L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+840891,JA02AX,Aero Asahi Corporation,Bell 430,B430,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
+8404FD,JA01AX,Aero Asahi Corporation,Bell 430,B430,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
+862CB8,JA6512,Aero Asahi Corporation,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
+863B07,JA6911,Aero Asahi Corporation,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
+863AEC,JA6908,Aero Asahi Corporation,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
 3C8481,D-BADA,Aero-Dienst,Dornier Do 328JET,J328,Civ,Air Ambo,Saving Lives,Medical Evac,Flying Doctors,https://www.aero-dienst.com/
 3C8483,D-BADC,Aero-Dienst,Dornier Do 328JET,J328,Civ,Air Ambo,Saving Lives,Medical Evac,Flying Doctors,https://www.aero-dienst.com/
+A811AD,N619RJ,Aeromedevac,Eclipse Aviation EA500,EA50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aeromedevac.com/
+A8631A,N64CF,Aeromedevac,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aeromedevac.com/
 AC6CBB,N9ZB,Aerospace Medical Sleep Consultants,Cessna Citation I,C550,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeromedsleep.com/
 A89F5F,N655AT,Air Ambulance by Air Trek,Cessna Citation I,C500,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medjets.com/
 A848F3,N633AT,Air Ambulance by Air Trek,Cessna Citation I,C500,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medjets.com/
@@ -974,10 +1073,38 @@ A88CCC,N650AT,Air Ambulance by Air Trek,Cessna Citation VII,C650,Civ,Air Ambo,Me
 7C6A57,VH-VAH,Air Ambulance Victoria,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambulance.vic.gov.au/
 7C6A54,VH-VAE,Air Ambulance Victoria,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambulance.vic.gov.au/
 7C6A53,VH-VAD,Air Ambulance Victoria,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambulance.vic.gov.au/
+A8AE35,N659AM,Air Methods,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AD3869,N951AL,Air Methods,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A06DBF,N127AM,Air Methods,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AD7EA9,N969MA,Air Methods,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A9399E,N694AM,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A4CAF0,N408GA,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A1EFE9,N224AM,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AC9A6D,N911AL,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A6DF11,N54178,Air Methods,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A20A32,N230TJ,Air Methods,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.enloe.org/
+AB0E21,N811LV,Air Methods,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AC9ACC,N911EF,Air Methods,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A78C3E,N586AM,Air Methods,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A233C2,N241AM,Air Methods,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A33E22,N308ME,Air Methods,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AD3FD7,N953AL,Air Methods,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A09CAC,N139AM,Air Methods,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AD1C10,N944AM,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A0B6DC,N145SJ,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+AC9E4E,N912CC,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+ADBB18,N984ME,Air Methods,Eurocopter EC145 C-2,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A864B2,N64UP,Air Methods,MBB-Kawasaki BK 117 B-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A72F85,N562NA,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A8350B,N628MC,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A8147B,N62GA,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
+A85905,N637PC,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 020163,CN-TMB,Air Ocean Maroc,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://aom-airambulance.ma/hawker-800-xpi
 0D031E,XA-MMI,Air One Ambulance,Learjet 25D,LJ25,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aironeambulance.com/airambulance/
 39BA4F,F-HOSP,Airlec Air Espace,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airlecairespace.com/
 39B2EB,F-HMXL,Airlec Air Espace,Cessna Citation II,C550,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airlecairespace.com/
+7C4270,VH-NEQ,AirMed Australia,Cessna Citation Mustang,C510,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com.au/
+7C4F1F,VH-PWX,AirMed Australia,Cessna Citation Mustang,C510,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com.au/
 AB3C0C,N823AM,Airmed International,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com
 AB0D1F,N811AM,Airmed International,BAe 125 800A,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com
 485E49,PH-DOC,ANWB Medical Air Assistance,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
@@ -989,11 +1116,16 @@ AB0D1F,N811AM,Airmed International,BAe 125 800A,H25B,Civ,Air Ambo,Medical Evac,S
 4844C2,PH-MAA,ANWB Medical Air Assistance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 4853E2,PH-OOP,ANWB Medical Air Assistance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 4853F6,PH-HOW,ANWB Medical Air Assistance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
+440996,OE-XRE,ARA Flugrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ara-flugrettung.at/8/
 7306C7,EP-AVG,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
 7306C4,EP-AVD,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
 7306C3,EP-AVC,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
 7306C2,EP-AVB,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
 7306C1,EP-AVA,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
+300447,I-EPAM,Avionord SRL,Hawker 125 750,H25B,Civ,Organ Transport,Medical Evac,Saving Lives,Flying Doctors,https://www.avionord.com/en/home-page/
+300254,I-FORR,Avionord SRL,Learjet 40,LJ40,Civ,Organ Transport,Medical Evac,Saving Lives,Flying Doctors,https://www.avionord.com/en/home-page/
+300762,I-AVNE,Avionord SRL,Learjet 40,LJ40,Civ,Organ Transport,Medical Evac,Saving Lives,Flying Doctors,https://www.avionord.com/en/home-page/
+30061C,I-AVND,Avionord SRL,Learjet 45,LJ45,Civ,Organ Transport,Medical Evac,Saving Lives,Flying Doctors,https://www.avionord.com/en/home-page/
 4067BF,G-HEMN,Babcock MCS Onshore,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.walesairambulance.com
 406ABF,G-OMAA,Babcock MCS Onshore,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.babcockinternational.com/what-we-do/aviation
 400C32,G-HWAA,Babcock MCS Onshore,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.babcockinternational.com/what-we-do/aviation
@@ -1054,6 +1186,9 @@ AB7655,N838CS,Calstar,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Liv
 AB6779,N834CS,Calstar,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://calstar.org
 AB63C2,N833CS,Calstar,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://calstar.org
 AB600B,N832CS,Calstar,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://calstar.org
+7C49DA,VH-OVG,CareFlight,Gulfstream G150,G150,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://careflight.org/
+AB0E2B,N811ME,Center for Emergency Medicine of Western PA,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://centerem.org/
+ABBB03,N855ME,Center for Emergency Medicine of Western PA,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://centerem.org/
 A3E2DF,N35EG,Chatfield Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.chatfieldairambulanceinc.com/
 407386,G-PICU,Children's Air Ambulance,AW.189,A189,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://theairambulanceservice.org.uk/childrens-air-ambulance
 AC7EFA,N904KS,Classic Air Medical,C90-GTx King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://classicairmedical.com/
@@ -1085,6 +1220,7 @@ AC9C0D,N911TB,Cook Childrens Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air
 3E0173,D-HRTB,DRF Luftrettung,Eurocopter EC135 T3H,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3E0174,D-HRTC,DRF Luftrettung,Eurocopter EC135 T3H,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DDD6E,D-HRTH,DRF Luftrettung,Eurocopter EC135 T3H,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+3.00E+177,D-HRTF,DRF Luftrettung,Eurocopter EC135 T3H,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DDC75,D-HDSV,DRF Luftrettung,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DDC6E,D-HDSO,DRF Luftrettung,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DDC6B,D-HDSL,DRF Luftrettung,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
@@ -1106,15 +1242,18 @@ AC9C0D,N911TB,Cook Childrens Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air
 3DDC6A,D-HDSK,DRF Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DDC6D,D-HDSN,DRF Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3E0FE1,D-HXFD,DRF Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+3E0FDE,D-HXFA,DRF Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3CC57D,D-CCCB,DRF Luftrettung,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DFE90,D-HQQQ,DRF Luftrettung,MBB-Kawasaki BK 117 B-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3DE8F9,D-HIMB,DRF Luftrettung,MBB-Kawasaki BK 117 B-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+3DDC4D,D-HDRH,DRF Luftrettung,MBB-Kawasaki BK 117 B-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 406F2B,G-RESU,East Anglian Air Ambulance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.eaaa.org.uk/
 406CA0,G-HEMC,East Anglian Air Ambulance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.eaaa.org.uk/
 AC956B,N91MF,Elite Medical Air Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.elitemedical.org/
 A63A32,N500CR,Elite Medical Air Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.elitemedical.org/
 ACC722,N922RU,Enloe Medical Center,Eurocopter AS350 Squirrel B,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.enloe.org/
 ACC718,N922RJ,Enloe Medical Centre,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.enloe.org/
+406419,G-EHEM,Essex Air Ambulance,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ehaat.org/
 4072DA,G-HHEM,Essex and Herts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ehaat.org
 40448B,G-HAAT,Essex and Herts Air Ambulance,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.ehaat.org
 A054E1,N120NC,Express Air Medical Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://expressairmedicaltransportation.com/
@@ -1157,8 +1296,8 @@ A0B5FF,N145HN,HealthNet Aeromedical Services,MBB-Kawasaki BK 117 C-2,BK17,Civ,Ai
 4011AF,G-CEGP,IAS Medical Ltd,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
 407C16,G-JAAM,IAS Medical Ltd,Diamond Aircraft DA62,DA62,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
 A91DE9,N687HB,Inflight Medical Services International,Mitsubishi MU-2B -36,MU2,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.inflightmed.com/
+AAC7F5,N794MA,Inflight Medical Services International,Mitsubishi MU-2B -60,MU2,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.inflightmed.com/
 406206,G-RSCU,Irish Community Rapid Response,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://communityairambulance.ie/
-3CE600,XA-DOC,Jet Rescue,Learjet 36A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jet-rescue.com/
 3CD803,D-CJCL,Jetcall Ambulance,Learjet 31A,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetcall.eu/service/aircraft-charter/ambulance.html
 3DEBD7,D-HJOH,Johanniter Luftrettung,Eurocopter AS365 N3 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
 3DD735,D-HJLA,Johanniter Luftrettung,Eurocopter H145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.johanniter.de/
@@ -1194,9 +1333,13 @@ AAF927,N806LF,Life Flight,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving
 A71429,N555YE,Life Flight,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A55BA4,N444YE,Life Flight,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A8BCA7,N662LF,Life Flight,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
+A5241E,N430LF,Life Flight Network,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org/
+AC4749,N890WA,Life Flight Network,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org/
+AC0DA0,N876LF,Life Flight Network,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org/
 40709D,G-LNAC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
 406EF2,G-LNDN,London Air Ambulance,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.londonsairambulance.org.uk/
+4D028F,LX-RHC,Luxembourg Air Ambulance,Bombardier Challenger 605,CL60,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
 4D0295,LX-LAR,Luxembourg Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
 4D0294,LX-LAA,Luxembourg Air Ambulance,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
 4D0293,LX-EAA,Luxembourg Air Ambulance,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
@@ -1214,6 +1357,8 @@ A5BFDA,N47MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac
 A5985B,N46MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
 A570DC,N45MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
 A521DE,N43MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
+0D0BB7,XA-DOC,Med Jets SA de CV,Learjet 36,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetrescueairambulance.com/
+0D086E,XA-UCI,Med Jets SA de CV,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetrescueairambulance.com/
 A7DD95,N606AM,Medcare Emergency Medical Services,Dassault Falcon 10 100,FA10,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.medcareehs.com/
 A1FEF3,N228CH,Medical Air,SOCATA TBM 700B,TBM8,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medical-air-service.com/
 A1FB3C,N227CH,Medical Air,SOCATA TBM 700C2,TBM7,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medical-air-service.com/
@@ -1227,6 +1372,7 @@ A3E8EE,N351EF,Medway Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Sa
 A08F5C,N135SH,Medway Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A9BAF2,N726MJ,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A3D0F5,N345MA,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
+A72567,N56JP,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 ABBE66,N856HW,Memphis Medical Center Air Ambulance,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.hospitalwing.com/hospwing/
 ABC98B,N859HW,Memphis Medical Center Air Ambulance,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.hospitalwing.com/hospwing/
 ABC5D4,N858HW,Memphis Medical Center Air Ambulance,Eurocopter EC130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.hospitalwing.com/hospwing/
@@ -1298,6 +1444,10 @@ AC9AA0,N911CM,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac
 A24F04,N248PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A24796,N246PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A23503,N241PH,PHI Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
+A62B5E,N497P,PHI Air Medical,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A3F137,N353P,PHI Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+AD8ECF,N973AE,PHI Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+AD83AA,N970AE,PHI Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A36CAE,N32HH,PHI Air Medical,Learjet 31A,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 48B2D0,SP-MXR,Polish Medical Air Rescue,Learjet 75 Liberty,LJ75,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489ED8,SP-HXV,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
@@ -1392,7 +1542,37 @@ A3284B,N302RV,REVA Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Savin
 A8CF4F,N667MB,REVA Air Ambulance,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 A26B9C,N255RV,REVA Air Ambulance,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 7C1A0C,VH-FFI,Royal Flying Doctor Service,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C3FE2,VH-MWK,Royal Flying Doctor Service,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C56C7,VH-RFD,Royal Flying Doctor Service,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C3FCB,VH-MVX,Royal Flying Doctor Service,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C2E54,VH-JFQ,Royal Flying Doctor Service,Eurocopter EC145 C-2,EC45,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C2E59,VH-JFV,Royal Flying Doctor Service,Eurocopter EC145 C-2,EC45,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C19C6,VH-FDK,Royal Flying Doctor Service,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C44,VH-FVA,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C45,VH-FVB,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C95,VH-FXJ,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C49,VH-FVF,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1CA2,VH-FXW,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C48,VH-FVE,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1CA5,VH-FXZ,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1B2B,VH-FNH,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A01,VH-OWJ,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C49FB,VH-OWD,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A11,VH-OWZ,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C1C99,VH-FXN,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A10,VH-OWY,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C49F8,VH-OWA,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A0A,VH-OWS,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A0F,VH-OWX,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C4A0C,VH-OWU,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C2E09,VH-JDN,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C49FE,VH-OWG,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C3AD6,VH-LWO,Royal Flying Doctor Service,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
 7C2BA6,VH-IWO,Royal Flying Doctor Service,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyingdoctor.org.au
+7C1CE4,VH-FZQ,Royal Flying Doctor Service,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C6D76,VH-VWO,Royal Flying Doctor Service,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C35C6,VH-KWO,Royal Flying Doctor Service,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
+7C44F6,VH-NWO,Royal Flying Doctor Service,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,RFDS,Flying Doctors,https://www.flyingdoctor.org.au
 ACA71F,N914SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
 AC8357,N905SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
 AC7FA0,N904SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
@@ -1411,6 +1591,13 @@ A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving L
 A0F0F1,N16SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.selectmedical.com/
 A4CB5E,N408LL,SEMSA Air Ambulance,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sierramed.org/
 44B906,OO-NHF,Service dAide Medicale dUrgence,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.samu-urgences-de-france.fr/fr/
+AA7975,N774SB,Seven Bar Aviation,Cessna Citation Encore,C560,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+A3276A,N302GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+ACBE86,N920DS,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+A33DB4,N308GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+A35657,N314GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+A32ED8,N304GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
+A3477B,N310GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
 C059DF,C-GIAW,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.skycare.ca/
 C03D1A,C-FXDP,SkyCare Air Ambulance,IAI 1124 Westwind,WW24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.skycare.ca/
 C07142,C-GQXD,SkyCare Air Ambulance,Piper PA-31 Navajo C,PA31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.skycare.ca/
@@ -1430,6 +1617,7 @@ ACE73A,N930SA,Spectrum Medical Aviation Inc Trustee,SOCATA TBM 930,TBM9,Civ,Air 
 4AAB02,SE-JXB,Svensk Luftambulans,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://svenskluftambulans.se/
 4AAB01,SE-JXA,Svensk Luftambulans,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://svenskluftambulans.se/
 4ACAC5,SE-RVE,Swedish Air Ambulance,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.airamb.se/en/home
+4ACAC1,SE-RVA,Swedish Air Ambulance,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.airamb.se/en/home
 4B43D7,HB-ZRZ,Swiss Air Ambulance AG,AgustaWestland AW.109 SP Grand New,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.swiss-air-ambulance.ch
 4B43D6,HB-ZRY,Swiss Air Ambulance AG,AgustaWestland AW.109 SP Grand New,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.swiss-air-ambulance.ch
 4B43D5,HB-ZRX,Swiss Air Ambulance AG,AgustaWestland AW.109 SP Grand New,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.swiss-air-ambulance.ch
@@ -1493,10 +1681,9 @@ A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And
 406EBC,G-CIRL,Private,Ultramagic S-90 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,https://ultramagic.com/
 3F232B,D-LZFN,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Gas Bag,Airship,No Smoking Please,Gas Bags,https://en.wikipedia.org/wiki/Zeppelin_NT
 0640F2,5N-FGW,Nigerian Air Force,Gulfstream G550,GLF5,Civ,Nigeria,Lads From Lagos,Government,Governments,https://en.wikipedia.org/wiki/Nigeria
-406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+A7FDB0,N614AX,Airborne Tactical Advantage,Dassault Mirage F1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
+A8252F,N624AX,Airborne Tactical Advantage,Dassault Mirage F1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A80C8C,N618AX,Airborne Tactical Advantage,Dassault Mirage F1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3AFE6,N337AX,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A38C1E,N328AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
@@ -1511,9 +1698,16 @@ A3BD64,N340AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor 
 A3C11B,N341AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C6B8,N407AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C301,N706AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A4B7DC,N403AX,Airborne Tactical Advantage,IAI Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
+A4B425,N402AX,Airborne Tactical Advantage,IAI Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
+406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 3982A5,F-HAVF,Aviation Defence Service,BAE Jetstream 41,JS41,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
 393C00,F-GPAA,Aviation Defence Service,Dassault Falcon 20 ECM,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://www.planespotters.net/airline/Aviation-Defense-Service
 393C03,F-GPAD,Aviation Defence Service,Dassault Falcon 20E,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
+A00E0E,N102VS,Calspan Corporation,Learjet 25B,LJ25,Civ,Adversary Simulator,Specialist,Shapeshifter,Hired Gun,https://www.calspan.com
 A3301A,N304VS,Calspan Corporation,Learjet 25G,LJ25,Civ,Adversary Simulator,Specialist,Shapeshifter,Hired Gun,https://www.calspan.com
 4009D6,G-FRAW,Draken Europe,Dassault Falcon 20 ECM,FA20,Civ,Shapeshifter,Target Practice,Adversary Simulation,Hired Gun,https://www.draken.aero
 4009CE,G-FRAL,Draken Europe,Dassault Falcon 20 EW,FA20,Civ,Shapeshifter,Target Practice,Adversary Simulation,Hired Gun,https://www.draken.aero
@@ -1535,6 +1729,7 @@ A3DB76,N348EM,Draken Intl,Aermacchi MB.339 CB,M339,Civ,Aggressor Squadron,Callsi
 A3CC9A,N344EM,Draken Intl,Aermacchi MB.339 CB,M339,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A72B11,N561EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A76523,N576EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
+A0FD43,N163EM,Draken Intl,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A9E61F,N737M,Eagle Intl Establishment,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Mercenary,Hired Gun,https://www.eagleinternationalgroup.com
 3CD066,D-CGFM,Gesellschaft fur Flugzieldarstellung,Learjet 31A,LJ31,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
 3CD068,D-CGFO,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
@@ -1610,13 +1805,19 @@ C053D9,C-GFTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadro
 C01479,C-FHTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C05E5B,C-GJTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C063B1,C-GLTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C07E0B,C-GVTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C05BB7,C-GITA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01276,C-FGZT,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01271,C-FGZO,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01266,C-FGZD,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01275,C-FGZS,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C01228,C-FGWT,Top Aces Inc,Douglas TA-4J Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter Jet,I Am Old,What We Do In The Shadows,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
+ADC0E4,N9856C,Aero Trader,North American B-25N Mitchell,B25,Civ,War Bird,Medium Bomber,Pacific Princess,Historic,https://en.wikipedia.org/wiki/North_American_B-25_Mitchell
+49D164,OK-WHB,Aeroklub Plasy,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 3D7F7F,D-FUNN,Air Fighter Academy,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Little-Ite,Historic,https://w.wiki/3nth
+49D26B,OK-KIQ,Air Special,Antonov An-2 R,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 ACEDC6,N932H,Airborne Support Inc.,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C06B21,C-GOOU,ALCI Aviation,Douglas C-47A BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C04F42,C-GEAJ,ALCI Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -1625,9 +1826,12 @@ C032D1,C-FTGI,ALCI Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,In
 C057C6,C-GHGF,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 6,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
 C046ED,C-GAWI,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 5,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
 A27DFE,N26PW,Almanor Aviation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Grim Reaper,Historic,https://w.wiki/3nth
+A0C96F,N15SJ,American Airpower Heritage Flying Museum,Douglas C-47B Dakota,DC3,Civ,War Bird,Shiny,D-Day,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
 A65FD5,N51HR,American Airpower Heritage Flying Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Jacqueline,Historic,https://w.wiki/3nth
 4045EB,G-CBEL,Anglia Aircraft Restoration,Hawker Iraqi Fury,FURY,Civ,Whoosh,Sea Fury,Fighter,Historic,https://tinyurl.com/mtrkj8uu
+4073EB,G-AWHH,Anglia Aircraft Restorations,Hispano Buchon HA-1112 M1L,ME09,Civ,Messerschmitt Bf 109,Merlin Engine,White 9,Historic,https://w.wiki/54Au
 406B86,G-TFSI,Anglia Aircraft Restorations,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Contrary Mary,Historic,https://w.wiki/3nth
+4065BA,G-IBSY,Anglia Aircraft Restorations,Supermarine Spitfire Vc,SPIT,Civ,Historic,Fighter,EE602,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire
 4B208C,HB-MIM,Ariel Ludi,Bucker Bu 133C Jungmeister,BU33,Civ,Biplane,Advanced Trainer,History,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_133_Jungmeister
 4B2D1D,HB-RCF,Association Morane Charlie Fox,D-3801 (Morane MS-412),ZZZZ,Civ,Fighter,History,WW2,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_M.S.406
 A5777E,N451TB,Banta Aviation,North American P-51K Mustang,P51,Civ,War Bird,Shiny,Kimberley Kaye,Historic,https://w.wiki/3nth
@@ -1643,14 +1847,19 @@ A6603F,N51MX,Black Pearl Fighters,North American P-51D Mustang,P51,Civ,War Bird,
 40302D,G-BRSF,Boultbee Flight Academy,Supermarine Spitfire IX,SPIT,Civ,War Bird,Fighter,WW2,Historic,https://www.boultbeeflightacademy.co.uk/rr232
 40232B,G-CCCA,Boultbee Flight Academy,Supermarine Spitfire LFIXe,SPIT,Civ,War Bird,Fighter,WW2,Historic,https://www.boultbeeflightacademy.co.uk/pv202
 403D79,G-ILDA,Boultbee Flight Academy,Supermarine Spitfire TIX,SPIT,Civ,War Bird,Fighter,WW2,Historic,https://www.boultbeeflightacademy.co.uk/sm520
+4B36DB,HB-UUD,Bucker Fan Club,Bucker Bu 131B Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
 A6F0A2,N5460V,California Warbirds,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Straw Boss 2,Historic,https://w.wiki/3nth
 4014B1,G-AOEI,Cambridge Flying Group,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 404865,G-PBYA,Catalina Aircraft,Catalina Canso,CAT,Civ,Amphibian,Warbird,Flying Boat,Historic,https://www.catalina.org.uk/our-catalina-g-pbya/
 A65FE1,N51JC,Cavanaugh Flight Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,The Brat III,Historic,https://w.wiki/3nth
 C05669,C-GGSU,CGG Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C01024,C-FGCX,China Antarctic & Arctic Research Expedition,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://tinyurl.com/2p8ryf55
+401419,G-AIDL,Cirrus Aviation,De Havilland DH-89A Dragon Rapide,DH89,Civ,Streamlined,Biplane,Art Deco,Historic,https://en.wikipedia.org/wiki/De_Havilland_Dragon_Rapide
 A85004,N63476,Claire Aviation Inc,North American P-51D Mustang,P51,Civ,War Bird,Shiny,KwitcherBitchin,Historic,https://w.wiki/3nth
+401CFF,G-VROE,Classic Aircraft Trust,Avro Anson C21,ANSN,Civ,Historic,Communication,WD413,Historic,https://en.wikipedia.org/wiki/Avro_Anson
 4025FC,G-AKIU,Classic Aircraft Trust,Percival Proctor 5,PROC,Civ,Training Wheels,Speak Up Sonny,I Am Old,Historic,https://en.wikipedia.org/wiki/Percival_Proctor
+3D6F56,D-FOKK,Classic Wings,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+40142B,G-AIYR,Classic Wings,De Havilland DH-89A Dragon Rapide,DH89,Civ,Streamlined,Biplane,Art Deco,Historic,https://en.wikipedia.org/wiki/De_Havilland_Dragon_Rapide
 A671D0,N514RP,Collectable Aircraft LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Red Dog,Historic,https://w.wiki/3nth
 A466F5,N383FJ,Collezone Marchi-Luciano,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Marinell,Historic,https://w.wiki/3nth
 A7035A,N551CF,Collings Foundation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Toulouse Nuts,Historic,https://w.wiki/3nth
@@ -1667,6 +1876,7 @@ A8A256,N6555B,Dakota Territory Air Museum,North American TP-51C Mustang,P51,Civ,
 44CB2C,OO-RYL,Dream Flight Factory,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,Scat VII,Historic,https://w.wiki/3nth
 4843EE,PH-PBA,Dutch Dakota Association,Douglas C-47A Dakota,DC3,Civ,D-Day,Warbird,Operation Market Garden,Historic,https://tinyurl.com/yc4bpd39
 A35221,N313BT,Early Birds Foundation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
+49D166,OK-GIB,Ellbogen s.r.o,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 4B2F13,HB-RVN,Eric Chardonnens,F+W Emmen DH-100 Vampire FB6,VAMP,Civ,Fighter,I Am Old,What We Do In The Shadows,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 3D845C,D-FWJK,Fallschirm Club Halle,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 407941,G-AWGB,Fly a Spitfire Biggin Hill,Supermarine Spitfire TIX,SPIT,Civ,Grey Nurse,Film Star,Merlin Engine,Historic,https://flyaspitfire.com/the-story-of-te308
@@ -1681,6 +1891,7 @@ A9AF36,N723FH,Flying Heritage Collection,North American P-51D Mustang,P51,Civ,Wa
 4048AD,G-SIJJ,Hangar 11 Collection,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tall In The Saddle,Historic,https://w.wiki/3nth
 43C364,XV666,Heli Operations,Westland Sea King HU5 SAR,S61,Civ,Sea King,The Last Of Us,Amphibian,Historic,https://w.wiki/4nD$
 43C36B,XZ920,Heli Operations,Westland Sea King HU5 SAR,S61,Civ,Sea King,The Last Of Us,Amphibian,Historic,https://w.wiki/4nD$
+400B40,G-AMPY,Heritage Air Services,Douglas C-47B Dakota,DC3,Civ,Skytrain,Dakota,KK116,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
 403180,G-MOUR,Heritage Aircraft Ltd,Folland Gnat T.1,GNAT,Civ,Display Team,Aerobatics,Dave Gilmour,Historic,https://tinyurl.com/mrx67vdy
 43C332,XP820,Historic Aircraft Flight,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 A65AFB,N5087F,Historic Flight Foundation,North American P-51B Mustang,P51,Civ,Fighter,WW2,Impatient Virgin,Historic,https://w.wiki/3nth
@@ -1706,6 +1917,7 @@ A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,DC3T,Civ,Turboprop,Rejuvenated,Inde
 C03C29,C-FWUI,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C038D9,C-FVNS,North Star Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 4073FF,G-VNAM,O-1 Aviation,Cessna O-1A Bird Dog,O1,Civ,War Bird,Liason,Historic,Historic,https://w.wiki/4nDg
+3D6F33,D-FOJB,Ostthuring FSC,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 A575EF,N451BC,P-51 Mustang LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Angels Playmate,Historic,https://w.wiki/3nth
 A190CE,N20MS,Pacwest P-51 LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Daddys Girl,Historic,https://w.wiki/3nth
 A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
@@ -1716,6 +1928,7 @@ A6E957,N5441V,Planes of Fame Air Museum,North American P-51D Mustang,P51,Civ,War
 40510C,G-CEHR,Private,Auster Aircraft Auster AOP9,AUS9,Civ,Highwing,Observation,I Am Old,Historic,https://w.wiki/4yjC
 401491,G-ANHX,Private,Auster AOP.5,AUS6,Civ,Observation,Liason,WW2,Historic,http://www.aerialvisuals.ca/AirframeDossier.php?Serial=114444
 4013FE,G-AHAU,Private,Auster J/1 Autocrat,J1,Civ,High Wing,Touring,I Am Old,Historic,https://en.wikipedia.org/wiki/Auster_Autocrat
+4B0C0B,HB-EOP,Private,Auster J/1 Autocrat,J1,Civ,High Wing,Touring,I Am Old,Historic,https://en.wikipedia.org/wiki/Auster_Autocrat
 401480,G-AMZT,Private,Auster J/5F Aiglet Trainer,AIGT,Civ,Highwing,Training Wheels,I Am Old,Historic,https://en.wikipedia.org/wiki/Auster_Aiglet_Trainer
 400D26,G-BWSG,Private,BAC Jet Provost T5,JPRO,Civ,Training Wheels,Jet Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/BAC_Jet_Provost
 4B0FDA,HB-GAC,Private,Beech C18S,BE18,Civ,Twin Beech,Twin Tail,I Am Old,Historic,https://w.wiki/4wor
@@ -1723,6 +1936,8 @@ ABED89,N868L,Private,Beech D18S,BE18,Civ,Twin Beech,Twin Tail,I Am Old,Historic,
 A1EC64,N223CM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
 A1B7B7,N21FS,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
 A15077,N184KP,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
+4025A1,G-BKGM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
+A95644,N700TN,Private,Beech H18,BE18,Civ,Twin Beech,Twin Tail,Tricycle Landing Gear,Historic,https://w.wiki/4wor
 AB63B9,N833CH,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
 A1436B,N18028,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
 A0F0E5,N16S,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
@@ -1733,10 +1948,15 @@ A5840C,N4545N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,
 40313A,G-BSDS,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 40780A,G-CLEN,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A8B36C,N66RW,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+3D3149,D-EQXL,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4039B3,G-ISDN,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+AA2F9F,N75546,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A57267,N450D,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 4B2D04,HB-RBG,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A6BAA9,N5323N,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A91557,N68461,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+44904D,OO-DBM,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 3D40FD,D-EWWB,Private,Boeing Stearman PT-17D Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 AA651D,N769Y,Private,Brunner-Winkle Bird CK,ZZZZ,Civ,Biplane,Joyride,Historic,Historic,https://en.wikipedia.org/wiki/Brunner-Winkle_Bird
 401F85,G-BJAL,Private,Bucker 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
@@ -1752,8 +1972,11 @@ A95566,N700JR,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,T
 401DCB,G-BGPB,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/uk-harvards/g-bspb/
 3D166C,D-EGSY,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
 3D2AE4,D-EOMM,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
+4B36F5,HB-UVD,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
+440442,OE-CCI,Private,Cessna O-1E Bird Dog,O1,Civ,War Bird,Liason,Historic,Historic,https://w.wiki/4nDg
 A8787D,N645H,Private,Curtiss-Wright Travel Air 4000 E,TVL4,Civ,Biplane,Open Cockpit,History,Historic,https://en.wikipedia.org/wiki/Travel_Air_2000
 401A4E,G-AAZP,Private,De Havilland DH-80A Puss Moth,DH80,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Puss_Moth
+401200,G-ABLS,Private,De Havilland DH-80A Puss Moth,DH80,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Puss_Moth
 40186F,G-AXXV,Private,De Havilland DH-82 Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 402D66,G-BPHR,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 402813,G-EMSY,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://w.wiki/4o4M
@@ -1763,10 +1986,16 @@ AB3EC1,N8233,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old
 4014AB,G-AOBX,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 401407,G-AHIZ,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 4017F4,G-AXAN,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
+403CB7,G-BWVT,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
+4024DE,G-ADPC,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
+448B2C,OO-BYL,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
+40146B,G-ALUC,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
+4014D1,G-AOZH,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 4023A0,G-BLUZ,Private,De Havilland DH-82B Queen Bee,DH82,Civ,Unique,Target Practice,The Last Of Us,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 4014C0,G-AOJH,Private,De Havilland DH-83C Fox Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Fox_Moth
 401A63,G-ACUS,Private,De Havilland DH-85 Leopard Moth,DH85,Civ,I Am Old,Speak Up Sonny,Historic,Historic,https://en.wikipedia.org/wiki/De_Havilland_Leopard_Moth
 401A5E,G-ACMA,Private,De Havilland DH-85 Leopard Moth,DH85,Civ,I Am Old,Speak Up Sonny,Historic,Historic,https://en.wikipedia.org/wiki/De_Havilland_Leopard_Moth
+401A6B,G-ADKC,Private,De Havilland DH-87B Hornet Moth,DH87,Civ,Liason,Biplane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Hornet_Moth
 3E3238,D-IKFG,Private,De Havilland DH-89A Dragon Rapide,DH89,Civ,Streamlined,Biplane,Art Deco,Historic,https://en.wikipedia.org/wiki/De_Havilland_Dragon_Rapide
 C02FC9,C-FSCM,Private,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 4B36EA,HB-UUS,Private,Dornier Bu 131-150 Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
@@ -1779,8 +2008,10 @@ A1B748,N21BF,Private,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestruc
 3D7656,D-FRBI,Private,EKW C-3603,C365,Civ,Training Wheels,Not Very Good,History,Historic,https://en.wikipedia.org/wiki/EKW_C-36
 AD2D55,N94804,Private,Ercoupe 415-E,ERCO,Civ,Nearly Foolproof,Double Vision,I Am Old,Historic,https://en.wikipedia.org/wiki/ERCO_Ercoupe
 A16EE5,N19146,Private,Fairchild F-24 G,FA24,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/Fairchild_24
+407775,G-SEDC,Private,Fairchild F-24 W,FA24,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/Fairchild_24
 3D2EFF,D-EQAX,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Historic,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
 3D1060,D-EELK,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Goldfinch,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
+3D2533,D-EMIL,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Historic,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
 A1D023,N216DM,Private,Fouga Magister CM170,FOUG,Civ,Jet Trainer,V Tail,Loved By Its Mother,Historic,https://w.wiki/4$6g
 4B1B4C,HB-KIU,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
 3D0B74,D-ECOY,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
@@ -1788,23 +2019,31 @@ A1D023,N216DM,Private,Fouga Magister CM170,FOUG,Civ,Jet Trainer,V Tail,Loved By 
 4B2D38,HB-RDG,Private,General Motors TBM-3R Avenger,TBM,Civ,Torpedo Bomber,Midway,WW2,Historic,https://en.wikipedia.org/wiki/Grumman_TBF_Avenger
 406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Historic,Historic,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
 3D1868,D-EHMM,Private,Great Lakes Sport Trainer 2T-1A-2,G2T1,Civ,Biplane,Aerobatics,Basic Trainer,Historic,https://en.wikipedia.org/wiki/Great_Lakes_Sport_Trainer
+3D35CD,D-ESPX,Private,Great Lakes Sport Trainer 2T-1A-2,G2T1,Civ,Biplane,Aerobatics,Basic Trainer,Historic,https://en.wikipedia.org/wiki/Great_Lakes_Sport_Trainer
 404736,G-HRLI,Private,Hawker Hurricane,HURI,Civ,Historic,War Bird,WW2,Historic,https://w.wiki/4o4R
 4045F0,G-HUPW,Private,Hawker Hurricane,HURI,Civ,Historic,War Bird,WW2,Historic,https://w.wiki/4o4R
+407216,G-AWHC,Private,Hispano Buchon HA-1112 M4L,ME09,Civ,Messerschmitt Bf 109,Merlin Engine,Red II,Historic,https://w.wiki/54Au
 404A42,G-EHMF,Private,Isaacs Fury II,IFUR,Civ,Hawker Fury,Biplane,Replica,Historic,https://en.wikipedia.org/wiki/Isaacs_Fury
 4B2DC0,HB-RIM,Private,Junkers F 13,F13,Civ,Shiny,History,All Metal,Historic,https://en.wikipedia.org/wiki/Junkers_F_13
 459299,OY-DTY,Private,KZ-VII Laerke U-4,KZ7,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/SAI_KZ_VII
 3D88BA,D-FYAK,Private,Let Yak-11 C-11,YK11,Civ,Basic Trainer,Soviet Union,Historic,Historic,https://en.wikipedia.org/wiki/Yakovlev_Yak-11
+402AA3,G-OYAK,Private,LET Yak-11 C-11,YK11,Civ,Basic Trainer,Soviet Union,Historic,Historic,https://en.wikipedia.org/wiki/Yakovlev_Yak-11
 A0C7D4,N14999,Private,Lockheed Electra Junior L12A,L12,Civ,All Metal,Radial Engine,I Am Old,Historic,https://w.wiki/4o4F
 4070BE,G-HOUR,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
 406BE5,G-CIGH,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
+40144E,G-AKHP,Private,Miles Gemini 1A,GEMI,Civ,Twin Engine,Historic,Rare,Historic,https://en.wikipedia.org/wiki/Miles_Gemini
 401287,G-AJWB,Private,Miles Messenger 2A,MESS,Civ,Low Speed,I Am Old,Triple Tail,Historic,https://en.wikipedia.org/wiki/Miles_Messenger
 401073,G-AERV,Private,Miles Whitney Straight M.11A,WHIT,Civ,Air Racing,I Am Old,Shiny,Historic,https://en.wikipedia.org/wiki/Miles_Whitney_Straight
 4B2CF2,HB-RAO,Private,Morane-Saulnier MS.317,MS31,Civ,Primary Trainer,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_MS.315
 4B0B69,HB-EIJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 3821E9,F-BIPJ,Private,Morane-Saulnier MS.505 Criquet,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier
 449026,OO-DAF,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/belgium-harvards/oo-daf-full-history/
+4B2D3F,HB-RDN,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/belgium-harvards/oo-daf-full-history/
+407272,G-BDAM,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/belgium-harvards/oo-daf-full-history/
 406FA5,G-CIUW,Private,Noorduyn AT-16ND Harvard Sk16A,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/uk-harvards/g-ciuw/
+4015F4,G-ASTG,Private,Nord 1002 Pingouin II,ME08,Civ,Historic,Liason,Penguin,Historic,https://en.wikipedia.org/wiki/Nord_Pingouin
 3D6062,D-FITE,Private,North American Harvard II,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/North_American_T-6_Texan
+40232D,G-TSIX,Private,North American Harvard IIA,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/uk-harvards/g-tsix/
 A848AC,N6328T,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
 AA6FC8,N7715C,Private,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Bomber Escort,Historic,https://en.wikipedia.org/wiki/North_American_P-51_Mustang
 A6616A,N51ZW,Private,North American P-51D Mustang,P51,Civ,War Bird,Frances Dell,Bomber Escort,Historic,https://tinyurl.com/2p98sfse
@@ -1822,6 +2061,8 @@ A97A43,N71FT,Private,P-51D Mustang Modfied Racer,P51,Civ,Speed Racer,Strega,Air 
 4030B1,G-BRXY,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 407946,G-CLKH,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4077CC,G-CLDH,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
+4.03E+61,G-VALS,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
+4B2CF0,HB-RAM,Private,Pilatus P-2 06,PP2,Civ,Basic Trainer,I Am Old,Historic,Historic,https://en.wikipedia.org/wiki/Pilatus_P-2
 4B2D23,HB-RCL,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1C,HB-RCE,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1B,HB-RCD,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
@@ -1830,6 +2071,8 @@ A97A43,N71FT,Private,P-51D Mustang Modfied Racer,P51,Civ,Speed Racer,Strega,Air 
 401F83,G-BJAF,Private,Piper L-4A Grasshopper,J3,Civ,Spotter Aircraft,War Bird,WW2,Historic,https://world-war-2.wikia.org/wiki/Piper_L-4_Grasshopper
 40331C,G-BSYO,Private,Piper L-4B Grasshopper,J3,Civ,Spotter Aircraft,War Bird,WW2,Historic,https://world-war-2.wikia.org/wiki/Piper_L-4_Grasshopper
 4013E2,G-AFZL,Private,Porterfield CP-50,CP65,Civ,Tail Dragger,Highwing,Training And Touring,Historic,https://en.wikipedia.org/wiki/Porterfield_Collegiate
+A5AEA1,N46502,Private,Ryan Recruit ST3-KR,PT22,Civ,Basic Trainer,Open Cockpit,Shiny,Historic,https://en.wikipedia.org/wiki/Ryan_ST
+4013F9,G-AGYY,Private,Ryan Recruit ST3-KR,PT22,Civ,Basic Trainer,Open Cockpit,Shiny,Historic,https://en.wikipedia.org/wiki/Ryan_ST
 449EE3,OO-GWC,Private,SNCAN Stampe SV-4 A,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 44AC34,OO-KAT,Private,SNCAN Stampe SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 4484CA,OO-AFJ,Private,SNCAN Stampe SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
@@ -1837,6 +2080,7 @@ A97A43,N71FT,Private,P-51D Mustang Modfied Racer,P51,Civ,Speed Racer,Strega,Air 
 449EE1,OO-GWA,Private,SNCAN Stampe SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 44CED4,OO-SVT,Private,SNCAN Stampe SV-4 E,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 A1320E,N17613,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hughes,Shiny,Historic,https://w.wiki/4zCg
+A13210,N17615,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hughes,Shiny,Historic,https://w.wiki/4zCg
 449532,OO-EIR,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 44C02D,OO-PAM,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 3D0983,D-EBVV,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
@@ -1844,6 +2088,7 @@ A1320E,N17613,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hugh
 44B2AB,OO-LUK,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 44CEC2,OO-SVB,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 44B5EE,OO-MON,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
+44C9F2,OO-ROR,Private,Stampe et Renard SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,Enclosed Cabin,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_Junior
 A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
 A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
@@ -1869,6 +2114,7 @@ A0CA9D,N150EK,Private,WACO YMF-5C,WACF,Civ,Biplane,Barn Stormer,Do A Barrel Roll
 47BC85,LN-DHY,Royal Norwegian Air Force Historic Flight,FFA Vampire FB.6,VAMP,Civ,Historic,Twin Boom,Jet Fighter,Historic,https://www.historicalsquadron.com/
 401A61,G-ACSS,Shuttleworth Collection,De Havilland DH-88 Comet,DH89,Civ,Speed Racer,Grosvenor House,The First,Historic,https://www.shuttleworth.org/collection/dh88comet
 4044A7,G-BZSC,Shuttleworth Collection,Sopwith Camel,CAML,Civ,Biplane,Biggles,You Can Fly Anything,Historic,https://youtu.be/Q8Gt-UqwZaI?t=3881
+A3E8E1,N351DT,Stallion 51,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 ABAB5A,N851D,Stallion 51,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 4A930E,SE-DXN,Swedish Air Force Historic Flight,AJS 37 Saab 37 Viggen,SB37,Civ,Delta Wing,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com/sk37-ajs37-viggen
 4AC9A9,SE-RMI,Swedish Air Force Historic Flight,Cessna Citation II,C550,Civ,Bizjet,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com
@@ -1882,15 +2128,25 @@ ABAB5A,N851D,Stallion 51,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,
 4A930F,SE-DXO,Swedish Air Force Historic Flight,Sk 37 Saab 37 Viggen,SB37,Civ,Delta Wing,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com/sk37-ajs37-viggen
 4A9484,SE-EDD,Swedish Air Force Historic Flight,Sk 50 Saab 91 Safir,SB91,Civ,Training Wheels,I Am Old,Fika,Historic,https://www.swafhf.com/sk50
 4A9307,SE-DXG,Swedish Air Force Historic Flight,Sk 60 Saab 105,SB05,Civ,Training Wheels,I Am Old,Fika,Historic,https://www.swafhf.com/sk60
+403510,G-FGID,The Fighter Collection,Goodyear FG-1D Corsair,CORS,Civ,Historic,Aircraft Carrier,Fighter Bomber,Historic,https://tinyurl.com/ybferkrc
+40391A,G-LFVB,The Fighter Collection,Supermarine Spitfire LFVb,SPIT,Civ,Historic,War Bird,EP120,Historic,https://fighter-collection.com/cft/spitfire-ep120/
+7C3062,VH-JUC,The Old Aeroplane Company,CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/CAC_Mustang
+A65F8F,N51EW,Tom Cruise,North American FP-51K Mustang,P51,Civ,Maverick,Ethan Hunt,Xenu,Historic,https://youtu.be/EPzvExtJgxw
+A65F7B,N51EA,Training Services,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Double Trouble Two,Historic,https://w.wiki/3nth
+AB56E6,N83KD,Tri-State Warbird Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Cincinnati Miss,Historic,https://w.wiki/3nth
+A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tempus Fugit,Historic,https://w.wiki/3nth
 4B2F0F,HB-RVJ,Verein De Havilland Flying Group,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter,I Am Old,What We Do In The Shadows,Historic,https://tinyurl.com/2p88tbp3
 4B0B4F,HB-EHJ,Verein der Freunde des Fieseler Storch,Fieseler Fi 156C-3 Storch,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
 4B0C72,HB-ESO,Verein Historic & Classic Airplanes,Ryan Navion A (L-17B),NAVI,Civ,Liason,Shiny,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Ryan_Navion
+A660FC,N51VL,Warbird Heritage Foundation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Moonbeam McSwine,Historic,https://w.wiki/3nth
+484C09,PH-JAT,Wings over Holland,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Trusty Rusty,Historic,https://w.wiki/3nth
 A36B08,N3193G,Yankee Air Force,Boeing B-17G Flying Fortress,B17,Civ,Historic,Bomber,Yankee Lady,Historic,https://w.wiki/4nFB
 ABF93A,N8704,Yankee Air Force,Douglas C-47 Dakota,DC3,Civ,Historic,Dakota,Hairless Joe,Historic,https://yankeeairmuseum.org/
 A450B0,N3774,Yankee Air Force,North American B-25C Mitchell,B25,Civ,Historic,Bomber,Rosies Reply,Historic,https://yankeeairmuseum.org/
 A66E1C,N513RS,Yankee Air Force,WACO YMF-5,WACF,Civ,Biplane,Barn Stormer,Do A Barrel Roll,Historic,https://yankeeairmuseum.org/
-A1CB6C,N2145G,Billy and Franklin Graham,Cessna 182A,C182,Civ,Jesus He Knows Me,Its A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
-AC69CE,N8995D,Billy and Franklin Graham,Piper PA-18 Super Cub,PA18,Civ,Jesus He Knows Me,Its A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A1CB6C,N2145G,Billy and Franklin Graham,Cessna 182A,C182,Civ,Jesus He Knows Me,Its NOT A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+AC69CE,N8995D,Billy and Franklin Graham,Piper PA-18 Super Cub,PA18,Civ,Jesus He Knows Me,Its NOT A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A9C9D0,N73ML,Celebration TV America,Bombardier Challenger 601,CL60,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://tinyurl.com/45p5rv7s
 A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 48434B,P4-FSH,Ernest Angley Ministries,Boeing 747-SP,B74S,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -1907,11 +2163,13 @@ ADCCA3,N989AR,Prem Rawat Priyan Foundation,Gulfstream G550,GLF5,Civ,Jesus He Kno
 AC953B,N91KH,Rhema Bible Church,Bombardier Challenger 601,CL60,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://en.wikipedia.org/wiki/Douglas_DC-8
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-12 47,PC12,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.ams.org.za
+A0D223,N152FJ,Victory Outreach,Dassault Falcon 50,FA50,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 406D43,G-COXI,ABD Networks LLP,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
 404516,G-IBII,Altered Attitude Aerobatics,Pitts Special S-2A,PTS2,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://alteredattitudeaerobatics.co.uk/
 407C7C,G-MIIL,Angels High,Extra NG,EXNG,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,http://www.angels-high.co.uk/
 407B39,G-XCAP,Diana Britten,Mudry CAP-232,CP23,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4yd5
 45BA61,OY-NSA,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
+4B1F49,HB-LWB,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
 404005,G-BYCT,Private,Aero L-29 Delfin,L29,Civ,Da Comrade,Jet Trainer,Must Be Nice,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-29_Delf%C3%ADn
 4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 473B2E,2-SOAR,Private,Alouette Astazou SA.318C,ALO3,Civ,Hot And High,Helicopter,Engine Swap,Joe Cool,https://en.wikipedia.org/wiki/A%C3%A9rospatiale_Alouette_II
@@ -1933,27 +2191,36 @@ AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Chur
 405000,G-NUTA,Private,Christen Eagle II,EAGL,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Aviat_Eagle
 405FEA,G-GULZ,Private,Christen Eagle II,EAGL,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Aviat_Eagle
 3D107C,D-EEMM,Private,Christen Eagle II,EAGL,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Aviat_Eagle
+AB4EEA,N828DM,Private,Christen Eagle II,EAGL,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Aviat_Eagle
 A9702C,N707SN,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://cirrusaircraft.com/aircraft/vision-jet
 43EDEE,2-YOLO,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://cirrusaircraft.com/aircraft/vision-jet
 407B7D,G-MRKM,Private,CubCrafters Carbon Cub CCK-1865,PA18,Civ,STOL,Carbon Fibre,Who Needs A Runway,Joe Cool,https://en.wikipedia.org/wiki/CubCrafters_Carbon_Cub_EX
 406FD2,G-EVMK,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 A8F778,N677TX,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 403A16,G-REDX,Private,Experimental Aviation Berkut,BKUT,Civ,Whoosh,Shiny,Canards,Joe Cool,https://en.wikipedia.org/wiki/Berkut_360
+4035D3,G-EXTR,Private,Extra EA-260,E260,Civ,Rare,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-260
 3D3ECF,D-EWAP,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 4039E9,G-SIII,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 400EFA,G-EEEK,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406C56,G-WVEN,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 407821,G-EZMT,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D4365,EC-KFV,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+A18EA9,N2PU,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 40436D,G-XXHP,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 49D104,OK-ELC,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 3D427D,D-EXKV,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 3D35A1,D-ESOF,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 3D427A,D-EXKS,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 4B219B,HB-MSX,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
+403362,G-BTDE,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
+3D41D0,D-EXEE,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 407347,G-HEDL,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 4B200A,HB-MDM,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D11C8,D-EEZG,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+4B21B0,HB-MTS,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+44052E,OE-APX,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+3D4782,D-EZIG,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+398DC2,F-HDOC,Private,Extra EA-300LC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406DEF,G-GEJS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 484F03,PH-ZWS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
@@ -1961,11 +2228,13 @@ A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Tourin
 4862D7,PH-ZWZ,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 3D3FDA,D-EWKW,Private,Extra EA-300LX,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 40641B,G-EXIL,Private,Extra EA-300S,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+3D1D82,D-EJKS,Private,Extra EA-300S,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406FB7,G-IISC,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 406FED,G-IHHI,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D3D03,D-EVIX,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 4B20D4,HB-MLG,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D4182,D-EXBE,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
+4B21AF,HB-MTR,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D3561,D-ESLT,Private,Extra EA-330 LT,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D1DC0,D-EJNC,Private,Extra EA230,E230,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-230
 44D294,OO-TTT,Private,Extra EA230,E230,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-230
@@ -1980,6 +2249,7 @@ A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Tourin
 406D6D,G-ISAC,Private,Isaacs Spitfire,ISPT,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://en.wikipedia.org/wiki/Isaacs_Spitfire
 407336,G-RHOD,Private,Just Aircraft Super STOL,ZZZZ,Civ,To Be Faaaaaaaaaaaaaaaaaaair,STOL,I Dont Need No Stinking Runway,Joe Cool,https://justaircraft.com
 45AF53,OY-KZS,Private,KZ-VIII Replica,KZ8,Civ,Aerobatics,Monoplane,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SAI_KZ_VIII
+3D05CC,D-EALG,Private,Lake Buccaneer LA-4-200,LA4,Civ,Amphibian,Seaplane,Nice Weather For Ducks,Joe Cool,https://en.wikipedia.org/wiki/Lake_Buccaneer
 AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Duck To Water,Joe Cool,https://en.wikipedia.org/wiki/Lake_Renegade
 404CE3,G-CDDP,Private,Laser Z-230,LAKR,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4o4r
 3D3131,D-EQWN,Private,Mudry CAP-10 B,CP10,Civ,Display Team,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Mudry_CAP_10
@@ -1990,14 +2260,17 @@ AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Du
 4066AC,G-ONAA,Private,North American Rockwell OV-10B Bronco,V10,Civ,Eye In The Sky,Observation,Twin Boom,Joe Cool,http://www.warbirdalley.com/ov10.htm
 4066D8,G-FMBS,Private,Pitts Special P-12,PTMS,Civ,Do A Barrel Roll,Biplane,Bolshoi,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Model_12
 40307A,G-BRVL,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+404737,G-FCUK,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 401C90,G-PIII,Private,Pitts Special S-1D,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+A184D8,N1972P,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 AA7934,N774PM,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 170000,G-TWRL,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 40497E,G-CCFO,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4040AF,G-FORZ,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4030B0,G-EEPJ,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4039A0,G-OSIS,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+402023,G-BKDR,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A02B06,N11N,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A17F4D,N196JR,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 3D355A,D-ESLM,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -2011,6 +2284,8 @@ A345AF,N31NL,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aeroba
 403AA6,G-OSZB,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A7E89D,N6089U,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A88BB7,N65PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+3D2E44,D-EPTS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+AC9FBB,N912ST,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4059FD,G-SJBI,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A6606C,N51PS,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405EB2,G-ENIO,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -2018,6 +2293,7 @@ A6606C,N51PS,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aeroba
 44C134,OO-PIT,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 44B2A3,OO-LUC,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4B219F,HB-MTB,Private,Pitts Special S-2C,E300,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+AC4451,N89PS,Private,Pitts Special S-2C,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4062C6,G-PULR,Private,Pitts Special S-2E,PTS2,Civ,Spirit Of Ayre,Do A Barrel Roll,Aerobatics,Joe Cool,https://highflyersonline.com/a-very-special-pitts-special/
 4031D3,G-KITI,Private,Pitts Special S-2SE,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 3FF599,D-MTSF,Private,Platzer Kiebitz B,ULAC,Civ,Biplane,Barnstormer,Cool,Joe Cool,https://en.wikipedia.org/wiki/Platzer_Kiebitz
@@ -2056,6 +2332,7 @@ A22145,N2361,Private,Stolp SA.300 Starduster Too,SA30,Civ,Biplane,Aerobatics,Coo
 4020C1,G-BLES,Private,Stolp SA.750 Acroduster Too,SA75,Civ,Aerobatics,Biplane,Do A Barrel Roll,Joe Cool,https://w.wiki/4nzX
 A549E7,N44SU,Private,Sukhoi Su-26 M,SU26,Civ,Do A Barrel Roll,Pass The Sick Bag,Unlimted Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Sukhoi_Su-26
 4B2196,HB-MSS,Private,Sukhoi Su-26 M2,SU26,Civ,Do A Barrel Roll,Pass The Sick Bag,Unlimted Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Sukhoi_Su-26
+3D2A4E,D-EOGS,Private,Sukhoi Su-29,SU29,Civ,Da Comrade,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Sukhoi_Su-29
 406987,G-ENAA,Private,Supermarine Aircraft Spitfire Mk26,SASP,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzV
 48628E,PH-PSF,Private,Supermarine Aircraft Spitfire Mk26b,SASP,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://www.projectspitfire.nl/
 406C1D,G-DHYS,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
@@ -2069,8 +2346,11 @@ A6E2A7,N5427,Private,Travel Air 4000,TVL4,Civ,Those Magnificent Men In Their Fly
 3D435A,D-EXTI,Private,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 489083,SP-EED,Private,Xtremeair Sbach XA-41,XA41,Civ,Umlimited Aerobatics,Speed,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 3D1EC2,D-EJXA,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
+503D0E,LY-AUS,Private,Yakovlev Yak-54B,YK54,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Yakovlev_Yak-54
 406C6C,G-CIIK,Private,Yakovlev Yak-55,YK55,Civ,Aerobatics,Do A Barrel Roll,Soviet Union,Joe Cool,https://en.wikipedia.org/wiki/Yakovlev_Yak-55
+404F4A,G-ZVKO,Private,Zivko Edge 360,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 A5DAB1,N4767,Private,Zivko Edge 540,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
+A6D983,N540SG,Private,Zivko Edge 540,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 A22E8A,N24KC,Private,Zivko Edge 540A,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 A05291,N12NM,Private,Zivko Edge 540K,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 403B11,G-MIII,Private Owner,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-300
@@ -2080,6 +2360,7 @@ A05291,N12NM,Private,Zivko Edge 540K,EDGE,Civ,Unlimted Aerobatics,High G,Red Bul
 402FF8,G-BRRP,Private Owner,Pitts Special S-1S,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 406662,G-EVIL,Private Owner,Xtremeair Sbach XA-41,XA41,Civ,Do A Barrel Roll,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_300
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+484989,PH-PGP,Wings over Holland,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 407B74,G-CLWK,Army Air Corp,DHC-1 Chipmunk T10,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Army Air Corp,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401AF0,G-BBMV,Boultbee,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2529,6 +2810,7 @@ A88D5B,N650GL,Leonid Mikhelson,Gulfstream G650,GLF6,Civ,Oligarch,Dirty Money,Dis
 33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,https://tinyurl.com/ycknd373
 48D843,014,Polish Air Force,CASA C-295 M,C295,Civ,Cargo,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 497CAB,16711,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
+497CAC,16712,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Maritime Patrol,ASW,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C71,17401,Portuguese Air Force,Dassault Falcon 50,FA50,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 4B822D,09-001,Turkish Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 405F85,G-IASM,2 Excel Aviation,B200 Super King Air,BE20,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
@@ -2641,22 +2923,29 @@ A045CB,N1167A,Tenax Aerospace,B350 Super King Air,B350,Civ,Surveillance,ISR,Eye 
 394681,F-GRUB,CERPS de Maubeuge,Pilatus PC-6 B2-H4,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.besport.com/group/1141925
 398DB3,F-HDNT,Ecole de Parachutisme de Pujaut,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydive-pujaut.com/
 485BDC,PH-FSD,Fallschirmsport Damme,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.fallschirmsport-damme.de/
+3D665E,D-FLAC,Fallschirmsportclub Schwaben,Pilatus PC-6 B4-H4,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.fsc-schwaben.de/
+4B0E4B,HB-FKT,Flying Devil,Pilatus PC-6 B2-H4,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://flying-devil.ch/
 406802,G-GOHI,Headcorn Parachute Club,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.headcorn.com/
 4078EB,G-GWMB,Hinton Skydiving Centre,PAC 750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/PAC_P-750_XSTOL
 4C8074,5B-CLY,Irish Parachute Club,PAC 750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/PAC_P-750_XSTOL
 44A8A5,OO-JEE,Para Centrum Vlaanderen,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pcv.be/
 449AB3,OO-FUS,Para Centrum Vlaanderen,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pcv.be/
+485586,PH-JBR,Paracentrum Texel,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.paracentrumtexel.nl/en/
+484575,PH-BSU,Paracentrum Texel,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.paracentrumtexel.nl/en/
 4074A6,G-OJMP,Parachuting Aircraft Ltd,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.netheravon.com
 3D76A0,D-FREE,Pullout Skydive,Pilatus PC-6 B2-H2,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pullout.de/?lang=en
 49D161,OK-VHJ,Skydive & Air Service,Antonov An-2 TP,AN2,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/Parachuting
 4A9CA5,SE-GEE,Skydive Airlines,DHC-6 Twin Otter 300,DHC6,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydive.se/
 3D67CA,D-FLOC,Skydive Binz,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.sky-fun.de/
+44CCB8,OO-SEX,Skydive Center Spa,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydivespa.be/en/
 485872,PH-FTW,Skydive ENPC,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.enpc.nl/
+4B326F,HB-TCP,Skydive Grenchen,Pacific Aerospace PAC750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydivegrenchen.ch/
 47134D,HA-HIB,Skydive Hibaldstow,Dornier Do 28 D2 Skyservant,D28D,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydiving.co.uk/
 4012D9,G-VAND,Skydive Ireland,GA-8 Airvan,GA8,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 40100E,G-VANC,Skydive Ireland,GA-8 Airvan,GA8,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 407BA4,G-FBPS,Skydive Langar,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydivelangar.co.uk/
 AA1A20,N750AY,Skydive North West,Pacific Aerospace PAC750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydivenorthwest.co.uk/
+3D4A6F,D-FALB,Skydive Nuggets,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydive-nuggets.de/
 3D5238,D-FDJS,Skydive Stadtlohn,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydive-stadtlohn.de/de
 406634,G-SYLV,Skydive Swansea,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,http://www.skydiveswansea.co.uk
 484C00,PH-SWP,Skydive Teuge,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydiveteuge.com/
@@ -2670,6 +2959,7 @@ C001BB,C-FARA,Summit Air,Short Skyvan 3-100,SC7,Civ,Skydive,Perfectly Serviceabl
 407472,G-UKPB,UK Parachute Services,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk
 401388,G-UKPS,UK Parachute Services,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk
 4076BF,G-UKPA,UK Parachute Services,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk
+A1AFD1,N208AX,UK Parachuting,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk/
 A0FE02,N113CS,113CS LLC,Gulfstream G650,GLF6,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
 A0FE6E,N437JD,Agrilease,Dassault Falcon 2000EX,F2TH,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
 A0FE85,N83EP,Barrwood Equipment,Cessna Citation V,C560,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
@@ -2689,12 +2979,17 @@ A0FEBA,N977V,TBC,Beech 95-C55 Baron,BE95,Civ,PIA,Hive Mind,You Can Run But You C
 AAFFD5,N808CP,Baltimore County Police Dept,Eurocopter AS350 Squirrel B3,AS50,Civ,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.baltimorepolice.org
 AAF0F9,N804CP,Baltimore County Police Dept,Eurocopter AS350 Squirrel B3,AS50,Civ,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.baltimorepolice.org
 AAED42,N803CP,Baltimore County Police Dept,Eurocopter AS350 Squirrel B3,AS50,Civ,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.baltimorepolice.org
+A3566A,N314HP,California Highway Patrol,Eurocopter AS350 Squirrel B,AS50,Civ,CHiPS,Ponch,Highway Patrol,Police Forces,https://en.wikipedia.org/wiki/California_Highway_Patrol
+A3C1C2,N341HP,California Highway Patrol,Eurocopter AS350 Squirrel B3,AS50,Civ,CHiPS,Ponch,Highway Patrol,Police Forces,https://en.wikipedia.org/wiki/California_Highway_Patrol
+A0A36D,N140HP,California Highway Patrol,Gippsland GA-8 TC-320 Airvan,GA8,Civ,CHiPS,Ponch,Highway Patrol,Police Forces,https://en.wikipedia.org/wiki/California_Highway_Patrol
 A4ACDF,N400CM,Aerial Surveys International,Piper PA-31T Cheyenne,PAY1,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aerialsurveysintl.com/
 AAE3BA,N800VB,Aerial Surveys International,Turbo Commander 690C,AC90,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aerialsurveysintl.com/
 394906,F-GSIG,Aero Photo Europe Investigation,Beech U-21A Ute,U21,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.apei.fr/en/
 4855F6,PH-PNX,Aerodata International Surveys,Piper PA-31 Navajo C,PA31,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/2p8vzwe7
 300641,I-VICC,Aeronike ltd,Vulcanair P.68R,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aeronike.com/en/home-2
+3D8EBA,D-GAHM,AHM Airborne Mapping,Tecnam P.2006T,P06T,Civ,Aerial Survey,Measuring Stick,Hydro Mapping,Ptolemy would be proud,http://www.ahm.co.at/
 3E180A,D-IAHM,AHM Airborne Mapping,Tecnam P2012 Traveller,P212,Civ,Aerial Survey,Measuring Stick,Hydro Mapping,Ptolemy would be proud,http://www.ahm.co.at/
+A9E5BB,N737H,Airborne Imaging,Douglas DC-3,DC3,Civ,Aerial Cartography,Photo Recon,Aerial Survey,Ptolemy would be proud,http://www.airborneimaging.net/
 86EC12,JA8890,Asia Air Survey,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ajiko.co.jp/en/index.html
 86D5B5,JA8229,Asia Air Survey,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ajiko.co.jp/en/index.html
 845EB8,JA11AJ,Asia Air Survey,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ajiko.co.jp/en/index.html
@@ -2715,13 +3010,27 @@ AAE3BA,N800VB,Aerial Surveys International,Turbo Commander 690C,AC90,Civ,Aerial 
 45CE13,OY-SPS,Bioflight,Vulcanair P.68R,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
 47B1E8,LN-TER,Blom Geomatics,Cessna 208B-EX Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://blom.no/
 3D4DCD,D-FBSF,BSF Swissphoto,Cessna 208 B,C208,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://en.bsf-swissphoto.com/
+3D7A64,D-FSPG,BSF Swissphoto,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://en.bsf-swissphoto.com/
 4B7F78,T-741,Bundesamt für Landestopografie,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B3E60,HB-XQE,Bundesamt für Zivilluftfahrt,AgustaWestland AW.109,A109,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B43E6,HB-ZSO,Bundesamt für Zivilluftfahrt,AS350 Squirrel,AS50,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B43E5,HB-ZSN,Bundesamt für Zivilluftfahrt,AS350 Squirrel,AS50,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B2917,HB-POP,Bundesamt für Zivilluftfahrt,PA-46 350P Malibu,PA46,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B0F70,HB-FWA,Bundesamt für Zivilluftfahrt,Pilatus PC-12 47E,PC12,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
+7806B3,B-9329,China Flight Inspection,Cessna Citation Sovereign,C680,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7806B1,B-9300,China Flight Inspection,Cessna Citation Sovereign,C680,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7803D0,B-3642,China Flight Inspection,Cessna Citation XLS,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7803D1,B-3643,China Flight Inspection,Cessna Citation XLS,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+78034F,B-3667,China Flight Inspection,Cessna Citation XLS,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7813A9,B-10VE,China Flight Inspection,Cessna Citation XLS+,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7813A8,B-10VD,China Flight Inspection,Cessna Citation XLS+,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+781697,B-603S,China Flight Inspection,Cessna Citation XLS+,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
+7813A7,B-10VC,China Flight Inspection,Cessna Citation XLS+,C56X,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/5FBc
 400978,G-FPLD,Cobham Flight Inspection,B200 Super King Air,BE20,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.cobham.com
+3004BD,I-AVLM,ENAV Flight Inspection,Piaggio P-180 Avanti II,P180,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.enav.it/
+30056B,I-ENAV,ENAV Flight Inspection,Piaggio P-180 Avanti II,P180,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.enav.it/
+3003BF,I-AVBN,ENAV Flight Inspection,Piaggio P-180 Avanti II,P180,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.enav.it/
+30040E,I-AVGP,ENAV Flight Inspection,Piaggio P-180 Avanti II,P180,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.enav.it/
 3CCE6F,D-CFMD,Flight Calibration Services,B350 Super King Air,B350,Civ,Measuring Stick,Calibration,Certification,Ptolemy would be proud,http://www.flight-cal.com
 C0563E,C-GGRD,Fugro Airborne Surveys,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.fugro.com/
 00B185,ZS-SSY,Fugro Airborne Surveys,Cessna F406 Caravan II,F406,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.fugro.com/
@@ -2737,7 +3046,9 @@ A92AEB,N690CC,Geofly Latvija SIA,Turbo Commander,AC90,Civ,Aerial Survey,Measurin
 ABF602,N87WS,Keystone Aerial Surveys,Cessna 441 Conquest II,C441,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.kasurveys.com/
 A54F6B,N441MD,Keystone Aerial Surveys,Cessna 441 Conquest II,C441,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.kasurveys.com/
 485D9E,PH-MAS,Miramap Aerial Surveys,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://en.miramap.com/home
+486275,PH-MAV,Miramap Aerial Surveys,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://en.miramap.com/home
 48988E,SP-GEO,Opegieka,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
+48B9E6,SP-OPG,Opegieka,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
 39CA91,F-HSUR,PixAir Survey,BN Islander 2A-26,BN2P,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://pixair-survey.com/
 39BD17,F-HPIX,PixAir Survey,BN Islander 2B-27,BN2P,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://pixair-survey.com/
 400E5E,G-AWNT,Pixair Survey SAS,BN Islander 2A,BN2P,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://pixair-survey.com
@@ -2766,6 +3077,10 @@ A178A3,N194SM,Surveying And Mapping,Cessna 208B Caravan,C208,Civ,Aerial Survey,M
 485EC3,PH-ZCZ,Zeusch Aviation,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://zeusch.com
 A3EA1F,N351SL,Stratolauncher,Stratolauncher Roc,SLCH,Civ,BIG,Double Vision,Space Launch,Radiohead,https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch
 43C30B,ZH831,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Civ,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
+A69072,N522AX,10 Tanker Air Carrier,Douglas DC-10 30,DC10,Civ,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.10tanker.com/
+A11CBB,N17085,10 Tanker Air Carrier,Douglas DC-10 30,DC10,Civ,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.10tanker.com/
+A7D27A,N603AX,10 Tanker Air Carrier,Douglas DC-10 30ER,DC10,Civ,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.10tanker.com/
+A7F642,N612AX,10 Tanker Air Carrier,Douglas DC-10 30ER,DC10,Civ,Super Scooper,Aerial Firefighter,Wildfire,Sam Tân,https://www.10tanker.com/
 A42299,N366AC,Aero Flite,Avro 146-RJ100,RJ1H,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://youtu.be/Qtyk7PoiKSo
 A85052,N635AC,AeroFlite,BAe 146-300,B463,Civ,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://youtu.be/Qtyk7PoiKSo
 4921B0,CS-HMP,Bombeiros,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Hot Hot Hot,Helix,Sam Tân,https://www.pilotweb.aero/features/aerial-firefighting-in-portugal-1-5393140
@@ -2775,6 +3090,7 @@ A85052,N635AC,AeroFlite,BAe 146-300,B463,Civ,Firebird,Aerial Firefighter,Wildfir
 4921AB,CS-HMK,Bombeiros,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Hot Hot Hot,Helix,Sam Tân,https://www.pilotweb.aero/features/aerial-firefighting-in-portugal-1-5393140
 A0956B,N137CG,Coulson Aviation,Boeing 737,B733,Civ,Flying Fire Extinguisher,Hot Hot Hot Hot,Wildfire,Sam Tân,https://www.coulsonaviationusa.com
 71D446,HL9446,Daegu Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Hot Hot Hot Hot,Helix,Sam Tân,https://www.daegu.go.kr/119english/index.do
+A30FE0,N297EA,Erickson Aero Tanker,McDonnell Douglas DC-9 87,MD87,Civ,Fire Bomber,Aerial Firefighter,Wildfire,Sam Tân,http://www.eatanker.com/
 71D456,HL9456,Gyong-Gi Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Hot Hot Hot Hot,Helix,Sam Tân,https://119.gg.go.kr/eng/?page_id=447
 71CC37,HL9437,Korea Forestry Department,Kamov Ka-32 A,KA27,Civ,Double Vision,Hot Hot Hot Hot,Helix,Sam Tân,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
 71CC20,HL9420,Korea Forestry Department,Kamov Ka-32 A,KA27,Civ,Double Vision,Hot Hot Hot Hot,Helix,Sam Tân,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG

@@ -300,7 +300,7 @@ A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washe
 A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 44C1AB,OO-PMK,Zoutman Industries,SOCATA TBM 850,TBM8,Civ,Salty,Technical Salts,Wellness Salt,As Seen on TV,https://www.zoutman.com/en
 43C392,PA474,Battle of Britiain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38E,WG518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38E,WK518,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38D,WG486,Battle of Britiain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C38F,ZA947,Battle of Britiain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 43C391,PZ865,Battle of Britiain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Battle of Britiain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
@@ -1075,8 +1075,8 @@ AB63E5,N833EB,Remote Area Medical Foundation,Cessna 208 Caravan,C208,Civ,Air Amb
 AB87AD,N842EB,Remote Area Medical Foundation,Cessna 208B Caravan,C208,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ramusa.org/
 ADB4D1,N982Z,Remote Area Medical Foundation,Douglas C-47A Dakota,DC3T,Civ,Air Ambo,Medical Evac,Dakota,Flying Doctors,https://www.ramusa.org/
 A1A64D,N205TP,Remote Medical Flights,Pilatus PC-6 B2-H4,PC6T,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.remotemedical.com/
-710197,HZ-MS52,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
-710196,HZ-MS51,Saudi Armed Forces Medical Services,AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710197,HZ-MS52,Saudi Armed Forces Medical Services,AgustaWestland AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+710196,HZ-MS51,Saudi Armed Forces Medical Services,AgustaWestland AW.139,A139,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 71020A,HZ-MS75,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 710209,HZ-MS74,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 710208,HZ-MS73,Saudi Armed Forces Medical Services,B350C Super King Air,B350,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
@@ -1326,7 +1326,7 @@ AE11F8,02-0042,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Gover
 AE11F7,01-0041,USAF,Boeing C-40B,B737,Mil,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE115D,01-2015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
-AE0945,14611,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
+AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 0AC8F9,FAC1686,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
 0AC8F5,FAC1654,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
 0AC8F4,FAC1658,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -1583,14 +1583,14 @@ AE05B7,88-1302,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunshi
 AE05B6,88-1301,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE02FB,87-9288,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
-406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 A3AFE6,N337AX,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C6B8,N407AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C301,N706AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406D26,G-VYGK,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
+406B79,G-VYGJ,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 3982A5,F-HAVF,Aviation Defence Service,BAE Jetstream 41,JS41,Civ,AvDef,Target Practice,ECM,Hired Gun,https://tinyurl.com/ymbfzpwh
 393C00,F-GPAA,Aviation Defence Service,Dassault Falcon 20 ECM,FA20,Civ,AvDef,Target Practice,ECM,Hired Gun,https://www.planespotters.net/airline/Aviation-Defense-Service
 A3301A,N304VS,Calspan Corporation,Learjet 25G,LJ25,Civ,Adversary Simulator,Specialist,Shapeshifter,Hired Gun,https://www.calspan.com
@@ -1632,6 +1632,7 @@ A80A69,N617TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsig
 C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter Jet,I Am Old,What We Do In The Shadows,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 400B3F,G-ANAF,Aero Legendsa,Douglas C-47A Dakota,DC3,Mil,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
+ADC0E4,N9856C,Aero Trader,North American B-25N Mitchell,B25,Civ,War Bird,Medium Bomber,Pacific Princess,Historic,https://en.wikipedia.org/wiki/North_American_B-25_Mitchell
 3D7F7F,D-FUNN,Air Fighter Academy,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Little-Ite,Historic,https://w.wiki/3nth
 ACEDC6,N932H,Airborne Support Inc.,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C06B21,C-GOOU,ALCI Aviation,Douglas C-47A BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -1827,6 +1828,7 @@ A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,
 4784B4,LN-DHZ,Royal Norwegian Air Force Historic Flight,De Havilland Vampire T55,VAMP,Civ,Historic,Twin Boom,Jet Fighter,Historic,https://www.historicalsquadron.com/
 401A61,G-ACSS,Shuttleworth Collection,De Havilland DH-88 Comet,DH89,Civ,Speed Racer,Grosvenor House,The First,Historic,https://www.shuttleworth.org/collection/dh88comet
 4044A7,G-BZSC,Shuttleworth Collection,Sopwith Camel,CAML,Civ,Biplane,Biggles,You Can Fly Anything,Historic,https://youtu.be/Q8Gt-UqwZaI?t=3881
+A3E8E1,N351DT,Stallion 51,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 ABAB5A,N851D,Stallion 51,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 4A930E,SE-DXN,Swedish Air Force Historic Flight,AJS 37 Saab 37 Viggen,SB37,Civ,Delta Wing,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com/sk37-ajs37-viggen
 4AC9A9,SE-RMI,Swedish Air Force Historic Flight,Cessna Citation II,C550,Civ,Bizjet,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com
@@ -1840,6 +1842,11 @@ ABAB5A,N851D,Stallion 51,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,
 4A930F,SE-DXO,Swedish Air Force Historic Flight,Sk 37 Saab 37 Viggen,SB37,Civ,Delta Wing,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com/sk37-ajs37-viggen
 4A9484,SE-EDD,Swedish Air Force Historic Flight,Sk 50 Saab 91 Safir,SB91,Civ,Training Wheels,I Am Old,Fika,Historic,https://www.swafhf.com/sk50
 4A9307,SE-DXG,Swedish Air Force Historic Flight,Sk 60 Saab 105,SB05,Civ,Training Wheels,I Am Old,Fika,Historic,https://www.swafhf.com/sk60
+7C3062,VH-JUC,The Old Aeroplane Company,CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/CAC_Mustang
+A65F8F,N51EW,Tom Cruise,North American FP-51K Mustang,P51,Civ,Maverick,Ethan Hunt,Xenu,Historic,https://youtu.be/EPzvExtJgxw
+A65F7B,N51EA,Training Services,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Double Trouble Two,Historic,https://w.wiki/3nth
+AB56E6,N83KD,Tri-State Warbird Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Cincinnati Miss,Historic,https://w.wiki/3nth
+A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tempus Fugit,Historic,https://w.wiki/3nth
 4B2F0F,HB-RVJ,Verein De Havilland Flying Group,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter,I Am Old,What We Do In The Shadows,Historic,https://tinyurl.com/2p88tbp3
 4B0B4F,HB-EHJ,Verein der Freunde des Fieseler Storch,Fieseler Fi 156C-3 Storch,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
 4B0C72,HB-ESO,Verein Historic & Classic Airplanes,Ryan Navion A (L-17B),NAVI,Civ,Liason,Shiny,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Ryan_Navion
@@ -1847,8 +1854,8 @@ A36B08,N3193G,Yankee Air Force,Boeing B-17G Flying Fortress,B17,Civ,Historic,Bom
 ABF93A,N8704,Yankee Air Force,Douglas C-47 Dakota,DC3,Civ,Historic,Dakota,Hairless Joe,Historic,https://yankeeairmuseum.org/
 A450B0,N3774,Yankee Air Force,North American B-25C Mitchell,B25,Civ,Historic,Bomber,Rosies Reply,Historic,https://yankeeairmuseum.org/
 A66E1C,N513RS,Yankee Air Force,WACO YMF-5,WACF,Civ,Biplane,Barn Stormer,Do A Barrel Roll,Historic,https://yankeeairmuseum.org/
-A1CB6C,N2145G,Billy and Franklin Graham,Cessna 182A,C182,Civ,Jesus He Knows Me,Its A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
-AC69CE,N8995D,Billy and Franklin Graham,Piper PA-18 Super Cub,PA18,Civ,Jesus He Knows Me,Its A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A1CB6C,N2145G,Billy and Franklin Graham,Cessna 182A,C182,Civ,Jesus He Knows Me,Its NOT A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+AC69CE,N8995D,Billy and Franklin Graham,Piper PA-18 Super Cub,PA18,Civ,Jesus He Knows Me,Its NOT A Miracle,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 48434B,P4-FSH,Ernest Angley Ministries,Boeing 747-SP,B74S,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -2633,6 +2640,7 @@ ADFE3C,2136,Russian Air Force,LET L-410 UVP-E3,L410,Mil,Unpressurised,Extreme Co
 477FF3,SAC-03,SAC Heavy Airlift Wing,C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
 477FF2,SAC-02,SAC Heavy Airlift Wing,C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
 477FF1,SAC-01,SAC Heavy Airlift Wing,C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
+4B7F9E,T-321,Swiss Air Force,Eurocopter AS332 Super Puma,AS32,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 155982,RF-88450,Russian Navy,Beriev Be-200ES,BER2,Mil,Amphibian,Like A Duck To Water,Altair,Other Navies,https://w.wiki/4nsE
 43C908,ZZ507,14 Squadron RAF,B350C Shadow R1,B350,Mil,Surveillance,Spyplane,Eye In The Sky,Oxcart,https://www.raf.mod.uk/our-organisation/squadrons/14-squadron
 43C61D,ZZ504,14 Squadron RAF,B350C Shadow R1,B350,Mil,Surveillance,Spyplane,Eye In The Sky,Oxcart,https://www.raf.mod.uk/our-organisation/squadrons/14-squadron
@@ -3046,6 +3054,7 @@ AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,
 AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE0752,163846,United States Navy,RC-12M Huron,BE20,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.navy.mil
 A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 B191D8,75-0528,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 AE11E9,79-0003,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -3255,9 +3264,9 @@ A0FEBA,N977V,TBC,Beech 95-C55 Baron,BE95,Civ,PIA,Hive Mind,You Can Run But You C
 4066D2,G-PSNR,Police Service of Northern Ireland,Eurocopter EC145 C-2,EC45,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.psni.police.uk
 406207,G-PSNO,Police Service of Northern Ireland,Eurocopter EC145 C-2,EC45,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.psni.police.uk
 068097,5X-PEF,Ugandan Police,Piaggio P-180 Avanti EVO,P180,Pol,Pusher Prop,Police Squad,The Cops,Police Forces,https://www.upf.go.ug
-480C42,T-056,MRTT Fleet,Airbus KC-30M,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
-480C41,T-055,MRTT Fleet,Airbus KC-30M,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
-480C40,T-054,MRTT Fleet,Airbus KC-30M,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
+480C42,T-056,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
+480C41,T-055,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
+480C40,T-054,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 503DAF, LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 343282,EC-KUL,United Nations,ATR 72-500,AT75,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
@@ -3361,6 +3370,7 @@ AE4EEA,08-0047,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Til
 AE4ECE,05-0028,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4A7E,07-1933,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4EEC,10-0053,USAF,Bell CV-22B Osprey,V22,Mil,Helipad Smasher,Rotorwash,Tiltrotor,Special Forces,https://ukdefencejournal.org.uk/us-air-force-destroy-british-hospital-helipad/
+AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron

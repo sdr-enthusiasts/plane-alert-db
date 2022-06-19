@@ -37,9 +37,10 @@ C04AD1,C-GCIQ,Canadian Coast Guard,Bell 429 GlobalRanger,B429,Gov,Maritime Patro
 C04AD0,C-GCIP,Canadian Coast Guard,Bell 429 GlobalRanger,B429,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
 C04ACF,C-GCIO,Canadian Coast Guard,Bell 429 GlobalRanger,B429,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
 C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
+C04A86,C-GCFT,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
 43ECF4,2-CIAS,Channel Islands Air Search,BN Islander 2A,BN2P,Gov,Search And Rescue,Coastguard,Lions Pride,Coastguard,https://www.ci-airsearch.com
-484FD7,PH-DCG,Dutch Caribbean Coastguard,AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Dutch_Caribbean_Coast_Guard
-484FD6,PH-FBH,Dutch Caribbean Coastguard,AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Dutch_Caribbean_Coast_Guard
+484FD7,PH-DCG,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
+484FD6,PH-FBH,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 4856F3,PH-CGB,Dutch Caribbean Coastguard,DHC-8-106 MPA,DH8A,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://tinyurl.com/zvz74c9s
 485694,PH-CGA,Dutch Caribbean Coastguard,DHC-8-106 MPA,DH8A,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://tinyurl.com/zvz74c9s
 4614A6,OH-HVI,Finland Frontier Guard,Eurocopter AS332 Super Puma,AS32,Gov,Copper Chopper,Border Patrol,Rajavartiolaitos,Coastguard,https://w.wiki/4zgX
@@ -55,6 +56,7 @@ C04ABF,C-GCHY,Canadian Coast Guard,MBB Bo 105CB S-4,B105,Gov,Maritime Patrol,Sea
 3B7B20,F-ZBGQ,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
 3B7B41,F-ZBGM,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
 3B7B40,F-ZBGL,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
+3B7B80,F-ZBGK,French Customs,B350 Super King Air,B350,Gov,Border Patrol,Coastguard,Search And Rescue,Coastguard,https://www.douane.gouv.fr
 3DD2F3,D-HADF,German Air Force,Eurocopter H145M,EC45,Gov,Search And Rescue,Chopper,Saving Lives,Coastguard,https://www.bundeswehr.de/de/organisation/luftwaffe
 46F488,HC-36,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
 46F487,HC-35,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
@@ -234,7 +236,7 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 75866C,CGH-1451,Philippine Coast Guard,MBB-Kawasaki BK 117 D-2,BK17,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://coastguard.gov.ph/
 75866D,CGH-1452,Phillipine Coast Guard,MBB-Kawasaki BK 117 D-2,BK17,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://coastguard.gov.ph/
 0741FA,SY-011,Seychelles Coast Guard,Dornier Do 228-101,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Seychelles_Coast_Guard
-3430CA,EC-KLV,Spanish Maritime Safety Agency,AW.139,A139,Gov,Search And Rescue,Environment Protection,Salvamento Maritimo,Coastguard,https://w.wiki/4nm2
+3430CA,EC-KLV,Spanish Maritime Safety Agency,AgustaWestland AW.139,A139,Gov,Search And Rescue,Environment Protection,Salvamento Maritimo,Coastguard,https://w.wiki/4nm2
 4AB423,SE-MAC,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB422,SE-MAB,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
@@ -843,10 +845,17 @@ ADFEB6,75-0125,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know 
 ADFEB5,74-0787,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB3,73-1676,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
+7C37B1,VH-LAB,Air Affairs Australia,B200T Super King Air,BE20,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
 7C39D5,VH-LPJ,Air Affairs Australia,Learjet 35,LJ35,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
+7C38FD,VH-LJJ,Air Affairs Australia,Learjet 35A,LJ35,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
+7C3A2B,VH-LRX,Air Affairs Australia,Learjet 35A,LJ35,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
+7C5CB1,VH-SLF,Air Affairs Australia,Learjet 36A,LJ35,Gov,Spotter,Bushfire,Eye In The Sky,Dogs with Jobs,https://www.airaffairs.com.au
 484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply ,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
 49D429,OK-ANS,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
+49D428,OK-RLP,Czech Directorate of Civil Aviation,B350 Super King Air,B350,Gov,Air Navigation,Fight Calibration,CAA,Dogs with Jobs,https://www.caa.cz/en/
 398895,F-HCEV,D.G. de l'Aviation Civile,B200GT Super King Air,BE20,Gov,Flying Classroom,Ou Sont Les Bagages,Vomit Comet,Dogs with Jobs,https://www.ecologie.gouv.fr
+A2C7EF,N279AD,Dept of State JPATS,Boeing 737,B734,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
+A8657E,N640CS,Dept of State JPATS,Boeing 737,B734,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,GLF5,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
 3B7F72,F-ZAFT,DGA Essais en Vol,Fokker F100,F100,Gov,Testbed,ABE-NG,Flight Test,Dogs with Jobs,https://www.aeroflight.co.uk/ops/gov/dga-essais-en-vol.htm
 AACABF,N795BP,DoE Powerline Inspection,Bell 407,B407,Gov,Overload,Poweline Inspection,Wichita Lineman,Dogs with Jobs,https://www.energy.gov
@@ -860,6 +869,8 @@ AC42FA,N89,Federal Aviation Administration,Bombardier Challenger 605,CL60,Gov,FA
 405580,G-SMMB,Marine Scotland,Cessna F406 Caravan II,F406,Gov,Fisheries,Marine Patrol,Surveillance,Dogs with Jobs,https://w.wiki/4$Pk
 400DE5,G-HIJK,Met Office,Cessna 421 Golden Eagle,C421,Gov,Weather Recon,Measuring Stick,Nice Weather For Ducks,Dogs with Jobs,https://tinyurl.com/2p9druuh
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
+A61420,N491DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation Forests,National Grasslands,Dogs with Jobs,https://w.wiki/5Fsu
+A606A2,N488DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation Forests,National Grasslands,Dogs with Jobs,https://w.wiki/5Fsu
 A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P68,Gov,Fish,Wildlife,Nature Patrol,Dogs with Jobs,https://wdfw.wa.gov
 3CC9AB,D-CDRF,DRF Luftrettung,Learjet 35A,LJ35,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 4043AD,G-EHMS,London Air Ambulance,MD 900 Explorer,EXPL,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.londonsairambulance.org.uk
@@ -1072,6 +1083,7 @@ E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Go
 0D0A97,XC-MTA,Tamaulipas State Government,Robinson R44,R44,Gov,Mexico,Francisco Javier Garcia,Government,Governments,https://en.wikipedia.org/wiki/Tamaulipas
 07A201,3DC-SDF,The Kingdom of Eswatini,Airbus A340-313X,A343,Gov,Eswatini,Used To Be Swaziland,Government,Governments,http://www.gov.sz
 407A3E,G-XATW,UK Government,Airbus A321neo,A21N,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party ?,Governments,https://www.bbc.co.uk/news/uk-politics-60159230
+50815F,UR-ABA,Ukraine Government,Airbus ACJ319-115X,A319,Gov,Slava Ukraine,No Retreat No Surrender,Volodymyr Zelenskyy,Governments,https://w.wiki/4t2Z
 A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Government,Aviation Vanguard Of The Homeland,Governments,https://w.wiki/4nmf
 ADFEBA,99-0004,USAF,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
 ADFEB9,99-0003,USAF,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governments,https://en.wikipedia.org/wiki/Boeing_C-32
@@ -1080,7 +1092,7 @@ ADFEB7,98-0001,USAF,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governm
 AE11F8,02-0042,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE115D,01-2015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
-AE0945,14611,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
+AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
 A8D972,N67AU,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
 AD5AE7,N96MG,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
@@ -1089,6 +1101,7 @@ A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Ne
 A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A9B15F,N7232R,US Department of Energy,B200 Super King Air,BE20,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A87A4D,N6451D,US Department of Energy,B200 Super King Air,BE20,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
+AABBE3,N791BP,US Department of Energy,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A1AB42,N20646,US Department of Energy,Bell 206L Long Ranger,B06,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A8107D,N619DE,US Department of Energy,Bell 407,B407,Gov,mmm Neutrons,Nuclear,Covert,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A4DBDE,N412DE,US Department of Energy,Bell 412HP,B412,Gov,mmm Neutrons,Nuclear,Side Pods,Nuclear,https://www.airport-data.com/images/aircraft/000/959/959563.jpg
@@ -1097,17 +1110,21 @@ A047D4,N117SR,US Department of Energy,Eurocopter EC145,EC45,Gov,mmm Neutrons,Nuc
 A0441D,N116SR,US Department of Energy,Eurocopter EC145,EC45,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
-3B756A,F-UJCK,French Air Force,Airbus A330-243MRTT,A332,Gov,Air2Air,Tanker,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
-3B756B,F-UJCJ,French Air Force,Airbus Phenix 243MRTT,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B756A,F-UJCK,French Air Force,Airbus A330-243-MRTT Phenix,A332,Gov,Air2Air,Tanker,Ou Sont Les Bagages,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B756B,F-UJCJ,French Air Force,Airbus A330-243-MRTT Phenix,A332,Gov,Air2Air,Tanker,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7F76,301,French Air Force,Dassault Rafale B,RFAL,Gov,Canards,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+4682F0,752,Hellenic Air Force,C-130H Hercules,C130,Gov,Cargo,Absolute Unit,Always Dominate the Heights,Other Air Forces,https://w.wiki/57PL
+468111,273,Hellenic Air Force,Dassault Falcon 7X,FA7X,Gov,VIP Transport,Bizjet,Always Dominate the Heights,Other Air Forces,https://w.wiki/57PL
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://en.wikipedia.org/wiki/Honduran_Air_Force
 87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
 48D8E1,1502,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E2,1503,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
+48D8E4,1505,Polish Air Force,C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 C2BE09,188769,Royal Canadian Air Force,McDonnell Douglas CF-188 Hornet,F18H,Gov,Fighter Jet,Zoomies,RCAF,Other Air Forces,https://tinyurl.com/2dm3r7e2
 020130,CN-MBH,Royal Moroccan Air Force,Boeing 747-BBJ,B748,Gov,VIP Transport,Government,Morocco,Other Air Forces,https://w.wiki/4n3m
 C87F04,NZ7003,Royal New Zealand Air Force,C-130H Hercules,C130,Gov,Cargo,Tactical Airlift,Te Tauaarangi o Aotearoa,Other Air Forces,https://w.wiki/4tZv
 4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+4B7F5D,R-711,Swiss Air Force,Diamond Aircraft DA42M-NG,DA42,Gov,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7FA7,T-312,Swiss Air Force,Eurocopter AS332 Super Puma,AS32,Gov,Neutral,Chopper,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
 405D6F,G-DOSB,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
@@ -1257,6 +1274,8 @@ A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,
 7BD2FA,B-4185,China Geological Survey,Learjet 36A,LJ35,Gov,Aerial Survey,Measuring Stick,Rock Lobster,Ptolemy would be proud,https://en.cgs.gov.cn
 78C4A2,B-4184,China Geological Survey,Learjet 36A,LJ35,Gov,Aerial Survey,Measuring Stick,Rock Lobster,Ptolemy would be proud,https://en.cgs.gov.cn
 39016D,F-GALN,Institut National Geographique,B200 Super King Air,BE20,Gov,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ign.fr
+343517,EC-LJN,Instituto Cartografico de Catalunya,B200GT Super King Air,BE20,Gov,Geodesy,Aerial Cartography,Spacial Data,Ptolemy would be proud,https://www.icgc.cat/
+342087,EC-IRV,Instituto Cartografico de Catalunya,Cessna 208 B,C208,Gov,Geodesy,Aerial Cartography,Spacial Data,Ptolemy would be proud,https://www.icgc.cat/
 A9025B,N68RF,NOAA,B350ER Super King Air,B350,Gov,Weather Recon,Emergency Response,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A8DADC,N67RF,NOAA,B350ER Super King Air,B350,Gov,Weather Recon,Emergency Response,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A74D8D,N57RF,NOAA,DHC-6 Twin Otter 300,DHC6,Gov,Weather Recon,Snow Measurement,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
@@ -1444,6 +1463,7 @@ A3238A,N301FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying 
 A3361D,N306FD,Los Angeles Fire Department,Bell 206B Jet Ranger,B06,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
 A117CF,N17LA,Los Angeles Fire Department,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
 A054AD,N120LA,Los Angeles Fire Department,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
+A0A152,N14LA,Los Angeles Fire Department,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
 A13F4E,N18LA,Los Angeles Fire Department,Bell 412HP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
 A9F008,N73985,Los Angeles Fire Department,Bell 47G-3B-1,B47G,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
 AB358D,N821LA,Los Angeles Fire Department,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.lafd.org
@@ -1457,8 +1477,8 @@ C01B5B,C-FKJI,Mag Aerospace,B200 Super King Air,BE20,Gov,Flying Fire Extinguishe
 C07927,C-GTWW,Mag Aerospace,C90 King Air,BE9L,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,http://www.magaero.ca
 750476,9M-BOF,Malaysia Fire & Rescue Dept,AgustaWestland AW.189,A189,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://tinyurl.com/2p8jab29
 750442,9M-BOE,Malaysia Fire & Rescue Dept,AgustaWestland AW.189,A189,Gov,Firebird,Aerial Firefighter,Wildfire,Sam Tân,https://tinyurl.com/2p8jab29
-A1D480,N217LC,Miami Dade Fire & Rescue,AW.139,A139,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.miamidade.gov/global/fire/home.page
-A1B0B8,N208LC,Miami Dade Fire & Rescue,AW.139,A139,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.miamidade.gov/global/fire/home.page
+A1D480,N217LC,Miami Dade Fire & Rescue,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://tinyurl.com/2t4kjxez
+A1B0B8,N208LC,Miami Dade Fire & Rescue,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://tinyurl.com/2t4kjxez
 AC9AE3,N911FD,Miami Dade Fire & Rescue,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.miamidade.gov/global/fire/home.page
 AC9A72,N911AR,Miami Dade Fire & Rescue,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.miamidade.gov/global/fire/home.page
 A2237E,N237LC,Miami Dade Fire & Rescue,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://www.miamidade.gov/global/fire/home.page
@@ -1523,6 +1543,8 @@ C06DC8,C-GPOX,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,W
 3B7B63,F-ZBMH,Securite Civile,DHC-8-402,DH8D,Gov,Multi Role,Aerial Firefighter,Wildfire,Sam Tân,https://w.wiki/4nsA
 3B7B90,F-ZBQA,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
 3B7B9A,F-ZBPQ,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
+3B7B98,F-ZBPS,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
+3B7BA2,F-ZBPI,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Aerial Firefighter,EMS,Sam Tân,https://w.wiki/4nsA
 71CC48,HL9448,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CC47,HL9447,Seoul Metro Fire & Disaster Dept,AS365 Dauphin,AS65,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
 71CE39,HL9639,Seoul Metro Fire & Disaster Dept,AW.189,A189,Gov,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://fire.seoul.go.kr/english
