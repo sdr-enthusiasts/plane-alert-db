@@ -43,6 +43,7 @@ A7F8F0,N6123C,The Flying Bulls,North American B-25J Mitchell,B25,Civ,Already Has
 440136,OE-EMD,The Flying Bulls,Pilatus PC-6,PC6T,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A92949,N69KL,The Flying Bulls,Sukhoi Su-29,SU29,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440323,OE-EAS,The Flying Bulls,Vought F4U Corsair,CORS,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
+406FED,G-IHHI,The Global Stars,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Aerobatic Teams,https://w.wiki/4nF6
 43C459,XX325,The Red Arrows,BAe Hawk T1a,HAWK,Mil,Turn And Burn,Display Team,Aerobatics,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
 43C457,XX323,The Red Arrows,BAe Hawk T1a,HAWK,Mil,Turn And Burn,Display Team,Aerobatics,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
 43C456,XX322,The Red Arrows,BAe Hawk T1a,HAWK,Mil,Turn And Burn,Display Team,Aerobatics,Aerobatic Teams,https://www.raf.mod.uk/display-teams/red-arrows
@@ -102,7 +103,7 @@ A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Ga
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
 A648CF,N504AC,Apache Corporation,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
-A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFl,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
+A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFL,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms Company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
 A8908B,N651BA,Bank of America,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
@@ -1325,7 +1326,7 @@ ADFEB7,98-0001,USAF,Boeing C-32A,B752,Gov,POTUS,Air Force Two,Government,Governm
 AE11F8,02-0042,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE11F7,01-0041,USAF,Boeing C-40B,B737,Mil,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
-AE115D,01-2015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
+AE115D,01-0015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://www.airforce.com
 0AC8F9,FAC1686,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
 0AC8F5,FAC1654,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://en.wikipedia.org/wiki/Basler_BT-67
@@ -1583,8 +1584,7 @@ AE05B7,88-1302,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunshi
 AE05B6,88-1301,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE02FB,87-9288,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
-A3AFE6,N337AX,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3999C,N331AX ,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C6B8,N407AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C301,N706AX,Airborne Tactical Advantage,IAI Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
@@ -1895,7 +1895,6 @@ A9702C,N707SN,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack 
 406DEF,G-GEJS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 406FB7,G-IISC,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
-406FED,G-IHHI,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D4253,D-EXJF,Private,Extra NG,EXNG,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://tinyurl.com/5vmpwb4w
 485FB5,PH-WAG,Private,Fisher Celebrity,CLBR,Civ,Biplane,Tail Dragger,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Fisher_Celebrity
 407C1D,G-GAMB,Private,Game Composites Gamebird GB1,GB1,Civ,Do A Barrel Roll,All Carbon,Unlimted Aerobatics,Joe Cool,https://gamecomposites.com/
@@ -3270,7 +3269,6 @@ A0FEBA,N977V,TBC,Beech 95-C55 Baron,BE95,Civ,PIA,Hive Mind,You Can Run But You C
 503DAF, LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 343282,EC-KUL,United Nations,ATR 72-500,AT75,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
-342699,EC-KKQ,United Nations,ATR 72-500,AT75,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 0082C0,ZS-BAL,United Nations,BAe 125,H25B,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 0097DB,ZS-JAG,United Nations,Beechcraft 1900D,B190,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 04000E,ET-ALJ,United Nations,Boeing 767-ER,B763,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
@@ -3506,7 +3504,7 @@ AE571C,12-1962,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE540D,11-1961,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE540A,11-1958,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5407,08-1951,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5406,08-1950,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5406,08-0050,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4ECD,09-1946,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE498D,08-1939,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE498C,08-1938,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
