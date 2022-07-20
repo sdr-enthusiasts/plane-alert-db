@@ -832,6 +832,7 @@ AE05B6,88-1301,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunshi
 AE02FB,87-9288,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE02D5,89-1051,USAF,AC-130W Hercules,C130,Mil,Stinger II,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 400B3F,G-ANAF,Aero Legendsa,Douglas C-47A Dakota,DC3,Mil,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
+407A4A,G-AVDJ,Air Leasing Ltd,Supermarine Spitfire LFIXb,SPIT,Mil,Historic,War Bird,MH415,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire
 406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 44F603,LB-03,Belgian Air Component,Piper PA-18 Super Cub,PA18,Mil,Glider Tug,I Am Old,Luchtcomponent,Historic,https://www.belgian-wings.be/piper-l-21b-super-cub
 44F605,LB-05,Belgian Air Component,Piper PA-18 Super Cub,PA18,Mil,Glider Tug,I Am Old,Luchtcomponent,Historic,https://www.belgian-wings.be/piper-l-21b-super-cub
@@ -1493,6 +1494,17 @@ A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Ot
 33FFC0,MM62210,Italian Air Force,Dassault Falcon 900EX,F900,Mil,Bizjet,Must Be Nice,With Valour To The Stars,Other Air Forces,https://tinyurl.com/ycknd373
 038F46,TU-VAI,Ivory Coast Air Force,Gulfstream G400SP,GLF4,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
 038615,TU-VAE,Ivory Coast Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
+87CC08,87-3602,Japan Air Self-Defense Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC0B,87-3601,Japan Air Self-Defense Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC23,95-1082,Japan Air Self-Defense Force,C-130H Hercules,C130,Mil,Chonky Boy,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC20,85-1079,Japan Air Self-Defense Force,C-130H Hercules,C130,Mil,Chonky Boy,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD04,02-3032,Japan Air Self-Defense Force,Cessna Citation Latitude,C68A,Mil,Flight Inspection,Light Utility,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC01,75-3252,Japan Air Self-Defense Force,Gulfstream U-4,GLF4,Mil,Flight Inspection,Must Be Nice,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC31,68-1204,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC38,88-1207,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC4A,18-1214,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC40,08-1212,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC49,18-1213,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 04C1E8,222,Kenyan Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,We Are Firm In The Sky,Other Air Forces,https://w.wiki/4nEU
 04C1E9,224,Kenyan Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,We Are Firm In The Sky,Other Air Forces,https://w.wiki/4nEU
 04C1EA,226,Kenyan Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,We Are Firm In The Sky,Other Air Forces,https://w.wiki/4nEU
@@ -3036,6 +3048,7 @@ ADB4AD,101,Pakistan Navy,Hawker 125 850XP,H25B,Mil,Surveillance,Eye In The Sky,S
 4CA41E,283,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41D,282,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
 4CA41C,281,Irish Air Corps,Pilatus PC-12 Spectre,PC12,Mil,Special Mission,Surveillance,Watchful And Loyal,Oxcart,https://www.military.ie/en/who-we-are/air-corps
+87CC10,18-1202,Japan Air Self-Defense Force,Kawasaki RC-2,KC2,Mil,ELINT,Electronic Warfare,Ready Anytime,Oxcart,https://w.wiki/4wRh
 4D03D0,LX-N90459,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CF,LX-N90458,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CE,LX-N90456,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
