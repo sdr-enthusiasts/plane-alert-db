@@ -46,6 +46,12 @@ if __name__ == "__main__":
     twitter_blocked_df.to_csv("plane-alert-twitter-blocked-images.csv", index=False)
     logging.info("Twitter blocked database images CSV file created successfully.")
 
+    logging.info("Creating the ukraine database images CSV file...")
+    twitter_blocked_df = pd.read_csv("plane-alert-ukraine.csv")
+    twitter_blocked_df = pd.merge(twitter_blocked_df, images_df, how="left", on="$ICAO")
+    twitter_blocked_df.to_csv("plane-alert-ukraine-images.csv", index=False)
+    logging.info("Ukraine database images CSV file created successfully.")
+
     logging.info("Creating the main database images csv file...")
     main_images_df = pd.merge(df, images_df, how="left", on="$ICAO")
     main_images_df["#CMPG"] = main_images_df["#CMPG"].fillna("#N/A")
