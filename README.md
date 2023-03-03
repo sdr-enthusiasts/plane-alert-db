@@ -4,7 +4,7 @@
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **https://github.com/kx1t/docker-planefence** . 
 
 > **Warning**
-> Please only suggest/make any changes to [plane-alert-db.csv](plane-alert-db.csv) file on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
+> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.txt), [plane-alert-pia](plane-alert-pia) and [plane_images.txt](plane_images.txt) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
 
 # Current Content
 

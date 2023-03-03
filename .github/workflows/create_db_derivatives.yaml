@@ -6,7 +6,7 @@ on:
     paths:
       - "plane-alert-db.csv"
       - "plane_images.txt"
-      - "blacklist.txt"
+      - "plane-alert-twitter-blocked.csv"
 
 jobs:
   createDerivativeDatabases:
