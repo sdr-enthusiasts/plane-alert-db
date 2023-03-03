@@ -2,7 +2,7 @@ name: Create and commit category, images and extended database files
 
 on:
   push:
-    branches: ["automation"]
+    branches: ["main"]
     paths:
       - "plane-alert-db.csv"
       - "plane_images.txt"
