@@ -1,9 +1,8 @@
-"""This script retrieves the plane images from the 'plane-alert-db-images.csv' databases 
-file and stores them into the 'plane_images.txt' reference file to use later to create 
-imagesCSV database files for each category.
+"""This script retrieves the plane images in the 'plane-alert-db-images.csv' database 
+and 'planepix.txt' file. It stores these images in a new 'plane_images.txt' reference 
+file to use later to create the 'images' CSV database files.
 
-This script can be removed if we know for sure that the results of the new GitHub action
-are correct.
+This script can be removed if we know that the new GitHub action results are correct.
 """
 import logging
 
@@ -33,7 +32,9 @@ if __name__ == "__main__":
     plane_alert_db_images = pd.merge(
         plane_alert_db_images, planepix_df, how="outer", on="$ICAO"
     )
-    plane_alert_db_images = plane_alert_db_images.replace("", np.nan)
+    plane_alert_db_images = plane_alert_db_images.replace(
+        "", np.nan
+    )  # Replace empty strings with NaN.
     logging.info(f"Images merged ({plane_alert_db_images.shape[0]}).")
 
     logging.info("Remove duplicates from the merged images...")
@@ -45,6 +46,25 @@ if __name__ == "__main__":
         axis=1,
     )
     logging.info(f"Images without duplicates ({plane_alert_db_images.shape[0]}).")
+
+    logging.info("Make sure that the image urls have the correct format...")
+    plane_alert_db_images[
+        ["#ImageLink", "#ImageLink2", "#ImageLink3", "#ImageLink4"]
+    ] = plane_alert_db_images[
+        ["#ImageLink", "#ImageLink2", "#ImageLink3", "#ImageLink4"]
+    ].apply(
+        lambda row: row.apply(
+            lambda x: x
+            if (isinstance(x, float) and np.isnan(x)) or x.startswith("https://")
+            else (
+                x.replace("http://", "https://")
+                if x.startswith("http://")
+                else "https://" + x
+            )
+        ),
+        axis=1,
+    )
+    logging.info(f"Images with correct format ({plane_alert_db_images.shape[0]}).")
 
     # Print new images.
     logging.info("Check if there were new images in the 'planepix.txt' file...")
@@ -67,6 +87,8 @@ if __name__ == "__main__":
     logging.info("Adding extra 'ImageLink' column if needed...")
     if columns.shape[0] > plane_alert_db_images.columns.shape[0]:
         logging.info("No extra 'ImageLink' column needed to be added.")
+    else:
+        logging.info("Extra '#ImageLink4' column added.")
     plane_alert_db_images.columns = columns[: plane_alert_db_images.columns.shape[0]]
 
     logging.info("Saving found images in 'plane_images.txt' file...")

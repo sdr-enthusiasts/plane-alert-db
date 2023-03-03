@@ -53,5 +53,6 @@ if __name__ == "__main__":
 
     logging.info("Creating the main database images csv file...")
     main_images_df = pd.merge(df, images_df, how="left", on="$ICAO")
+    main_images_df["#CMPG"] = main_images_df["#CMPG"].fillna("#N/A")
     main_images_df.to_csv("plane-alert-db-images.csv", index=False)
     logging.info("Category and images csv files created successfully.")

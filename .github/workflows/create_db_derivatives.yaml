@@ -1,14 +1,15 @@
-name: Create and commit category and image database files
+name: Create and commit category, images and extended database files
 
 on:
   push:
+    branches: ["automation"]
     paths:
       - "plane-alert-db.csv"
       - "plane_images.txt"
       - "blacklist.txt"
 
 jobs:
-  create-categories-and-images:
+  createDerivativeDatabases:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,10 +18,10 @@ jobs:
           python-version: "3.10"
       - run: pip install -r ./scripts/requirements.txt
 
-      - name: Create category, extended and images csv files
+      - name: Create category, images and extended database CSV files
         run: python ./scripts/create_db_derivatives.py
 
-      - name: Commit category, extended and images csv files
+      - name: Commit category, images and extended database CSV files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "refactor: update 'plane-alert-db' derivative databases."
+          commit_message: "refactor: update derivative databases."
