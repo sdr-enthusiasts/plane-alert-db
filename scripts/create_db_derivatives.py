@@ -1,7 +1,8 @@
 """This script creates (derivative) category and images CSV database files from the main
 'plane-alert-db.csv' database file. The categories are created based on the 'CMPG'
 column, while images are added using the 'plane_images.txt' reference file. It also
-creates an extended database file using the 'blacklist.txt' file.
+creates the 'plane-alert-twitter-blocked-images.csv' and 
+'plane-alert-ukraine-images.csv' database files.
 """
 
 import logging
