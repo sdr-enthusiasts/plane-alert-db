@@ -7,6 +7,8 @@ on:
       - "plane-alert-db.csv"
       - "plane_images.txt"
       - "plane-alert-twitter-blocked.csv"
+      - "plane-alert-ukraine.csv"
+      - "scripts/create_db_derivatives.py"
 
 jobs:
   createDerivativeDatabases:
