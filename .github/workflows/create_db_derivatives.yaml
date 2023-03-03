@@ -12,6 +12,8 @@ on:
 
 jobs:
   createDerivativeDatabases:
+    if: github.repository == 'sdr-enthusiasts/plane-alert-db'
+    name: Update derivative databases
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
