@@ -1,4 +1,4 @@
-name: Create and commit category, images and extended database files
+name: Create derivative databases
 
 on:
   push:
