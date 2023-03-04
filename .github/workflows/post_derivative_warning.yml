@@ -20,7 +20,7 @@ jobs:
       - name: Retrieve warning message
         id: warning
         run: |
-          warning_msg=$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)
+          warning_msg="$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)"
           echo "warning_msg=${warning_msg}" >> "${GITHUB_OUTPUT}"
 
       - name: Post derivative warning
