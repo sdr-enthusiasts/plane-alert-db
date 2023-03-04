@@ -1,0 +1,27 @@
+on: 
+  pull_request:
+    paths:
+      - "*.csv"
+      - "!plane-alert-db.csv"
+      - "!plane-alert-pia.csv"
+      - "!plane-alert-twitter-blocked.csv"
+      - "!plane-alert-ukraine.csv"
+
+jobs:
+  postDerivativeWarning:
+    runs-on: ubuntu-latest
+    name: Post a warning when a user suggests changes to a derivative file
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Retrieve warning message
+        id: warning
+        run: |
+          warning_msg=$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)
+          echo "warning_msg=${warning_msg}" >> "${GITHUB_OUTPUT}"
+
+      - name: Post derivative warning
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: ${{ steps.warning_msg.outputs.warning }}
