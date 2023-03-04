@@ -18,12 +18,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Retrieve warning message
-        id: warning
         run: |
-          warning_msg=$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)
-          echo "warning_msg=${warning_msg}" >> "${GITHUB_OUTPUT}"
+          echo "MULTI_LINES_TEXT_ENV_VAR<<EOF" >> $GITHUB_ENV
+          echo $(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3) >> $GITHUB_ENV 
+          echo "EOF" >> $GITHUB_ENV
 
       - name: Post derivative warning
         uses: thollander/actions-comment-pull-request@v2
         with:
-          message: ${{ steps.warning_msg.outputs.warning }}
+          message: |
+            
+          comment_tag: execution
