@@ -1,6 +1,6 @@
 name: Post derivative warning
 
-on: 
+on:
   pull_request:
     paths:
       - "*.csv"
@@ -17,6 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Display context
+        run: echo '${{ toJSON(github) }}'
+
       - name: Retrieve warning message from READ_BEFORE_MAKING_CHANGES.md
         run: |
           echo "WARNING_MSG<<EOF" >> $GITHUB_ENV
@@ -27,5 +30,5 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            ${{ env.WARNING_MSG }}  
+            ${{ env.WARNING_MSG }}
           comment_tag: execution
