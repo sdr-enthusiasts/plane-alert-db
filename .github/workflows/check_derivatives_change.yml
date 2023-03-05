@@ -1,0 +1,46 @@
+name: Check derivatives change
+
+on:
+  pull_request:
+    paths:
+      - "*.csv"
+
+jobs:
+  checkDerivativesChange:
+    runs-on: ubuntu-latest
+    name: Post a warning to the PR when a user changes a derivative file
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            *.csv
+            !plane-alert-db.csv
+            !plane-alert-pia.csv
+            !plane-alert-twitter-blocked.csv
+            !plane-alert-ukraine.csv
+
+      - name: Retrieve warning message from READ_BEFORE_MAKING_CHANGES.md
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "WARNING_MSG<<EOF" >> $GITHUB_ENV
+          echo "$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)" >> $GITHUB_ENV 
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Post derivative warning
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            ${{ env.WARNING_MSG }}
+          comment_tag: execution
+
+      - name: Display test result
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "Derivative files changed!"
+          exit 1
