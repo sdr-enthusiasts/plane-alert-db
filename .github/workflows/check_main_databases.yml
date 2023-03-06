@@ -1,0 +1,25 @@
+name: Check main databases CSV format
+
+on: 
+  pull_request:
+    paths:
+      - "plane-alert-db.csv"
+      - "plane-alert-pia.csv"
+      - "plane-alert-twitter-blocked.csv"
+      - "plane-alert-ukraine.csv"
+      - "plane_images.txt"
+
+jobs:
+  checkMainDatabases:
+    runs-on: ubuntu-latest
+    name: Check whether the main databases are still valid CSVs
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - run: pip install -r ./scripts/requirements.txt
+
+      - name: Run main database checks
+        run: python ./scripts/check_main_databases.py

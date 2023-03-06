@@ -1,2 +1,10 @@
-
 .DS_Store
+__pycache__
+*.pyc
+
+# Local databases
+james-planes-new-items.csv
+
+# IDE
+.vscode
+*.code-workspace

@@ -1,0 +1,12 @@
+documentation: readme.md
+images: plane_images.txt
+ukraine: plane-alert-ukraine.csv
+twitter: plane-alert-twitter.csv
+planes: "*.csv"
+invalid:
+  - any:
+      - "*.csv"
+      - "!plane-alert-db.csv"
+      - "!plane-alert-pia.csv"
+      - "!plane-alert-twitter-blocked.csv"
+      - "!plane-alert-ukraine.csv"
