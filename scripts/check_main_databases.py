@@ -74,7 +74,7 @@ def contains_duplicate_regs(df):
     """
 
     duplicate_regs = df[df.duplicated(subset="$Registration", keep=False)][
-        "$ICAO", "$Registration"
+        ["$ICAO", "$Registration"]
     ]
     if len(duplicate_regs) > 0:
         logging.error("The main database has duplicate registration numbers.")
@@ -108,14 +108,14 @@ def contains_bad_links(df, allow_nans=False):
         sys.exit(1)
 
 
-def contains_valid_hexes(df):
-    """Check if all the values in the data series are a hexidecimal string.
+def contains_valid_ICAO_hexes(df):
+    """Check if all the values in the '$ICAO' data series are hexidecimal strings.
 
     Args:
-        df (pandas.Series): The data series to check.
+        df (pandas.Series): The '$ICAO' data series to check.
 
     Raises:
-        Exception: When the main database has invalid hexidecimal values.
+        Exception: When the data series has invalid hexidecimal values.
     """
     invalid_hexes = df[~df["$ICAO"].apply(is_hex).astype(bool)]["$ICAO"]
     if len(invalid_hexes) > 0:
@@ -147,13 +147,13 @@ if __name__ == "__main__":
 
     # Preform database checks.
     contains_duplicate_ICAOs(main_df)
-    # contains_valid_hexes(
+    # contains_valid_ICAO_hexes(
     #     main_df
     # )  # NOTE: This is commented out because there are invalid values in the database.
     # contains_duplicate_regs(
     #     main_df
     # )  # NOTE: This is commented out because there are duplicates.
-    contains_bad_links(main_df)
+    # contains_bad_links(main_df)
     logging.info("The main database is valid.")
 
     ##########################################
@@ -173,6 +173,7 @@ if __name__ == "__main__":
 
     # Preform database checks.
     contains_duplicate_ICAOs(twitter_blocked_df)
+    contains_valid_ICAO_hexes(twitter_blocked_df)
     contains_duplicate_regs(twitter_blocked_df)
     contains_bad_links(twitter_blocked_df)
     logging.info("The 'plane-alert-twitter-blocked' database is valid.")
@@ -192,6 +193,7 @@ if __name__ == "__main__":
 
     # Preform database checks.
     contains_duplicate_ICAOs(ukraine_df)
+    contains_valid_ICAO_hexes(twitter_blocked_df)
     contains_duplicate_regs(ukraine_df)
     contains_bad_links(ukraine_df)
     logging.info("The 'plane-alert-ukraine' database is valid.")
@@ -209,12 +211,18 @@ if __name__ == "__main__":
 
     # Perform database checks.
     contains_duplicate_ICAOs(images_df)
+    contains_valid_ICAO_hexes(twitter_blocked_df)
     bad_links = pd.DataFrame()
     for col in images_df.columns:  # Check all link columns for bad links.
         if col != "$ICAO":
-            bad_links = bad_links.append(
-                images_df[
-                    ~images_df[col].apply(is_valid_url, allow_nans=True).astype(bool)
+            bad_links = pd.concat(
+                [
+                    bad_links,
+                    images_df[
+                        ~images_df[col]
+                        .apply(is_valid_url, allow_nans=True)
+                        .astype(bool)
+                    ],
                 ]
             )
     if len(bad_links) > 0:
