@@ -3,6 +3,7 @@ valid CSVs.
 """
 
 import logging
+
 import pandas as pd
 
 logging.basicConfig(
@@ -10,7 +11,7 @@ logging.basicConfig(
 )
 
 
-def isUrlValid(url, allow_nans=False):
+def is_valid_url(url, allow_nans=False):
     """Check if a URL starts with http or https.
 
     Args:
@@ -24,7 +25,7 @@ def isUrlValid(url, allow_nans=False):
     return True if url.startswith(("http://", "https://")) else False
 
 
-def duplicateICAOs(df):
+def contains_duplicate_ICAOs(df):
     """Check if the main database has any duplicate ICAO codes.
 
     Args:
@@ -39,7 +40,7 @@ def duplicateICAOs(df):
         raise Exception(f"The main database has duplicate ICAO codes: {duplicate_icao}")
 
 
-def duplicateRegs(df):
+def contains_duplicate_regs(df):
     """Check if the main database has any duplicate registration numbers.
 
     Args:
@@ -58,7 +59,7 @@ def duplicateRegs(df):
         )
 
 
-def badLinks(df):
+def contains_bad_links(df):
     """Check if the main database has any links that don't start with http or https.
 
     Args:
@@ -68,10 +69,26 @@ def badLinks(df):
         Exception: When the main database has invalid links.
     """
 
-    bad_links = df[df["$#Link"].apply(isUrlValid) == False]["$#Link"].tolist()
+    bad_links = df[df["$#Link"].apply(is_valid_url) == False]["$#Link"].tolist()
     if len(bad_links) > 0:
         logging.error("The main database has invalid links.")
         raise Exception(f"The main database has invalid links: {bad_links}")
+
+
+def contains_valid_hexes(df):
+    """Check if all the values in the data series are a hexidecimal string.
+
+    Args:
+        df (pandas.Series): The data series to check.
+
+    Raises:
+        Exception: When the main database has invalid hexidecimal values.
+    """
+    try:
+        df.apply(lambda x: int(x, 16))
+    except Exception as e:
+        logging.error("The main database has invalid hexidecimal values.")
+        raise e
 
 
 if __name__ == "__main__":
@@ -86,9 +103,10 @@ if __name__ == "__main__":
         raise e
 
     # Preform database checks.
-    duplicateICAOs(main_df)
-    # duplicateRegs(main_df) # NOTE: This is commented out because there are duplicates.
-    badLinks(main_df)
+    contains_duplicate_ICAOs(main_df)
+    contains_valid_hexes(main_df["$ICAO"])
+    # contains_duplicate_regs(main_df) # NOTE: This is commented out because there are duplicates.
+    contains_bad_links(main_df)
     logging.info("The main database is valid.")
 
     ##########################################
@@ -102,9 +120,9 @@ if __name__ == "__main__":
         raise e
 
     # Preform database checks.
-    duplicateICAOs(twitter_blocked_df)
-    duplicateRegs(twitter_blocked_df)
-    badLinks(twitter_blocked_df)
+    contains_duplicate_ICAOs(twitter_blocked_df)
+    contains_duplicate_regs(twitter_blocked_df)
+    contains_bad_links(twitter_blocked_df)
     logging.info("The 'plane-alert-twitter-blocked' database is valid.")
 
     ##########################################
@@ -118,9 +136,9 @@ if __name__ == "__main__":
         raise e
 
     # Preform database checks.
-    duplicateICAOs(ukraine_df)
-    duplicateRegs(ukraine_df)
-    badLinks(ukraine_df)
+    contains_duplicate_ICAOs(ukraine_df)
+    contains_duplicate_regs(ukraine_df)
+    contains_bad_links(ukraine_df)
     logging.info("The 'plane-alert-ukraine' database is valid.")
 
     ##########################################
@@ -134,12 +152,12 @@ if __name__ == "__main__":
         raise e
 
     # Perform database checks.
-    duplicateICAOs(images_df)
+    contains_duplicate_ICAOs(images_df)
     bad_links = pd.DataFrame()
     for col in images_df.columns:  # Check all link columns for bad links.
         if col != "$ICAO":
             bad_links = bad_links.append(
-                images_df[images_df[col].apply(isUrlValid, allow_nans=True) == False]
+                images_df[images_df[col].apply(is_valid_url, allow_nans=True) == False]
             )
     if len(bad_links) > 0:
         logging.error("The 'plane_images.txt' database has invalid links.")
