@@ -11,6 +11,11 @@ logging.basicConfig(
     format="%(asctime)s %(levelname)-8s [%(name)s] %(message)s", level=logging.INFO
 )
 
+MAIN_DATABASE_NAME = "plane-alert-db.csv"
+TWITTER_BLOCKED_DATABASE_NAME = "plane-alert-twitter-blocked.csv"
+UKRAINE_DATABASE_NAME = "plane-alert-ukraine.csv"
+PLANE_IMAGES_DATABASE_NAME = "plane_images.txt"
+
 
 def is_valid_url(url, allow_nans=False):
     """Check if a URL starts with http or https.
@@ -45,48 +50,50 @@ def is_hex(string):
 
 
 def contains_duplicate_ICAOs(df):
-    """Check if the main database has any duplicate ICAO codes.
+    """Check if the database has any duplicate ICAO codes.
 
     Args:
         df (pandas.Dataframe): The database to check.
 
     Raises:
-        Exception: When the main database has duplicate ICAO codes.
+        Exception: When the database has duplicate ICAO codes.
     """
     duplicate_icao = df[df.duplicated(subset="$ICAO", keep=False)]["$ICAO"]
     if len(duplicate_icao) > 0:
-        logging.error("The main database has duplicate ICAO codes.")
+        db_name = df.name if hasattr(df, "name") else "database"
+        logging.error(f"The {db_name} database has duplicate ICAO codes.")
         sys.stdout.write(
-            f"The main database has '{duplicate_icao.shape[0]}' duplicate ICAO codes:\n"
-            f"{duplicate_icao.to_string(index=False)}\n"
+            f"The ' {db_name}' database has '{duplicate_icao.shape[0]}' duplicate "
+            f"ICAO codes:\n {duplicate_icao.to_string(index=False)}\n"
         )
         sys.exit(1)
 
 
 def contains_duplicate_regs(df):
-    """Check if the main database has any duplicate registration numbers.
+    """Check if the database has any duplicate registration numbers.
 
     Args:
         df (pandas.Dataframe): The database to check.
 
     Raises:
-        Exception: When the main database has duplicate registration numbers.
+        Exception: When the database has duplicate registration numbers.
     """
 
     duplicate_regs = df[df.duplicated(subset="$Registration", keep=False)][
         ["$ICAO", "$Registration"]
     ]
     if len(duplicate_regs) > 0:
-        logging.error("The main database has duplicate registration numbers.")
+        db_name = df.name if hasattr(df, "name") else "database"
+        logging.error(f"The '{db_name}' database has duplicate registration numbers.")
         sys.stdout.write(
-            f"The main database has '{duplicate_regs.shape[0]}' duplicate registration "
-            f"numbers:\n{duplicate_regs.to_string(index=False)}\n"
+            f"The '{db_name}' database has '{duplicate_regs.shape[0]}' duplicate "
+            f"registration numbers:\n{duplicate_regs.to_string(index=False)}\n"
         )
         sys.exit(1)
 
 
 def contains_bad_links(df, allow_nans=False):
-    """Check if the main database has any links that don't start with http or https.
+    """Check if the database has any links that don't start with http or https.
 
     Args:
         df (pandas.Dataframe): The database to check.
@@ -94,15 +101,16 @@ def contains_bad_links(df, allow_nans=False):
             Defaults to False.
 
     Raises:
-        Exception: When the main database has invalid links.
+        Exception: When the database has invalid links.
     """
     bad_links = df[~df["$#Link"].apply(is_valid_url, allow_nans).astype(bool)][
         ["$ICAO", "$#Link"]
     ].fillna("")
     if len(bad_links) > 0:
-        logging.error("The main database has invalid links.")
+        db_name = df.name if hasattr(df, "name") else "database"
+        logging.error(f"The '{db_name}' database has invalid links.")
         sys.stdout.write(
-            f"The main database has '{bad_links.shape[0]}' invalid links:\n"
+            f"The '{db_name} database has '{bad_links.shape[0]}' invalid links:\n"
             f"{bad_links.to_string(index=False)}\n"
         )
         sys.exit(1)
@@ -119,14 +127,17 @@ def contains_valid_ICAO_hexes(df):
     """
     invalid_hexes = df[~df["$ICAO"].apply(is_hex).astype(bool)]["$ICAO"]
     if len(invalid_hexes) > 0:
+        db_name = df.name if hasattr(df, "name") else "database"
         error_strings = (
             ["value", "is", "a hexidecimal"]
             if invalid_hexes.shape[0] == 1
             else ["values", "are", "hexidecimals"]
         )
-        logging.error("The main database contains non-hexidecimal '$ICAO' values.")
+        logging.error(
+            f"The '{db_name}' database contains non-hexidecimal '$ICAO' values."
+        )
         sys.stdout.write(
-            f"The main database has '{invalid_hexes.shape[0]}' '$ICAO' "
+            f"The {db_name} database has '{invalid_hexes.shape[0]}' '$ICAO' "
             f"{error_strings[0]} that {error_strings[1]} not {error_strings[2]}:\n"
             f"{invalid_hexes.to_string(index=False)}\n"
         )
@@ -139,10 +150,13 @@ if __name__ == "__main__":
     ##########################################
     logging.info("Checking the main database...")
     try:
-        main_df = pd.read_csv("plane-alert-db.csv")
+        main_df = pd.read_csv(MAIN_DATABASE_NAME)
+        main_df.name = MAIN_DATABASE_NAME
     except Exception as e:
-        logging.error("The 'plane-alert-db.csv' database is not a valid CSV.")
-        sys.stdout.write(f"The 'plane-alert-db.csv' database is not a valid CSV: {e}\n")
+        logging.error(f"The '{MAIN_DATABASE_NAME}' database is not a valid CSV.")
+        sys.stdout.write(
+            f"The '{MAIN_DATABASE_NAME}' database is not a valid CSV: {e}\n"
+        )
         sys.exit(1)
 
     # Preform database checks.
@@ -161,13 +175,14 @@ if __name__ == "__main__":
     ##########################################
     logging.info("Checking the 'plane-alert-twitter-blocked' database...")
     try:
-        twitter_blocked_df = pd.read_csv("plane-alert-twitter-blocked.csv")
+        twitter_blocked_df = pd.read_csv(TWITTER_BLOCKED_DATABASE_NAME)
+        main_df.name = TWITTER_BLOCKED_DATABASE_NAME
     except Exception as e:
         logging.error(
-            "The 'plane-alert-twitter-blocked.csv' database is not a valid CSV."
+            f"The '{TWITTER_BLOCKED_DATABASE_NAME}' database is not a valid CSV."
         )
         sys.stdout.write(
-            f"The 'plane-alert-twitter-blocked.csv' database is not a valid CSV: {e}\n"
+            f"The '{TWITTER_BLOCKED_DATABASE_NAME}' database is not a valid CSV: {e}\n"
         )
         sys.exit(1)
 
@@ -183,11 +198,12 @@ if __name__ == "__main__":
     ##########################################
     logging.info("Checking the 'plane-alert-ukraine' database...")
     try:
-        ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
+        ukraine_df = pd.read_csv(UKRAINE_DATABASE_NAME)
+        ukraine_df.name = UKRAINE_DATABASE_NAME
     except Exception as e:
-        logging.error("The 'plane-alert-ukraine.csv' database is not a valid CSV.")
+        logging.error(f"The '{UKRAINE_DATABASE_NAME}' database is not a valid CSV.")
         sys.stdout.write(
-            f"The 'plane-alert-ukraine.csv' database is not a valid CSV: {e}\n"
+            f"The '{UKRAINE_DATABASE_NAME}' database is not a valid CSV: {e}\n"
         )
         sys.exit(1)
 
@@ -203,10 +219,15 @@ if __name__ == "__main__":
     ##########################################
     logging.info("Checking the 'plane_images.txt' database...")
     try:
-        images_df = pd.read_csv("plane_images.txt")
+        images_df = pd.read_csv(PLANE_IMAGES_DATABASE_NAME)
+        images_df.name = PLANE_IMAGES_DATABASE_NAME
     except Exception as e:
-        logging.error("The 'plane_images.txt' database is not a valid CSV.")
-        sys.stdout.write(f"The 'plane_images.txt' database is not a valid CSV: {e}\n")
+        logging.error(
+            f"The '{PLANE_IMAGES_DATABASE_NAME}' database is not a valid CSV."
+        )
+        sys.stdout.write(
+            f"The '{PLANE_IMAGES_DATABASE_NAME}' database is not a valid CSV: {e}\n"
+        )
         sys.exit(1)
 
     # Perform database checks.
