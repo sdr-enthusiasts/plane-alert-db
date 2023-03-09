@@ -8,12 +8,12 @@ on:
 jobs:
   checkDerivativesChange:
     runs-on: ubuntu-latest
-    name: Post a warning to the PR when a user changes a derivative file
+    name: Post a warning to the PR when a user incorrectly changed derivative files
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Get changed files
+      - name: Check if PR changes the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35
         with:
@@ -24,14 +24,12 @@ jobs:
             !plane-alert-twitter-blocked.csv
             !plane-alert-ukraine.csv
 
-      - name: Retrieve warning message from READ_BEFORE_MAKING_CHANGES.md
-        if: steps.changed-files.outputs.any_changed == 'true'
+      - if: steps.changed-files.outputs.any_changed == 'true'
         run: |
           echo "WARNING_MSG<<EOF" >> $GITHUB_ENV
           echo "$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)" >> $GITHUB_ENV 
           echo "EOF" >> $GITHUB_ENV
-
-      - name: Post derivative warning
+      - name: Post derivative databases change warning
         if: steps.changed-files.outputs.any_changed == 'true'
         uses: thollander/actions-comment-pull-request@v2
         with:
@@ -39,8 +37,30 @@ jobs:
             ${{ env.WARNING_MSG }}
           comment_tag: execution
 
-      - name: Display test result
+      - uses: actions/setup-python@v4
         if: steps.changed-files.outputs.any_changed == 'true'
+        with:
+          python-version: "3.10"
+          cache: 'pip'
+      - if: steps.changed-files.outputs.any_changed == 'true'
+        run: pip install -r ./scripts/requirements.txt
+      - name: Run derivative databases creation script
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: python ./scripts/create_db_derivatives.py
+      - name: Check if user files are equal to generated files
+        id: changes
+        uses: UnicornGlobal/has-changes-action@v1.0.11
+
+      - name: Fail on incorrect changes
+        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
         run: |
-          echo "Derivative files changed!"
+          echo "Derivative files changed and were different from the automatic generation pipeline."
           exit 1
+      - name: Succeed on correct changes
+        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 0
+        run: |
+          echo "Derivative files changed but were in line with the automatic generation pipeline."
+      - name: Succeed on no changes
+        if: steps.changed-files.outputs.any_changed == 'false'
+        run: |
+          echo "No derivative files were changed."
