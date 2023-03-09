@@ -15,7 +15,7 @@ jobs:
 
       - name: Check if PR changes the derivative databases
         id: changed-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v35.6.3
         with:
           files: |
             *.csv
