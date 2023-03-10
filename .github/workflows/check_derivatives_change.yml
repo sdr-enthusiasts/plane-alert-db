@@ -6,7 +6,8 @@ on:
       - "*.csv"
 
 permissions: 
-  pull-requests: write 
+  contents: read
+  pull-requests: write
 
 jobs:
   checkDerivativesChange:
