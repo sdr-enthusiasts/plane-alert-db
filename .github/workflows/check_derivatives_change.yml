@@ -5,7 +5,7 @@ on:
     paths:
       - "*.csv"
 
-permissions: 
+permissions:
   pull-requests: write
 
 jobs:
@@ -53,7 +53,34 @@ jobs:
       - name: Check if user files are equal to generated files
         if: steps.changed-files.outputs.any_changed == 'true'
         id: changes
-        uses: UnicornGlobal/has-changes-action@v1.0.11
+        uses: rickstaa/has-changes-action@master_rstaa # TODO: Change back to upstream if https://github.com/UnicornGlobal/has-changes-action/pull/9#issuecomment-1463581136 is fixed
+      - name: List changed files
+        run: git status --porcelain
+
+      - name: Add 'invalid' label if PR changes were wrong.
+        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['invalid']
+            })
+      - name: Remove 'invalid' label if PR changes were correct.
+        if: steps.changed-files.outputs.any_changed == 'false' || steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 0
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.removeLabel({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              name: 'invalid'
+            })
 
       - name: Fail on incorrect changes
         if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
