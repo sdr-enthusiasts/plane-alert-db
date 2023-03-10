@@ -1,4 +1,4 @@
-# Contributing to top-issues-action
+# Contributing to plane-alert-db
 
 We love your input! 🚀 We want to make contributing to this project as easy and transparent as possible, whether it's:
 
