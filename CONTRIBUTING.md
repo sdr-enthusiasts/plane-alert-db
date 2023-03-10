@@ -2,10 +2,11 @@
 
 We love your input! 🚀 We want to make contributing to this project as easy and transparent as possible, whether it's:
 
--   Reporting a bug.
+-   [Reporting a bug](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=bug&template=bug_report.yml).
 -   Discussing the current state of the code.
--   Submitting a fix.
--   Proposing new features.
+-   [Submitting a fix](https://github.com/sdr-enthusiasts/plane-alert-db/compare).
+-   [Proposing new features](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
+-   [Reviewing pull requests](https://github.com/sdr-enthusiasts/plane-alert-db/pulls).
 -   Becoming a maintainer.
 
 ## We Develop with Github
@@ -31,7 +32,7 @@ As the [README](README.md) explains, this repository uses GitHub actions to crea
 1.  Set the `CREATE_DERIVATIVES` repository variable to `true` in your repository settings (see [the GitHub documentation](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository)).
 2.  Change the default `GITHUB_TOKEN` permissions to `Read and write permission` (see [the GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#configuring-the-default-github_token-permissions)).
 
-## Report bugs using Github's [issues](https://github.com/rickstaa/top-issues-action/issues)
+## Report bugs using Github's [issues](https://github.com/sdr-enthusiasts/plane-alert-db/issues)
 
 [This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report, and I think it's a good model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), an app developer greatly respected in the community.
 
