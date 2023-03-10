@@ -54,7 +54,7 @@ jobs:
       - name: Check if user files are equal to generated files
         if: steps.changed-files.outputs.any_changed == 'true'
         id: changes
-        uses: UnicornGlobal/has-changes-action@v1.0.11
+        uses: rickstaa/has-changes-action@master_rstaa
         
       - run: |
           echo "${{ steps.changes.outputs.changed }}"
