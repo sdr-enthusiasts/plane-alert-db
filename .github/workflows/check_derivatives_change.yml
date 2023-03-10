@@ -5,6 +5,9 @@ on:
     paths:
       - "*.csv"
 
+permissions: 
+  pull-requests: write 
+
 jobs:
   checkDerivativesChange:
     runs-on: ubuntu-latest
