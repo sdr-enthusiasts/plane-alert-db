@@ -50,7 +50,7 @@ jobs:
       - name: Run derivative databases creation script
         if: steps.changed-files.outputs.any_changed == 'true'
         run: python ./scripts/create_db_derivatives.py
-      - run: git config --global --add safe.directory ${{ github.workspace }}
+      - run: git config --global --add safe.directory
       - name: Check if user files are equal to generated files
         if: steps.changed-files.outputs.any_changed == 'true'
         id: changes
