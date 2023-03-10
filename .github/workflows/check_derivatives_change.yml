@@ -13,6 +13,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      # Fix the unsafe repo error which was introduced by the CVE-2022-24765 git patches.
+      - name: Fix unsafe repo error
+        run: git config --global --add safe.directory ${{ github.workspace }}
+
       - name: Check if PR changes the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35.6.3
@@ -41,13 +45,14 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         with:
           python-version: "3.10"
-          cache: 'pip'
+          cache: "pip"
       - if: steps.changed-files.outputs.any_changed == 'true'
         run: pip install -r ./scripts/requirements.txt
       - name: Run derivative databases creation script
         if: steps.changed-files.outputs.any_changed == 'true'
         run: python ./scripts/create_db_derivatives.py
       - name: Check if user files are equal to generated files
+        # if: steps.changed-files.outputs.any_changed == 'true'
         id: changes
         uses: UnicornGlobal/has-changes-action@v1.0.11
 
