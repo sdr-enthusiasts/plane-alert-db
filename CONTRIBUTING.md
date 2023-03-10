@@ -34,7 +34,7 @@ As the [README](README.md) explains, this repository uses GitHub actions to crea
 
 ## Report bugs using Github's [issues](https://github.com/sdr-enthusiasts/plane-alert-db/issues)
 
-[This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report, and I think it's a good model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), an app developer greatly respected in the community.
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new/choose); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
 
@@ -48,7 +48,7 @@ As the [README](README.md) explains, this repository uses GitHub actions to crea
     -   Give sample code if you can. [A stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that _anyone_ with a base R setup can run to reproduce the error.
 -   What you expected would happen
 -   What actually happens.
--   Notes (possibly including why you think this might be happening or stuff you tried that didn't work).
+-   Notes (possibly including why you think this might be happening, or stuff you tried that didn't work).
 
 People _love_ thorough bug reports. I'm not even kidding.
 
