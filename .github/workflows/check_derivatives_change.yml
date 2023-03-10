@@ -59,6 +59,8 @@ jobs:
       - run: echo ${ steps.changes.outputs.changed }
       - run: git status --porcelain
 
+      - run: git status --porcelain
+
       - name: Fail on incorrect changes
         if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
         run: |
