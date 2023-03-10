@@ -6,7 +6,6 @@ on:
       - "*.csv"
 
 permissions: 
-  contents: read
   pull-requests: write
 
 jobs:
