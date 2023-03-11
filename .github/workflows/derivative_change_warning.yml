@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Add derivative warning
-=======
-name: Add warning when derivative database is changed
->>>>>>> b359f5b (fix: fix check derivatives fork permissions problem)
 
 on:
   workflow_run:
