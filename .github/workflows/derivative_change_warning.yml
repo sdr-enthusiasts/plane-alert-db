@@ -1,0 +1,40 @@
+name: Add warning when derivative database is changed
+
+on:
+  workflow_run:
+    workflows: ["Check derivatives change"]
+    types:
+      - completed
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  addDerivativeChangeWarning:
+    runs-on: ubuntu-latest
+    name: Add warning if derivative change was detected
+    steps:
+      - name: Download math result for job 1
+        uses: actions/download-artifact@v3
+        with:
+          name: check_derivatives_change
+
+      - name: Retrieve derivative check results
+        id: change
+        run: |
+          derivative_files_changed=`cat check_derivatives_change/derivative_files_changed`
+          "derivative_files_changed=${derivative_files_changed}" >> "${GITHUB_OUTPUT}"
+
+      - if: steps.changed.outputs.derivative_files_changed == 'true'
+        run: |
+          echo "WARNING_MSG<<EOF" >> $GITHUB_ENV
+          echo "$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)" >> $GITHUB_ENV 
+          echo "EOF" >> $GITHUB_ENV
+      - name: Post derivative databases change warning
+        if: steps.changed.outputs.derivative_files_changed == 'true'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            ${{ env.WARNING_MSG }}
+          comment_tag: execution
