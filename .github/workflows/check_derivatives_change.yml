@@ -6,17 +6,18 @@ on:
       - "*.csv"
 
 permissions:
+  contents: read
   pull-requests: write
 
 jobs:
   checkDerivativesChange:
     runs-on: ubuntu-latest
-    name: Post a warning to the PR when a user incorrectly changed derivative files
+    name: Fail if the PR contains incorrect derivative databases
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Check if PR changes the derivative databases
+      - name: Check if PR changes any of the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35.6.4
         with:
@@ -26,19 +27,6 @@ jobs:
             !plane-alert-pia.csv
             !plane-alert-twitter-blocked.csv
             !plane-alert-ukraine.csv
-
-      - if: steps.changed-files.outputs.any_changed == 'true'
-        run: |
-          echo "WARNING_MSG<<EOF" >> $GITHUB_ENV
-          echo "$(cat READ_BEFORE_MAKING_CHANGES.md | tail -n +3)" >> $GITHUB_ENV 
-          echo "EOF" >> $GITHUB_ENV
-      - name: Post derivative databases change warning
-        if: steps.changed-files.outputs.any_changed == 'true'
-        uses: thollander/actions-comment-pull-request@v2
-        with:
-          message: |
-            ${{ env.WARNING_MSG }}
-          comment_tag: execution
 
       - uses: actions/setup-python@v4
         if: steps.changed-files.outputs.any_changed == 'true'
@@ -54,33 +42,17 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         id: changes
         uses: rickstaa/has-changes-action@master_rstaa # TODO: Change back to upstream if https://github.com/UnicornGlobal/has-changes-action/pull/9#issuecomment-1463581136 is fixed
-      - name: List changed files
-        run: git status --porcelain
 
-      - name: Add 'invalid' label if PR changes were wrong.
-        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
-        uses: actions/github-script@v5
+      - name: Store job results as artifacts
+        run: |
+          mkdir -p ./check_derivatives_change
+          echo ${{ steps.changed-files.outputs.any_changed }} > ./check_derivatives_change/derivative_files_changed
+          echo ${{ steps.changes.outputs.changed }} > ./check_derivatives_change/incorrect_derivative_change
+          echo ${{ github.event.number }} > ./check_derivatives_change/issue_number
+      - uses: actions/upload-artifact@v3
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              labels: ['invalid']
-            })
-      - name: Remove 'invalid' label if PR changes were correct.
-        if: steps.changed-files.outputs.any_changed == 'false' || steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 0
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.rest.issues.removeLabel({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              name: 'invalid'
-            })
+          name: check_derivatives_change
+          path: check_derivatives_change/
 
       - name: Fail on incorrect changes
         if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
