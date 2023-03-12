@@ -48,6 +48,7 @@ jobs:
           mkdir -p ./check_derivatives_change
           echo ${{ steps.changed-files.outputs.any_changed }} > ./check_derivatives_change/derivative_files_changed
           echo ${{ steps.changes.outputs.changed }} > ./check_derivatives_change/incorrect_derivative_change
+          echo ${{ github.event.number }} > ./check_derivatives_change/issue_number
       - uses: actions/upload-artifact@v3
         with:
           name: check_derivatives_change

@@ -14,19 +14,28 @@ jobs:
   addDerivativeChangeWarning:
     runs-on: ubuntu-latest
     name: Add warning if derivative change was detected
-    # if: github.event.workflow_run.event == 'pull_request'
+    if: github.event.workflow_run.event == 'pull_request'
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Display context
+        run: echo '${{ toJSON(github) }}'
+
       - name: Download artifact
         uses: dawidd6/action-download-artifact@v2
         with:
           name: check_derivatives_change
           workflow: check_derivatives_change.yml
+          run_id: ${{github.event.workflow_run.id }}
 
       - name: Retrieve derivative check result from artifacts
         id: changed
         run: |
           derivative_files_changed=`cat derivative_files_changed`
           echo "derivative_files_changed=${derivative_files_changed}" >> "${GITHUB_OUTPUT}"
+          issue_number=`cat issue_number`
+          echo "issue_number=${issue_number}" >> "${GITHUB_OUTPUT}"
 
       - if: steps.changed.outputs.derivative_files_changed == 'true'
         run: |
@@ -40,3 +49,4 @@ jobs:
           message: |
             ${{ env.WARNING_MSG }}
           comment_tag: execution
+          pr_number: ${{ steps.changed.outputs.issue_number }}
