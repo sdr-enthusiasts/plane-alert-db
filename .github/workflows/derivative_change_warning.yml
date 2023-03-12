@@ -16,11 +16,15 @@ jobs:
     name: Add warning if derivative change was detected
     # if: github.event.workflow_run.event == 'pull_request'
     steps:
+      - name: Display context
+        run : echo '${{ toJSON(github) }}'
+        
       - name: Download artifact
         uses: dawidd6/action-download-artifact@v2
         with:
           name: check_derivatives_change
           workflow: check_derivatives_change.yml
+          run_id: ${{github.event.workflow_run.id }}
 
       - name: Retrieve derivative check result from artifacts
         id: changed
