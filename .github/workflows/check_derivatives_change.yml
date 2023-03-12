@@ -17,6 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Display context
+        run : echo '${{ toJSON(github) }}'
+
       - name: Check if PR changes any of the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35.6.4
