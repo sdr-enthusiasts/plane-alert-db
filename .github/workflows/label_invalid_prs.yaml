@@ -6,7 +6,8 @@ on:
     types:
       - completed
 
-permissions: "write-all"
+permissions:
+  "write-all"
   # contents: read
   # pull-requests: write
 
@@ -51,9 +52,17 @@ jobs:
           retry-exempt-status-codes: 404
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            github.rest.issues.removeLabel({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: ${{ steps.changed.outputs.issue_number }},
-              name: 'invalid'
-            })
+            try {
+              await octokit.issues.removeLabel({
+                owner,
+                repo,
+                issue_number,
+                name: "bug",
+              });
+            } catch (err) {
+              if (err.status === 404 && err.message === "Label does not exist") {
+                console.log("Label not found");
+              } else {
+                throw err;
+              }
+            }
