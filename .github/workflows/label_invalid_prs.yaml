@@ -1,4 +1,4 @@
-name: Label invalid PRs
+name: Label invalid database PRs
 
 on:
   workflow_run:
@@ -6,14 +6,14 @@ on:
     types:
       - completed
 
-permissions:
-  contents: read
-  pull-requests: write
+permissions: "write-all"
+  # contents: read
+  # pull-requests: write
 
 jobs:
   labelInvalidPRs:
     runs-on: ubuntu-latest
-    name: Add warning if derivative change was detected
+    name: Add/Remove 'invalid' label from trigger PR
     if: github.event.workflow_run.event == 'pull_request'
     steps:
       - name: Checkout
@@ -26,13 +26,13 @@ jobs:
           workflow: check_derivatives_change.yml
           run_id: ${{github.event.workflow_run.id }}
 
-      - name: Retrieve derivative check result from artifacts
+      - name: Retrieve trigger PR issue number from artifacts
         id: changed
         run: |
           issue_number=`cat issue_number`
           echo "issue_number=${issue_number}" >> "${GITHUB_OUTPUT}"
 
-      - name: Add 'invalid' label if PR changes were wrong.
+      - name: Add 'invalid' label if trigger PR check failed
         if: github.event.workflow_run.conclusion == 'failure'
         uses: actions/github-script@v5
         with:
@@ -44,7 +44,7 @@ jobs:
               issue_number: context.issue.number,
               labels: ['invalid']
             })
-      - name: Remove 'invalid' label if PR changes were correct.
+      - name: Remove 'invalid' label if trigger PR check was successful
         if: github.event.workflow_run.conclusion == 'success'
         uses: actions/github-script@v5
         with:

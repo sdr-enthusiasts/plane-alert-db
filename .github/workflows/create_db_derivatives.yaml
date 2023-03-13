@@ -23,10 +23,10 @@ jobs:
           cache: "pip"
       - run: pip install -r ./scripts/requirements.txt
 
-      - name: Create category, images and extended database CSV files
+      - name: Create category and images derivative CSV files
         run: python ./scripts/create_db_derivatives.py
 
-      - name: Commit category, images and extended database CSV files
+      - name: Commit derivative CSV files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "refactor: update derivative databases."

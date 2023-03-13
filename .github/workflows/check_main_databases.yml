@@ -12,7 +12,7 @@ on:
 jobs:
   checkMainDatabases:
     runs-on: ubuntu-latest
-    name: Check whether the main databases are still valid CSVs
+    name: Check if main databases are valid CSVs
     steps:
       - name: Checkout
         uses: actions/checkout@v3

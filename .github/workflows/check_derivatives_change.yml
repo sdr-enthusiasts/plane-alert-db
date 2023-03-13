@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Check if PR changes any of the derivative databases
+      - name: Check if the PR changes any of the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35.6.4
         with:
@@ -43,11 +43,10 @@ jobs:
         id: changes
         uses: rickstaa/has-changes-action@master_rstaa # TODO: Change back to upstream if https://github.com/UnicornGlobal/has-changes-action/pull/9#issuecomment-1463581136 is fixed
 
-      - name: Store job results as artifacts
+      - name: Store derivative check results as artifacts
         run: |
           mkdir -p ./check_derivatives_change
           echo ${{ steps.changed-files.outputs.any_changed }} > ./check_derivatives_change/derivative_files_changed
-          echo ${{ steps.changes.outputs.changed }} > ./check_derivatives_change/incorrect_derivative_change
           echo ${{ github.event.number }} > ./check_derivatives_change/issue_number
       - uses: actions/upload-artifact@v3
         with:
