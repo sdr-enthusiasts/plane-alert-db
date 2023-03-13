@@ -1,5 +1,8 @@
 name: Create derivative databases
 
+permissions:
+  contents: write # Allow action to write back changes to repository.
+
 on:
   push:
     branches: ["main"]
