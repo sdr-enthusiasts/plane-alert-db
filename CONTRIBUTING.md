@@ -27,10 +27,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 
 ## Keep your fork updated
 
-As the [README](README.md) explains, this repository uses GitHub actions to create several derivative databases from the main databases. By default, the [create_db_derivatives.yaml](.github/workflows/create_db_derivatives.yaml) action that makes these derivative databases is disabled on forks. You therefore have to follow the following steps if you want this action to automatically generate the correct derivative databases on your fork:
-
-1.  Set the `CREATE_DERIVATIVES` repository variable to `true` in your repository settings (see [the GitHub documentation](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository)).
-2.  Change the default `GITHUB_TOKEN` permissions to `Read and write permission` (see [the GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#configuring-the-default-github_token-permissions)).
+As the [README](README.md) explains, this repository uses GitHub actions to create several derivative databases from the main databases. By default, the [create_db_derivatives.yaml](.github/workflows/create_db_derivatives.yaml) action is disabled on forks. You, therefore, have to Set the `CREATE_DERIVATIVES` repository variable to `true` in your repository settings (see [the GitHub documentation](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository)) if you want this action to generate the correct derivative databases on your fork automatically
 
 ## Report bugs using Github's [issues](https://github.com/sdr-enthusiasts/plane-alert-db/issues)
 
