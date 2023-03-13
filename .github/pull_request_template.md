@@ -10,4 +10,4 @@ PLANE INFO: Please add the sources used to aid the review process.
 ## Checklist before requesting a review
 
 - [ ] I have performed a self-review of my code.
-- [ ] I have considered reviewing any of the other [open pull requests](https://github.com/sdr-enthusiasts/plane-alert-db/pulls) so that pull requests get merged faster.
+- [ ] While waiting for someone to review your request, please help review [another open pull request](https://github.com/sdr-enthusiasts/plane-alert-db/pulls) to support the maintainers.
