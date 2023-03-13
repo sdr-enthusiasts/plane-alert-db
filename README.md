@@ -3,7 +3,7 @@
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **https://github.com/kx1t/docker-planefence** .
 
 > **Warning**
-> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.txt), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.txt](plane_images.txt) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
+> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.txt](plane_images.txt) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
 
 # Current Content
 
@@ -92,9 +92,9 @@ To use this list with Planefence, simply configure your planefence.config setup 
 
 - PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
 
-If you want to add the list in addition to your local plane-alert-db.txt list, you can do the following:
+If you want to add the list in addition to your local plane-alert-db.csv list, you can do the following:
 
-- PF_ALERTLIST=plane-alert-db.txt,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
+- PF_ALERTLIST=plane-alert-db.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
 
 **Note -- the priority of use is first-to-last, so if you want your local list to be interpreted first, move it to the front of the list**
 
