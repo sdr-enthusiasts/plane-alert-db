@@ -1867,10 +1867,10 @@ AE040F,162784,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu G
 AE0419,164407,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,You Aint Seen Me Right,Distinctive,https://tinyurl.com/3mz2jytd
 AE040D,162782,USAF,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-ADFEB6,75-0125,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
-ADFEB5,74-0787,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
-ADFEB4,73-1677,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
-ADFEB3,73-1676,USAF,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB6,75-0125,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB5,74-0787,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB4,73-1677,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
+ADFEB3,73-1676,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 4B2F15,HB-RVP,Verein Fliegermuseum,Hawker Hunter T68,HUNT,Civ,Jet Fighter,Transonic,Historic,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
 A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope Mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
@@ -7412,8 +7412,9 @@ A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dep
 A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE68AB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
@@ -9725,8 +9726,10 @@ ADFE98,94-00316,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So V
 ADFE90,95-00091,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 ADFE94,95-00095,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 ADFED0,85-51262,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
-ADFED9,85-51272,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
+ADFED4,85-51266,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 ADFED6,85-51268,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
+ADFED8,85-51271,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
+ADFED9,85-51272,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE04AB,99-00102,United States Army,Cessna UC-35A Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
 AE036D,98-00007,United States Army,Cessna UC-35A Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
 AE0136,97-00105,United States Army,Cessna UC-35A Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
@@ -10249,6 +10252,7 @@ AE4BA9,164860,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,C
 AE4BA8,165244,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE4BAC,165245,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE4B86,163080,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
+AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE5E76,169177,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE5E77,169178,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
 AE5E79,169180,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
@@ -12047,6 +12051,7 @@ ADFF60,68-8191,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 ADFF5F,68-8190,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE6406,64-13269,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+ADFF84,????,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE1EAA,08-3941,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1EA9,08-3940,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1EA8,08-3939,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
