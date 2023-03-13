@@ -6,7 +6,8 @@ on:
     types:
       - completed
 
-permissions: "write-all"
+permissions:
+  "write-all"
   # contents: read
   # pull-requests: write
 
@@ -50,9 +51,17 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            github.rest.issues.removeLabel({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: ${{ steps.changed.outputs.issue_number }},
-              name: 'invalid'
-            })
+            try {
+              await github.rest.issues.removeLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: ${{ steps.changed.outputs.issue_number }},
+                name: 'invalid'
+              });
+            } catch (err) {
+              if (err.status === 404 && err.message === "Label does not exist") {
+                console.log("Label not found");
+              } else {
+                throw err;
+              }
+            }
