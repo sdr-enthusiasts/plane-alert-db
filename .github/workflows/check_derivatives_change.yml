@@ -38,10 +38,12 @@ jobs:
       - name: Run derivative databases creation script
         if: steps.changed-files.outputs.any_changed == 'true'
         run: python ./scripts/create_db_derivatives.py
-      - name: Check if user files are equal to generated files
+      - name: Run check invalid derivatives script
         if: steps.changed-files.outputs.any_changed == 'true'
-        id: changes
-        uses: rickstaa/has-changes-action@master_rstaa # TODO: Change back to upstream if https://github.com/UnicornGlobal/has-changes-action/pull/9#issuecomment-1463581136 is fixed
+        id: invalid_derivatives
+        env:
+          PULL_REQUEST_NUMBER: ${{ github.event.number }}
+        run: python ./scripts/check_invalid_derivatives.py
 
       - name: Store derivative check results as artifacts
         run: |
@@ -54,12 +56,12 @@ jobs:
           path: check_derivatives_change/
 
       - name: Fail on incorrect changes
-        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 1
+        if: steps.changed-files.outputs.any_changed == 'true' && steps.invalid_derivatives.outputs.derivatives_changed == 'true'
         run: |
           echo "Derivative files changed and were different from the automatic generation pipeline."
           exit 1
       - name: Succeed on correct changes
-        if: steps.changed-files.outputs.any_changed == 'true' && steps.changes.outputs.changed == 0
+        if: steps.changed-files.outputs.any_changed == 'true' && steps.invalid_derivatives.outputs.derivatives_changed == 'false'
         run: |
           echo "Derivative files changed but were in line with the automatic generation pipeline."
       - name: Succeed on no changes
