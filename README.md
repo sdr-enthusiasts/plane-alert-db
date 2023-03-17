@@ -141,7 +141,8 @@ This is not intended to be a definitive list, especially when it comes to aircra
 
 This data has been gathered from far too many sources to mention, but some sites have been _really_ useful:
 
--   <https://github.com/jbroutier/whatisflying-db>
+-   <https://github.com/iatacodes/whatisflying-db>
+-   <https://github.com/The-CFR-Project/whatisflying-db>
 -   <https://www.flightdb.net/index.php>
 -   <http://www.rotorspot.nl/>
 -   <http://www.dtvmovements.co.uk/>
