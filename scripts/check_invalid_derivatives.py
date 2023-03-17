@@ -19,6 +19,7 @@ MAIN_DB_FILES = [
     "plane-alert-pia.csv",
     "plane_images.txt",
 ]
+OUTPUT_FILE = os.getenv("GITHUB_OUTPUT")
 
 if __name__ == "__main__":
     logging.info("Getting the PR files...")
@@ -53,12 +54,12 @@ if __name__ == "__main__":
     if changed_files:
         logging.info("Invalid derivative files found.")
         logging.info(f"Invalid derivative files: {changed_files}")
-        with open("GITHUB_OUTPUT", "a") as fh:
+        with open(OUTPUT_FILE, "a") as fh:
             print(
                 "derivatives_changed={}".format(str(len(["test"]) >= 1).lower()),
                 file=fh,
             )
     else:
         logging.info("No invalid derivative files found.")
-        with open("GITHUB_OUTPUT", "a") as fh:
+        with open(OUTPUT_FILE, "a") as fh:
             print("derivatives_changed=false", file=fh)

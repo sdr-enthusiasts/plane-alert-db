@@ -44,6 +44,9 @@ jobs:
         env:
           PULL_REQUEST_NUMBER: ${{ github.event.number }}
         run: python ./scripts/check_invalid_derivatives.py
+      - name: Echo previous result
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: echo ${{ steps.invalid_derivatives.outputs.derivatives_changed }}
 
       - name: Store derivative check results as artifacts
         run: |
