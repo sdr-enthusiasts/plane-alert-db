@@ -31,30 +31,58 @@ if __name__ == "__main__":
         # Create category CSV files.
         logging.info(f"Creating the '{category}' category CSV file...")
         category_df = df[df["#CMPG"] == category]
-        category_df.to_csv(f"plane-alert-{category.lower()}.csv", index=False)
+        category_df.to_csv(
+            f"plane-alert-{category.lower()}.csv",
+            index=False,
+            mode="wb",
+            encoding="utf8",
+            lineterminator="\n",
+        )
 
         # Create images CSV files.
         logging.info(f"Creating the '{category}' category images CSV file...")
         category_images_df = pd.merge(category_df, images_df, how="left", on="$ICAO")
         category_images_df.to_csv(
-            f"plane-alert-{category.lower()}-images.csv", index=False
+            f"plane-alert-{category.lower()}-images.csv",
+            index=False,
+            mode="wb",
+            encoding="utf8",
+            lineterminator="\n",
         )
     logging.info("Category and category images CSV files created successfully.")
 
     logging.info("Creating the twitter blocked database images CSV file...")
     twitter_blocked_df = pd.read_csv("plane-alert-twitter-blocked.csv")
     twitter_blocked_df = pd.merge(twitter_blocked_df, images_df, how="left", on="$ICAO")
-    twitter_blocked_df.to_csv("plane-alert-twitter-blocked-images.csv", index=False)
+    twitter_blocked_df.to_csv(
+        "plane-alert-twitter-blocked-images.csv",
+        index=False,
+        mode="wb",
+        encoding="utf8",
+        lineterminator="\n",
+    )
     logging.info("Twitter blocked database images CSV file created successfully.")
 
     logging.info("Creating the ukraine database images CSV file...")
     ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
     ukraine_df = pd.merge(ukraine_df, images_df, how="left", on="$ICAO")
-    ukraine_df.to_csv("plane-alert-ukraine-images.csv", index=False)
+    ukraine_df.to_csv(
+        "plane-alert-ukraine-images.csv",
+        index=False,
+        mode="wb",
+        encoding="utf8",
+        lineterminator="\n",
+    )
     logging.info("Ukraine database images CSV file created successfully.")
 
     logging.info("Creating the main database images csv file...")
     main_images_df = pd.merge(df, images_df, how="left", on="$ICAO")
     main_images_df["#CMPG"] = main_images_df["#CMPG"].fillna("#N/A")
-    main_images_df.to_csv("plane-alert-db-images.csv", index=False)
+    main_images_df.to_csv(
+        "plane-alert-db-images.csv",
+        index=False,
+        mode="wb",
+        encoding="utf8",
+        lineterminator="\n",
+    )
     logging.info("Category and images CSV files created successfully.")
