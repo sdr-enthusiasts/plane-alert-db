@@ -7,6 +7,7 @@ We love your input! 🚀 We want to make contributing to this project as easy an
 -   [Submitting a fix](https://github.com/sdr-enthusiasts/plane-alert-db/compare).
 -   [Proposing new features](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
 -   [Reviewing pull requests](https://github.com/sdr-enthusiasts/plane-alert-db/pulls).
+-   Adding new planes or images.
 -   Becoming a maintainer.
 
 ## We Develop with Github
