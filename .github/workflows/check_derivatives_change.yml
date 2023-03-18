@@ -14,10 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Fail if the PR contains incorrect derivative databases
     steps:
+      - name: Display context
+        run : echo '${{ toJSON(github) }}'
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.ref }}
 
       - name: Check if the PR changes any of the derivative databases
         id: changed-files
