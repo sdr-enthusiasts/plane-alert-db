@@ -17,6 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Display context
+        run : echo '${{ toJSON(github) }}'
+
       - name: Check if the PR changes any of the derivative databases
         id: changed-files
         uses: tj-actions/changed-files@v35.6.4
@@ -27,6 +30,12 @@ jobs:
             !plane-alert-pia.csv
             !plane-alert-twitter-blocked.csv
             !plane-alert-ukraine.csv
+
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "$file was changed"
+          done
 
       - uses: actions/setup-python@v4
         if: steps.changed-files.outputs.any_changed == 'true'
