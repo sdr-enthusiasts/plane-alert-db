@@ -11,12 +11,12 @@ logging.basicConfig(
     format="%(asctime)s %(levelname)-8s [%(name)s] %(message)s", level=logging.INFO
 )
 
-PULL_REQUEST_NUMBER = os.environ["PULL_REQUEST_NUMBER"]
+CHANGED_FILES = os.environ["CHANGED_FILES"]
 MAIN_DB_FILES = [
     "plane-alert-db.csv",
+    "plane-alert-pia.csv",
     "plane-alert-twitter-blocked.csv",
     "plane-alert-ukraine.csv",
-    "plane-alert-pia.csv",
     "plane_images.txt",
 ]
 OUTPUT_FILE = os.getenv("GITHUB_OUTPUT")
@@ -24,17 +24,7 @@ OUTPUT_FILE = os.getenv("GITHUB_OUTPUT")
 if __name__ == "__main__":
     logging.info("Getting the PR files...")
     requests_session = requests.Session()
-    response = requests_session.get(
-        f"https://api.github.com/repos/sdr-enthusiasts/plane-alert-db/pulls/{PULL_REQUEST_NUMBER}/files"
-    )
-    response.raise_for_status()
-    pr_files = response.json()
-    pr_files = [
-        pr_file["filename"]
-        for pr_file in pr_files
-        if pr_file["filename"].endswith(".csv")
-        and pr_file["filename"] not in MAIN_DB_FILES
-    ]  # Filter main database files and non CSV files.
+    pr_files = CHANGED_FILES.split(",")
     logging.info("PR files retrieved successfully.")
 
     logging.info("Getting changed files...")
