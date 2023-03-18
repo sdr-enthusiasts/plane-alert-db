@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Check if the PR changes any of the derivative databases
         id: changed-files
@@ -27,13 +29,6 @@ jobs:
             !plane-alert-pia.csv
             !plane-alert-twitter-blocked.csv
             !plane-alert-ukraine.csv
-          separator: ","
-
-      - name: List all changed files
-        run: |
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "$file was changed"
-          done
 
       - uses: actions/setup-python@v4
         if: steps.changed-files.outputs.any_changed == 'true'
@@ -49,7 +44,7 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         id: invalid_derivatives
         env:
-          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          PULL_REQUEST_NUMBER: ${{ github.event.number }}
         run: python ./scripts/check_invalid_derivatives.py
 
       - name: Store derivative check results as artifacts
