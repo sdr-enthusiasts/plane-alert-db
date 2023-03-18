@@ -59,7 +59,7 @@ jobs:
         run: |
           echo '${{ toJSON(steps.changed-files2.outputs) }}'
         shell:
-          bashs
+          bash
   
       - uses: actions/setup-python@v4
         if: steps.changed-files.outputs.any_changed == 'true'
