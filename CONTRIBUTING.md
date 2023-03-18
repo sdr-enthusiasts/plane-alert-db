@@ -19,16 +19,25 @@ We use github to host code, track issues and feature requests, and accept pull r
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)). We actively welcome your pull requests:
 
 1.  Fork the repo and create your branch from `main`.
-2.  Create a new feature branch to implement your changes on.
-3.  Add tests if you've added code that should be tested.
-4.  If you've changed the internal working of the repository, update the documentation.
-5.  Ensure the test suite passes.
-6.  Make sure your code lints.
-7.  Issue that pull request!
+2.  Create a new feature branch (e.g. `patch`) to implement your changes on.
+3.  Make your changes.
+4.  Add tests if you've added code that should be tested.
+5.  If you've changed the internal working of the repository, update the documentation.
+6.  Ensure the test suite passes.
+7.  Make sure your code lints.
+8.  Issue that pull request!
+9.  Merge your feature branch into your own `main` branch, so you don't have to wait for the PR to be merged.
 
-## Keep your fork updated
+## Keep your fork up to date
 
-As the [README](README.md) explains, this repository uses GitHub actions to create several derivative databases from the main databases. By default, the [create_db_derivatives.yaml](.github/workflows/create_db_derivatives.yaml) action is disabled on forks. You, therefore, have to Set the `CREATE_DERIVATIVES` repository variable to `true` in your repository settings (see [the GitHub documentation](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository)) if you want this action to generate the correct derivative databases on your fork automatically
+You can keep your fork, and thus your private Vercel instance up to date with the upstream using GitHubs' [Sync Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) button. You can also use the [pull](https://github.com/wei/pull) package created by [@wei](https://github.com/wei) to automate this process.
+
+## Automatically create the derivative databases
+
+As the [README](README.md) explains, this repository uses GitHub actions to create several derivative databases from the main databases. By default, to prevent conflicts, the [create_db_derivatives.yaml](.github/workflows/create_db_derivatives.yaml) action is disabled on forks. You can, however, set the `CREATE_DERIVATIVES` repository variable to `true` in your repository settings (see [the GitHub documentation](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository)) if you want to create the derivative database on your fork automatically. 
+
+> **Warning**
+> If you enable the building of the derivative databases on your fork, please use a feature branch (e.g. `patch`) when creating pull requests to the main repository. This will prevent your PR from being flagged as `invalid` since commits made by the [create_db_derivatives.yaml](.github/workflows/create_db_derivatives.yaml) do not re-trigger the PR check actions. You can then merge your changes into your main branch without waiting for the PR to be merged. If you really want to work from the `main` branch, this is also possible, but then you have to run the `create_db_derivatives.py` file on your local machine to get the correct derivative files included in the PR.
 
 ## Report bugs using Github's [issues](https://github.com/sdr-enthusiasts/plane-alert-db/issues)
 
