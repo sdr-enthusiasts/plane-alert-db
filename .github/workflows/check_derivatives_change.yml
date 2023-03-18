@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Fail if the PR contains incorrect derivative databases
     steps:
+      - name: Display context
+        run : echo '${{ toJSON(github) }}'
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
