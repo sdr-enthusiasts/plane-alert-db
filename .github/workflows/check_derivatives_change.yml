@@ -48,6 +48,12 @@ jobs:
         uses: tj-actions/changed-files@v29.0.4
         with:
           since_last_remote_commit: 'true'
+          files: |
+            *.csv
+            !plane-alert-db.csv
+            !plane-alert-pia.csv
+            !plane-alert-twitter-blocked.csv
+            !plane-alert-ukraine.csv
 
       - name: List all changed files
         run: |
