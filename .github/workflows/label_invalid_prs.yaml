@@ -7,9 +7,8 @@ on:
       - completed
 
 permissions:
-  "write-all"
-  # contents: read
-  # pull-requests: write
+  contents: read
+  pull-requests: write
 
 jobs:
   labelInvalidPRs:

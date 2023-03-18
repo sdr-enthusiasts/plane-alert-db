@@ -8,9 +8,9 @@ on:
     branches: ["main"]
     paths:
       - "plane-alert-db.csv"
-      - "plane_images.txt"
       - "plane-alert-twitter-blocked.csv"
       - "plane-alert-ukraine.csv"
+      - "plane_images.txt"
       - "scripts/create_db_derivatives.py"
 
 jobs:

@@ -1,0 +1,93 @@
+### To do / Ideas
+
+You can checkout [these feature requests](https://github.com/sdr-enthusiasts/plane-alert-db/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) or [bug reports](https://github.com/sdr-enthusiasts/plane-alert-db/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement+label%3Abug) if you want to improve this repository. Additionally, below are some other ideas you can implement:
+
+> **No 1 - Update USAF aircraft to use Reg/serial number in place of Ident/Callsign.**
+
+-   [ ] RAF Typhoon Display Team
+-   [ ] Breitling Jet Team (not complete)
+-   [ ] US Dept of Interior
+-   [ ] US Dept of Energy
+-   [ ] Other US Gov Depts
+-   [ ] B737 with Gravel Kits - Nolinor, Air Inuit, Canada North, Chron Aviation
+-   [ ] Defense Helicopter Flying School
+-   [ ] Identify more aircraft owned by Religious organisations
+-   [ ] Acrobat Ltd (Uk Gov Sock puppet ?)
+-   [ ] UK Ministry of Defence
+-   [ ] UK Border Force
+-   [ ] Shuttleworth Collection
+-   [ ] Other Warbirds
+-   [ ] List of DA42 MPP / DA62 MPP Operators
+-   [ ] Thales UK
+-   [ ] Survey / Mapping aircarft
+-   [ ] Other surveillance aircraft types
+-   [ ] 750 Naval Air Squadron (Observers)
+-   [ ] Coulson Aviation
+-   [ ] Australian Aircraft called firebird (fire spotter and fighters)
+-   [ ] S-64 Skycrane - list only partially completed (what is the list of names)
+-   [ ] Japanese Flying Boats Shin Maywa US-2/US 1 (US2 are 9901 through 9907 - mode-s ?)
+-   [ ] Private Adversary Squadrons (Air Usa etc.)
+-   [ ] Operators of old Jets/Fighters (e.g. Hawker Huner Aviation)
+-   [ ] Callspan Corp In-Flight Simulators
+-   [ ] GAMA Avaiation (ex RAF spy planes)
+-   [ ] Flying Hospitals (eye Hospital ?)
+-   [ ] Other Coast Guards (e.g. USCG)
+-   [ ] Air Ambulances (Wikipedia List)
+-   [ ] Big Russian Helis
+-   [ ] Babcock MCS Spain (and any other countries)
+-   [ ] Lewis Hamilton Jet(s)
+-   [ ] Open Skies Flights
+-   [ ] European Union
+-   [ ] Scientific/Weather planes
+-   [ ] Flight Precision Ltd (and Similar)
+-   [ ] World Bank etc
+-   [ ] Red Cross / MSF
+-   [ ] Special Conversions e.g. Engine testbeds
+-   [ ] Duxford and other historic flight collections
+-   [ ] Historic Aircraft Flight Trust
+-   [ ] Low-volume Airliners / Special Models
+-   [ ] Football Teams and other sporting organisations
+-   [ ] Beechcraft RC-12 Guardrail
+-   [ ] Meteorological research flights
+-   [ ] Film and Television Companies
+-   [ ] News Choppers
+-   [ ] RCAF Snowbirds
+-   [ ] RAAF Roulettes
+-   [ ] Helicopter Transport Services
+-   [ ] Arena Aviation
+-   [ ] Slagboom & Peeters nv (Aerial Surveys)
+-   [ ] Air Affairs Australia
+-   [ ] ADAC Germany
+-   [ ] Denmar Technical Services (Stealth radar testing)
+-   [ ] IAS Medical (Air Evac)
+-   [ ] Aviation Services Australia
+-   [ ] Historic Army Aircraft Flight
+-   [ ] Odd C130 Hercules - EC130H, EC130E, EC130J, MC130H, WC130J
+-   [ ] AeroRescue
+-   [ ] Air-Glaciers
+-   [ ] Alci Aviation
+-   [ ] Baltic Bees Display Team
+-   [ ] Bundesamt für Landestopografie
+-   [ ] Bundesamt für Zivilluftfahrt BAZL
+-   [ ] Bundespolizei
+-   [ ] GFD.de
+-   [ ] Royal Flying Doctors Service
+-   [ ] Top Aces Inc.
+-   [ ] Russian FSB
+-   [ ] Aircraft and companies in this article - <https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php>
+-   [ ] Chapparral Air Group
+-   [ ] Acorn Growth Companies
+-   [ ] Aircraft owned/Operated by Sultan/State of Brunei (esp his very plush 747)
+-   [ ] Aircraft - Lake Renegade
+-   [ ] Special Hurons - MC-12W, MC-12S, RC-12H, RC-12N
+-   [ ] Edgley Optika
+-   [ ] Columbian C47 Gunships - Got 1. Are there more?
+-   [ ] Artic and Antarctic Aircraft (Got some - but are there more ?)
+-   [ ] Thunder City (SA Company flying old jets)
+-   [ ] Meta Special Aerospace
+-   [ ] FAA and CAA
+-   [ ] US Missile Defence Agency
+-   [ ] A4 Skyhawks
+-   [ ] Italian Guardia di Finanza
+
+However any other idea's are also welcome.
