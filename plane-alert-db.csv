@@ -4961,7 +4961,7 @@ E49210,2853,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,M
 084FE0,TT-AAH,Chadian Air Force,C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Force Aerienne Tchadienne,Other Air Forces,https://en.wikipedia.org/wiki/Chadian_Air_Force
 79C7D0,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D1,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
-7BB036,B-4020,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
+7BB036,B-2958,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BB038,B-4020,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BB035,B-4021,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BB037,B-4021,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -6008,6 +6008,7 @@ C87F14,NZ3308,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Choppe
 7102FE,2406,Royal Saudi Air Force,Airbus A330-202-MRTT,A332,Mil,Air2Air,Tanker,RSAF,Other Air Forces,https://w.wiki/4nsx
 71038C,HZ-109,Royal Saudi Air Force,British Aerospace 125 800B,H25B,Mil,VIP Transport,Bizjet,Must Be Nice,Other Air Forces,https://w.wiki/4nsx
 7102E0,1631,Royal Saudi Air Force,C-130H-30 Hercules,C130,Mil,Tactical Airlift,Chonky Boy,RSAF,Other Air Forces,https://w.wiki/4nsx
+7102D5,1604,Royal Saudi Air Force,C-130H-30 Hercules,C130,Mil,Tactical Airlift,Chonky Boy,RSAF,Other Air Forces,https://w.wiki/4nsx
 710259,1630,Royal Saudi Air Force,C-130H-30 Hercules,C130,Mil,Tactical Airlift,Chonky Boy,RSAF,Other Air Forces,https://w.wiki/4nsx
 710388,485,Royal Saudi Air Force,VC-130H Hercules,C130,Mil,VIP Transport,Rare,RSAF,Other Air Forces,https://w.wiki/4nsx
 142C1A,RA-11290,Russian Air Force,Antonov An-12,AN12,Mil,Ere Me Now,Vashe Zdorovye,Cub,Other Air Forces,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -9388,10 +9389,10 @@ AE68B2,10-3077,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Spe
 AE68B1,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 AE68AF,07-3093,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 AE68AD,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-AC8997,11-3104,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A739E7,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A486EA,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
-A3BE59,12-3040,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+AC8997,N907EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A739E7,N565EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A486EA,N931EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
+A3BE59,N340LS,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 A790EC,N587LJ,US SOCOM,Gates C-21A,LJ35,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
 A87A31,N6450L,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A8649B,N64TR,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
