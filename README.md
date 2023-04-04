@@ -42,7 +42,7 @@ A second version of each of the above lists contains up to 4 image links per air
 -   [plane-alert-pol-images.csv](plane-alert-pol-images.csv)
 -   [plane-alert-gov-images.csv](plane-alert-gov-images.csv)
 
-This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
+This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd) contains details of the [main](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-db.csv), [twitter-blocked](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-twitter-blocked.csv), and [Ukraine](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-ukraine.csv) lists.
 
 ## Description of Categories
 
