@@ -86,3 +86,57 @@ if __name__ == "__main__":
         lineterminator="\n",
     )
     logging.info("Category and images CSV files created successfully.")
+
+    #Add missing ICAO Hexes to plane_images.txt
+    li =[]
+    alert_dbs = [
+        'plane-alert-db.csv', 
+        'plane-alert-twitter-blocked.csv',
+        'plane-alert-ukraine.csv',
+        ]
+
+    logging.info(f"Retrieve ICAOs from the DB files...")
+    li = [
+        pd.read_csv(db, usecols = ["$ICAO"]) for db in alert_dbs]
+    plane_alert_db = pd.concat(li, axis = 0, ignore_index = True)
+    logging.info(f"ICAOs retrieved from DB files ({plane_alert_db.shape[0]}).")
+
+    logging.info("Retrieve ICAOs from the 'plane_images.txt' file...")
+    plane_images_db = pd.read_csv("plane_images.txt", sep=',')
+    logging.info(f"ICAOs retrieved from 'plane_images.txt ({plane_images_db.shape[0]}).")
+
+    logging.info("Check if there were new ICAOs in the 'DBs' file...")
+    new_ICAOs = plane_alert_db[
+        ~plane_alert_db["$ICAO"].isin(plane_images_db["$ICAO"])
+    ]
+
+    if new_ICAOs.shape[0] > 0:
+        logging.info(
+            "New ICAOs found ({}):\n{}".format(
+                new_ICAOs.shape[0], 
+                new_ICAOs.head(5).to_string(
+                    header = False,
+                    index=False
+                )
+            )
+        )
+        
+        logging.info("Appending new ICAOs in 'plane_images.txt' file...")
+        plane_images_db = pd.merge(
+            plane_images_db,
+            new_ICAOs,
+            how="outer",
+            on="$ICAO",
+        )
+        
+        plane_images_db.to_csv(
+            "plane_images.txt",
+            mode = "wb",
+            index = False,
+            header = True,
+            encoding = "utf8",
+            lineterminator="\n",
+        )
+        logging.info("ICAOs successfully saved in 'plane_images.txt' file.")
+    else: 
+        logging.info("No new ICAOs. Nothing to do.")
