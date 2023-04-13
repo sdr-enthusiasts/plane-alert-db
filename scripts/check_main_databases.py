@@ -161,9 +161,9 @@ if __name__ == "__main__":
 
     # Preform database checks.
     contains_duplicate_ICAOs(main_df)
-    # contains_valid_ICAO_hexes(
-    #     main_df
-    # )  # NOTE: This is commented out because there are invalid values in the database.
+    contains_valid_ICAO_hexes(
+        main_df
+    )
     # contains_duplicate_regs(
     #     main_df
     # )  # NOTE: This is commented out because there are duplicates.
