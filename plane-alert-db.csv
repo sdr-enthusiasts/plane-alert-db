@@ -374,8 +374,8 @@ A9A862,N721MM,Mandalay Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,The House
 A8184A,N620X,Massachusetts Mutual Life Insurance Co,Dassault Falcon 900LX,F900,Civ,Insurance,Bizjet,Reverse Gambling,As Seen on TV,https://w.wiki/4qPz
 C0203E,C-FMFL,McCain Foods,Dassault Falcon 2000LX,F2TH,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
 C02F67,C-FRYS,McCain Foods,Learjet 75,LJ75,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
-A17DD1,N1955M,McDonalds Corp,Bombardier Global 6000,GLEX,Civ,Would You Like Fries With That ?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
-A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That ?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
+A17DD1,N1955M,McDonalds Corp,Bombardier Global 6000,GLEX,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
+A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
 345595,EC-MSC,Mercadona SA,Bombardier Global 6000,GLEX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
 343359,EC-LBB,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
 3423D4,EC-JQE,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
@@ -1802,13 +1802,13 @@ A53A95,N436NA,NASA,HC-130H Hercules,C130,Gov,Sce To Aux,Airborne Science,Wallops
 AB0479,N809NA,NASA,Lockheed ER-2,U2,Gov,Sce To Aux,Failure Is Not An Option,Earth Resources,Distinctive,https://www.nasa.gov
 AAF954,N806NA,NASA,Lockheed ER-2,U2,Gov,Sce To Aux,Failure Is Not An Option,Earth Resources,Distinctive,https://www.nasa.gov
 A51316,N426NA,NASA,Lockheed P-3B Orion,P3,Gov,Sce To Aux,Airborne Science,Wallops Flight Facility,Distinctive,https://www.nasa.gov
-ABEDBC,N868NA,NASA,McDonnell Douglas FA-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-ABB3AA,N853NA,NASA,McDonnell Douglas FA-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-ABA885,N850NA,NASA,McDonnell Douglas FA-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-AB8C2B,N843NA,NASA,McDonnell Douglas FA-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-ABF173,N869NA,NASA,McDonnell Douglas FA-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-ABEA05,N867NA,NASA,McDonnell Douglas FA-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-AB9750,N846NA,NASA,McDonnell Douglas FA-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+ABEDBC,N868NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+ABB3AA,N853NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+ABA885,N850NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+AB8C2B,N843NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+ABF173,N869NA,NASA,McDonnell Douglas F/A-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+ABEA05,N867NA,NASA,McDonnell Douglas F/A-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
+AB9750,N846NA,NASA,McDonnell Douglas F/A-18B Hornet,F18H,Gov,Sce To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 A545BA,N439NA,NASA,NC-130H Hercules,C130,Gov,Sce To Aux,Airborne Science,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 AB6FD1,N836NA,NASA,NF-15B Eagle,F15,Gov,Sce To Aux,Pilot Proficiency,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 AD7754,N967NA,NASA,Northrop T-38N Talon,T38,Gov,Sce To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
@@ -1858,13 +1858,13 @@ AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Od
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://youtu.be/q2Nv3KVKHWI
-AE0415,164388,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0416,164404,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0413,164386,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE040F,162784,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0419,164407,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0415,164388,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0416,164404,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0413,164386,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE040F,162784,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0419,164407,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,You Aint Seen Me Right,Distinctive,https://tinyurl.com/3mz2jytd
-AE040D,162782,USAF,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE040D,162782,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 ADFEB6,75-0125,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB5,74-0787,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
@@ -6720,13 +6720,13 @@ A030FC,SMR-2202,Sri Lankan Air Force,B200 Super King Air,BE20,Mil,Maritime Patro
 4B7FC3,T-367,Swiss Air Force,Eurocopter EC635 P2+,EC35,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7FD2,T-352,Swiss Air Force,Eurocopter EC635 VIP,EC35,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7FD3,T-351,Swiss Air Force,Eurocopter EC635 VIP,EC35,Mil,Neutral,Chopper,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F96,J-5004,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F98,J-5002,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F83,J-5023,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F99,J-5001,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F95,J-5005,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F8C,J-5014,Swiss Air Force,McDonnell Douglas FA-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7F7B,J-5236,Swiss Air Force,McDonnell Douglas FA-18D Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F96,J-5004,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F98,J-5002,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F83,J-5023,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F99,J-5001,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F95,J-5005,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F8C,J-5014,Swiss Air Force,McDonnell Douglas F/A-18C Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F7B,J-5236,Swiss Air Force,McDonnell Douglas F/A-18D Hornet,F18H,Mil,Neutral,Fighter Jet,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7FA9,A-106,Swiss Air Force,Pilatus PC-21,PC21,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7FAD,A-102,Swiss Air Force,Pilatus PC-21,PC21,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
 4B7F5A,A-108,Swiss Air Force,Pilatus PC-21,PC21,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
@@ -12643,104 +12643,104 @@ C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizje
 43C61A,ZZ502,Royal Navy Fleet Air Arm,King Air Avenger T1,B350,Mil,L-Plate,Training Wheels,Naval Aviation,Watch Me Fly,https://en.wikipedia.org/wiki/Fleet_Air_Arm
 43C619,ZZ501,Royal Navy Fleet Air Arm,King Air Avenger T1,B350,Mil,L-Plate,Training Wheels,Naval Aviation,Watch Me Fly,https://en.wikipedia.org/wiki/Fleet_Air_Arm
 43C618,ZZ500,Royal Navy Fleet Air Arm,King Air Avenger T1,B350,Mil,L-Plate,Training Wheels,Naval Aviation,Watch Me Fly,https://en.wikipedia.org/wiki/Fleet_Air_Arm
-4B3AB5,HB-WGB,AlpineGyro Ltd,DTA J-RO,GYRO,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-4063AB,G-CGNC,Bath Leasing And Supplies LtD,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-4076C3,G-CLAZ,Detoney Ltd,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-405F48,G-DSMA,DSMA Flying Group,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,http://www.pmaviationusa.com/
-4B4146,HB-YSS,Fly Vision GmbH,ArrowCopter,GYRO,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/FD-Composites_ArrowCopter
-4065FC,G-KMKM,Golf Kilo Mike,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-405DA2,G-CFLM,JAG Flyers,P & M Aviation Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-4072B4,G-MSGI,Orion Cotswold Aviation Ltd,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-485221,PH-4M5,Private,3i Sky Arrow 450T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://w.wiki/4o4G
-406D2E,G-CINC,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
-401206,G-BXGT,Private,3i Sky Arrow 650T,SKAR,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
-403E4D,G-CIAO,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://w.wiki/4o4G
-484AB5,PH-WUR,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://w.wiki/4o4G
-4047BF,G-CBTB,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://w.wiki/4o4G
-404923,G-IOIA,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
-403C4F,G-SKYT,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing ?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
-407061,G-WADF,Private,Air Creation Tanarg 912S,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
-406EF0,G-MICX,Private,Air Creation Tanarg 912S,ULAC,Civ,Ultralight,People Be Crazy,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
-406773,G-CHFT,Private,Air Creation Tanarg 912S,ULAC,Civ,Ultralight,People Be Crazy,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
-C0010A,C-FAKF,Private,AutoGyro Europe Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-404418,G-ENEE,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/CFM_Shadow
-4039A3,G-WHOG,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/CFM_Shadow
-40395D,G-MYTY,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/CFM_Shadow
-4044E9,G-BZSX,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quantum
-404102,G-BYFF,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quantum
-403AA4,G-MYWW,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quantum
-4015BB,G-ASFX,Private,Druine Turbulent D.31,D31,Civ,Eensy Weensy,People Be Crazy,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Druine_Turbulent
-4CA7BB,EI-EES,Private,ELA Aviacion ELA 07 Gyrocopter R,ELA7,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-3D0FB6,D-EEEW,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing ?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
-3D16A0,D-EGUY,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing ?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
-3D0FB7,D-EEEX,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing ?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
-390EFB,F-PDHZ,Private,Hubertus Verhees Delta 2B,ZZZZ,Civ,Flying Wing,Nope Mobile,You Came Here In That Thing,You came here in that thing ?,https://www.verheesengineering.com/d2-twoseater/
-407011,G-CJDW,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406251,G-CGLF,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-4062FC,G-JWNW,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40629C,G-YYRO,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-407B75,G-CLZZ,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-4076FC,G-OWLS,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-406433,G-CGRZ,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-48648B,PH-0B1,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-407096,G-HOWD,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-4072B3,G-IROX,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-407B25,G-CLTE,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-4079E2,G-LYFT,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
-404CEC,G-CDGD,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quik
-404A7D,G-CCOG,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quik
-404A82,G-CCOK,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Pegasus_Quik
-40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406609,G-RCHL,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-407823,G-CLFJ,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406CB1,G-CIJO,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-40676E,G-CHGA,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
-406B3A,G-CIEM,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,http://www.pmaviationusa.com/
-405F7F,G-LPIN,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,http://www.pmaviationusa.com/
-406147,G-OTOP,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,http://www.pmaviationusa.com/
-40434F,G-XRAF,Private,Raj Hamsa X-Air 582,XAIR,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Raj_Hamsa_X-Air
-4048D3,G-JEJE,Private,Rotary Air Force RAF 2000 GTX-SE,RAF2,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://w.wiki/4o3U
-4072B1,G-FLIA,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-4071F1,G-MARL,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://www.rotorsport.org
-406F4C,G-TGLG,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406AAD,G-CICM,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40627A,G-YROZ,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://www.rotorsport.org
-4062C2,G-CGJD,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406D5E,G-CIPP,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-407234,G-CJTC,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-407053,G-GYRA,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406727,G-MRLS,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40628E,G-OTTY,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406B25,G-YROL,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40698B,G-RDNY,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-407855,G-VMSO,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-405DCD,G-CFKA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-401257,G-JBRE,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-405A3B,G-DADA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40799F,G-LFLF,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406EEF,G-HATB,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406DFD,G-HOTC,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406AFB,G-CIGS,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40663F,G-CGZM,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-4065AB,G-PAFF,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406216,G-CGGV,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-406252,G-CGLM,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-40621A,G-CGGW,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-4AE2A9,SE-XUI,Private,SAAB MFI-15,MF17,Civ,Basic Cable,Nope Mobile,You Came Here In That Thing,You came here in that thing ?,https://w.wiki/4ydC
-4029C6,G-MTOO,Private,Solar Wings Pegasus XL-R,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing ?,https://w.wiki/4o3P
-4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
-44A7D0,OO-I20,Private,Spacek Minisport SD-1 TD,ZZZZ,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Spacek_SD-1_Minisport
-401CF9,G-BFID,Private,Taylor JT-2 Titch,JT2,Civ,Midget Racer,Teeny Tiny,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Taylor_Titch
-44C2C1,OO-PVA,Private,Tipsy Nipper T66,NIPR,Civ,Wee,Eensy Weensy,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Tipsy_Nipper
-48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing ?,https://en.wikipedia.org/wiki/Velocity_XL
-406286,G-IROS,SSN Hampshire,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,https://youtu.be/xFozWDLne7c
-A77B6F,N581UP,United Parcel Service,Boeing 747,B744,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing ?,https://www.ups.com/gb/en/Home.page
-A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing ?,https://www.ups.com/gb/en/Home.page
-406E4D,G-CIRH,Willy Rose Technology,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing ?,http://www.magnigyro.it/en/products/m24-orion
+4B3AB5,HB-WGB,AlpineGyro Ltd,DTA J-RO,GYRO,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+4063AB,G-CGNC,Bath Leasing And Supplies LtD,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+4076C3,G-CLAZ,Detoney Ltd,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+405F48,G-DSMA,DSMA Flying Group,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,http://www.pmaviationusa.com/
+4B4146,HB-YSS,Fly Vision GmbH,ArrowCopter,GYRO,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/FD-Composites_ArrowCopter
+4065FC,G-KMKM,Golf Kilo Mike,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+405DA2,G-CFLM,JAG Flyers,P & M Aviation Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+4072B4,G-MSGI,Orion Cotswold Aviation Ltd,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+485221,PH-4M5,Private,3i Sky Arrow 450T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+406D2E,G-CINC,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+401206,G-BXGT,Private,3i Sky Arrow 650T,SKAR,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+403E4D,G-CIAO,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+484AB5,PH-WUR,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+4047BF,G-CBTB,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+404923,G-IOIA,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+403C4F,G-SKYT,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+407061,G-WADF,Private,Air Creation Tanarg 912S,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
+406EF0,G-MICX,Private,Air Creation Tanarg 912S,ULAC,Civ,Ultralight,People Be Crazy,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
+406773,G-CHFT,Private,Air Creation Tanarg 912S,ULAC,Civ,Ultralight,People Be Crazy,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
+C0010A,C-FAKF,Private,AutoGyro Europe Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+404418,G-ENEE,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
+4039A3,G-WHOG,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
+40395D,G-MYTY,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
+4044E9,G-BZSX,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quantum
+404102,G-BYFF,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quantum
+403AA4,G-MYWW,Private,Cyclone Airsports Pegasus Quantum,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quantum
+4015BB,G-ASFX,Private,Druine Turbulent D.31,D31,Civ,Eensy Weensy,People Be Crazy,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Druine_Turbulent
+4CA7BB,EI-EES,Private,ELA Aviacion ELA 07 Gyrocopter R,ELA7,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+3D0FB6,D-EEEW,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
+3D16A0,D-EGUY,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
+3D0FB7,D-EEEX,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
+390EFB,F-PDHZ,Private,Hubertus Verhees Delta 2B,ZZZZ,Civ,Flying Wing,Nope Mobile,You Came Here In That Thing,You came here in that thing?,https://www.verheesengineering.com/d2-twoseater/
+407011,G-CJDW,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406251,G-CGLF,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+4062FC,G-JWNW,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40629C,G-YYRO,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+407B75,G-CLZZ,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+4076FC,G-OWLS,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+406433,G-CGRZ,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+48648B,PH-0B1,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+407096,G-HOWD,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+4072B3,G-IROX,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+407B25,G-CLTE,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+4079E2,G-LYFT,Private,Magni Gyro M-24 Orion C Plus,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
+404CEC,G-CDGD,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quik
+404A7D,G-CCOG,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quik
+404A82,G-CCOK,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quik
+40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406609,G-RCHL,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+407823,G-CLFJ,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406CB1,G-CIJO,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406866,G-MABL,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+40676E,G-CHGA,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+406B3A,G-CIEM,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,http://www.pmaviationusa.com/
+405F7F,G-LPIN,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,http://www.pmaviationusa.com/
+406147,G-OTOP,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,http://www.pmaviationusa.com/
+40434F,G-XRAF,Private,Raj Hamsa X-Air 582,XAIR,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Raj_Hamsa_X-Air
+4048D3,G-JEJE,Private,Rotary Air Force RAF 2000 GTX-SE,RAF2,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://w.wiki/4o3U
+4072B1,G-FLIA,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+4071F1,G-MARL,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://www.rotorsport.org
+406F4C,G-TGLG,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406AAD,G-CICM,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40627A,G-YROZ,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://www.rotorsport.org
+4062C2,G-CGJD,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406D5E,G-CIPP,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+407234,G-CJTC,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+407053,G-GYRA,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406727,G-MRLS,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40628E,G-OTTY,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406B25,G-YROL,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40698B,G-RDNY,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+407855,G-VMSO,Private,RotorSport UK Cavalon,CLON,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+405DCD,G-CFKA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+401257,G-JBRE,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+405A3B,G-DADA,Private,RotorSport UK MT-03,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40799F,G-LFLF,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406EEF,G-HATB,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406DFD,G-HOTC,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406AFB,G-CIGS,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40663F,G-CGZM,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+4065AB,G-PAFF,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406216,G-CGGV,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+406252,G-CGLM,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+40621A,G-CGGW,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+4AE2A9,SE-XUI,Private,SAAB MFI-15,MF17,Civ,Basic Cable,Nope Mobile,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4ydC
+4029C6,G-MTOO,Private,Solar Wings Pegasus XL-R,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://w.wiki/4o3P
+4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
+44A7D0,OO-I20,Private,Spacek Minisport SD-1 TD,ZZZZ,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Spacek_SD-1_Minisport
+401CF9,G-BFID,Private,Taylor JT-2 Titch,JT2,Civ,Midget Racer,Teeny Tiny,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Taylor_Titch
+44C2C1,OO-PVA,Private,Tipsy Nipper T66,NIPR,Civ,Wee,Eensy Weensy,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Tipsy_Nipper
+48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Velocity_XL
+406286,G-IROS,SSN Hampshire,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
+A77B6F,N581UP,United Parcel Service,Boeing 747,B744,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
+A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
+406E4D,G-CIRH,Willy Rose Technology,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
 447D10,7L-WN,Austrian Air Force,Eurofighter Typhoon,EUFI,Mil,Danger Zone,Typhoon,Delta Wing,Zoomies,https://en.wikipedia.org/wiki/Austrian_Air_Force
 447D0F,7L-WM,Austrian Air Force,Eurofighter Typhoon,EUFI,Mil,Danger Zone,Typhoon,Delta Wing,Zoomies,https://en.wikipedia.org/wiki/Austrian_Air_Force
 447D0E,7L-WL,Austrian Air Force,Eurofighter Typhoon,EUFI,Mil,Danger Zone,Typhoon,Delta Wing,Zoomies,https://en.wikipedia.org/wiki/Austrian_Air_Force
@@ -12870,12 +12870,12 @@ A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,F
 43CAEE,ZK340,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43CB0B,ZK382,Royal Air Force,Eurofighter Typhoon T3,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
 43C741,ZK379,Royal Air Force,Eurofighter Typhoon T3,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://en.wikipedia.org/wiki/Eurofighter_Typhoon
-480508,F-009,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
-480501,F-002,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
-48050D,F-014,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
-48050A,F-011,Royal Netherlands Air Force,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
-AF351F,13-5067,USAF,F35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
-A00050,N1DC,Jerry Jones,Gulfstream G-V,GLF5,Civ,NFL,The Other Football,America's Team,Don't you know who I am ?,https://en.wikipedia.org/wiki/Dallas_Cowboys
+480508,F-009,Royal Netherlands Air Force,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
+480501,F-002,Royal Netherlands Air Force,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
+48050D,F-014,Royal Netherlands Air Force,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
+48050A,F-011,Royal Netherlands Air Force,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,Hash House Harrier,Zoomies,https://www.defensie.nl/organisatie/luchtmacht
+AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
+A00050,N1DC,Jerry Jones,Gulfstream G-V,GLF5,Civ,NFL,The Other Football,America's Team,Don't you know who I am?,https://en.wikipedia.org/wiki/Dallas_Cowboys
 AE543E,76-22558,United States Army,C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Beechcraft_C-12_Huron
 A12F83,N176AM,Spectrum Health,Sikorsky S-76 C,S76,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.spectrumhealth.org/
 030012,OK1,Botswana Defence Force,Bombardier BD-700-1A10 Global Express XRS,GLEX,Gov,Batswana Air Force One,Government,VIP Flight Squadron,Governments,https://www.planelogger.com/Aircraft/Registration/OK1/548551
@@ -12919,3 +12919,12 @@ AE5E48,??????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,One Ping Only Vasil
 AE5BAB,??????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/6Su9
 A3DC2A,N348MS,Virgin Galactic,White Knight Two,WHK2,Civ,Spaceplane Carrier,Up Up And Away,Nope Mobile,Distinctive,https://en.wikipedia.org/wiki/Scaled_Composites_White_Knight_Two
 A4D979,N411ST,Benson Football LLC,Bombardier Challenger 300,CL30,Civ,NFL,The Other Football,Geaux Saints,Football,https://w.wiki/6Wms
+AE613C,165574,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6140,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6142,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6154,164559,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6155,165587,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6156,165575,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE616D,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6171,165569,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6173,163879,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
