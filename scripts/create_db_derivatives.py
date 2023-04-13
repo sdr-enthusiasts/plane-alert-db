@@ -91,29 +91,29 @@ if __name__ == "__main__":
     logging.info(
         "Check for new ICAOs in DB files and add them to the images reference file..."
     )
-    plane_alert_db = (
+    plane_alert_df = (
         pd.concat([df["$ICAO"], twitter_blocked_df["$ICAO"], ukraine_df["$ICAO"]])
         .drop_duplicates()
         .reset_index(drop=True)
     )
-    logging.info(f"ICAOs retrieved from DB files: ({plane_alert_db.shape[0]}).")
+    logging.info(f"ICAOs retrieved from DB files: ({plane_alert_df.shape[0]}).")
     logging.info(f"ICAOs retrieved from 'plane_images.txt ({images_df.shape[0]}).")
-    new_ICAOs = plane_alert_db[~plane_alert_db.isin(images_df["$ICAO"])]
-    if new_ICAOs.shape[0] > 0:
+    new_ICAOs_df = plane_alert_df[~plane_alert_df.isin(images_df["$ICAO"])]
+    if new_ICAOs_df.shape[0] > 0:
         logging.info(
             "New ICAOs found ({}):\n{}".format(
-                new_ICAOs.shape[0],
-                new_ICAOs.head(5).to_string(header=False, index=False),
+                new_ICAOs_df.shape[0],
+                new_ICAOs_df.head(5).to_string(header=False, index=False),
             )
         )
         logging.info("Appending new ICAOs in 'plane_images.txt' file...")
-        plane_images_db = pd.merge(
+        plane_images_df = pd.merge(
             images_df,
-            new_ICAOs,
+            new_ICAOs_df,
             how="outer",
             on="$ICAO",
         )
-        plane_images_db.to_csv(
+        plane_images_df.to_csv(
             "plane_images.txt",
             mode="wb",
             index=False,
@@ -121,6 +121,6 @@ if __name__ == "__main__":
             encoding="utf8",
             lineterminator="\n",
         )
-        logging.info("ICAOs successfully saved in 'plane_images.txt' file.")
+        logging.info("New ICAOs successfully saved in 'plane_images.txt' file.")
     else:
         logging.info("No new ICAOs. Nothing to do.")
