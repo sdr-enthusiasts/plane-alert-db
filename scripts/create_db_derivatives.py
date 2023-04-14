@@ -119,7 +119,6 @@ if __name__ == "__main__":
             index=False,
             header=True,
             encoding="utf8",
-            lineterminator="\n",
         )
         logging.info("New ICAOs successfully saved in 'plane_images.txt' file.")
     else:
