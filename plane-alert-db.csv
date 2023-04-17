@@ -3143,9 +3143,11 @@ A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And
 3F232B,D-LZFN,Private,Zeppelin LZ N07-100 Airship,SHIP,Civ,Gas Bag,Airship,No Smoking Please,Gas Bags,https://en.wikipedia.org/wiki/Zeppelin_NT
 800C3D,VT-ALW,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 800585,VT-ALV,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
-E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Sebastian Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
-E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Sebastian Piñera,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
-0AC3A8,FAC0001,Colombian Air Force,Boeing 737-BBJ,B737,Gov,Columbia,Ivan Duque Marquez,Government,Governments,https://w.wiki/4meC
+E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
+E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
+E8065E,E-304,Chilean Army,Cessna Citation Sovereign,C680,Mil,Chile,Ejército de Chile,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Army
+0AC3A8,FAC0001,Colombian Air Force,Boeing 737-BBJ,B737,Gov,Columbia,Gustavo Petro,Government,Governments,https://w.wiki/4meC
+0ACA78,FAC1219,Colombian Air Force,Boeing 737NG-732,B737,Gov,Columbia,Fuerza Aérea Colombiana,Government,Governments,https://w.wiki/4meC
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
 4241FE,VP-FMC,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
 4241FC,VP-FBO,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
@@ -10337,8 +10339,9 @@ AE046A,162164,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard D
 AE0464,162149,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0453,162160,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0462,162147,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
-AE045A,162140,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
+AE0451,162157,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0455,162170,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
+AE045A,162140,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE01C1,165151,United States Navy,Gulfstream C-20G,GLF2,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
 AE10C2,VV100,United States Navy,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
 AE151A,166377,United States Navy,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
@@ -12907,6 +12910,7 @@ AE61C8,761545,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadro
 AE61C9,761546,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61CE,761551,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61CF,761552,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61D0,761554,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61DB,761572,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61DF,761578,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61E0,761579,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
