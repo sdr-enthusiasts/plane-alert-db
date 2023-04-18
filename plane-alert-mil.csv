@@ -556,7 +556,8 @@ C02978,C-FPSH,Royal Air Force Falcons,Dornier Do 228-202,D228,Mil,Display Team,P
 3F9911,50+17,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3EB90F,50+82,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3FAE58,50+76,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Sebastian Piñera,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
+E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
+E8065E,E-304,Chilean Army,Cessna Citation Sovereign,C680,Mil,Chile,Ejército de Chile,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Army
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
 006015,FAM-002,Mozambique Air Force,Hawker 125 850XP,H25B,Mil,Bizjet,Government,Mozambique,Governments,https://w.wiki/4nDc
 E880E8,FAP3001,Paraguayan Air Force,Cessna Citation Sovereign,C680,Mil,VIP Transport,Government,Paraguay,Governments,https://w.wiki/4n2D
@@ -4719,8 +4720,9 @@ AE046A,162164,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard D
 AE0464,162149,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0453,162160,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0462,162147,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
-AE045A,162140,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
+AE0451,162157,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0455,162170,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
+AE045A,162140,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE01C1,165151,United States Navy,Gulfstream C-20G,GLF2,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
 AE10C2,VV100,United States Navy,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
 AE151A,166377,United States Navy,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
@@ -7091,6 +7093,7 @@ AE61C8,761545,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadro
 AE61C9,761546,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61CE,761551,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61CF,761552,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61D0,761554,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61DB,761572,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61DF,761578,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61E0,761579,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
@@ -7110,3 +7113,4 @@ AE6156,165575,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,
 AE616D,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6171,165569,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6173,163879,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE6177,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
