@@ -1,5 +1,5 @@
 documentation: readme.md
-images: plane_images.txt
+images: plane_images.csv
 ukraine: plane-alert-ukraine.csv
 twitter: plane-alert-twitter.csv
 planes: "*.csv"

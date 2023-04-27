@@ -3,7 +3,7 @@
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **<https://github.com/kx1t/docker-planefence>**.
 
 > **Warning**
-> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.txt](plane_images.txt) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
+> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.csv](plane_images.csv) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
 
 ## TOC <!-- omit in toc -->
 
@@ -23,7 +23,7 @@ These aircraft are divided into five main databases:
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (52)
 -   [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv): A list of aircraft that will cause your Twitter account to be banned when used with `docker-planefence`. **Please use it with care**. (9)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (24)
--   [plane_images.txt](plane_images.txt): A accompanying list that contains aircraft images. (12881)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12881)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
@@ -32,7 +32,7 @@ Based on these main databases, several derivative databases are created using a 
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (862)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1590)
 
-A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.txt](plane_images.txt) database. **Please consider this experimental, do not come to rely on any of the image links**
+A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
 -   [plane-alert-db-images.csv](plane-alert-db-images.csv)
 -   [plane-alert-twitter-blocked-images.csv](plane-alert-twitter-blocked.csv)

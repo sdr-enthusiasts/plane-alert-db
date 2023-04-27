@@ -7,7 +7,7 @@ on:
       - "plane-alert-pia.csv"
       - "plane-alert-twitter-blocked.csv"
       - "plane-alert-ukraine.csv"
-      - "plane_images.txt"
+      - "plane_images.csv"
 
 jobs:
   checkMainDatabases:

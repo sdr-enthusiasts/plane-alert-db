@@ -1,6 +1,6 @@
 """This script creates (derivative) category and images CSV database files from the main
 'plane-alert-db.csv' database file. The categories are created based on the 'CMPG'
-column, while images are added using the 'plane_images.txt' reference file. It also
+column, while images are added using the 'plane_images.csv' reference file. It also
 creates the 'plane-alert-twitter-blocked-images.csv' and 
 'plane-alert-ukraine-images.csv' database files.
 """
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     logging.info("Main csv file read successfully.")
 
     logging.info("Reading the images reference file...")
-    images_df = pd.read_csv("plane_images.txt")
+    images_df = pd.read_csv("plane_images.csv")
     logging.info("Images reference file read successfully.")
 
     logging.info("Creating the category and category images CSV files...")
@@ -97,7 +97,7 @@ if __name__ == "__main__":
         .reset_index(drop=True)
     )
     logging.info(f"ICAOs retrieved from DB files: ({plane_alert_df.shape[0]}).")
-    logging.info(f"ICAOs retrieved from 'plane_images.txt ({images_df.shape[0]}).")
+    logging.info(f"ICAOs retrieved from 'plane_images.csv ({images_df.shape[0]}).")
     new_ICAOs_df = plane_alert_df[~plane_alert_df.isin(images_df["$ICAO"])]
     if new_ICAOs_df.shape[0] > 0:
         logging.info(
@@ -106,7 +106,7 @@ if __name__ == "__main__":
                 new_ICAOs_df.head(5).to_string(header=False, index=False),
             )
         )
-        logging.info("Appending new ICAOs in 'plane_images.txt' file...")
+        logging.info("Appending new ICAOs in 'plane_images.csv' file...")
         plane_images_df = pd.merge(
             images_df,
             new_ICAOs_df,
@@ -114,13 +114,13 @@ if __name__ == "__main__":
             on="$ICAO",
         )
         plane_images_df.to_csv(
-            "plane_images.txt",
+            "plane_images.csv",
             mode="wb",
             index=False,
             header=True,
             encoding="utf8",
             lineterminator="\n",
         )
-        logging.info("New ICAOs successfully saved in 'plane_images.txt' file.")
+        logging.info("New ICAOs successfully saved in 'plane_images.csv' file.")
     else:
         logging.info("No new ICAOs. Nothing to do.")

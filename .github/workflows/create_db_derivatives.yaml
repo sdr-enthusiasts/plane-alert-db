@@ -10,7 +10,7 @@ on:
       - "plane-alert-db.csv"
       - "plane-alert-twitter-blocked.csv"
       - "plane-alert-ukraine.csv"
-      - "plane_images.txt"
+      - "plane_images.csv"
       - "scripts/create_db_derivatives.py"
 
 jobs:

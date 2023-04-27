@@ -14,7 +14,7 @@ logging.basicConfig(
 MAIN_DATABASE_NAME = "plane-alert-db.csv"
 TWITTER_BLOCKED_DATABASE_NAME = "plane-alert-twitter-blocked.csv"
 UKRAINE_DATABASE_NAME = "plane-alert-ukraine.csv"
-PLANE_IMAGES_DATABASE_NAME = "plane_images.txt"
+PLANE_IMAGES_DATABASE_NAME = "plane_images.csv"
 
 
 def is_valid_url(url, allow_nans=False):
@@ -215,9 +215,9 @@ if __name__ == "__main__":
     logging.info("The 'plane-alert-ukraine' database is valid.")
 
     ##########################################
-    # Check 'plane_images.txt' db.           #
+    # Check 'plane_images.csv' db.           #
     ##########################################
-    logging.info("Checking the 'plane_images.txt' database...")
+    logging.info("Checking the 'plane_images.csv' database...")
     try:
         images_df = pd.read_csv(PLANE_IMAGES_DATABASE_NAME)
         images_df.name = PLANE_IMAGES_DATABASE_NAME
@@ -247,9 +247,9 @@ if __name__ == "__main__":
                 ]
             )
     if len(bad_links) > 0:
-        logging.error("The 'plane_images.txt' database has invalid links.")
+        logging.error("The 'plane_images.csv' database has invalid links.")
         sys.stdout.write(
-            f"The 'plane_images.txt' database has invalid links: {bad_links}\n"
+            f"The 'plane_images.csv' database has invalid links: {bad_links}\n"
         )
         sys.exit(1)
-    logging.info("The 'plane_images.txt' database is valid.")
+    logging.info("The 'plane_images.csv' database is valid.")
