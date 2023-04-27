@@ -17,7 +17,7 @@ MAIN_DB_FILES = [
     "plane-alert-pia.csv",
     "plane-alert-twitter-blocked.csv",
     "plane-alert-ukraine.csv",
-    "plane_images.txt",
+    "plane_images.csv",
 ]
 OUTPUT_FILE = os.getenv("GITHUB_OUTPUT")
 
