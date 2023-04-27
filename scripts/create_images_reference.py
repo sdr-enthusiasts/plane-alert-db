@@ -1,5 +1,5 @@
 """This script retrieves the plane images in the 'plane-alert-db-images.csv' database 
-and 'planepix.txt' file. It stores these images in a new 'plane_images.txt' reference 
+and 'planepix.txt' file. It stores these images in a new 'plane_images.csv' reference 
 file to use later to create the 'images' CSV database files.
 
 This script can be removed if we know that the new GitHub action results are correct.
@@ -91,6 +91,6 @@ if __name__ == "__main__":
         logging.info("Extra '#ImageLink4' column added.")
     plane_alert_db_images.columns = columns[: plane_alert_db_images.columns.shape[0]]
 
-    logging.info("Saving found images in 'plane_images.txt' file...")
-    plane_alert_db_images.to_csv("plane_images.txt", index=False)
-    logging.info("Images successfully saved in 'plane_images.txt' file.")
+    logging.info("Saving found images in 'plane_images.csv' file...")
+    plane_alert_db_images.to_csv("plane_images.csv", index=False)
+    logging.info("Images successfully saved in 'plane_images.csv' file.")
