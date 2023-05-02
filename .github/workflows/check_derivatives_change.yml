@@ -27,6 +27,7 @@ jobs:
             !plane-alert-pia.csv
             !plane-alert-twitter-blocked.csv
             !plane-alert-ukraine.csv
+            !plane_images.csv
           separator: ","
 
       - uses: actions/setup-python@v4
