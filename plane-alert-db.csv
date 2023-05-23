@@ -811,8 +811,8 @@ AC6BC5,N9PF,Private,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Bus
 89605B,A6-AIN,Royal Jet,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 8960C5,A6-RJY,Royal Jet,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 896449,A6-RJV,Royal Jet,Boeing 737NG-BBJ2,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-75026D,9M-NAB,Royal Malaysian Air Force,Airbus A320-214,A320,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-750156,9M-NAA,Royal Malaysian Air Force,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+75026D,9M-NAB,Royal Malaysian Air Force,Airbus A320-214,A320,Gov,Malaysia,Airbus Corporate Jet,Government,Governments,https://xkcd.com/1732/
+750156,9M-NAA,Royal Malaysian Air Force,Airbus ACJ319-115X,A319,Gov,Malaysia,Airbus Corporate Jet,Government,Governments,https://xkcd.com/1732/
 151D41,RA-73025,Russia State Transport Company,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 151D42,RA-73026,Russia State Transport Company,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AA43EA,N7600K,SAS Institute,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -3147,8 +3147,8 @@ A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And
 E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
 E8065E,E-304,Chilean Army,Cessna Citation Sovereign,C680,Mil,Chile,Ejército de Chile,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Army
-0AC3A8,FAC0001,Colombian Air Force,Boeing 737-BBJ,B737,Gov,Colombia,Gustavo Petro,Government,Governments,https://w.wiki/4meC
-0ACA78,FAC1219,Colombian Air Force,Boeing 737NG-732,B737,Gov,Colombia,Fuerza Aérea Colombiana,Government,Governments,https://w.wiki/4meC
+0AC3A8,FAC0001,Colombian Air Force,Boeing 737-BBJ,B737,Gov,Colombia,Gustavo Petro,Government,Governments,https://w.wiki/6kJE
+0ACA78,FAC1219,Colombian Air Force,Boeing 737NG-732,B737,Gov,Colombia,Fuerza Aérea Colombiana,Government,Governments,https://w.wiki/6kJE
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
 4241FE,VP-FMC,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
 4241FC,VP-FBO,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
@@ -5438,9 +5438,9 @@ AADD4B,FAH-015,Honduran Air Force,B200 Super King Air,BE20,Mil,Surveillance,Eye 
 8A2907,A-2907,Indonesian Air Force,CASA C-295 M,C295,Mil,Military Transport,Tactical Airlift,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 8A2908,A-2908,Indonesian Air Force,CASA C-295 M,C295,Mil,Military Transport,Tactical Airlift,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 8A066A,A-2910,Indonesian Air Force,CASA C-295 M,C295,Mil,Military Transport,Tactical Airlift,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
-E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counte Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
-E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counte Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
-E48B42,TT-3107,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counte Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
+E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
+E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
+E48B42,TT-3107,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 ABC123,HR-3604,Indonesian Air Force,Eurocopter AS365 N3 Dauphin,AS65,Mil,Military Transport,Chopper,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 8A05E5,HT-7205,Indonesian Air Force,Eurocopter EC225 LP,EC25,Mil,Military Transport,Chopper,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 8A041C,LD-1201,Indonesian Air Force,Grob G-120 TP-A,G12T,Mil,Basic Trainer,L-Plate,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
@@ -10185,181 +10185,181 @@ AE625D,169538,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Publi
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
-AE60E9,160472,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE1762,166760,United States Marine Corps,Bell Textron AH-1Z Viper,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE176F,166768,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE1818,167807,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE04AE,165740,United States Marine Corps,Cessna UC-35A Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE04AF,165741,United States Marine Corps,Cessna UC-35A Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1479,166767,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1439,166714,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1192,166474,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE093F,165939,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE0940,166374,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1193,166500,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1437,166712,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1438,166713,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE143A,166715,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE1478,166766,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE0698,165153,United States Marine Corps,Gulfstream C-20G,GLF2,Mil,USMC,Bizjet,Sensitive Mission,United States Navy,https://www.marines.mil/
-AE6A12,170037,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE07C8,165957,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE03D0,164180,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F99,168067,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F98,168066,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F97,168065,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2FA0,168074,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2FA1,168075,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE0407,165735,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE040A,165738,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE0409,165737,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE04A7,165809,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE08DA,166380,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE08DE,166382,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1194,166472,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1195,166473,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1256,166512,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE130C,166513,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE130D,166514,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE147F,166762,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1480,166763,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1481,166764,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1482,166765,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1524,167108,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1525,167109,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1526,167110,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1527,167111,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1BA8,167923,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1BA9,167924,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1BAA,167925,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1BAB,167926,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE1528,167112,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE20B7,167982,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE20B8,167983,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE20B9,167984,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE20BA,167985,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2652,167927,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9C,168070,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6A13,170038,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6A14,170039,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9E,168072,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9F,168073,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5735,169018,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B67,169225,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B68,169226,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B6A,169228,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B69,169227,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B6C,169230,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6042,169532,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6045,169535,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6046,169536,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6044,169534,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE6043,169533,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE5B6B,169229,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9D,168071,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9B,168069,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE2F9A,168068,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE04A8,165810,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE040B,165739,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE0408,165736,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Navy,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
-AE03DB,165316,United States Marine Corps,KC-130T Hercules,C130,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B5C,162012,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B5F,162479,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B60,162480,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B61,162481,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B62,162482,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B66,162487,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4E,161993,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4F,161994,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B50,161995,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B51,161996,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B53,162001,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B54,162002,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B55,162003,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B56,162004,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B57,162005,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B58,162006,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B59,162009,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B5A,162010,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B2A,161252,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B35,161381,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B36,161382,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B37,161383,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B38,161384,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B39,161385,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B3A,161386,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B3B,161387,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B3C,161388,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B3D,161389,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B3E,161391,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B49,161988,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4A,161989,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4B,161990,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4C,161991,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B4D,161992,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B5B,162011,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B71,162518,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B72,162520,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B73,162521,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B74,162522,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B75,162523,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4BB9,165503,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B7F,163073,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B80,163074,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B81,163075,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B82,163076,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B83,163077,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B85,163079,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B87,163081,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B88,163083,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B89,163084,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B8A,163085,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B8C,163087,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B8D,164358,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B8E,164359,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B8F,164360,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B90,164361,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B91,164362,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B92,164363,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B93,164364,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B44,164539,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9A,164776,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9B,164777,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9C,164778,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9D,164779,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9E,164780,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B9F,164781,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4BA0,164783,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4BA9,164860,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4BA8,165244,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4BAC,165245,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4B86,163080,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE5E76,169177,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE5E77,169178,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE5E79,169180,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE0865,159353,United States Marine Corps,Sikorsky VH-3D,S61,Mil,Marine One,POTUS,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DC,163554,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06E1,163553,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DD,163555,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DE,163556,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DF,163557,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DA,163558,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06DB,163559,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06D8,163560,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06D9,163561,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE06E0,163562,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4A7C,168208,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4A7A,168204,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE29FC,168205,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4A7B,168206,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE4A7D,168209,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE5C77,169319,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE6470,169539,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
-AE074E,163836,United States Marine Corps,UC-12M Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Navy,https://www.marines.mil/
+AE60E9,160472,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE1762,166760,United States Marine Corps,Bell Textron AH-1Z Viper,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE176F,166768,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE1818,167807,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE04AE,165740,United States Marine Corps,Cessna UC-35A Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE04AF,165741,United States Marine Corps,Cessna UC-35A Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1479,166767,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1439,166714,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1192,166474,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE093F,165939,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE0940,166374,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1193,166500,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1437,166712,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1438,166713,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE143A,166715,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE1478,166766,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE0698,165153,United States Marine Corps,Gulfstream C-20G,GLF2,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://www.marines.mil/
+AE6A12,170037,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE07C8,165957,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE03D0,164180,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F99,168067,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F98,168066,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F97,168065,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2FA0,168074,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2FA1,168075,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE0407,165735,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE040A,165738,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE0409,165737,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE04A7,165809,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE08DA,166380,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE08DE,166382,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1194,166472,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1195,166473,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1256,166512,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE130C,166513,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE130D,166514,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE147F,166762,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1480,166763,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1481,166764,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1482,166765,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1524,167108,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1525,167109,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1526,167110,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1527,167111,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1BA8,167923,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1BA9,167924,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1BAA,167925,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1BAB,167926,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE1528,167112,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE20B7,167982,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE20B8,167983,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE20B9,167984,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE20BA,167985,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2652,167927,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9C,168070,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6A13,170038,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6A14,170039,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9E,168072,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9F,168073,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5735,169018,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B67,169225,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B68,169226,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B6A,169228,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B69,169227,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B6C,169230,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6042,169532,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6045,169535,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6046,169536,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6044,169534,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE6043,169533,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE5B6B,169229,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9D,168071,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9B,168069,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE2F9A,168068,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE04A8,165810,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE040B,165739,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE0408,165736,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://en.wikipedia.org/wiki/Lockheed_Martin_KC-130
+AE03DB,165316,United States Marine Corps,KC-130T Hercules,C130,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B5C,162012,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B5F,162479,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B60,162480,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B61,162481,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B62,162482,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B66,162487,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4E,161993,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4F,161994,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B50,161995,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B51,161996,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B53,162001,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B54,162002,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B55,162003,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B56,162004,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B57,162005,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B58,162006,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B59,162009,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B5A,162010,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B2A,161252,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B35,161381,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B36,161382,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B37,161383,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B38,161384,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B39,161385,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B3A,161386,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B3B,161387,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B3C,161388,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B3D,161389,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B3E,161391,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B49,161988,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4A,161989,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4B,161990,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4C,161991,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B4D,161992,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B5B,162011,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B71,162518,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B72,162520,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B73,162521,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B74,162522,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B75,162523,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4BB9,165503,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B7F,163073,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B80,163074,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B81,163075,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B82,163076,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B83,163077,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B85,163079,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B87,163081,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B88,163083,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B89,163084,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B8A,163085,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B8C,163087,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B8D,164358,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B8E,164359,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B8F,164360,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B90,164361,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B91,164362,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B92,164363,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B93,164364,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B44,164539,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9A,164776,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9B,164777,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9C,164778,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9D,164779,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9E,164780,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B9F,164781,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4BA0,164783,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4BA9,164860,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4BA8,165244,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4BAC,165245,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4B86,163080,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE5E76,169177,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE5E77,169178,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE5E79,169180,United States Marine Corps,Sikorsky S-92 VH-92A,S92,Mil,Marine One,POTUS,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE0865,159353,United States Marine Corps,Sikorsky VH-3D,S61,Mil,Marine One,POTUS,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DC,163554,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06E1,163553,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DD,163555,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DE,163556,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DF,163557,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DA,163558,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06DB,163559,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06D8,163560,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06D9,163561,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE06E0,163562,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4A7C,168208,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4A7A,168204,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE29FC,168205,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4A7B,168206,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE4A7D,168209,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE5C77,169319,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE6470,169539,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE074E,163836,United States Marine Corps,UC-12M Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE60F2,161053,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
 AE6B99,169440,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
 AE6B98,169439,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
@@ -12957,7 +12957,7 @@ AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Figh
 A00050,N1DC,Jerry Jones,Gulfstream G-V,GLF5,Civ,NFL,The Other Football,America's Team,Don't you know who I am?,https://en.wikipedia.org/wiki/Dallas_Cowboys
 AE543E,76-22558,United States Army,C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://en.wikipedia.org/wiki/Beechcraft_C-12_Huron
 A12F83,N176AM,Spectrum Health,Sikorsky S-76 C,S76,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.spectrumhealth.org/
-030012,OK1,Botswana Defence Force,Bombardier BD-700-1A10 Global Express XRS,GLEX,Gov,Batswana Air Force One,Government,VIP Flight Squadron,Governments,https://www.planelogger.com/Aircraft/Registration/OK1/548551
+030012,OK1,Botswana Defence Force,Bombardier Global Express XRS,GLEX,Gov,Batswana Air Force One,Government,VIP Flight Squadron,Governments,https://www.planelogger.com/Aircraft/Registration/OK1/548551
 A4B960,N403SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
 A5085E,N423SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
 A5286F,N431SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
@@ -12978,18 +12978,18 @@ AE61C0,761531,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadro
 AE61C1,761532,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C2,761534,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C3,761535,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
-AE61C4,761536,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61C4,761536,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61C5,761537,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
-AE61C6,761541,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61C6,761541,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61C7,761544,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C8,761545,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
-AE61C9,761546,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61C9,761546,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61CE,761551,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61CF,761552,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61D0,761554,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
-AE61DB,761572,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61DB,761572,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61DF,761578,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
-AE61E0,761579,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61E0,761579,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61E2,761583,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61E3,810834,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 481050,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Choppa,Foutje Bedankt,Security On The Sea,Other Navies,https://w.wiki/4ygj
@@ -13025,5 +13025,7 @@ AE54F1,166223,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mi
 AE4A23,166154,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EDB,166094,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE6272,??????,United States Navy,McDonnell Douglas T-45 Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Navy,https://www.marines.mil/
+AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 3EAD63,54+39,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+7500C5,M48-02,Royal Malaysian Air Force,Bombardier Global 6000,GLEX,Gov,Malaysia,Must Be Nice,Government,Governments,https://w.wiki/6kH5
+0AC8BD,FAC3104,Colombian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Guns Guns Guns,Toucan Sam,Other Air Forces,https://w.wiki/6kJE
