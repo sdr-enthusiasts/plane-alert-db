@@ -4747,7 +4747,8 @@ AE03CB,163311,United States Navy,KC-130T Hercules,C130,Mil,USMC,Air2Air,Tactical
 AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1151,165991,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1146,165980,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE5D1F,163065,United States Navy,Sikorsky MH-53E Sea Stallion,H53,Mil,Chopper,Heavy Lift,Get To The Choppa,United States Navy,https://www.navy.mil
+AE5D1F,163065,United States Navy,Sikorsky MH-53E Sea Dragon,H53,Mil,Chopper,Heavy Lift,Get To The Choppa,United States Navy,https://www.navy.mil
+AE5D2D,164862,United States Navy,Sikorsky MH-53E Sea Dragon,H53,Mil,Chopper,Heavy Lift,Get To The Choppa,United States Navy,https://www.navy.mil
 AE4FB7,168103,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,CSAR,Maritime Patrol,MEDEVAC,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk
 AE2BFE,166587,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,CSAR,Maritime Patrol,MEDEVAC,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
@@ -5783,6 +5784,7 @@ AE4D69,10-0216,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,T
 AE4D68,10-0215,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4D67,10-0214,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4D66,10-0213,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
+AE4D9B,08-00262,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Toy Soldiers,https://w.wiki/4nFV
 AE49C8,09-9212,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE49C7,09-9211,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE49C6,09-9210,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -6265,6 +6267,7 @@ AE04F9,99-0404,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,
 AE0406,99-0402,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE010E,97-0401,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE010D,97-0400,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
+AE6CF2,20-1949,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE6962,18-1947,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE6961,18-1942,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE4DDD,11-0550,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
@@ -6377,9 +6380,12 @@ AE051D,68-0216,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Figh
 AE051A,68-0213,USAF,Lockheed C-5M Galaxy,C5M,Mil,Absolute Unit,Cargo,To Fly Fight And Win,USAF,https://www.airforce.com
 AE63F8,66-8404,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE63E5,65-10342,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE63E8,62-3702,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFFC8,64-13304,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFFC7,64-13301,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFFC5,64-13285,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE63F2,64-13176,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE63F3,68-8185,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE63F4,68-8154,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE63EA,63-8163,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE63E7,66-4332,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
@@ -6468,6 +6474,7 @@ ADFF62,69-7083,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 ADFF60,68-8191,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFF5F,68-8190,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFF5B,68-8135,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
+AE6404,60-0582,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE6406,64-13269,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 ADFF84,????,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE1EAA,08-3941,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
