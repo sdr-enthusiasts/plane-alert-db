@@ -181,7 +181,7 @@ A722E7,N559X,American Express Travel,Gulfstream G550,GLF5,Civ,That Will Do Nicel
 A88D52,N650GB,American Express Travel,Gulfstream G650 ER,GLF6,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 A71DBA,N558GA,Amgen,Gulfstream G550,GLF5,Civ,Bizjet,Genetics,Biotechnology,As Seen on TV,https://en.wikipedia.org/wiki/Amgen
 ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
-A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFL,The Other Football,Big Red,As Seen on TV,https://www.azcardinals.com/
+A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFL,The Other Football,Big Red,Football,https://www.azcardinals.com/
 3C992C,D-BFIL,Atlas Spare Parts,Embraer Legacy 450,E545,Civ,Digger,Excavator,Crane,As Seen on TV,https://www.atlasgmbh.com/en/products.aspx
 AA7093,N772BE,BAE Systems,Gulfstream G550,GLF5,Civ,Arms Company,Security,Missiles,As Seen on TV,https://www.baesystems.com/en/home
 A4ACBD,N400BC,Ball Corp,Bombardier Global 6000,GLEX,Civ,Bizjet,Glass Jars,In Space Manufacturing,As Seen on TV,https://en.wikipedia.org/wiki/Ball_Corporation
@@ -465,7 +465,7 @@ A46818,N383T,Target Corp,Gulfstream G550,GLF5,Civ,Dept Store,Bix Box Retailer,Da
 C032A0,C-FTEL,Telus Communications,Gulfstream G550,GLF5,Civ,Telecoms,Must Be Nice,Ring Ring,As Seen on TV,https://en.wikipedia.org/wiki/Telus
 A597EE,N46GX,Texas Instruments,Bombardier Global 6000,GLEX,Civ,Semiconductors,Transistors,Ti88,As Seen on TV,https://en.wikipedia.org/wiki/Texas_Instruments
 A5706F,N45GX,Texas Instruments,Bombardier Global 6000,GLEX,Civ,Semiconductors,Transistors,Ti88,As Seen on TV,https://en.wikipedia.org/wiki/Texas_Instruments
-ABE924,N867DA,The Arizona Cardinals,Boeing 777,B772,Civ,Cardinals,Red Wall ,NFL,As Seen on TV,https://www.azcardinals.com/
+ABE924,N867DA,The Arizona Cardinals,Boeing 777,B772,Civ,NFL,The Other Football,Big Red,Football,https://www.azcardinals.com/
 A0C99B,N15UC,The United Company,Gulfstream G500,GLF5,Civ,Bizjet,Climate Crisis,Fossil Fuels,As Seen on TV,https://www.unitedco.net/
 A38A05,N327TL,Thomas H Lee,Gulfstream G400SP,GLF4,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/4wop
 43E907,M-TSRI,Timpson,C90 King Air,BE9L,Civ,Shoe Repair,Key Cutting,Social Conscience,As Seen on TV,https://www.timpson.co.uk
@@ -13066,3 +13066,32 @@ AE4BEB,72-21483,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly F
 AE4BEC,74-22463,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE1849,71-20167,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE4EB7,168433,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+A33AFF,N307TC,Travis County Emergency Services,Leonardo AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Travis_County_STAR_Flight
+A33EB6,N308TC,Travis County Emergency Services,Leonardo AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Travis_County_STAR_Flight
+A594B0,N459MT,Med-Trans,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A69538,N523MT,Med-Trans,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A47A4F,N388PH,PHI Air Medical,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Air-Med-12-CHI-St-Joseph/
+AC9AD8,N911ET,UT Health East Texas,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,hhttps://www.helis.com/database/sqd/UT-Health-East-Texas/
+AC9FED,N912UT,UT Health East Texas,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
+ACA246,N913ET,UT Health East Texas,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
+ACA5FD,N914ET,UT Health East Texas,Eurocopter EC135 P1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
+A0B5DF,N145GF,Washington County Ems,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Washington-County-EMS-Texas/
+A58CE9,N457JD,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A58A19,N456TK,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A585CA,N455MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A58213,N454MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A57E5C,N453MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A57AA5,N452MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A234DB,N241MT,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A67527,N515MT,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A69181,N522MT,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+AC9B67,N911LL,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A51E5B,N429PH,PHI Air Medical,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Air-Med-12-CHI-St-Joseph/
+A53347,N434PH,PHI Air Medical,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Air-Med-12-CHI-St-Joseph/
+A502F5,N4219M,Bombero Aviation LLC,Air Tractor AT-802A,AT8T,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Air_Tractor_AT-802
+A399B0,N331BS,B & S Air Inc,Air Tractor AT-802A,AT8T,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Air_Tractor_AT-802
+A0DCD6,N155AV,Teton Leasing LLC,Beechcraft Super King Air 200,BE20,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Beechcraft_Super_King_Air
+A4F203,N418BT,Bridger Air Tanker 3 LLC,Canadair CL-215T,CL2T,Civ,Flying Fire Extinguisher,Super Scooper,Aerial Firefighter,Sam Tân,https://en.wikipedia.org/wiki/Canadair_CL-215
+A50338,N422BT,Bridger Air Tanker 6 LLC,Canadair CL-215T,CL2T,Civ,Flying Fire Extinguisher,Super Scooper,Aerial Firefighter,Sam Tân,https://en.wikipedia.org/wiki/Canadair_CL-215
+A7C4E6,N60A,5-State Helicopters Inc,Sikorsky UH-60A Black Hawk,UH60,Civ,Flying Fire Extinguisher,Aerial Firefighter,Wildfire,Sam Tân,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
+A1DCB0,N219TX,Texas Department of Public Safety,Pilatus PC-12,PC12,Pol,Police Squad,Spectre 219,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/Pilatus_PC-12
