@@ -16,14 +16,14 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **13243** unique aircraft in **49** categories found in this repository. This [Dashboard](https://datastudio.google.com/reporting/eb19ab53-b622-4946-b34a-9667232c136d/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **13340** unique aircraft in **55** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into five main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (12848)
--   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (52)
--   [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv): A list of aircraft that will cause your Twitter account to be banned when used with `docker-planefence`. **Please use it with care**. (9)
--   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (24)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12881)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13242)
+-   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (55)
+-   [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv): A list of aircraft that will cause your Twitter account to be banned when used with `docker-planefence`. **Please use it with care**. (11)
+-   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (32)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10557)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
