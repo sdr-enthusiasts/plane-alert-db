@@ -15,7 +15,6 @@ CHANGED_FILES = os.environ["CHANGED_FILES"]
 MAIN_DB_FILES = [
     "plane-alert-db.csv",
     "plane-alert-pia.csv",
-    "plane-alert-twitter-blocked.csv",
     "plane-alert-ukraine.csv",
     "plane_images.csv",
 ]

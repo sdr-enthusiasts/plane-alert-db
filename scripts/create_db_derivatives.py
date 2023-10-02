@@ -1,8 +1,7 @@
 """This script creates (derivative) category and images CSV database files from the main
 'plane-alert-db.csv' database file. The categories are created based on the 'CMPG'
 column, while images are added using the 'plane_images.csv' reference file. It also
-creates the 'plane-alert-twitter-blocked-images.csv' and 
-'plane-alert-ukraine-images.csv' database files.
+creates the 'plane-alert-ukraine-images.csv' database file.
 """
 
 import logging
@@ -50,20 +49,6 @@ if __name__ == "__main__":
         )
     logging.info("Category and category images CSV files created successfully.")
 
-    logging.info("Creating the twitter blocked database images CSV file...")
-    twitter_blocked_df = pd.read_csv("plane-alert-twitter-blocked.csv")
-    twitter_blocked_df_images = pd.merge(
-        twitter_blocked_df, images_df, how="left", on="$ICAO"
-    )
-    twitter_blocked_df_images.to_csv(
-        "plane-alert-twitter-blocked-images.csv",
-        index=False,
-        mode="wb",
-        encoding="utf8",
-        lineterminator="\n",
-    )
-    logging.info("Twitter blocked database images CSV file created successfully.")
-
     logging.info("Creating the ukraine database images CSV file...")
     ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
     ukraine_df_images = pd.merge(ukraine_df, images_df, how="left", on="$ICAO")
@@ -92,7 +77,7 @@ if __name__ == "__main__":
         "Check for new ICAOs in DB files and add them to the images reference file..."
     )
     plane_alert_df = (
-        pd.concat([df["$ICAO"], twitter_blocked_df["$ICAO"], ukraine_df["$ICAO"]])
+        pd.concat([df["$ICAO"], ukraine_df["$ICAO"]])
         .drop_duplicates()
         .reset_index(drop=True)
     )

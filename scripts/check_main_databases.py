@@ -12,7 +12,6 @@ logging.basicConfig(
 )
 
 MAIN_DATABASE_NAME = "plane-alert-db.csv"
-TWITTER_BLOCKED_DATABASE_NAME = "plane-alert-twitter-blocked.csv"
 UKRAINE_DATABASE_NAME = "plane-alert-ukraine.csv"
 PLANE_IMAGES_DATABASE_NAME = "plane_images.csv"
 
@@ -170,28 +169,6 @@ if __name__ == "__main__":
     # contains_bad_links(main_df)
     logging.info("The main database is valid.")
 
-    ##########################################
-    # Check 'plane-alert-twitter-blocked' db.#
-    ##########################################
-    logging.info("Checking the 'plane-alert-twitter-blocked' database...")
-    try:
-        twitter_blocked_df = pd.read_csv(TWITTER_BLOCKED_DATABASE_NAME)
-        main_df.name = TWITTER_BLOCKED_DATABASE_NAME
-    except Exception as e:
-        logging.error(
-            f"The '{TWITTER_BLOCKED_DATABASE_NAME}' database is not a valid CSV."
-        )
-        sys.stdout.write(
-            f"The '{TWITTER_BLOCKED_DATABASE_NAME}' database is not a valid CSV: {e}\n"
-        )
-        sys.exit(1)
-
-    # Preform database checks.
-    contains_duplicate_ICAOs(twitter_blocked_df)
-    contains_valid_ICAO_hexes(twitter_blocked_df)
-    contains_duplicate_regs(twitter_blocked_df)
-    contains_bad_links(twitter_blocked_df)
-    logging.info("The 'plane-alert-twitter-blocked' database is valid.")
 
     ##########################################
     # Check 'plane-alert-ukraine' db.        #
@@ -209,7 +186,6 @@ if __name__ == "__main__":
 
     # Preform database checks.
     contains_duplicate_ICAOs(ukraine_df)
-    contains_valid_ICAO_hexes(twitter_blocked_df)
     contains_duplicate_regs(ukraine_df)
     contains_bad_links(ukraine_df)
     logging.info("The 'plane-alert-ukraine' database is valid.")
@@ -232,7 +208,6 @@ if __name__ == "__main__":
 
     # Perform database checks.
     contains_duplicate_ICAOs(images_df)
-    contains_valid_ICAO_hexes(twitter_blocked_df)
     bad_links = pd.DataFrame()
     for col in images_df.columns:  # Check all link columns for bad links.
         if col != "$ICAO":
