@@ -108,13 +108,13 @@ The list takes the form:
 To use this list with Planefence, configure your `planefence.config` setup to include the following line:
 
 ```config
-PF_ALERTLIST=https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-db.csv
+PF_ALERTLIST=https://raw.githubusercontent.com/sdr-enthusiasts/plane-alert-db/main/plane-alert-db.csv
 ```
 
 If you want to add the list in addition to your local plane-alert-db.csv list, you can do the following:
 
 ```config
-PF_ALERTLIST=plane-alert-db.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/Sportsbadger/plane-alert-db/main/plane-alert-pol.csv
+PF_ALERTLIST=plane-alert-db.csv,https://raw.githubusercontent.com/sdr-enthusiasts/plane-alert-db/main/plane-alert-gov.csv,https://raw.githubusercontent.com/sdr-enthusiasts/plane-alert-db/main/plane-alert-pol.csv
 ```
 
 > **Note**
