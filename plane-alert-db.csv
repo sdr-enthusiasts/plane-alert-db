@@ -1240,16 +1240,16 @@ AE10EA,2004,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,
 AE10E9,2003,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE10E8,2002,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE10E7,2001,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE680D,6030,United States Coast Guard,Sikorsky MH-60 Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE67F4,6004,United States Coast Guard,Sikorsky MH-60 Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE2912,6035,United States Coast Guard,Sikorsky MH-60 Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE290A,6026,United States Coast Guard,Sikorsky MH-60 Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE27F7,6006,United States Coast Guard,Sikorsky MH-60 Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE2912,6035,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE290A,6026,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE27F7,6006,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
 AE4DFF,6047,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4DFE,6046,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A4C,6045,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A4B,6044,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE291A,6043,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE291A,6043,United States Coast Guard,Sikorsky MH-60T Frankenhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2919,6042,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2918,6041,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2917,6040,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1286,7 +1286,7 @@ AE27F5,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE27F4,6003,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE27F3,6002,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E00,6048,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4E00,6048,United States Coast Guard,Sikorsky MH-60T Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 152AC4,RA-76484,Abakan Air,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
@@ -10448,8 +10448,8 @@ AE1151,165991,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels
 AE1146,165980,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE5D1F,163065,United States Navy,Sikorsky MH-53E Sea Dragon,H53,Mil,Chopper,Heavy Lift,Get To The Choppa,United States Navy,https://www.navy.mil
 AE5D2D,164862,United States Navy,Sikorsky MH-53E Sea Dragon,H53,Mil,Chopper,Heavy Lift,Get To The Choppa,United States Navy,https://www.navy.mil
-AE4FB7,168103,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,CSAR,Maritime Patrol,MEDEVAC,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk
-AE2BFE,166587,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,CSAR,Maritime Patrol,MEDEVAC,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk
+AE4FB7,168103,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk#MH-60R
+AE2BFE,166587,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk#MH-60R
 ADFD6F,900530,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
 ADFD6D,900528,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
 ADFD70,900531,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,Passenger Transport,Metroliner,United States Navy,https://www.navy.mil
@@ -13219,7 +13219,7 @@ AE5FAC,19-46065,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE67C0,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE093C,00-01053,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
 A31D98,N30GJ,Publix Supermarkets,Learjet 60,LJ60,Civ,Grocery Store,Food,Where Shopping is a Pleasure,As Seen on TV,https://www.publix.com/
-AE4E02,6050,United States Coast Guard,Sikorsky SH-60F Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4E02,6050,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE5C5C,169330,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE04F1,84-00161,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://www.army.mil
 AE6C0E,19-5926,USAF,AC-130J Hercules,C30J,Mil,Ghostrider - Last AC-130J Made,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
@@ -13321,4 +13321,4 @@ ADFD73,91-0512,United States Navy,Swearingen C-26D Metro,SW4,Mil,Rapid Respone,P
 ADFE4A,94-00318,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE093A,00-01051,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
 AE6D7E,19-5948,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
-AE4FB1,168097,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Maritime Patrol,Sub Hunter,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk#MH-60R
+AE4FB1,168097,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk#MH-60R
