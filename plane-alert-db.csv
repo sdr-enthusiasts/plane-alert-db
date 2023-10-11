@@ -1,10 +1,10 @@
 $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Category,$#Link
-502C5C,YL-KSH,Baltic Bees display team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
-502C60,YL-KSS,Baltic Bees display team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
-502C65,YL-KSM,Baltic Bees display team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
-511049,ES-YLR,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
-511047,ES-YLF,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
-511036,ES-TLB,Breitling Team,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
+502C5C,YL-KSH,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+502C60,YL-KSS,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+502C65,YL-KSM,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
+511049,ES-YLR,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
+511047,ES-YLF,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
+511036,ES-TLB,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 AD63CB,N962CE,Everts Air Cargo,McDonnell Douglas MD80,MD83,Civ,Tactical Departure,Cargo,My Other Plane Is A F15,Aerobatic Teams,https://youtu.be/O16Oqo51hI0?t=273
 404772,G-ZZLE,Gazelle Squadron Display Team,Aerospatiale Gazelle SA31B,GAZL,Civ,Do A Barrel Roll,Chopper,Whirly Bird,Aerobatic Teams,https://gazellesquadron.co.uk/node/homepage
 401075,G-ZZEL,Gazelle Squadron Display Team,Aerospatiale Gazelle SA31B,GAZL,Civ,Do A Barrel Roll,Chopper,Whirly Bird,Aerobatic Teams,https://gazellesquadron.co.uk/node/homepage
@@ -1857,7 +1857,7 @@ AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Od
 156DCE,RF-93646,Russian Air Force,Ilyushin IL-76VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCD,RF-93645,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
-4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://youtu.be/q2Nv3KVKHWI
 AE0415,164388,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 AE0416,164404,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
@@ -3758,8 +3758,8 @@ A725D7,N56PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Di
 A36D3D,N32PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A6EBC5,N545PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A81530,N62PG,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
-A09DB2,N139LZ,Skyline Aviation,Aero L-39C Albatross,L39,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://aec-skyline.com/
-A09D9F,N139LE,Skyline Aviation,Aero L-39ZO Albatross,L39,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://aec-skyline.com/
+A09DB2,N139LZ,Skyline Aviation,Aero L-39C Albatros,L39,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://aec-skyline.com/
+A09D9F,N139LE,Skyline Aviation,Aero L-39ZO Albatros,L39,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://aec-skyline.com/
 A04391,N116MA,Skyline Aviation,Learjet 36A,LJ35,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://aec-skyline.com/
 AA198E,N75VC,Sunshine Aero,NA Sabreliner,SBR1,Civ,Shapeshifter,Target Practice,Testbed,Hired Gun,https://twitter.com/ameliairheart/status/1465473234732785668?s=20
 A80A69,N617TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
@@ -4231,7 +4231,8 @@ A0D223,N152FJ,Victory Outreach,Dassault Falcon 50,FA50,Civ,Jesus He Knows Me,Chu
 45BA61,OY-NSA,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
 4B1F49,HB-LWB,Nordic Seaplanes,DHC-6 Twin Otter 300,DHC6,Civ,Seaplane,STOL,Life On The Ocean Wave,Joe Cool,https://www.seaplanes.dk/
 404005,G-BYCT,Private,Aero L-29 Delfin,L29,Civ,Da Comrade,Jet Trainer,Must Be Nice,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-29_Delf%C3%ADn
-4D02F6,LX-STN,Private,Aero L-39C Albatross,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A480A1,N39BZ,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Figher,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4D02F6,LX-STN,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 473B2E,2-SOAR,Private,Alouette Astazou SA.318C,ALO3,Civ,Hot And High,Helicopter,Engine Swap,Joe Cool,https://en.wikipedia.org/wiki/A%C3%A9rospatiale_Alouette_II
 403348,G-BTAK,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 4851D4,PH-IIJ,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
