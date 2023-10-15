@@ -3,7 +3,7 @@
 This project consists of lists of 'interesting' aircraft, formatted as CSV files. The list is designed to work with the excellent **<https://github.com/kx1t/docker-planefence>**.
 
 > **Warning**
-> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.csv](plane_images.csv) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost.
+> Please only suggest/make any changes to the [plane-alert-db.csv](plane-alert-db.csv), [plane-alert-pia.csv](plane-alert-pia.csv), [plane-alert-ukraine.csv](plane-alert-ukraine.csv) and [plane_images.csv](plane_images.csv) files on GitHub - all other files (except PIA) are generated from this file, and if you do not make your changes there, they will be overwritten and lost. Additionally, it is **not recommended** to edit the CSV files in Microsoft Excel, as Excel will attempt to "fix" some ICAO hexes and other fields. It's better to use a code editor such as VS Studio Code—you can access the web version of Code by pressing the period key . when viewing the file you wish to edit.
 
 ## TOC <!-- omit in toc -->
 
@@ -17,11 +17,10 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 ## Current Content
 
 There currently are about **13340** unique aircraft in **55** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
-These aircraft are divided into five main databases:
+These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13242)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (55)
--   [plane-alert-twitter-blocked.csv](plane-alert-twitter-blocked.csv): A list of aircraft that will cause your Twitter account to be banned when used with `docker-planefence`. **Please use it with care**. (11)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (32)
 -   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10557)
 
@@ -35,14 +34,15 @@ Based on these main databases, several derivative databases are created using a 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
 -   [plane-alert-db-images.csv](plane-alert-db-images.csv)
--   [plane-alert-twitter-blocked-images.csv](plane-alert-twitter-blocked.csv)
 -   [plane-alert-ukraine-images.csv](plane-alert-ukraine.csv)
 -   [plane-alert-civ-images.csv](plane-alert-civ-images.csv)
 -   [plane-alert-mil-images.csv](plane-alert-mil-images.csv)
 -   [plane-alert-pol-images.csv](plane-alert-pol-images.csv)
 -   [plane-alert-gov-images.csv](plane-alert-gov-images.csv)
 
-This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd) contains details of the [main](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-db.csv), [twitter-blocked](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-twitter-blocked.csv), and [Ukraine](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-ukraine.csv) lists.
+Note, we used to create a seperate list, `plane-alert-twitter-blocked.csv`, for use with Planefence's Twitter posting functionality. This list would prevent certain aircraft from being posted to Twitter in an attempt to keep the posting bot account from being banned. Since Twitter has now made it all but impossible for users to make bots for free, we've stopped creating this list. 
+
+This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd) contains details of the [main](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-db.csv) and [Ukraine](https://github.com/sdr-enthusiasts/plane-alert-db/blob/main/plane-alert-ukraine.csv) lists.
 
 ## Description of Categories
 
@@ -131,7 +131,9 @@ Add these characters to the column headers to control the behaviour of PlaneAler
 Feel free to [open an issue](https://github.com/sdr-enthusiasts/plane-alert-db/issues) if you have ideas on improving this repository or want to report a bug! All contributions are welcome 🚀. Please consult the [contribution guidelines](CONTRIBUTING.md) for more information. You can also check out the [TODOS](TODOS.md) page if you want to contribute to this repository but need some ideas.
 
 > **Warning**
-> As also [explained above](#current-content), this repository contains five main databases to which people can contribute. The other databases are created automatically using [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml). As a result, please only suggest/make any changes to these main databases. Changes made to all other CSV files will be overwritten and lost. 
+> As also [explained above](#current-content), this repository contains four main databases to which people can contribute. The other databases are created automatically using [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml). As a result, please only suggest/make any changes to these main databases. Changes made to all other CSV files will be overwritten and lost. Additionally, it is **not recommended** to edit the CSV files in Microsoft Excel, as Excel will attempt to "fix" some ICAO hexes and other fields. It's better to use a code editor such as VS Studio Code—you can access the web version of Code by pressing the period key . when viewing the file you wish to edit.
+
+If you're creating a pull request with additions, please add them to the end of the file. We may sort the list periodically to group like planes together.
 
 ## Disclaimer, excuses and dodges
 
