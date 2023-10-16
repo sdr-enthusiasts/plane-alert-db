@@ -3964,10 +3964,10 @@ A6E957,N5441V,Planes of Fame Air Museum,North American P-51D Mustang,P51,Civ,War
 400D26,G-BWSG,Private,BAC Jet Provost T5,JPRO,Civ,Training Wheels,Jet Trainer,I Am Old,Historic,https://en.wikipedia.org/wiki/BAC_Jet_Provost
 4B0FDA,HB-GAC,Private,Beech C18S,BE18,Civ,Twin Beech,Twin Tail,I Am Old,Historic,https://w.wiki/4wor
 ABED89,N868L,Private,Beech D18S,BE18,Civ,Twin Beech,Twin Tail,I Am Old,Historic,https://w.wiki/4wor
-A1EC64,N223CM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
-A1B7B7,N21FS,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
-A15077,N184KP,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
-4025A1,G-BKGM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_18
+A1EC64,N223CM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
+A1B7B7,N21FS,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
+A15077,N184KP,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
+4025A1,G-BKGM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
 A95644,N700TN,Private,Beech H18,BE18,Civ,Twin Beech,Twin Tail,Tricycle Landing Gear,Historic,https://w.wiki/4wor
 AB63B9,N833CH,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
 A1436B,N18028,Private,Beech Staggerwing D17S,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
@@ -4198,7 +4198,7 @@ AB56E6,N83KD,Tri-State Warbird Museum,North American P-51D Mustang,P51,Civ,War B
 A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tempus Fugit,Historic,https://w.wiki/3nth
 4B2F0F,HB-RVJ,Verein De Havilland Flying Group,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter,I Am Old,What We Do In The Shadows,Historic,https://tinyurl.com/2p88tbp3
 4B0B4F,HB-EHJ,Verein der Freunde des Fieseler Storch,Fieseler Fi 156C-3 Storch,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
-4B0C72,HB-ESO,Verein Historic & Classic Airplanes,Ryan Navion A (L-17B),NAVI,Civ,Liason,Shiny,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Ryan_Navion
+4B0C72,HB-ESO,Verein Historic & Classic Airplanes,Ryan Navion A (L-17B),NAVI,Civ,Liason,Shiny,Speak Up Sonny,Historic,https://w.wiki/4ydD
 A660FC,N51VL,Warbird Heritage Foundation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Moonbeam McSwine,Historic,https://w.wiki/3nth
 484C09,PH-JAT,Wings over Holland,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Trusty Rusty,Historic,https://w.wiki/3nth
 A36B08,N3193G,Yankee Air Force,Boeing B-17G Flying Fortress,B17,Civ,Historic,Bomber,Yankee Lady,Historic,https://w.wiki/4nFB
@@ -13356,3 +13356,14 @@ A9CD66,N7300C,Commemorative Air Force,North American AT-6D Texan,T6,Civ,Training
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
 A5C06C,N47TB,Commemorative Air Force,Douglas C-47A,DC3,Civ,War Bird,Shiny,That's All Brother,Historic,https://w.wiki/7o4E
 A8B43E,N660AE,Air Evac EMS Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://lifeteam.net/
+A0E7E5,N15799,Commemorative Air Force,Canadian Car & Foundry Harvard IV,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
+ADA784,N9790Z,Commemorative Air Force,Noorduyn AT-16ND Harvard IIB,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
+A3A280,N333RW,Lone Star Flight Museum,North American B-25N Mitchell,B25,Civ,Bomber,WW2,Special Delivery,Historic,https://w.wiki/7o3m
+ADE8EC,N996,Marine Aviation Museum,Mikoyan Gurevich MiG-15,MG15,Civ,Mig,Historic,Vashe Zdorovye,Historic,https://w.wiki/7oBJ
+A148AD,N182FX,Private,Fleet M-62A-3 Cornell II,FA62,Civ,Training Wheels,Primary Trainer,I Am Old,Historic,https://w.wiki/7oBP
+ACBB1C,N91945,Marine Aviation Museum,Douglas AD-4NA Skyraider,A1,Civ,Attack,Skyraider,Uncle Ho's Nightmare,Historic,https://w.wiki/7oBQ
+A18326,N197L,American Airpower Heritage Flying Museum,Beech D18S,BE18,Civ,Twin Beech,Twin Tail,Tricycle Landing Gear,Historic,https://w.wiki/4wor
+A692E1,N5221K,Private,Ryan Navion B,NAVI,Civ,Liason,Shiny,Speak Up Sonny,Historic,https://w.wiki/4ydD
+A6D80C,N540BG,Mike "Spanky" Gallaway,Extra EA.300 S,E300,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://w.wiki/4nF6
+AA6847,N77SJ,Private,Extra EA.300 LC,E300,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://w.wiki/4nF6
+A04A91,N118GR,Private,Thorp T-18,T18,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://w.wiki/7oBZ
