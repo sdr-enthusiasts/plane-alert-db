@@ -14,7 +14,7 @@ on:
       - "scripts/update_readme.py"
 
 jobs:
-  updateREADME.md:
+  updateREADME_md:
     if: github.repository == 'sdr-enthusiasts/plane-alert-db' || ${{ vars.CREATE_DERIVATIVES }}
     name: Update README.md documentation for Changes
     runs-on: ubuntu-latest
