@@ -1,4 +1,4 @@
-documentation: readme.md
+documentation: readme.mustache
 images: plane_images.csv
 ukraine: plane-alert-ukraine.csv
 twitter: plane-alert-twitter.csv

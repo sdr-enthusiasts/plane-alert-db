@@ -1,0 +1,35 @@
+name: Update README.md for Changes
+
+permissions:
+  contents: write # Allow action to write back changes to repository.
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "plane-alert-db.csv"
+      - "plane-alert-ukraine.csv"
+      - "plane-alert-pia.csv"
+      - "plane_images.csv"
+      - "scripts/update_readme.py"
+
+jobs:
+  updateREADME.md:
+    if: github.repository == 'sdr-enthusiasts/plane-alert-db' || ${{ vars.CREATE_DERIVATIVES }}
+    name: Update README.md documentation for Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+      - run: pip install -r ./scripts/requirements.txt
+
+      - name: Update README.md for changes in the database files
+        run: python ./scripts/update_readme.py
+
+      - name: Commit README.md
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "refactor: update README.md documentation."
