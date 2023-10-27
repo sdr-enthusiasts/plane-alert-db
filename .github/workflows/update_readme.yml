@@ -4,17 +4,14 @@ permissions:
   contents: write # Allow action to write back changes to repository.
 
 on:
-  push:
-    branches: ["main"]
-    paths:
-      - "plane-alert-db.csv"
-      - "plane-alert-ukraine.csv"
-      - "plane-alert-pia.csv"
-      - "plane_images.csv"
-      - "scripts/update_readme.py"
+  workflow_run:
+    workflows: [checkDerivativesChange]
+    types:
+      - completed
+    branches: [main]
 
 jobs:
-  updateREADME_md:
+  on-success:
     if: github.repository == 'sdr-enthusiasts/plane-alert-db' || ${{ vars.CREATE_DERIVATIVES }}
     name: Update README.md documentation for Changes
     runs-on: ubuntu-latest
