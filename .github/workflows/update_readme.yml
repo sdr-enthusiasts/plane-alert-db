@@ -5,7 +5,7 @@ permissions:
 
 on:
   workflow_run:
-    workflows: [createDerivativeDatabases]
+    workflows: [Create derivative databases]
     types:
       - completed
     branches: [main]
