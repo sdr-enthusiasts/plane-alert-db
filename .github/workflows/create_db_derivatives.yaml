@@ -29,7 +29,7 @@ jobs:
       - name: Create category and images derivative CSV files
         run: python ./scripts/create_db_derivatives.py
 
-      - name: Update README.md to in clude changes
+      - name: Update README.md to include changes
         run: python ./scripts/update_readme.yml
 
       - name: Commit derivative CSV files
