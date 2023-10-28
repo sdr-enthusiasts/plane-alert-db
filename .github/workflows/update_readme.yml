@@ -4,14 +4,18 @@ permissions:
   contents: write # Allow action to write back changes to repository.
 
 on:
-  workflow_run:
-    workflows: [Create derivative databases]
-    types:
-      - completed
-    branches: [main]
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/create_db_derivatives.py"
+      - "!plane-alert-db.csv"
+      - "!plane-alert-twitter-blocked.csv"
+      - "!plane-alert-ukraine.csv"
+      - "!plane_images.csv"
+      - "!scripts/create_db_derivatives.py"
 
 jobs:
-  on-success:
+  updateREADME:
     if: github.repository == 'sdr-enthusiasts/plane-alert-db' || ${{ vars.CREATE_DERIVATIVES }}
     name: Update README.md documentation for Changes
     runs-on: ubuntu-latest
