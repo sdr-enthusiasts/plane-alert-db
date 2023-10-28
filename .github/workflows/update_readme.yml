@@ -8,6 +8,7 @@ on:
     branches: ["main"]
     paths:
       - "scripts/create_db_derivatives.py"
+      - "readme.mustache"
       - "!plane-alert-db.csv"
       - "!plane-alert-twitter-blocked.csv"
       - "!plane-alert-ukraine.csv"
