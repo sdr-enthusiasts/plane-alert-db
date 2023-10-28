@@ -511,18 +511,18 @@ AD7F99,N969WR,Wynn Resorts,Gulfstream G280,G280,Civ,The Gambler,House Always Win
 AC1D80,N88WR,Wynn Resorts,Gulfstream G550,GLF5,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 A16068,N188WR,Wynn Resorts,Gulfstream G650 ER,GLF6,Civ,The Gambler,House Always Wins,Snake Eyes,As Seen on TV,https://www.begambleaware.org/
 44C1AB,OO-PMK,Zoutman Industries,SOCATA TBM 850,TBM8,Civ,Salty,Technical Salts,Wellness Salt,As Seen on TV,https://www.zoutman.com/en
-43C392,PA474,Battle of Britain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38E,WK518,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38D,WG486,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38F,ZA947,Battle of Britain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C391,PZ865,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C390,LF363,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C393,P7350,Battle of Britain Flight,Supermarine Spitfire IIa,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C395,MK356,Battle of Britain Flight,Supermarine Spitfire Mk LFIXe,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://tinyurl.com/2p8sppw4
-43C396,TE311,Battle of Britain Flight,Supermarine Spitfire Mk XVI,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C394,AB910,Battle of Britain Flight,Supermarine Spitfire MkVb,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C398,PS915,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C397,PM631,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Battle of Britain Memorial Flight,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C392,PA474,Battle of Britain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38E,WK518,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38D,WG486,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38F,ZA947,Battle of Britain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C391,PZ865,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C390,LF363,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C393,P7350,Battle of Britain Flight,Supermarine Spitfire IIa,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C395,MK356,Battle of Britain Flight,Supermarine Spitfire Mk LFIXe,SPIT,Mil,Historic,War Bird,WW2,Historic,https://tinyurl.com/2p8sppw4
+43C396,TE311,Battle of Britain Flight,Supermarine Spitfire Mk XVI,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C394,AB910,Battle of Britain Flight,Supermarine Spitfire MkVb,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C398,PS915,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C397,PM631,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
 863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
 147B68,RA-31592,Aviakrug,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
 147986,RA-31110,Avialift Vladivostok,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
@@ -2728,7 +2728,7 @@ A00E20,N102WK,Willis Knighton Medical Center,F90 King Air,BE9L,Civ,Air Ambo,Medi
 407045,G-YOAA,Yorkshire Air Ambulance,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.yorkshireairambulance.org.uk
 407046,G-YAAC,Yorkshire Air Ambulance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.yorkshireairambulance.org.uk/
 43EA62,M-LCFC,Leicester City Football Club,Boeing 737-BBJ,B737,Civ,Jumpers For Goalposts,Boeing Business Jet,LCFC,Football,https://www.lcfc.com
-48434F,P4-MES,Roman Abramovitch,Boeing 767-ER,B763,Civ,Jumpers For Goalposts,The Bandit,Chelsea,Football ,https://youtu.be/jAG4XXCOj48
+48434F,P4-MES,Roman Abramovitch,Boeing 767-ER,B763,Civ,Jumpers For Goalposts,The Bandit,Chelsea,Football,https://youtu.be/jAG4XXCOj48
 43C33B,ZJ700,BAE Systems,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F851B,10+27,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F8519,10+25,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -4808,7 +4808,7 @@ A8825D,N64751,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado
 4079FB,G-CLNI,Royal Naval Historic Flight,DHC-1 Chipmunk T10,DHC1,Mil,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 4022E1,G-BNZC,The Shuttleworth Collection,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C00B3B,CF-EGO,Vintage Wings of Canada,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-4BCA61,TC-RSA,Redstar Aviation,BAe Jetstream 32-17,JS32,Civ,Air Ambo,Medical Evac,Saving Lives,M*A*S*H,https://www.redstar.com.tr
+4BCA61,TC-RSA,Redstar Aviation,BAe Jetstream 32-17,JS32,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.redstar.com.tr
 A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
 A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
@@ -13072,7 +13072,7 @@ AE2EDB,166094,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mi
 AE6272,??????,United States Navy,McDonnell Douglas T-45 Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 3EAD63,54+39,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-7500C5,M48-02,Royal Malaysian Air Force,Bombardier Global 6000,GLEX,Gov,Malaysia,Must Be Nice,Government,Governments,https://w.wiki/6kH5
+7500C5,M48-02,Royal Malaysian Air Force,Bombardier Global 6000,GLEX,Gov,Malaysia,Must Be Nice,Government,Other Air Forces,https://w.wiki/6kH5
 0AC8BD,FAC3104,Colombian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Guns Guns Guns,Toucan Sam,Other Air Forces,https://w.wiki/6kJE
 AE6C01,86-0127,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BD3,85-0064,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
@@ -13244,7 +13244,7 @@ AE695A,19-5928,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 ADFF8F,68-8166,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Northrop_T-38_Talon
 AE2173,06-27106,United States Army,UH-60L Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search and Rescue,Mae West,Coastguard,https://www.uscg.mil/
-A34BAC,N311MS,United States Department of Justice (DOJ),Boeing 737-800,B738,Gov,US Marshals Service,Prisoner Transport,US Dept of Justice,Oxcart,https://prod.usmarshals.gov/what-we-do/prisoners/transportation
+A34BAC,N311MS,United States Department of Justice (DOJ),Boeing 737-800,B738,Gov,US Marshals Service,Prisoner Transport,US Dept of Justice,Governments,https://prod.usmarshals.gov/what-we-do/prisoners/transportation
 AE63B8,20-46076,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 ACC748,N922TG,Tampa General Hospital,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.tgh.org/institutes-and-services/emergency-and-trauma-center/aeromed-ambulance-transport
 ACF27E,N933TG,Tampa General Hospital,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.tgh.org/institutes-and-services/emergency-and-trauma-center/aeromed-ambulance-transport
@@ -13301,12 +13301,12 @@ A6D9E0,N540W,Oprah Winfrey,Gulfstream G650,GLF6,Civ,Bizjet,The Oprah Winfrey Sho
 A1820B,N1969C,P. Diddy,Gulfstream G-V,GLF5,Civ,Bizjet,All About The Benjamins,Baller,Don't you know who I am?,https://en.wikipedia.org/wiki/Sean_Combs
 AC145B,N878DB,Peter Thiel,Gulfstream G-V,GLF5,Civ,Bizjet,Paypal Mafia,Palantir,Don't you know who I am?,https://en.wikipedia.org/wiki/Peter_Thiel
 A000E8,N1KE,Phil Knight,Gulfstream G650,GLF6,Civ,Swoosh,Waffle,Air Jordan,Vanity Plate,https://w.wiki/3iVT
-AD35EE,N950PB,Playboy Corporation,Bombardier Global Express,GLEX,Civ,Bizjet,🐰,I Read it for the Articles,Vanity Plate,https://en.wikipedia.org/wiki/Playboy
+AD35EE,N950PB,Playboy Corporation,Bombardier Global Express,GLEX,Civ,🐰,I Read it for the Articles,Vanity Plate,As Seen on TV,https://en.wikipedia.org/wiki/Playboy
 AD18D5,N943FL,Ron Desantis,Cessna Citation Latitude,C68A,Civ,Bizjet,Fly Navy,Floridaman,Vanity Plate,https://en.wikipedia.org/wiki/Ron_DeSantis
 AB772B,N838MF,Ronald Perelman,Gulfstream G650,GLF6,Civ,Bizjet,Revlon,Political Donor,Don't you know who I am?,https://en.wikipedia.org/wiki/Ronald_Perelman
 A97659,N709DS,Steve Ballmer,Gulfstream G650,GLF6,Civ,Bizjet,Microsoft,LA Clippers,Don't you know who I am?,https://en.wikipedia.org/wiki/Steve_Ballmer
 AC701E,N900KS,Steven Spielberg,Gulfstream G650,GLF6,Civ,Bizjet,Jurassic Park,Indiana Jones,Don't you know who I am?,https://en.wikipedia.org/wiki/Steven_Spielberg
-AD5B90,N96UA,Under Armour Corporation,Gulfstream G-V,GLF5,Civ,Bizjet,Undies,As Seen on TV,Vanity Plate,https://en.wikipedia.org/wiki/Under_Armour
+AD5B90,N96UA,Under Armour Corporation,Gulfstream G-V,GLF5,Civ,Bizjet,Undies,Vanity Plate,As Seen on TV,https://en.wikipedia.org/wiki/Under_Armour
 A2AE0A,N272BG,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 A64304,N502SX,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 A835AF,N628TS,Falcon Landing LLC,Gulfstream G650,GLF6,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
@@ -13449,7 +13449,7 @@ AE1E73,166021,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels
 AE1ECB,166070,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EDD,166096,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A17,166142,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-ACF4C9,N934CT,Clemson University,Cessna Citation CJ3,C25B,Civ,Dabo,The Other Football,Football,Vanity Plate,https://w.wiki/7r5s
+ACF4C9,N934CT,Clemson University,Cessna Citation CJ3,C25B,Civ,Dabo,The Other Football,Vanity Plate,Football,https://w.wiki/7r5s
 A5F7E5,N484EM,Target Corporation,Gulfstream G280,G280,Civ,Dept Store,Bix Box Retailer,Dayton,As Seen on TV,https://w.wiki/3nuH
 A67FF6,N518JG,Joe Gibbs Racing,Bombardier Challenger 600,CL60,Civ,Bizjet,Not A Car,Left Turns Only,Vanity Plate,https://w.wiki/7rSF
 AE1ECC,166071,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
@@ -13458,7 +13458,7 @@ AE1EAE,166041,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels
 AE58F4,166255,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AC6AB1,N9CE,Chase Elliot,Cessna Citation CJ3,C25B,Civ,Bizjet,Not A Car,Left Turns Only,Vanity Plate,https://w.wiki/3rqA
 A638AD,N50MC,City of New Orleans,Bell 505 Jet Ranger X,B505,Gov,Bug Stomper,We Endanger Species,Aerial Sprayer,Dogs with Jobs,https://nola.gov/mosquito/
-A0026E,N10AU,Auburn University,Cessna Citation CJ4,C25C,Civ,War Eagle,The Other Football,Football,Vanity Plate,https://w.wiki/7sff
+A0026E,N10AU,Auburn University,Cessna Citation CJ4,C25C,Civ,War Eagle,The Other Football,Vanity Plate,Football,https://w.wiki/7sff
 AE77A3,22-9046,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE4A26,166157,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE036E,98-00008,United States Army,Cessna UC-35A Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
