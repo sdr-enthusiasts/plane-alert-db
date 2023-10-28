@@ -30,7 +30,7 @@ These aircraft are divided into four main databases:
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13467)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (57)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (32)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10855)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10856)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
@@ -56,55 +56,57 @@ This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab
 
 Think of categories like groups, with similar or related aircraft listed together. This allows you to easily select a subset of the list for your own use. The category names (and tags) come from my rather idiosyncratic sense of humour. If you have better suggestions I'm all ears.
 
--   Aerobatic Teams - Red Arrows, Blue Angels etc. (77)
--   Army Air Corp - UK Army Air Corp. Mainly Helicopters (94)
--   As Seen on TV - Companies and Brands (369)
--   Big Hello - Large Helicopters (sic) (104)
--   Bizjets - Fancy pants planes for fancy pants people (39)
--   Climate Crisis - Oil Companies, Large Business Jets - BBJs and ACJs (186)
--   Coastguard - Coastguard, Customs and Border Patrols (438)
--   Da Comrade - Russian or Soviet Aircraft. I love their design, so they get their own category (91)
--   Dictator Alert - People of potentially questionable morals and values (323)
--   Distinctive - Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds (182)
--   Dogs with Jobs - Aircraft with specific roles and/or modifications (170)
--   Don't you know who I am? - Famous People. I was going to say notable, but I'll go with Famous (59)
--   Flying Doctors - Air Ambulance and Medical Flights (727)
--   Football - Actual, Aussie Rules or American. We don't discriminate. (9)
--   GAF - Aircraft of the German Air Force, thank to Rhodan76 (402)
--   Gas Bags - Would you like to ride in my beautiful balloon? (14)
--   Governments - Aircraft registered to Governments (243)
--   Gunship - Brrrrrrrrrrrrrrrrrrrt (257)
--   Hired Gun - Why do the dirty work when someone else can do it for you? (195)
--   Historic - It's older than I am and most likely has a prop. (406)
--   Jesus he Knows me - Aircraft owned and operated by Religious organisations (20)
--   Joe Cool - Cool Planes. Or at least I think they are cool. (195)
--   Jump Johnny Jump - de Havilland Chipmunks. Air Cadets of a certain age will understand. (388)
--   Nuclear - Nuclear Emergency Support Team etc. (16)
--   Oligarch - I made this money all by myself. (41)
--   Other Air Forces - Air Force aircraft that are not RAF or USAF (1975)
--   Other Navies - Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy (189)
--   Oxcart - Intelligence gathering aircraft (736)
--   Perfectly Serviceable Aircraft - Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes (43)
--   PIA - Privacy ICAO Address....you can run, but you cannot hide (16)
--   Police Forces - Your friendly neighbourhood flying (insert local colloquialism here) (885)
--   Ptolemy would be proud - Mapping and Aerial Survey aircraft. (111)
--   Quango - Nato, United Nations, World Bank etc. (32)
--   Radiohead - Very Very special aircraft. Think VC25. (6)
--   RAF - Aircraft of the Royal Air Force (231)
--   Royal Aircraft - Aircraft used or owned by the UK Royal Family (8)
--   Royal Navy Fleet Air Arm - Aircraft of the Royal Navy Fleet Air Arm (97)
--   Aerial Firefighter - Firefighting Aircraft. (326)
--   Special Forces - The best of the best of the best. Sir. (163)
--   Toy Soldiers - Armies from around the world (626)
--   UAV - It's not natural, I tell 'ya (30)
--   UK National Police Air Service - Your friendly neighbourhood flying bobby (24)
--   United States Marine Corps - Aircraft of the United States Marine Corps (192)
--   United States Navy - United States Naval avaitors. Some say they are the best of the best. (169)
--   USAF - Aircraft of the United States Air Force (2183)
--   Vanity Plate - Distinctive registrations (75)
--   Watch Me Fly - Flying and Training Schools (75)
--   You came here in that thing? - Microlights, tiny planes and helis..think Yakima Super Breezy (thanks skstrand). (98)
--   Zoomies - Fast jets, fighters. Anything that moves fast. (134)
+|**Category**|**Description**|**Count**|
+|--------|-----------|----:|
+|Aerial Firefighter|Firefighting Aircraft|326|
+|Aerobatic Teams|Red Arrows, Blue Angels, etc.|77|
+|Army Air Corp|UK Army Air Corp, mainly Helicopters|94|
+|As Seen on TV|Companies and Brands|369|
+|Big Hello|Large Helicopters (sic)|104|
+|Bizjets|Fancy pants planes for fancy pants people|39|
+|Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|186|
+|Coastguard|Coastguard, Customs and Border Patrols|438|
+|Da Comrade|Russian or Soviet Aircraft|91|
+|Dictator Alert|People of potentially questionable morals and values|323|
+|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|182|
+|Dogs with Jobs|Aircraft with specific roles and/or modifications|170|
+|Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|59|
+|Flying Doctors|Air Ambulance and Medical Flights|727|
+|Football|Actual, Aussie Rules or American. We don't discriminate.|9|
+|GAF|Aircraft of the German Air Force|402|
+|Gas Bags|Would you like to ride in my beautiful balloon?|14|
+|Governments|Aircraft registered to Governments|243|
+|Gunship|Brrrrrrrrrrrrrrrrrrrt|257|
+|Hired Gun|Why do the dirty work when someone else can do it for you?|195|
+|Historic|It's older than I am and most likely has a prop.|406|
+|Jesus he Knows me|Aircraft owned and operated by religious organisations|20|
+|Joe Cool|Cool Planes. Or at least I think they are cool.|195|
+|Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
+|Nuclear|Nuclear Emergency Support Team etc.|16|
+|Oligarch|I made this money all by myself.|41|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|1975|
+|Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|189|
+|Oxcart|Intelligence gathering aircraft|736|
+|Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|43|
+|PIA|Privacy ICAO Address....you can run, but you cannot hide.|16|
+|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|885|
+|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|111|
+|Quango|NATO, United Nations, World Bank etc.|32|
+|Radiohead|Very Very special aircraft. Think VC25.|6|
+|RAF|Aircraft of the Royal Air Force|231|
+|Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
+|Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
+|Special Forces|The best of the best of the best. Sir.|163|
+|Toy Soldiers|Armies from around the world.|626|
+|UAV|It's not natural, I tell 'ya!|30|
+|UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|192|
+|United States Navy|United States Naval avaitors. Some say they are the best of the best.|169|
+|USAF|Aircraft of the United States Air Force|2183|
+|Vanity Plate|Distinctive registrations|75|
+|Watch Me Fly|Flying and Training Schools|75|
+|You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|98|
+|Zoomies|Fast jets, fighters. Anything that moves fast.|134|
 
 ## Planefence
 
