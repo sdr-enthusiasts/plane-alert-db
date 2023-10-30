@@ -7,7 +7,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "scripts/create_db_derivatives.py"
+      - "scripts/update_readme.py"
       - "readme.mustache"
       - "!plane-alert-db.csv"
       - "!plane-alert-twitter-blocked.csv"
