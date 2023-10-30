@@ -29,7 +29,7 @@ jobs:
         run: python ./scripts/create_db_derivatives.py
 
       - name: Update README.md to include changes
-        run: python ./scripts/update_readme.yml
+        run: python ./scripts/update_readme.py
 
       - name: Commit derivative CSV files
         uses: stefanzweifel/git-auto-commit-action@v5
