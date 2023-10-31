@@ -31,6 +31,9 @@ jobs:
       - name: Update README.md to include changes
         run: python ./scripts/update_readme.py
 
+      - name: Update '/400/' paths to '/full/'
+        run: python ./scripts/update_image_links.py
+
       - name: Commit derivative CSV files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
