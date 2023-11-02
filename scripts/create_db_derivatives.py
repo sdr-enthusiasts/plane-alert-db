@@ -109,3 +109,47 @@ if __name__ == "__main__":
         logging.info("New ICAOs successfully saved in 'plane_images.csv' file.")
     else:
         logging.info("No new ICAOs. Nothing to do.")
+
+    logging.info(
+        "Check for removed ICAOs in DB files and also remove them from the images reference file..."
+    )
+
+    if images_df.shape[0] > plane_alert_df.shape[0]:
+        logging.info(
+            "Extra ICAOs found ({})".format(
+                images_df.shape[0] - plane_alert_df.shape[0]
+            )
+        )
+
+        extra_icao_df = pd.merge(
+            images_df, plane_alert_df, on="$ICAO", how="left", indicator=True
+        )
+
+        extra_icao_df = extra_icao_df.loc[
+            extra_icao_df["_merge"] == "left_only"
+        ].index.tolist()
+        for item in extra_icao_df:
+            if "plane_images_df" in locals():
+                plane_images_df = plane_images_df.drop(item)
+                plane_images_df.to_csv(
+                    "plane_images.csv",
+                    mode="wb",
+                    index=False,
+                    header=True,
+                    encoding="utf8",
+                    lineterminator="\n",
+                )
+            else:
+                images_df = images_df.drop(item)
+                images_df.to_csv(
+                    "plane_images.csv",
+                    mode="wb",
+                    index=False,
+                    header=True,
+                    encoding="utf8",
+                    lineterminator="\n",
+                )
+        logging.info("Extra ICAOs successfully removed from 'plane_images.csv'")
+
+    else:
+        logging.info("No extra ICAOs. Nothing to do.")
