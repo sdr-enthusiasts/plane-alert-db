@@ -111,7 +111,7 @@ if __name__ == "__main__":
         logging.info("No new ICAOs. Nothing to do.")
 
     logging.info(
-        "Check for removed ICAOs in DB files and remove them to the images reference file..."
+        "Check for removed ICAOs in DB files and also remove them from the images reference file..."
     )
 
     if images_df.shape[0] > plane_alert_df.shape[0]:
