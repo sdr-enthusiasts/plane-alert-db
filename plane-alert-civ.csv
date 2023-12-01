@@ -115,8 +115,8 @@ A40DA9,N360PZ,City Electric Supply Company,Dassault Falcon 7X,FA7X,Civ,Sockets,C
 AC35AB,N886RW,Coca-Cola Company,Gulfstream G600,GA6C,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://youtu.be/ib-Qiyklq-Q
 ADB41E,N982RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://youtu.be/ib-Qiyklq-Q
 AD57A2,N959RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://youtu.be/ib-Qiyklq-Q
-A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
-A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Telecoms,Customer Service,We Dont Care,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
+A8342A,N628CC,Comcast Corp,Dassault Falcon 2000EX,F2TH,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
+A83D76,N63XF,Comcast Corp,Gulfstream G650 ER,GLF6,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk&t=6s
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
 A0BE47,N147SF,Constellation Brands,Gulfstream G550,GLF5,Civ,Bizjet,Booze,Alcohol,As Seen on TV,https://en.wikipedia.org/wiki/Constellation_Brands
 A493A2,N394WJ,CoPart Inc,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
@@ -363,10 +363,10 @@ AB28C5,N818TH,Tommy Hilfiger USA,Dassault Falcon 900EX,F900,Civ,Fashion,Sweatsho
 43E9D1,M-OBIL,Ulla Popken,Cessna Citation CJ4,C25C,Civ,Plus Size,Fashion,Thornton Melon,As Seen on TV,https://en.wikipedia.org/wiki/Ulla_Popken
 A74DDA,N57UH,United Healthcare Services,Gulfstream G550,GLF5,Civ,Insurance,Driving Up Costs,Healthcare Should Be Free,As Seen on TV,https://www.uhc.com
 AC74F0,N901X,United States Steel Corp,Gulfstream G500,GLF5,Civ,Steel,Bizjet,JP Morgan,As Seen on TV,https://w.wiki/4sK7
-ACB29F,N917VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
-AAF663,N805VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
-AA4122,N76VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
-A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Dont Care,Screw You Customer,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+ACB29F,N917VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+AAF663,N805VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+AA4122,N76VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
 A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 A5D93F,N476V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 4001DB,VP-CLB,Volkswagen Air Service,Dassault Falcon 7X,FA7X,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
@@ -2345,7 +2345,7 @@ A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Tourin
 473D31,HA-XEN,Private,Genevation Aircraft GenPro,GPRO,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://genevation.hu/
 4B2F1A,HB-RVU,Private,Hawker Hunter F58,HUNT,Civ,Jet Fighter,Transonic,Cargo,Joe Cool,https://en.wikipedia.org/wiki/Hawker_Hunter
 406D6D,G-ISAC,Private,Isaacs Spitfire,ISPT,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://en.wikipedia.org/wiki/Isaacs_Spitfire
-407336,G-RHOD,Private,Just Aircraft Super STOL,ZZZZ,Civ,To Be Faaaaaaaaaaaaaaaaaaair,STOL,I Dont Need No Stinking Runway,Joe Cool,https://justaircraft.com
+407336,G-RHOD,Private,Just Aircraft Super STOL,ZZZZ,Civ,To Be Faaaaaaaaaaaaaaaaaaair,STOL,I Don't Need No Stinking Runway,Joe Cool,https://justaircraft.com
 45AF53,OY-KZS,Private,KZ-VIII Replica,KZ8,Civ,Aerobatics,Monoplane,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SAI_KZ_VIII
 3D05CC,D-EALG,Private,Lake Buccaneer LA-4-200,LA4,Civ,Amphibian,Seaplane,Nice Weather For Ducks,Joe Cool,https://en.wikipedia.org/wiki/Lake_Buccaneer
 AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Duck To Water,Joe Cool,https://en.wikipedia.org/wiki/Lake_Renegade
@@ -3228,7 +3228,7 @@ AAE162,N80VC,Ventura County Fire Department,UH-60L Blackhawk,H60,Civ,Flying Fire
 407AFE,G-WNDR,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 A7855B,N584GA,USAF,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
-3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,E550,Civ,Beer,Dont Drink And Fly,Vanity Plate,Vanity Plate,https://youtu.be/sAk_rq4VnuY
+3C94B2,D-BEER,Air Hamburg,Embraer Legacy 500,E550,Civ,Beer,Don't Drink And Fly,Vanity Plate,Vanity Plate,https://youtu.be/sAk_rq4VnuY
 3C0699,D-ARMY,Air Hamburg,Embraer Legacy 650,E35L,Civ,Army Men,Yes Sarge,Vanity Plate,Vanity Plate,https://youtu.be/wEKmJkY9E38
 3C7865,D-ANCE,Air Hamburg,Embraer Legacy 650,E35L,Civ,The Greatest Dancer,Bizjet,Vanity Plate,Vanity Plate,https://youtu.be/sOnqjkJTMaA
 3CD34E,D-CHIC,Air Hamburg,Embraer Phenom 300,E55P,Civ,Goodtimes,Looking Good,Vanity Plate,Vanity Plate,https://youtu.be/oQT9rT74WYM
@@ -3393,7 +3393,7 @@ C0010A,C-FAKF,Private,AutoGyro Europe Cavalon,CLON,Civ,Little Nellie,Gyrocopter,
 406216,G-CGGV,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 406252,G-CGLM,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 40621A,G-CGGW,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
-4AE2A9,SE-XUI,Private,SAAB MFI-15,MF17,Civ,Basic Cable,Nope Mobile,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4ydC
+4AE2A9,SE-XUI,Private,SAAB MFI-15,MF17,Civ,Basic Trainer,Safari,Nope Mobile,You came here in that thing?,https://w.wiki/4ydC
 4029C6,G-MTOO,Private,Solar Wings Pegasus XL-R,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://w.wiki/4o3P
 4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
 44A7D0,OO-I20,Private,Spacek Minisport SD-1 TD,ZZZZ,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Spacek_SD-1_Minisport
