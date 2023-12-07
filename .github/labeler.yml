@@ -1,14 +1,5 @@
-documentation: 
-- changed-files:
-  - any-glob-to-any-file: 'readme.mustache'
-images: 
-- changed-files:
-  - any-glob-to-any-file: 'plane_images.csv'
-ukraine: 
-- changed-files:
-  - any-glob-to-any-file: 'plane-alert-ukraine.csv'
+documentation: readme.mustache
+images: plane_images.csv
+ukraine: plane-alert-ukraine.csv
 planes:
-- changed-files:
-  - any-glob-to-any-file: '*.csv' 
-  - all-globs-to-all-files: '!plane_images.csv'
-  
+- any: ['*.csv', '!plane_images.csv']
