@@ -11,7 +11,7 @@ ukraine:
   - changed-files:
     - any-glob-to-any-file: ['plane-alert-ukraine.csv']
 planes:
-- any:
+- all:
   - changed-files:
     - any-glob-to-any-file: ['*.csv'] 
     - all-globs-to-all-files: ['!plane_images.csv']
