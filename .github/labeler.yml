@@ -14,4 +14,4 @@ planes:
 - all:
   - changed-files:
     - any-glob-to-any-file: ['*.csv'] 
-    - all-globs-to-all-files: ['!plane_images.csv']
+    - any-glob-to-any-file: ['!plane_images.csv']
