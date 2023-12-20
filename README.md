@@ -24,18 +24,18 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **13573** unique aircraft in **50** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **13578** unique aircraft in **50** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13541)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13546)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (57)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (32)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10964)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10966)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3662)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7357)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3666)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7358)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (902)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1620)
 
@@ -61,7 +61,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|326|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|77|
 |Army Air Corp|UK Army Air Corp, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|374|
+|As Seen on TV|Companies and Brands|376|
 |Big Hello|Large Helicopters (sic)|104|
 |Bizjets|Fancy pants planes for fancy pants people|40|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|186|
@@ -71,7 +71,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|182|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|170|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|62|
-|Flying Doctors|Air Ambulance and Medical Flights|781|
+|Flying Doctors|Air Ambulance and Medical Flights|782|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|402|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
@@ -90,14 +90,14 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|43|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|885|
-|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|113|
+|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|114|
 |Quango|NATO, United Nations, World Bank etc.|32|
 |Radiohead|Very Very special aircraft. Think VC25.|6|
 |RAF|Aircraft of the Royal Air Force|231|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|163|
-|Toy Soldiers|Armies from around the world.|628|
+|Toy Soldiers|Armies from around the world.|629|
 |UAV|It's not natural, I tell 'ya!|30|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|193|
