@@ -9592,7 +9592,7 @@ AE54D7,13-5776,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Win
 AE4E19,11-5731,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 AE4BE6,09-5713,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://en.wikipedia.org/wiki/Lockheed_MC-130#MC-130J_Commando_II
 A41409,N362DD,USAF,PZL-M28 Skytuck,M28,Mil,Covert,Special Ops,STOL,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
-AE0D35,05-27046,USAF,Sikorsky HH-60G Blackhawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
+AE0D35,05-27046,USAF,Sikorsky HH-60G Pave Hawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE5B49,14-20715,United States Army,Sikorsky UH-60M Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 E20047,AE-227,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E20048,AE-228,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
@@ -11139,7 +11139,7 @@ AB8761,N842BA,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And
 A5A95B,N464KC,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 A5A54F,N463FT,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 A5A1ED,N462KC,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
-AE5FA5,19-46058,USAF,Boeing KC-46A Pegasus,KC46,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
+AE5FA5,21-46058,USAF,Boeing KC-46A Pegasus,KC46,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE08EC,83-0495,USAF,C-12 Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE08E6,73-1217,USAF,C-12 Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE04F3,84-0164,USAF,C-12 Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
@@ -13205,7 +13205,7 @@ AE5D97,16-20909,United States Army,UH-60 Blackhawk,H60,Mil,Get To The Choppa,Mil
 AE5D99,16-20911,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 AE5D9A,16-20912,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 AE5D9B,16-20913,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
-AE6C7B,21-21196,United States Army,HH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
+AE6C7B,21-21196,United States Army,HH-60M Blackhawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 AE6C82,21-21203,United States Army,UH-60 Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 AFF009,18-20994,United States Army,UH-60 Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 AE6C84,21-21205,United States Army,UH-60 Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
@@ -13332,7 +13332,7 @@ ADFE4A,94-00318,United States Army,MC-12S Liberty,BE20,Mil,Surveillance,Eye In T
 AE093A,00-01051,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://www.army.mil
 AE6D7E,19-5948,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE4FB1,168097,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk#MH-60R
-AE4EEE,10-0055,United States Air Force,Bell/Boeing CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEE,10-0055,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE683E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 A16E42,N1910H,Hallmark Cards Inc.,Hawker 125 800XP,H25B,Civ,Hallmark Movies,Greeting Cards,Christmas in July,As Seen on TV,https://w.wiki/7msN
 A2CE01,N280AF,Aflac,Gulfstream G280,G280,Civ,Insurance,Duck,As Seen on TV,Vanity Plate,https://www.aflac.com/about-aflac/our-company/the-aflac-duck.aspx
@@ -13545,3 +13545,9 @@ ACCC81,N9236H,Optic Air,Cessna 172 Skyhawk,C172,Civ,Aerial Survey,Measuring Stic
 ADD207,N99TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity Plate,News Corporation,As Seen on TV,https://www.skyhelicopters.com/
 AE56D5,13-20621,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
 ADD817,N991TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity Plate,News Corporation,As Seen on TV,https://www.skyhelicopters.com/
+ABF515,N87ME,STAT Medevac,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/STAT_Medevac
+AE5FAF,15-46068,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
+A77AE7,06-0581,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
+AC0A69,05-0646,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
+AE485C,08-20150,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
+AE569D,13-20565,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
