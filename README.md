@@ -24,18 +24,18 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **13578** unique aircraft in **50** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **13584** unique aircraft in **50** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13546)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (13552)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (57)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (32)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10966)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (10968)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3666)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7358)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3667)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7363)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (902)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1620)
 
@@ -71,7 +71,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|182|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|170|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|62|
-|Flying Doctors|Air Ambulance and Medical Flights|782|
+|Flying Doctors|Air Ambulance and Medical Flights|783|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|402|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
@@ -86,7 +86,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Oligarch|I made this money all by myself.|41|
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|1976|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|189|
-|Oxcart|Intelligence gathering aircraft|739|
+|Oxcart|Intelligence gathering aircraft|741|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|43|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|885|
@@ -97,12 +97,12 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|163|
-|Toy Soldiers|Armies from around the world.|629|
+|Toy Soldiers|Armies from around the world.|631|
 |UAV|It's not natural, I tell 'ya!|30|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|193|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|170|
-|USAF|Aircraft of the United States Air Force|2186|
+|USAF|Aircraft of the United States Air Force|2187|
 |Vanity Plate|Distinctive registrations|74|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|98|
