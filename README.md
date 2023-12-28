@@ -35,9 +35,9 @@ These aircraft are divided into four main databases:
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3667)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7363)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7350)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (902)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1620)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1633)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -68,14 +68,14 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Coastguard|Coastguard, Customs and Border Patrols|438|
 |Da Comrade|Russian or Soviet Aircraft|91|
 |Dictator Alert|People of potentially questionable morals and values|323|
-|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|182|
+|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|183|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|170|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|62|
 |Flying Doctors|Air Ambulance and Medical Flights|783|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|402|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
-|Governments|Aircraft registered to Governments|243|
+|Governments|Aircraft registered to Governments|251|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|257|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|195|
 |Historic|It's older than I am and most likely has a prop.|406|
@@ -92,7 +92,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|885|
 |Ptolemy would be proud|Mapping and Aerial Survey aircraft.|114|
 |Quango|NATO, United Nations, World Bank etc.|32|
-|Radiohead|Very Very special aircraft. Think VC25.|6|
+|Radiohead|Very Very special aircraft. Think VC25.|5|
 |RAF|Aircraft of the Royal Air Force|231|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
@@ -102,7 +102,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|193|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|170|
-|USAF|Aircraft of the United States Air Force|2187|
+|USAF|Aircraft of the United States Air Force|2179|
 |Vanity Plate|Distinctive registrations|74|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|98|
