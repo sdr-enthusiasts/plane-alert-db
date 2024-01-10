@@ -1860,14 +1860,14 @@ AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Od
 156DCA,RF-93642,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A40B45,N36PN,The A-Team,Grumman GII,GLF2,Civ,I Aint Getting in No Plane Fool,Elvis,Michael Jordan,Distinctive,https://youtu.be/q2Nv3KVKHWI
-AE0415,164388,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0416,164404,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0413,164386,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0414,164387,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE040F,162784,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
-AE0419,164407,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0415,164388,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0416,164404,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0413,164386,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0414,164387,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE040F,162784,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0419,164407,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,You Aint Seen Me Right,Distinctive,https://tinyurl.com/3mz2jytd
-AE040D,162782,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE040D,162782,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 ADFEB6,75-0125,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB5,74-0787,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 ADFEB4,73-1677,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
@@ -13213,7 +13213,7 @@ AE509D,08-00263,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serv
 AE509E,08-00264,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 03E35F,????,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 A744A7,N568AE,Seminole Tribe of Florida,Eurocopter AS350 Squirrel B3,AS50,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://www.seminolehardrockhollywood.com/
-AE0410,163918,United States Navy,Boeing E6B Mercury,E6,Mil,Quarterback,Kung Fu Grip,To Fly Fight And Win,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
+AE0410,163918,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
 AE63B9,19-46077,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus
 AE1D52,161404,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
 AE1C08,04-08715,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
@@ -13570,3 +13570,5 @@ AE679A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE2BF2,166575,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y#MH-60R
 A02B2D,N11PP,US Department of the Interior,Bell 412 EP,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://w.wiki/8o8W
+AE2BEF,166572,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y#MH-60R
+AE0412,163920,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-6_Mercury
