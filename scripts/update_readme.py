@@ -64,7 +64,7 @@ with open("readme.mustache", "r") as template:
                     "aerobatic_count": category_df[
                         category_df["Category"] == "Aerobatic Teams"
                     ].shape[0],
-                    "air_corp_count": category_df[
+                    "air_corps_count": category_df[
                         category_df["Category"] == "Army Air Corps"
                     ].shape[0],
                     "seen_on_tv_count": category_df[
