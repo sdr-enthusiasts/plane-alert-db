@@ -2460,7 +2460,7 @@ A05291,N12NM,Private,Zivko Edge 540K,EDGE,Civ,Unlimted Aerobatics,High G,Red Bul
 484BC8,PH-PEP,Sky Unlimited bv,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 484989,PH-PGP,Wings over Holland,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 491429,CS-EAI,Aero Club de Portugal,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-407B74,G-CLWK,Army Air Corp,DHC-1 Chipmunk T10,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Army Air Corp,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+407B74,G-CLWK,Army Air Corps,DHC-1 Chipmunk T10,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Army Air Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 401AF0,G-BBMV,Boultbee,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 7C02B3,VH-ATH,Pivate,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A8825C,N64750,Planes of Fame Air Museum,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3447,16 +3447,16 @@ A03760,N113AH,TVPX Aircraft Solutions Inc Trustee,Eurocopter MBB-BK 117 C-2 (EC1
 A278F9,N259AM,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A31DAE,N30HF,HALO-Flight Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
 A3452D,N31HF,HALO-Flight Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
-A3971C,N330PH,PHI Health LLC,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
-A39E8A,N332PH,PHI Health LLC,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A3971C,N330PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A39E8A,N332PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A3942B,N33HF,HALO-Flight Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
 A51DC3,N429HF,HALO-Flight Inc,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
 ACBFEC,N920U,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 AC97D0,N910MT,Med-Trans Corp,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
-A5CA47,N472TX,PHI Health LLC,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
-AA0325,N744TX,PHI Health LLC,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A5CA47,N472TX,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+AA0325,N744TX,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 AA06DC,N745TX,Mother Frances Hospital,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.christushealth.org/locations/tyler-hospital
-AB6CAC,N835TX,PHI Health LLC,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+AB6CAC,N835TX,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A68A13,N520MT,Med-Trans Corp,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
 A7698F,N577MT,Bank of Utah Trustee,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
 A5C292,N470RA,Rocky Mountian Holdings LLC,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
@@ -3667,3 +3667,10 @@ ADD207,N99TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity Pl
 ADD817,N991TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity Plate,News Corporation,As Seen on TV,https://www.skyhelicopters.com/
 ABF515,N87ME,STAT Medevac,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/STAT_Medevac
 AC9A7D,N911BB,Bollinger Enterprises LLC,Sikorsky S-76 C,S76,Civ,Shipbuilder,Jones Act,Man Made Climate Change,Bizjets,https://w.wiki/6epJ
+A0AD1F,N14244,Pacific Fleet Aviation,Piper PA-23 Aztec 250E,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
+A1D63F,N21725,Optic Air,Cessna 172M Skyhawk,C172,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.opticair.net/
+A37E79,N324PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
+A462FE,N382CV,Civil Air Patrol,Textron Aviation 182T Skylane,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+A64CC3,N505CP,Civil Air Patrol,Textron Aviation 182T Skylane,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+A7F432,N611TV,Sky Helicopters,Robinson R66 Turbine Newscopter,R66,Civ,Is This My Good Side,Vanity Plate,News Corporation,As Seen on TV,https://www.skyhelicopters.com/
+AC4407,N89LT,Surveying and Mapping,Vulcanair P.68C Victor,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.sam.biz/
