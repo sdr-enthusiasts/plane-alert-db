@@ -861,7 +861,7 @@ AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The Worl
 0A401B,7T-WHD,Algerian Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/Algerian_Air_Force
 0A400E,7T-WHO,Algerian Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/Algerian_Air_Force
 0A400D,7T-WHN,Algerian Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/Algerian_Air_Force
-342308,7T-WGE,Algerian Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://en.wikipedia.org/wiki/EADS_CASA_C-295
+342308,7T-WGE,Algerian Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/8pa2
 0A4024,7T-WIG,Algerian Air Force,Ilyushin IL-76TD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Algerian_Air_Force
 E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,Fuerza Aerea Argentina,Other Air Forces,https://en.wikipedia.org/wiki/Argentine_Air_Force
 E14D34,T-11,Argentine Air Force,Learjet 60,LJ60,Mil,VIP Transport,Must Be Nice,Fuerza Aerea Argentina,Other Air Forces,https://en.wikipedia.org/wiki/Argentine_Air_Force
@@ -1056,7 +1056,7 @@ E49210,2853,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,M
 7A425F,11155,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A426E,11159,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7AA30B,B-4074,Chinese Air Force,Xian Y-7G,AN24,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
-000004,FAC1282,Colombian Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Transport,Marching Powder,Other Air Forces,https://en.wikipedia.org/wiki/EADS_CASA_C-295
+000004,FAC1282,Colombian Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Transport,Marching Powder,Other Air Forces,https://w.wiki/8pa2
 501F8F,223,Croatian Air Force,Mil Mi-17-1Sh,MI8,Mil,Military Transport,Search And Rescue,Hip,Other Air Forces,https://w.wiki/4mdB
 4C8080,701,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
 4C8081,702,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
@@ -7332,7 +7332,6 @@ AE212D,01-26890,United States Army,UH-60L Blackhawk,H60,Mil,Get To The Choppa,Ut
 AE08F8,84-24375,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFEDE,86-60088,United States Army,C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE0997,95-26611,United States Army,UH-60L Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE6284,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE6813,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
 AE6407,61-0904,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE6401,70-1559,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -7375,3 +7374,10 @@ ADFDD0,92-03328,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,No
 080010,98-00010,United States Army,Cessna UC-35A Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://w.wiki/8p9F
 AE483A,08-20105,United States Army,Sikorsky UH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5EBE,162025,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2166684/th-57-sea-ranger-helicopter/
+AE6284,163647,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62B5,165464,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62D1,165495,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62D5,165598,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62E5,165614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62F8,165634,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+4CA420,285,Irish Air Corps,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Watchful and Loyal,Other Air Forces,https://w.wiki/8pa2
