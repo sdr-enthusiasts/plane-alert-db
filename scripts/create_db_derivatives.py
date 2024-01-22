@@ -81,7 +81,7 @@ if __name__ == "__main__":
         lineterminator="\n",
     )
     logging.info("Ukraine csv file read and sorted successfully.")
-    logging.info("Creating the Ukraine database images CSV file...")  
+    logging.info("Creating the Ukraine database images CSV file...")
     ukraine_df_images = pd.merge(ukraine_df, images_df, how="left", on="$ICAO")
     ukraine_df_images.to_csv(
         "plane-alert-ukraine-images.csv",
