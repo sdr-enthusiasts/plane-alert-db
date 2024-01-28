@@ -2440,7 +2440,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E477E,D-ISGS,SVEGE Flight Inspection,AP68TP-600 Viator,VTOR,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.svege.de/about-us.html
 3E4AEB,D-ITOL,AVT Airborne Sensing,Cessna T303 Crusader,C303,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
 3E5176,D-IWAW,AVT Airborne Sensing,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
+3E80C0,55+01,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E80DF,55+02,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8182,55+03,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E819E,43+29,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E826F,54+15,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8525,31+47,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -2450,6 +2452,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E861B,30+94,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8629,4X+XX,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E865F,54+22,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E875E,55+04,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8764,55+05,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E87C9,43+29,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E89E7,16+02,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
@@ -13635,7 +13639,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-3E80C0,55+01,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8182,55+03,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E875E,55+04,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8764,55+05,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe

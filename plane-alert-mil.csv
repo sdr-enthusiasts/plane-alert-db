@@ -1303,7 +1303,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3DF5BF,D-HNHV,German Air Force,Eurocopter EC145 D-3,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/luftwaffe
 3DF5C0,D-HNHW,German Army,Eurocopter H145,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/heer
 3DF5C1,D-HNHX,German Army,Eurocopter H145,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/heer
+3E80C0,55+01,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E80DF,55+02,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8182,55+03,German Air Force,C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E819E,43+29,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E826F,54+15,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8525,31+47,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -1312,6 +1314,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E861B,30+94,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8629,4X+XX,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E865F,54+22,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E875E,55+04,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8764,55+05,German Air Force,KC-130J Super Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E87C9,43+29,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E89E7,16+02,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
