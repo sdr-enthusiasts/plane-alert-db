@@ -34,10 +34,10 @@ These aircraft are divided into four main databases:
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3687)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3688)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7455)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (907)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1635)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1634)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -63,7 +63,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
 |As Seen on TV|Companies and Brands|377|
 |Big Hello|Large Helicopters (sic)|104|
-|Bizjets|Fancy pants planes for fancy pants people|41|
+|Bizjets|Fancy pants planes for fancy pants people|42|
 |CAP|Civil Air Patrol.|3|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|186|
 |Coastguard|Coastguard, Customs and Border Patrols|439|
@@ -76,7 +76,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|407|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
-|Governments|Aircraft registered to Governments|251|
+|Governments|Aircraft registered to Governments|250|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|257|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|195|
 |Historic|It's older than I am and most likely has a prop.|406|
