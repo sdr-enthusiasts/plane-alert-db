@@ -6140,6 +6140,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71DF04,B704,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF05,B705,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF06,B706,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
+71F010,230925,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Anti-Submarine Warfare,Other Navies,https://www.navy.mil.kr/mbshome/mbs/eng/index.do
 71F881,19-002,Republic of Korea Air Force,Airbus KC-330 Cygnus,A332,Mil,Refuel,Air2Air,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71F9C3,45-747,Republic of Korea Air Force,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71F9C4,45-750,Republic of Korea Air Force,C-130J-30 Super Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
@@ -7690,12 +7691,14 @@ A36CAE,N32HH,PHI Health,Learjet 31A,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,
 A36D3D,N32PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A36D83,N32RW,Skylens,Piper PA-23 Aztec 250E,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
 A36FFA,N320TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+A3721D,N321AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A37394,N321RX,Reach Air Medical,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A375D4,N322AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3774B,N322RX,Reach Air Medical,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A37A70,N323LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A37A7D,N323LP,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A37B02,N323RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
+A37D42,N324AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
 A37D92,N324EB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A37E79,N324PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
@@ -7705,6 +7708,7 @@ A380F9,N325AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor 
 A38230,N325PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A384B0,N326AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A385E3,N326PD,Anaheim Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.anaheim.net/171/Police-Department
+A38867,N327AX,Airborne Tactical Advantage,Hawker Hunter F.58A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A389DE,N327RX,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 A38A05,N327TL,Thomas H Lee,Gulfstream G400SP,GLF4,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/4wop
 A38C1E,N328AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
@@ -7722,6 +7726,7 @@ A39D3F,N332AB,Kansas City Police Dept,Hughes OH-6A Cayuse,H500,Pol,Police Squad,
 A39DFD,N332HS,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A39E8A,N332PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A3A280,N333RW,Lone Star Flight Museum,North American B-25N Mitchell,B25,Civ,Bomber,WW2,Special Delivery,Historic,https://w.wiki/7o3m
+A3A4C1,N334AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3A4DE,N334CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A3A5DB,N334ND,FBI,Cessna 206H,C206,Gov,FBI,Covert,Surveillance,Oxcart,https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php
 A3A878,N335AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
@@ -7743,19 +7748,23 @@ A3C11B,N341AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor 
 A3C1C2,N341HP,California Highway Patrol,Eurocopter AS350 Squirrel B3,AS50,Civ,CHiPS,Ponch,Highway Patrol,Police Forces,https://en.wikipedia.org/wiki/California_Highway_Patrol
 A3C24A,N341P,PHI Health,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A3C881,N343AP,Air Products & Chemicals,Dassault Falcon 7X,FA7X,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
+A3C889,N343AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3CC38,N344AP,Air Products & Chemicals,Gulfstream G650 ER,GLF6,Civ,Industrial Gases,Chemicals,Gasification,As Seen on TV,https://www.airproducts.co.uk/
 A3CC40,N344AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3CC9A,N344EM,Draken Intl,Aermacchi MB.339 CB,M339,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A3CD77,N344PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A3CDB2,N344RS,Lockheed Martin Corp,Gulfstream G550,GLF5,Civ,Bizjet,Skunk Works,Kelly Johnson,As Seen on TV,https://en.wikipedia.org/wiki/Skunk_Works
+A3CFF7,N345AX,Airborne Tactical Advantage,Hawker Hunter F.58A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3D0F5,N345MA,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A3D3AE,N346AX,Airborne Tactical Advantage,Hawker Hunter T.68,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
+A3D765,N347AX,South America Tactical & Airborne Consulting,Hawker Hunter FGA.9,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/9JE4
 A3DB1C,N348AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3DB76,N348EM,Draken Intl,Aermacchi MB.339 CB,M339,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A3DC2A,N348MS,Virgin Galactic,White Knight Two,WHK2,Civ,Spaceplane Carrier,Up Up And Away,Nope Mobile,Distinctive,https://w.wiki/8o8g
 A3DC4E,N348PC,Guardian Flight,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
 A3DED3,N349AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3E2DF,N35EG,Chatfield Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.chatfieldairambulanceinc.com/
+A3E4E3,N350AX,Airborne Tactical Advantage,Armstrong Whitworth Hunter F.6A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3E4FB,N350BW,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A3E533,N350EB,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A3E5C2,N350KV,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
@@ -13730,12 +13739,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-A3721D,N321AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A37D42,N324AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A38867,N327AX,Airborne Tactical Advantage,Hawker Hunter F.58A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3A4C1,N334AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3C889,N343AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3CFF7,N345AX,Airborne Tactical Advantage,Hawker Hunter F.58A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-A3D765,N347AX,South America Tactical & Airborne Consulting,Hawker Hunter FGA.9,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/9JE4
-A3E4E3,N350AX,Airborne Tactical Advantage,Armstrong Whitworth Hunter F.6A,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
-71F010,230925,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Anti-Submarine Warfare,Other Navies,https://www.navy.mil.kr/mbshome/mbs/eng/index.do
