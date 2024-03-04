@@ -2578,10 +2578,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F5F35,44+75,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F5FBB,46+25,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F5FEE,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F6003,60+03,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
-3F6004,60+04,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
-3F6006,60+06,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
-3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Oxcart,https://w.wiki/4meM
+3F6003,60+03,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
+3F6004,60+04,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
+3F6006,60+06,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
+3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
 3F60AA,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F61AA,54+36,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F6219,54+31,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -4423,15 +4423,15 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C90B,ZH814,Army Air Corps,Bell 212 AH1,B212,Mil,Choppa,I Am Old,The Skys No Limit,Army Air Corps,https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)
 43C90C,ZH816,Army Air Corps,Bell 212 AH1,B212,Mil,Choppa,I Am Old,The Skys No Limit,Army Air Corps,https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)
 43C90E,ZJ969,Army Air Corps,Bell 212 AH1,B212,Mil,Choppa,I Am Old,The Skys No Limit,Army Air Corps,https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)
-43C918,ZP801,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91A,ZP803,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91C,ZP805,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91D,ZP806,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91E,ZP807,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C91F,ZP808,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
-43C920,ZP809,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Oxcart,https://www.raf.mod.uk
+43C918,ZP801,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C919,ZP802,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91A,ZP803,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91B,ZP804,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91C,ZP805,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91D,ZP806,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91E,ZP807,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C91F,ZP808,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
+43C920,ZP809,Royal Air Force,Boeing P-8A Poseidon MRA Mk1,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,RAF,https://www.raf.mod.uk
 43C921,ZM340,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
 43C922,ZM341,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
 43C923,ZM342,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
@@ -5314,7 +5314,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 497C2B,15112,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
 497C71,17401,Portuguese Air Force,Dassault Falcon 50,FA50,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497C73,17403,Portuguese Air Force,Dassault Falcon 50,FA50,Mil,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
-497C9A,14810,Portuguese Air Force,Lockheed P-3C CUP+ Orion,P3,Civ,Maritime Patrol,Anti Submarine Warfare,Of His Own Free Will,Oxcart,https://www.emfa.pt
+497C9A,14810,Portuguese Air Force,Lockheed P-3C CUP+ Orion,P3,Civ,Maritime Patrol,Anti Submarine Warfare,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497CAB,16711,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497CAC,16712,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Maritime Patrol,ASW,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497CC0,19205,Portuguese Navy,Westland Lynx Mk95 Super,LYNX,Mil,Maritime Patrol,ASW,Wiling To Do Well,Other Navies,https://w.wiki/53bf
@@ -6648,18 +6648,18 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CF9C5,A41-213,Royal Australian Air Force,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF9C8,A39-006,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF9C9,A39-007,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
-7CF9CB,A47-001,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9CC,A47-002,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9CD,A47-003,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9CE,A47-004,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9CF,A47-005,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D0,A47-006,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D1,A47-007,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D2,A47-008,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D3,A47-009,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D4,A47-010,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D5,A47-011,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
-7CF9D6,A47-012,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
+7CF9CB,A47-001,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9CC,A47-002,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9CD,A47-003,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9CE,A47-004,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9CF,A47-005,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D0,A47-006,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D1,A47-007,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D2,A47-008,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D3,A47-009,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D4,A47-010,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D5,A47-011,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
+7CF9D6,A47-012,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Other Air Forces,https://www.airforce.gov.au
 7CF9D8,A54-001,Royal Australian Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF9D9,A54-002,Royal Australian Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF9DA,A54-003,Royal Australian Air Force,Pilatus PC-21,PC21,Mil,Advanced Trainer,L-Plate,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
@@ -7056,8 +7056,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 89804C,P2-ANW,Papua New Guinea Government,Dassault Falcon 900EX,F900,Gov,Papua New Guinea,James Marape,Government,Governments,https://w.wiki/3igv
 898056,P2-PNG,Papua New Guinea Government,B350 Super King Air,B350,Gov,Papua New Guinea,James Marape,Government,Governments,https://en.wikipedia.org/wiki/Papua_New_Guinea
 898080,P2-LAD,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
-899009,3310,Republic Of China Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Oxcart,https://w.wiki/4nt9
-89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Oxcart,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+899009,3310,Republic Of China Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Navies,https://w.wiki/4nt9
+89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 899041,B-55411,EVA Air,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 899056,B-77777,EVA Air,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 899180,5001,Republic Of China Air Force,Fokker F50,F50,Mil,VIP Transport,Military Transport,ROCAF,Other Air Forces,https://w.wiki/4nt8
@@ -7844,7 +7844,7 @@ A47A4F,N388PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Sav
 A47AAF,N388TD,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A47CBC,N389AC,Aero Flite,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://fireaviation.com/tag/aero-flite
 A47DD0,N389MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
-A480A1,N39BZ,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Figher,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A480A1,N39BZ,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A481FD,N39RX,Methodist Air Care,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airbus.com/newsroom/stories/hems-methodist-aircare.html
 A4834A,N390FD,Contra Costa County Consolidated Fire Department,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.cccfpd.org
 A483E0,N390MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
@@ -11790,16 +11790,16 @@ AE1CCB,86-0163,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https
 AE1CCC,86-0164,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCD,86-0165,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCE,86-0166,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
-AE1D41,161121,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D51,161339,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D52,161404,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D5A,161414,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D5B,161415,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D5F,161588,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D61,161590,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
-AE1D7C,162999,United States Navy,Lockheed P-3C AIP Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
+AE1D41,161121,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D51,161339,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D52,161404,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D5A,161414,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D5B,161415,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D5F,161588,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D61,161590,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D7C,162999,United States Navy,Lockheed P-3C AIP Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
-AE1D85,163291,United States Navy,Lockheed P-3C-AIP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,Oxcart,https://w.wiki/3qBW
+AE1D85,163291,United States Navy,Lockheed P-3C-AIP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D8C,156517,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D90,157316,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D92,157325,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
@@ -12212,7 +12212,7 @@ AE220E,08-8607,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 AE220F,07-8608,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE2210,07-8609,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE2211,84-0048,USAF,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,Covert,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
-AE222C,167951,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE222C,167951,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE2237,2301,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2239,2302,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE223A,2303,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -12662,22 +12662,22 @@ AE4E1C,11-5735,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunshi
 AE4E1D,11-5737,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE4E8D,166164,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4EA5,166187,United States Navy,Raytheon Aircraft Company T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4EB1,167956,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EB2,168428,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EB6,168432,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EB7,168433,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EB9,168435,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EBB,168437,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC0,168755,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC1,168756,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC2,168757,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC3,168758,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC4,168759,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC5,168760,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC6,168761,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC7,168762,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC8,168763,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE4EC9,168764,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE4EB1,167956,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EB2,168428,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EB6,168432,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EB7,168433,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EB9,168435,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EBB,168437,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC0,168755,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC1,168756,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC2,168757,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC3,168758,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC4,168759,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC5,168760,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC6,168761,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC7,168762,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC8,168763,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EC9,168764,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4ECA,09-0043,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4ECB,09-0044,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4ECC,09-0045,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
@@ -12802,13 +12802,13 @@ AE5772,10-00256,United States Army,C-12V Huron,BE20,Mil,Light Transport,Utility,
 AE5773,10-00257,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE5774,10-00259,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE5775,10-00260,United States Army,C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
-AE57B7,168851,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57B9,168853,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57C0,168860,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57C7,169002,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57CB,169006,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE57D0,169011,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE57B7,168851,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57B9,168853,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57C0,168860,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57C7,169002,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57CB,169006,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57D0,169011,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE57D1,2007,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE57D2,2008,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE57D3,2009,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -12940,12 +12940,12 @@ AE5BC7,16-46022,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE5BC8,16-46023,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BDA,15-27099,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5C54,15-5810,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
-AE5C58,169326,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5C5A,169328,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5C5C,169330,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5C60,169334,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5C68,169342,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5C6E,16-9348,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE5C58,169326,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C5A,169328,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C5C,169330,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C60,169334,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C68,169342,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C6E,169348,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5C71,168457,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE5C72,168458,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE5C73,168459,United States Navy,RQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
@@ -13052,10 +13052,10 @@ AE5F13,17-5867,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 AE5F14,17-5869,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE5F15,17-5870,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE5F1A,16-00397,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
-AE5F3C,169547,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5F3D,169548,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5F47,169558,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE5F50,169567,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE5F3C,169547,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F3D,169548,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F47,169558,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F50,169567,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F92,18-46039,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5F93,18-46040,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5F94,18-46041,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -13196,48 +13196,48 @@ AE6476,17-5903,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfi
 AE6477,17-5904,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE660C,17-01001,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
-AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE679A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67A8,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67AB,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67B9,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67C0,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67C1,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67CF,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67D1,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67D2,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67F1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE679A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE679E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67A6,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67A8,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67AB,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67B9,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67C0,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67C1,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67CF,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67D1,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67D2,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67E3,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67F1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE67F8,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE67FE,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6802,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6804,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6807,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6808,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE67F8,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67FE,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6802,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6804,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6807,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6808,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE6810,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6813,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE681F,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6829,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6833,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE683E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE684C,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
-AE68AB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://w.wiki/3qBW
+AE6810,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6813,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE681F,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6829,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6833,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE683E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE684C,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE68A5,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE68A9,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE68AA,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE68AB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE68AD,97-3091,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 AE68AF,07-3093,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 AE68B1,10-3068,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
@@ -13742,3 +13742,10 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
+A0F6BB,N161PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+ADFDAB,90-00300,United States Army,Gulfstream Aerospace C-20H,GLF4,Mil,Bizjet,Must Be Nice,Top Brass,Toy Soldiers,https://www.army.mil
+AE0403,84-00158,United States Army,Beech C-12U-3 Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
+AE67B9,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6851,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+0D0879,ANX-1192,Mexican Navy,Beechcraft Corp King Air B350ER,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
