@@ -381,6 +381,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D082E,3611,Mexican Air Force,L-100-30 Hercules,C130,Mil,Cargo,Chonky Boy,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D086E,XA-UCI,Med Jets SA de CV,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetrescueairambulance.com/
 0D0872,3911,Mexican Air Force,Bombardier Challenger 605,CL60,Mil,VIP Transport,Bizjet,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
+0D0879,ANX-1192,Mexican Navy,Beechcraft Corp King Air B350ER,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D087F,ANX-1208,Mexican Navy,Bombardier Challenger 605,CL60,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D088A,2004,Mexican Air Force,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D088C,3910,Mexican Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
@@ -7295,6 +7296,7 @@ A0F2A9,N160LA,Los Angeles Fire Department,Sikorsky S-70A,H60,Gov,Flying Fire Ext
 A0F47B,N1603M,San Antonio Police Dept,Aerospatiale AS-350 Ecureuil,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sa.gov/Directory/Departments/SAPD/About/Divisions
 A0F56B,N161AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+A0F6BB,N161PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A0F740,N161V,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A0F922,N162AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A0F9B2,N162G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
@@ -7547,6 +7549,7 @@ A24F04,N248PH,PHI Health,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Savi
 A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 A25188,N249BA,Boeing,Boeing 747 Dreamlifter,BLCF,Civ,Absolute Unit,How Does It Fly,Heavy Lift,Distinctive,https://en.wikipedia.org/wiki/Boeing_Dreamlifter
 A251BB,N249DB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
 A255DD,N25HJ,FlyHondaJet,Honda Jet,HDJT,Civ,How Does It Fly,Id Get That Seen Too,Bizjet,Bizjets,https://flyhondajet.com/
 A2574B,N25Y,The Flying Bulls,Lockheed P-38 Lightning,P38,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A2575B,N25YR,CAF/Yellow Rose Wing,North American TB-25N Mitchell,B25,Civ,Bomber,WW2,Yellow Rose,Historic,https://w.wiki/7o3m
@@ -13231,6 +13234,7 @@ AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 AE683E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE684C,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6851,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6891,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -13742,7 +13746,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-A0F6BB,N161PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
-A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
-AE6851,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
-0D0879,ANX-1192,Mexican Navy,Beechcraft Corp King Air B350ER,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
