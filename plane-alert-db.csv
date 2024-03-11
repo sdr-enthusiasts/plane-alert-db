@@ -7123,6 +7123,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 900000,I-AIMO,Private,Cameron O-77 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,http://www.cameronballoons.co.uk
 924924,????,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,Obvious Miscode,United States Navy,https://w.wiki/6iuV
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
+A00002,N1A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
 A0001A,N1AZ,Arizona Cardinals,Dassault Falcon 7X,FA7X,Civ,NFL,The Other Football,Big Red,Football,https://www.azcardinals.com/
 A0001D,N1BB,Bollinger Enterprises,Gulfstream G-V,GLF5,Civ,Shipbuilder,Jones Act,Man Made Climate Change,Bizjets,https://w.wiki/6epJ
 A00031,N1BX,Baxter Healthcare,Gulfstream G550,GLF5,Civ,Bizjet,Medicines,Multinational,As Seen on TV,https://en.wikipedia.org/wiki/Baxter_International#Controversies
@@ -7137,6 +7138,7 @@ A001BC,N1TS,First Virtual Air II,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Chan
 A001C5,N1UA,Crimson Tide Foundation,Cessna Citation Sovereign,C680,Civ,Roll Tide,The Other Football,Football,Vanity Plate,https://w.wiki/7msQ
 A001E0,N1VC,Commemorative Air Force,Mikoyan-Gurevich MiG-17,MG17,Civ,Mig,Historic,Vashe Zdorovye,Historic,https://commemorativeairforce.org/
 A00212,N1XC,Private,DHC-1 Super Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+A0025B,N10A,Goodyear Tire & Rubber Company,Goodyear GZ-20A,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
 A0026E,N10AU,Auburn University,Cessna Citation CJ4,C25C,Civ,War Eagle,The Other Football,Vanity Plate,Football,https://w.wiki/7sff
 A00399,N10NT,Ontario Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.opp.ca
 A0046F,N10XG,Google Inc,Gulfstream G550,GLF5,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
@@ -7488,6 +7490,7 @@ A1D73D,N218AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,E
 A1D898,N218Q,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A1DA3B,N21844,Los Angeles Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A1DCB0,N219TX,Texas Department of Public Safety,Pilatus PC-12,PC12,Pol,Police Squad,Spectre 219,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/Pilatus_PC-12
+A1DF3E,N22G,Goodyear Tire & Rubber Company,Gulfstream G150,Civ,Vulcanization,Blimp,Tyres,As Seen on TV,https://w.wiki/4$EU,
 A1DFFB,N22PP,United States Park Police,Bell 412,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://en.wikipedia.org/wiki/United_States_Park_Police
 A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.selectmedical.com/
 A1E29F,N220SP,Kentucky State Police,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,http://kentuckystatepolice.org
@@ -7609,6 +7612,7 @@ A30243,N293SV,Mercy St Vincent Medical Center,Eurocopter AS365 N2 Dauphin,AS65,C
 A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
 A30842,N295CC,Clayton County Police Dept,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.claytonpolice.com
 A30FE0,N297EA,Erickson Aero Tanker,McDonnell Douglas DC-9 87,MD87,Civ,Fire Bomber,Air Attack,Wildfire,Aerial Firefighter,http://www.eatanker.com/
+A31AA0,N3A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
 A31AE0,N3CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A31BD5,N3NJ,New Jersey State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.njsp.org
 A31BE8,N3PC,Paul Crouch,Bombardier Global 6000,GLEX,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -7860,6 +7864,7 @@ A491E3,N394CM,Aero Air,Cessna Citation Mustang,C510,Civ,Air Ambo,Medical Evac,Sa
 A493A2,N394WJ,CoPart Inc,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
 A495B7,N395DR,Express Air Medical Transport,Piper PA-42 Cheyenne III,PAY3,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://expressairmedicaltransportation.com/
 A4A567,N399NC,Nuance Communications,Bombardier Challenger 350,CL35,Civ,Hey Siri,Voice Control,kx1t,As Seen on TV,https://www.microsoft.com
+A4A7EF,N4A,Goodyear Tire & Rubber Company,Goodyear GZ-20A,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
 A4A82F,N4CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A4A848,N4DP,Green Chair Productions Inc,Gulfstream G-IV,GLF4,Civ,Dr Phil,Ineffective,Harmful,Don't you know who I am?,https://en.wikipedia.org/wiki/Phil_McGraw#Controversies_and_lawsuits
 A4ACBD,N400BC,Ball Corp,Bombardier Global 6000,GLEX,Civ,Bizjet,Glass Jars,In Space Manufacturing,As Seen on TV,https://en.wikipedia.org/wiki/Ball_Corporation
@@ -13753,8 +13758,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-A00002,N1A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
-A31AA0,N3A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
-A4A7EF,N4A,Goodyear Tire & Rubber Company,Goodyear GZ-20A,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
-A0025B,N10A,Goodyear Tire & Rubber Company,Goodyear GZ-20A,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
-A1DF3E,N22G,Goodyear Tire & Rubber Company,Gulfstream G150,Civ,Vulcanization,Blimp,Tyres,As Seen on TV,https://w.wiki/4$EU
