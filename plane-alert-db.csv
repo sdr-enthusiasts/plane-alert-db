@@ -8220,6 +8220,7 @@ A6616A,N51ZW,Private,North American P-51D Mustang,P51,Civ,War Bird,Frances Dell,
 A661AF,N510CP,City of Columbus Division of Police,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A66261,N510KS,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A6628F,N510MN,City of Columbus Division of Police,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
+A66477,N5105A,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
 A66791,N5110U,Era Alaska,Cessna 206H Stationair,C206,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 A6692B,N512DC,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A6692F,N512DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -9881,7 +9882,8 @@ AE01AC,84-0106,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Wi
 AE01AE,84-0085,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
 AE01B0,84-0087,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
 AE01B9,84-0083,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
-AE01C1,165151,United States Navy,Gulfstream C-20G,GLF2,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
+AE01C0,165094,United States Navy,Gulfstream C-20G,GLF4,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
+AE01C1,165151,United States Navy,Gulfstream C-20G,GLF4,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://www.navy.mil
 AE01C3,64-14848,USAF,Boeing RC-135V,R135,Mil,Eye In The Sky,SIGINT,Rivet Joint,Oxcart,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE01C4,64-14842,USAF,Boeing RC-135V,R135,Mil,Eye In The Sky,SIGINT,Rivet Joint,Oxcart,https://en.wikipedia.org/wiki/Boeing_RC-135
 AE01C5,64-14843,USAF,Boeing RC-135V,R135,Mil,Eye In The Sky,SIGINT,Rivet Joint,Oxcart,https://en.wikipedia.org/wiki/Boeing_RC-135
@@ -11439,6 +11441,7 @@ AE1708,91-0472,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery
 AE170C,92-3918,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery,To Fly Fight And Win,USAF,https://youtu.be/DyruzLjVwbc?t=41
 AE170D,96-0080,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery,To Fly Fight And Win,USAF,https://youtu.be/DyruzLjVwbc?t=53
 AE1710,96-0083,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery,To Fly Fight And Win,USAF,https://youtu.be/DyruzLjVwbc?t=54
+AE171F,06-3813,USAF,Beechcraft T-6A Texan II,TEX2,Mil,USAF,Training Wheels,To Fly Fight And Win,USAF,https://w.wiki/7wRg
 AE1720,06-3814,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1721,06-3815,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1722,06-3816,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -12746,6 +12749,7 @@ AE509E,08-00264,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serv
 AE50E2,10-20311,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E5,10-20314,United States Army,UH-60M Blackhawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE515E,88-00325,United States Army,RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://w.wiki/8p9R
+AE5199,10-20330,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5238,07-08034,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE5251,07-08738,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE526A,08-08754,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
@@ -13120,6 +13124,8 @@ AE6171,165569,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,
 AE6173,163879,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6177,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE61B3,82-23835,USAF,DHC UV-18 Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,To Fly Fight And Win,USAF,https://www.airforce.com
+AE61BD,761526,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
+AE61BE,76-1527,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE61BF,761528,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C0,761531,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C1,761532,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
@@ -13256,6 +13262,7 @@ AE683A,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 AE683E,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE684C,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE684E,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE684F,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6851,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -13299,6 +13306,8 @@ AE695F,19-5942,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly
 AE6961,18-1942,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE6962,18-1947,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE6963,170000,The Blue Angels,C-130J Super Hercules,C30J,Mil,Fat Albert,Display Team,Aerobatics,Aerobatic Teams,https://www.blueangels.navy.mil
+AE6987,79-23321,United States Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
+AE698F,80-23465,United States Dept of Homeland Security,Sikorsky UH-60A Blackhawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE6996,16-08478,United States Army,Boeing CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE6A12,170037,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6A13,170038,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
@@ -13327,6 +13336,10 @@ AE6D50,170158,United States Navy,AgustaWestland Philadelphia TH-73A Thrasher,A11
 AE6D75,21-7002,USAF,Boeing-Saab T-7 Red Hawk,BT7,Mil,Training Wheels,Bicycle Made For Two,That New Plane Smell,USAF,https://w.wiki/7y3F
 AE6D7B,20-5943,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6D7E,19-5948,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
+AE6D80,19-5953,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE6D83,21-5965,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE6DC3,21-03387,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE6E7E,20-14510,USAF,Sikorsky HH-60W Jolly Green II,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE73E3,170184,United States Navy,AgustaWestland Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE7457,170041,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
 AE7458,170042,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
