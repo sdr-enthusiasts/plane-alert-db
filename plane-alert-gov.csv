@@ -318,6 +318,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3CE2D2,YV3083,Venezuelan Air Force,Dornier Do 228-212,D228,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 3DD2F3,D-HADF,German Air Force,Eurocopter H145M,EC45,Gov,Search And Rescue,Chopper,Saving Lives,Coastguard,https://www.bundeswehr.de/de/organisation/luftwaffe
 3E854F,10+03,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5D91,10+02,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://www.bundeswehr.de/de/organisation/luftwaffe
 3F6EEA,76+11,German Air Force,Airbus Helicopters EC-645 T2,EC45,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,A319,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 40013D,VP-BAT,Gov of Qatar,Boeing 747-SP,B74S,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1068,6 +1069,7 @@ A65179,N506NU,NASA,AeroVironmentAN/FQM-117b,UAV,Gov,SCE To Aux,UAV,Ames Research
 A65530,N507NU,NASA,AeroVironmentAN/FQM-117b,UAV,Gov,SCE To Aux,UAV,Ames Research Center,Distinctive,https://www.nasa.gov
 A660F6,N51VE,LoveFrom Inc,Gulfstream G500,GLF5,Gov,Jony Ive,LoveFrom,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Jony_Ive
 A66261,N510KS,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A66477,N5105A,Pallas Aviation,LM-130J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
 A67138,N514KM,Otv Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A6718E,N514NY,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A674DF,N515JW,Aerographics Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1501,6 +1503,8 @@ AE5DED,2014,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,
 AE5DEE,2015,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
 AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE6987,79-23321,United States Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
+AE698F,80-23465,United States Dept of Homeland Security,Sikorsky UH-60A Blackhawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search and Rescue,Mae West,Coastguard,https://www.uscg.mil/
 B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
 C00091,C-FAFO,Province of Saskatchewan,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.saskatchewan.ca
