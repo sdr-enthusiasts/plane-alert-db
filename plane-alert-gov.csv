@@ -694,7 +694,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7C6A62,VH-VAS,Mac Rescue,Bell 412EP,B412,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://tinyurl.com/58nvjmda
 7C6B97,VH-VJD,NSW Rural Fire Service,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.rfs.nsw.gov.au
 7C6B99,VH-VJF,NSW Rural Fire Service,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.rfs.nsw.gov.au
-80004F,VT-UPA,Government Of Uttar Pradesh,B300 Super King Air,BE30,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
+80004F,VT-UPA,Government Of Uttar Pradesh,Beech B300 Super King Air,BE30,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
 80007A,VT-EUX,Government of Tamil Nadu State,Cessna Citation V,C560,Gov,Tamil Nadu,M. K. Stalin,Government,Governments,https://www.tn.gov.in
 800134,VT-UPR,Government of Uttar Pradesh,B200 Super King Air,BE20,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
 800141,VT-MPT,Government of Madhya Pradesh,B200 Super King Air,BE20,Gov,Madhya Pradesh,Mangubhai C. Patel,Government,Governments,https://mp.gov.in
@@ -948,7 +948,7 @@ A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extingu
 A2EC0C,N288DP,Janet Airlines,Boeing 737NG,B736,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A2F6FD,N290RM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A32155,N300WQ,Woolpert,B300 Super King Air,BE30,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
+A32155,N300WQ,Woolpert,Beech B300 Super King Air,BE30,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A3238A,N301FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A32741,N302FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
@@ -1094,7 +1094,7 @@ A74D8D,N57RF,NOAA,DHC-6 Twin Otter 300,DHC6,Gov,Weather Recon,Snow Measurement,S
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B Jet Ranger,B06,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
-A7C6C4,N60VC,Ventura County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://vcfd.org
+A7C6C4,N60VC,Ventura County Fire Department,Sikorsky HH-60L Black Hawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://vcfd.org
 A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-ER,B77W,Gov,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 A7D391,N603NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 A7E26D,N607NA,NASA,DHC-6 Twin Otter 100,DHC6,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
@@ -1123,7 +1123,7 @@ A8DADC,N67RF,NOAA,B350ER Super King Air,B350,Gov,Weather Recon,Emergency Respons
 A900DD,N68,Federal Aviation Administration,Beech King Air 300,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
 A9025B,N68RF,NOAA,B350ER Super King Air,B350,Gov,Weather Recon,Emergency Response,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A95109,N7NA,NASA,B200 Super King Air,BE20,Gov,SCE To Aux,Mission Support,Research,Distinctive,https://www.nasa.gov
-A95413,N70VC,Ventura County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://vcfd.org
+A95413,N70VC,Ventura County Fire Department,Sikorsky HH-60L Black Hawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://vcfd.org
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,GLF5,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
 A97AA1,N71KM,Pallas Aviation,LM-100J Hercules,C30J,Gov,CIA Front,Special Operations,Up To No Good,Hired Gun,https://www.pallasaviation.com/
@@ -1148,7 +1148,7 @@ AAF954,N806NA,NASA,Lockheed ER-2,U2,Gov,SCE To Aux,High Altitude,All About That 
 AAF9D8,N806TH,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AB00C2,N808NA,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 AB0479,N809NA,NASA,Lockheed ER-2,U2,Gov,SCE To Aux,High Altitude,All About That Wingspan,Distinctive,https://airbornescience.nasa.gov/aircraft/ER-2_-_AFRC
-AB0702,N81,Federal Aviation Administration,B300 Super Air King,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
+AB0702,N81,Federal Aviation Administration,Beech B300 Super Air King,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
 AB0D1B,N811AH,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AB0DC2,N811H,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1243,7 +1243,7 @@ AD610A,N961NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut
 AD645E,N962JB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AD64DB,N962PB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Blackhawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sbcfire.com
+AD6C94,N964SB,Santa Barbara County Fire Department,Sikorsky HH-60L Black Hawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sbcfire.com
 AD739D,N966NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 AD7754,N967NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
@@ -1501,10 +1501,11 @@ AE5DEB,2012,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,
 AE5DEC,2013,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE5DED,2014,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE5DEE,2015,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE5DEF,2016,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
 AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
 AE6987,79-23321,United States Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
-AE698F,80-23465,United States Dept of Homeland Security,Sikorsky UH-60A Blackhawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
+AE698F,80-23465,United States Dept of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search and Rescue,Mae West,Coastguard,https://www.uscg.mil/
 B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
 C00091,C-FAFO,Province of Saskatchewan,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.saskatchewan.ca
@@ -1629,7 +1630,7 @@ E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,G
 E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
 E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Roraima
-E48392,PP-EJO,State Gov of Minas Gerais,B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E48A7E,PR-HGR,Brazilian Fire Service,AS350 Squirrel B2,AS50,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Military_Firefighters_Corps
 E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
