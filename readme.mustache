@@ -168,3 +168,11 @@ This data has been gathered from far too many sources to mention, but some sites
 -   <https://www.foxtrotcharlie.ovh/>
 -   <https://www.planelogger.com/>
 -   <https://www.jetphotos.com/>
+
+## LICENSE
+
+Copyright (C) 2022-2024 by SDR-Enthusiasts, Ramon F. Kolb (kx1t), and contributors.
+A list of contributurs can be found at <https://github.com/sdr-enthusiasts/plane-alert-db/graphs/contributors>
+
+This Database is made available under the Open Database License: <http://opendatacommons.org/licenses/odbl/1.0/>
+Any rights in individual contents of the database are licensed under the Database Contents License: <http://opendatacommons.org/licenses/dbcl/1.0/>
