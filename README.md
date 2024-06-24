@@ -24,7 +24,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14109** unique aircraft in **52** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14109** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14076)
@@ -34,7 +34,7 @@ These aircraft are divided into four main databases:
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3753)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3754)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7775)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (908)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1639)
@@ -81,7 +81,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Hired Gun|Why do the dirty work when someone else can do it for you?|235|
 |Historic|It's older than I am and most likely has a prop.|414|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|20|
-|Joe Cool|Cool Planes. Or at least I think they are cool.|198|
+|Joe Cool|Cool Planes. Or at least I think they are cool.|199|
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|16|
 |Oligarch|I made this money all by myself.|41|
