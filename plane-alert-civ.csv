@@ -2267,7 +2267,6 @@ A13210,N17615,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hugh
 A13733,N178DC,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A137FC,N178MD,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A13811,N178N,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A13A05,N17850,Kenneth Copeland,Beech 58TC Turbo Baron,B58T,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A13EBD,N18EF,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A13F91,N18NT,Era Alaska,DHC-2 Beaver Turbo,DHC2,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 A1402E,N18V,Private,Beech Staggerwing UC-43BH,BE17,Civ,Biplane,Staggerwing,History,Historic,https://en.wikipedia.org/wiki/Beechcraft_Model_17_Staggerwing
@@ -2319,8 +2318,8 @@ A17DEC,N1956D,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump
 A17F4D,N196JR,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A17FBB,N196PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A1801F,N196TA,Helo N426HA LLC,Bell 407,B407,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Bell_407
-A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
-A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
+A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
 A1820B,N1969C,P. Diddy,Gulfstream G-V,GLF5,Civ,Bizjet,All About The Benjamins,Baller,Don't you know who I am?,https://en.wikipedia.org/wiki/Sean_Combs
 A1822F,I-CFAI,Vigili del Fuoco,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
@@ -2421,6 +2420,7 @@ A27D74,N26JH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnn
 A27DFE,N26PW,Almanor Aviation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Grim Reaper,Historic,https://w.wiki/3nth
 A27F4B,N260DC,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A283FD,N261PD,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A2862B,N2618G,Eagle Mountain Intl Church,Cessna 182B Skylane,C182,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A296C2,N266RD,Guardian Flight,C90A King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
 A2A720,N270GP,Troy Aikman,Bombardier Challenger 300,CL30,Civ,NFL,The Other Football,Americas Team,Don't you know who I am?,https://en.wikipedia.org/wiki/Troy_Aikman
 A2A77B,N270LE,Liberty Mutual Insurance,Gulfstream G650 ER,GLF6,Civ,Bizjet,Insurance,Bunch of Bankers,As Seen on TV,https://en.wikipedia.org/wiki/Liberty_Mutual
@@ -2677,9 +2677,8 @@ A4D7B6,N4109C,Private,North American T-6G Texan,T6,Civ,Training Wheels,Advanced 
 A4D91C,N411P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4D979,N411ST,Benson Football LLC,Bombardier Challenger 300,CL30,Civ,NFL,The Other Football,Geaux Saints,Football,https://w.wiki/6Wms
 A4DD1B,N412RX,REACH Air Medical Services,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
-A4E02D,N413KG,Kenneth Copeland,Beech E55 Baron,BE55,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A4E02D,N413KG,Eagle Mountain Intl Church,Beech E55 Baron,BE55,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A4E0D2,N413RX,Reach Air Medical,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
-A4E134,N413VV,Kenneth Copeland,Cessna 421 Golden Eagle,C421,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A4E411,N414MB,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A4E742,N415FT,Financial Technology Partners,Gulfstream G650,GLF6,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://www.ftpartners.com/
 A4E85D,N415TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
@@ -2823,6 +2822,7 @@ A63A32,N500CR,Elite Medical Air Transport,B200 Super King Air,BE20,Civ,Air Ambo,
 A63A5D,N500EJ,Berlin Airlift Historical Foundation,Douglas C-54D,DC4,Civ,Old Stuff,Angel of Deliverance,The Last Of Us,Historic,https://tinyurl.com/dn9wn3x4
 A63A65,N500ES,Earth Star Inc,Gulfstream G650 ER,GLF6,Civ,Disney,House Of Mouse,Media Conglomerate,As Seen on TV,https://youtu.be/7OSNtf76C5M
 A63AB8,N500J,Johnson & Johnson,Gulfstream G550,GLF5,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://www.jnj.com
+A63B04,N500MA,Andretti Autosport Aviation Inc,Dassault Falcon 2000,F2TH,Civ,Bizjet,Motorsport,Vrooom!,Don't you know who I am?,https://andrettiglobal.com
 A63B38,N500PC,Pepsico,Gulfstream G400SP,GLF4,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
 A63B45,N500PR,Penske Racing Inc.,Bombardier CRJ-200ER,CRJ2,Civ,Not A Car,Left Turns Only,Vanity Plate,As Seen on TV,https://w.wiki/7qv2
 A63B6F,N500RH,Hendrick Motorsports,Gulfstream G500,GLF5,Civ,Bizjet,NASCAR,I Wanna Go Fast,As Seen on TV,https://en.wikipedia.org/wiki/Hendrick_Motorsports
@@ -3457,6 +3457,7 @@ AC800A,N904WP,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump John
 AC809A,N9041Y,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AC8245,N905FJ,Constellation Productions,Dassault Falcon 900,F900,Civ,John Travolta,Not A DC-8,Xenu,Don't you know who I am?,https://youtu.be/BU2EUfinwHo?t=31
 AC8357,N905SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
+AC9536,N91KC,Eagle Mountain International Church,Pilatus PC-12 47E NG,PC12,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 AC953B,N91KH,Rhema Bible Church,Bombardier Challenger 601,CL60,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 AC956B,N91MF,Elite Medical Air Transport,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.elitemedical.org/
 AC95F6,N91SV,Mercy St Vincent Medical Center,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.mercy.com/
@@ -3486,6 +3487,7 @@ ACA71F,N914SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medic
 ACADFA,N916LL,Milton S Hershey Medical Center,Eurocopter EC155 B1,EC55,Civ,Air Ambo,Medical Evac,Chocolate,Flying Doctors,https://en.wikipedia.org/wiki/Milton_S._Hershey
 ACB0DE,N917C,Cutrale North America,Gulfstream G650 ER,GLF6,Civ,Orange Juice,Oranges,Chiquita,As Seen on TV,https://youtu.be/VIMzn_obxgw
 ACB29F,N917VZ,Verizon Corporate Services,Gulfstream G450,GLF4,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
+ACB2BA,N917XA,Eastern Air Express,Boeing 737-800,B738,Civ,JD Vance,Bizjet,Hide Your Couch,Don't you know who I am?,https://w.wiki/AkcU
 ACB563,N918LF,Life Flight,Cessna Citation CJ4,C25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 ACB84D,N919CA,National Airlines,Boeing 747 428BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
 ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,CL60,Civ,Covert,ISR,SIGINT,Oxcart,https://actualcontrol.substack.com/p/openskys-open-api
