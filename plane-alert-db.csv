@@ -7172,7 +7172,7 @@ A02A14,N11CH,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump 
 A02A6D,N11FX,The Flying Bulls,Bell Cobra TAH-1F,HUCO,Civ,Chopper,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A02B06,N11N,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A02B2D,N11PP,US Department of the Interior,Bell 412 EP,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://w.wiki/8o8W
-A02B6E,N11SD,Harris County Sheriffs Office,Cirrus SR-22,SR22,Pol,Police Squad,The Cops,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/Cirrus_SR22
+A02B6E,N11SD,Harris County Sheriff's Office,Cirrus SR-22,SR22,Pol,Police Squad,The Cops,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/Cirrus_SR22
 A030FC,SMR-2202,Sri Lankan Air Force,B200 Super King Air,BE20,Mil,Maritime Patrol,Eye In The Sky,Protect Lankan Skies,Other Air Forces,https://w.wiki/4nrR
 A031E0,N111WB,REVA Air Ambulance,Learjet 35,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 A034C6,N112MT,Reach Air Medical,Eurocopter EC130,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
@@ -7373,7 +7373,6 @@ A136FE,N178B,Missile Defence Agency,Grumman GII,GLF2,Gov,Dept of Defence,ICBM,Tr
 A13733,N178DC,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A137FC,N178MD,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A13811,N178N,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A13A05,N17850,Kenneth Copeland,Beech 58TC Turbo Baron,B58T,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A13EBD,N18EF,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A13F4E,N18LA,Los Angeles Fire Department,Bell 412HP,B412,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A13F91,N18NT,Era Alaska,DHC-2 Beaver Turbo,DHC2,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
@@ -7433,8 +7432,8 @@ A17DEC,N1956D,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump
 A17F4D,N196JR,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A17FBB,N196PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A1801F,N196TA,Helo N426HA LLC,Bell 407,B407,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Bell_407
-A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
-A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
+A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
 A1820B,N1969C,P. Diddy,Gulfstream G-V,GLF5,Civ,Bizjet,All About The Benjamins,Baller,Don't you know who I am?,https://en.wikipedia.org/wiki/Sean_Combs
 A1822F,I-CFAI,Vigili del Fuoco,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://en.wikipedia.org/wiki/Sikorsky_S-64_Skycrane
@@ -7684,7 +7683,7 @@ A34BD5,N311PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Savi
 A34C1A,N311SB,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A34F8C,N312PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A34FCC,N312RX,Reach Air Medical,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
-A34FD3,N312SD,Harris County Sheriffs Office,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil
+A34FD3,N312SD,Harris County Sheriff's Office,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil
 A35206,N313AR,Alex Rodriguez,Gulfstream G-IV,GLF4,Civ,Bizjet,MLB,NY Yankees,Don't you know who I am?,https://en.wikipedia.org/wiki/Alex_Rodriguez
 A35221,N313BT,Early Birds Foundation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
 A35383,N313RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
@@ -7956,9 +7955,8 @@ A4DC24,N412G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,S
 A4DCD7,N412PD,New York Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://www1.nyc.gov/site/nypd/index.page
 A4DD1B,N412RX,REACH Air Medical Services,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A4DF96,N413DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A4E02D,N413KG,Kenneth Copeland,Beech E55 Baron,BE55,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A4E02D,N413KG,Eagle Mountain Intl Church,Beech E55 Baron,BE55,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A4E0D2,N413RX,Reach Air Medical,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
-A4E134,N413VV,Kenneth Copeland,Cessna 421 Golden Eagle,C421,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A4E34D,N414DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A4E411,N414MB,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A4E445,N414PD,New York Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://www1.nyc.gov/site/nypd/index.page
@@ -8718,7 +8716,7 @@ A9CBA5,N730GD,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The
 A9CD66,N7300C,Commemorative Air Force,North American AT-6D Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A9CF59,N731GA,Medway Air Ambulance,Learjet 31,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
-A9D056,N731SD,Harris County Sheriffs Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,Abel5,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
+A9D056,N731SD,Harris County Sheriff's Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,Abel5,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
 A9D64A,N733BA,Boeing Company,Boeing 737-MAX7-BBJ,B37M,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A9DCED,N73449,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A9DDD1,N735CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
@@ -9157,7 +9155,7 @@ AC9B35,N911JL,Jefferson Parish Sheriff's Office,Bell 429 Global Ranger,B429,Pol,
 AC9B67,N911LL,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
 AC9B9B,N911NN,Tehama County Sheriff's Office,Bell UH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://w.wiki/7r3t
 AC9BAE,N911PG,Prince Georges County Police Dept,MD 520N,MD52,Pol,Police Squad,The Cops,NOTAR,Police Forces,https://www.princegeorgescountymd.gov/345/Police
-AC9BE9,N911RR,Monroe County Sheriffs Office,Sikorsky S-76C,S76,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.keysso.net/
+AC9BE9,N911RR,Monroe County Sheriff's Office,Sikorsky S-76C,S76,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.keysso.net/
 AC9BEF,N911RX,Reach Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
 AC9C0D,N911TB,Cook Childrens Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.cookchildrens.org/
 AC9C12,N911TG,Air Methods,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
@@ -9181,7 +9179,7 @@ ACA3C6,N913WB,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police 
 ACA5FD,N914ET,UT Health East Texas,Eurocopter EC135 P1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
 ACA71F,N914SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
 ACAA6B,N915NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
-ACAAD2,N915SD,Harris County Sheriffs Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
+ACAAD2,N915SD,Harris County Sheriff's Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
 ACADFA,N916LL,Milton S Hershey Medical Center,Eurocopter EC155 B1,EC55,Civ,Air Ambo,Medical Evac,Chocolate,Flying Doctors,https://en.wikipedia.org/wiki/Milton_S._Hershey
 ACAEF9,N916WR,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 ACB0AC,N917A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
@@ -9263,7 +9261,7 @@ AD3660,N950TR,Silver Air,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boein
 AD3869,N951AL,Air Methods,AW.109E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 AD3C20,N952AL,Air Methods,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 AD3C48,N952CA,National Airlines,Boeing 747 428BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
-AD3CE5,N952JH,Los Angeles County Sheriffs Dept,Eurocopter AS332 Super Puma,AS32,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://lasd.org/
+AD3CE5,N952JH,Los Angeles County Sheriff's Dept,Eurocopter AS332 Super Puma,AS32,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://lasd.org/
 AD3FD7,N953AL,Air Methods,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 AD438E,N954AL,Air Methods,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 AD441A,N954GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en/
@@ -13575,7 +13573,7 @@ AE6A27,20-21117,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6A3A,170013,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A3D,170016,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A3E,170017,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
-AE6A40,170019,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6A40,170268,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A55,19-03268,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6A6D,RCH324,USAF,Douglas KC-10A Extender,DC10,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://www.airforce.com
 AE6A76,20-21136,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -14079,3 +14077,11 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
+A1299C,N174SC,Seminole County Sheriff's Office,Airbus Helicopters Squirrel AS.350 B3e (H125),AS50,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.seminolesheriff.org
+A12D53,N175SC,Seminole County Sheriff's Office,Airbus Helicopters Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.seminolesheriff.org
+A4C785,N407KB,Orange County Sheriff's Office,Bell 407,B407,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.ocso.com/en-us
+A70713,N552CH,Orange County Sheriff's Office,Bell 407 GXi,B407,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.ocso.com/en-us
+A63B04,N500MA,Andretti Autosport Aviation Inc,Dassault Falcon 2000,F2TH,Civ,Bizjet,Motorsport,Vrooom!,Don't you know who I am?,https://andrettiglobal.com
+ACB2BA,N917XA,Eastern Air Express,Boeing 737-800,B738,Civ,JD Vance,Bizjet,Hide Your Couch,Don't you know who I am?,https://w.wiki/AkcU
+A2862B,N2618G,Eagle Mountain Intl Church,Cessna 182B Skylane,C182,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
+AC9536,N91KC,Eagle Mountain International Church,Pilatus PC-12 47E NG,PC12,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
