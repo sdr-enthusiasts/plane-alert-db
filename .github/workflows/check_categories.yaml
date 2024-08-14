@@ -6,7 +6,6 @@ on:
       - "plane-alert-db.csv"
       - "plane-alert-pia.csv"
       - "plane-alert-ukraine.csv"
-      - "plane_images.csv"
 
 jobs:
   checkCategories:
