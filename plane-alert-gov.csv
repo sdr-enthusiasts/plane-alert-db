@@ -872,6 +872,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,B737,Gov,Indonesia,Joko Widodo,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
 8A0452,PK-GIG,Indonesia Presidential Flight,Boeing 777-3ER,B77W,Gov,Indonesia,Joko Widodo,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
+A001DE,N1VA,Virginia Department of Aviation,Beechcraft Super King Air 350,B350,Gov,Bizjet,Must Be Nice,Sic Semper Tyrannis,Governments,https://doav.virginia.gov/
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A00D57,N102NJ,New Jersey Forest Fire Service,Bell 206B Jet Ranger,B06,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://www.nj.gov/dep/parksandforests/fire
@@ -948,6 +949,7 @@ A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extingu
 A2EC0C,N288DP,Janet Airlines,Boeing 737NG,B736,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A2F6FD,N290RM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A31BCF,N3NC,North Carolina Dept of Transportation,Beech 200 Super King Air,BE20,Gov,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ncdot.gov/divisions/aviation/Pages/sections-units.aspx
 A32155,N300WQ,Woolpert,Beech B300 Super King Air,BE30,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A3238A,N301FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
@@ -1130,6 +1132,7 @@ A99257,N716A,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,S
 A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A9B15F,N7232R,US Department of Energy,B200 Super King Air,BE20,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A9C265,N728MP,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A9C8B1,FLC73,Federal Aviation Administration,Beech 300 Super King Air,BE30,Gov,Flight Inspection,Measuring Stick,Kilroy,Dogs with Jobs,https://www.faa.gov/air_traffic/flight_info/flight_ops/flightinspection/onlineinformation
 A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A9F008,N73985,Los Angeles Fire Department,Bell 47G-3B-1,B47G,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A9F7DB,N741SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
