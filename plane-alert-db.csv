@@ -7415,9 +7415,9 @@ A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washe
 A16D84,N191ST,Kactus Capital Management,Dassault Falcon 7X,FA7X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A16DA1,N191TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.dps.texas.gov/section/aircraft-operations-division
 A16E42,N1910H,Hallmark Cards Inc.,Hawker 125 800XP,H25B,Civ,Hallmark Movies,Greeting Cards,Christmas in July,As Seen on TV,https://w.wiki/7msN
-A16E72,N1911W,Fifth Third Bank,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+A16E72,N1911W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Bizjet,Appliances,Dishwashers,As Seen on TV,https://w.wiki/3rcq
 A16EE5,N19146,Private,Fairchild F-24 G,FA24,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/Fairchild_24
-A16F21,N1916W,Fifth Third Bank,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+A16F21,N1916W,Hatzolah Air,Gulfstream G550,GLF5,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://hatzolair.org
 A17016,N192F,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A170DF,N192PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A17496,N193PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
@@ -8330,6 +8330,7 @@ A6FD5E,N55DA,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnn
 A6FD98,N55FJ,Aeromedevac,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aeromedevac.com/
 A6FF76,N550AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A6FF7F,N550AV,Abbvie US,Gulfstream G550,GLF5,Civ,Bizjet,Biotech,Pharmaceuticals,As Seen on TV,https://en.wikipedia.org/wiki/AbbVie
+A7000F,N550GP,N550GP LLC,Gulfstream G550,GLF5,Civ,Trump Campaign,Formerly Epstein's,Ex-Lolita Express,Dictator Alert,https://www.snopes.com/fact-check/trump-campaign-jeffrey-epstein-plane/
 A70037,N550JD,Deere and Company,Gulfstream G550,GLF5,Civ,Tractor,Combine,Nothing Runs Like a Deere,As Seen on TV,https://w.wiki/3r6a
 A7035A,N551CF,Collings Foundation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Toulouse Nuts,Historic,https://w.wiki/3nth
 A70362,N551CP,City of Columbus Division of Police,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
@@ -13589,7 +13590,7 @@ AE6A3A,170013,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasil
 AE6A3D,170016,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A3E,170017,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A40,170268,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
-AE6A55,19-03268,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE6A55,19-03268,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE6A6D,RCH324,USAF,Douglas KC-10A Extender,DC10,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://www.airforce.com
 AE6A76,20-21136,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6A77,20-21137,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -13628,7 +13629,7 @@ AE6D7D,19-5947,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,A
 AE6D7E,19-5948,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE6D80,19-5953,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6D83,21-5965,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
-AE6DC3,21-03387,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE6DC3,21-03387,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE6E7E,20-14510,USAF,Sikorsky HH-60W Jolly Green II,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE73E0,170181,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE73E3,170184,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
@@ -13638,8 +13639,9 @@ AE73FF,170212,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Ch
 AE7405,170218,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE7457,170041,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
 AE7458,170042,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
-AE74DE,22-03451,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AE74E2,22-03455,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE748F,21-03418,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AE74DE,22-03451,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AE74E2,22-03455,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE77A3,22-9046,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE77C2,22-21246,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE77C4,22-21248,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -13647,10 +13649,10 @@ AE77D0,23-21259,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The
 AE77FE,21-14518,USAF,Sikorsky HH-60W Jolly Green II,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE7812,????,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE7814,????,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
-AED3F6,22-03485,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AED618,22-03486,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AED9B7,22-03488,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AED3F6,22-03485,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AED618,22-03486,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AED9B7,22-03488,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
