@@ -161,6 +161,9 @@ if __name__ == "__main__":
             extra_icao_df["_merge"] == "left_only"
         ].index.tolist()
         for item in extra_icao_df:
+            icao_to_remove = images_df.loc[item, "$ICAO"]  # Get the hex to be removed
+            logging.info(f"Removing ICAO: {icao_to_remove}") # Log it
+
             if "plane_images_df" in locals():
                 plane_images_df = plane_images_df.drop(item)
                 plane_images_df.to_csv(
