@@ -1292,7 +1292,7 @@ AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
+AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE109A,02,United States Coast Guard,Gulfstream G550,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://www.uscg.mil
 AE10C1,01,United States Coast Guard,Gulfstream G500,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://www.uscg.mil
 AE10E7,2001,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1301,16 +1301,16 @@ AE10E9,2003,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,
 AE10EA,2004,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE10EB,2005,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE10EC,2006,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE115D,01-0015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE1165,02-0201,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE1167,02-0202,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE11F7,01-0041,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE11F8,02-0042,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE11FA,02-0203,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE17EF,05-0730,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE189A,05-4613,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
-AE189C,05-0932,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
+AE115D,01-0015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE1165,02-0201,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE1167,02-0202,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE11F6,01-1941,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE11F7,01-0041,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE11F8,02-0042,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE11FA,02-0203,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE17EF,05-0730,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE189A,05-4613,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
+AE189C,05-0932,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE2126,2702,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Elizabeth City,Oxcart,https://www.uscg.mil/
 AE2237,2301,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2239,2302,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1491,7 +1491,7 @@ AE4E00,6048,United States Coast Guard,Sikorsky MH-60T Seahawk,H60,Gov,Maritime P
 AE4E01,6049,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E02,6050,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E03,6051,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE503D,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
+AE503D,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE5394,12-20500,United States Army,Sikorsky UH-60M,H60,Gov,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE57D1,2007,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE57D2,2008,United States Coast Guard,HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -1509,7 +1509,7 @@ AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE6987,79-23321,United States Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE698F,80-23465,United States Dept of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search and Rescue,Mae West,Coastguard,https://www.uscg.mil/
-B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Government,Governments,https://w.wiki/7wDu
+B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 C00091,C-FAFO,Province of Saskatchewan,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.saskatchewan.ca
 C0095E,C-FDOF,Canadian Coast Guard,Bell 212,B212,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
 C00968,C-FDOP,Canadian Coast Guard,Bell 212,B212,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
