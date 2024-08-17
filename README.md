@@ -30,7 +30,7 @@ These aircraft are divided into four main databases:
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14112)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (68)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (33)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11168)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11170)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
@@ -61,9 +61,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|327|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|77|
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|387|
+|As Seen on TV|Companies and Brands|386|
 |Big Hello|Large Helicopters (sic)|104|
-|Bizjets|Fancy pants planes for fancy pants people|42|
+|Bizjets|Fancy pants planes for fancy pants people|43|
 |CAP|Civil Air Patrol.|4|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|191|
 |Coastguard|Coastguard, Customs and Border Patrols|440|
