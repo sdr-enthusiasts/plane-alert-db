@@ -9190,6 +9190,7 @@ AC9C12,N911TG,Air Methods,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac
 AC9C29,N911UE,Life Flight,AgustaWestland AW.109E,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 AC9C57,N911WA,Bayflite,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/air-medical/program/bayflite/
 AC9C6D,N911WY,Las Vegas Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Las_Vegas_Metropolitan_Police_Department
+AC9C70,N911XA,Acadian Air Med,Eurocopter EC135 T1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://acadianairmed.com/
 AC9C76,N911XG,Acadian Air Med,Eurocopter EC135 T1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://acadianairmed.com/
 AC9C78,N911XJ,Acadian Air Med,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://acadianairmed.com/
 AC9C9F,N911YY,Chicago Police Dept,Bell 206L Long Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://home.chicagopolice.org
@@ -13003,6 +13004,7 @@ AE571D,12-0063,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE571E,12-0064,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE571F,12-0065,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5735,169018,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE574F,15-46009,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5751,15-46011,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -13062,6 +13064,7 @@ AE5898,61-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Roo
 AE5899,61-0002,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 AE589A,61-0003,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,New World Order,USAF,https://w.wiki/3iUw
 AE589D,61-0006,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
+AE589E,61-0008,USAF,Boeing B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 AE589F,61-0010,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 AE58A2,61-0013,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
 AE58A7,61-0018,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,Night Train,USAF,https://w.wiki/3iUw
@@ -13682,6 +13685,8 @@ AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cav
 AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AF54C4,170747,United States Navy,T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
+AF6C00,????,United States Navy,T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AFF009,18-20994,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 B191D8,75-0528,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
@@ -14090,6 +14095,7 @@ E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light A
 E48B42,TT-3107,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
 E48E9F,PR-DOA,Brazilian Federal Police,Cessna 208 Caravan,C208,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
+E49182,2901,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E49210,2853,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E49376,EB-2005,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
 E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
@@ -14131,9 +14137,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-AC9C70,N911XA,Acadian Air Med,Eurocopter EC135 T1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://acadianairmed.com/
-E49182,2901,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
-AE589E,61-0008,USAF,Boeing B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
-AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
-AF6C00,????,United States Navy,T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
-AF54C4,170747,United States Navy,T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
