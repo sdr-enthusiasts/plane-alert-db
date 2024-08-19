@@ -4573,6 +4573,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4407C0,OE-GDM,The Flying Bulls,Cessna Citation Encore,C560,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 4407F4,OE-FRB,The Flying Bulls,Dassault-Breguet Alpha Jet,AJET,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 4407F5,OE-FAS,The Flying Bulls,Dassault-Breguet Alpha Jet,AJET,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
+440834,OE-IGL,Glock Aviation,Bombardier Global Express 6000,GLEX,Civ,Polymer Perfection,Austrian Engineering,Bizjet,As Seen on TV,https://w.wiki/AwSH
 440836,OE-FDM,The Flying Bulls,Dassault-Breguet Alpha Jet,AJET,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440886,OE-ETV,The Flying Bulls,Eurocopter AS350 Squirrel,AS50,Civ,Chopper,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440888,OE-IPE,Vladimir Potanin,Gulfstream G550,GLF5,Civ,Oligarch,Dirty Money,Disgusting Excess,Oligarch,https://en.wikipedia.org/wiki/Russian_oligarch
@@ -7591,6 +7592,7 @@ A291CE,N265CM,Charlotte-Mecklenburg Hospital Authority,Cessna Citation V,C560,Ci
 A296C2,N266RD,Guardian Flight,C90A King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
 A299F9,N267LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A29A7D,N267RH,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A2A4C7,N27GP,GPI Geospatial,Cessna T206 Turbo Stationair,T206,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.gpinet.com/expertise/geospatial/
 A2A720,N270GP,Troy Aikman,Bombardier Challenger 300,CL30,Civ,NFL,The Other Football,Americas Team,Don't you know who I am?,https://en.wikipedia.org/wiki/Troy_Aikman
 A2A77B,N270LE,Liberty Mutual Insurance,Gulfstream G650 ER,GLF6,Civ,Bizjet,Insurance,Bunch of Bankers,As Seen on TV,https://en.wikipedia.org/wiki/Liberty_Mutual
 A2A9F1,N2708E,Sino Jet Management,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -7606,6 +7608,7 @@ A2B6F4,N274SM,Reach Air Medical,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,M
 A2C518,N278KC,Cullman Police Dept,Hughes OH-6A Cayuse,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://cullmanal.gov/depts/cpd/
 A2C5CE,5Y-RYN,United Nations,Embraer ERJ-145,E145,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 A2C7EF,N279AD,Dept of State JPATS,Boeing 737,B734,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
+A2C7F3,N279AH,Charlotte Mecklenburg Hospital Authority,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/fixed-wing-critical-care-transport
 A2C83E,N279DH,US Special Operations Command,PZL-M28 Skytuck,M28,Mil,Covert,STOL,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A2C934,N279PD,Sacramento Police Dept,Bell 505 Jet Ranger X,B505,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofsacramento.org/police
 A2CC9E,N28LB,Long Beach Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.longbeach.gov/police
@@ -7622,6 +7625,7 @@ A2D6FD,N282SD,San Diego City Fire Dept,Bell 412EP,B412,Gov,Flying Fire Extinguis
 A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sandiego.gov/fire
 A2E0A8,N285BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A2E0FE,N285EM,Exxon Mobil Corp,Gulfstream G280,G280,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A2E45F,N286BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A2E4AC,N286EC,Entergy Services Inc,Challenger 300,CL30,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
 A2E566,N286MP,City of Columbus Division of Police,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A2EC0C,N288DP,Janet Airlines,Boeing 737NG,B736,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
@@ -8170,6 +8174,7 @@ A6039A,N487LF,Geisinger Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo
 A60693,N488CR,United States Army,Bombardier Challenger 650,CL60,Mil,Artemis,HADES,SIGINT,Oxcart,https://www.itamilradar.com/2021/08/29/artemis-visited-libya/
 A606A2,N488DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation Forests,National Grasslands,Dogs with Jobs,https://w.wiki/5Fsu
 A60A59,N489DF,Cal Fire,Bell EH-1X Iroquois,UH1,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
+A60BA5,17-01610,United States Army,DHC-8-300,DH8C,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 A60F3C,N49RF,NOAA,Gulfstream G-IV SP,GLF4,Gov,Gonzo,Cyclone Research,Hurricane Hunter,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A61420,N491DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation Forests,National Grasslands,Dogs with Jobs,https://w.wiki/5Fsu
 A6155A,N491RV,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
@@ -8396,6 +8401,7 @@ A76523,N576EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsi
 A7698F,N577MT,Bank of Utah Trustee,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
 A772DC,N57947,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A773A7,N58AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
+A773D7,N58CX,CSX Transportation,Gulfstream G280,G280,Civ,Not A Train,Steam Powered,Skytrain,As Seen on TV,https://w.wiki/9suB
 A778CA,N58038,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A779EA,N581D,DuPont,Gulfstream G550,GLF5,Civ,Bizjet,Chemicals,Dark Waters,As Seen on TV,https://en.wikipedia.org/wiki/DuPont
 A77AE7,06-0581,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
@@ -8628,6 +8634,7 @@ A8E06E,N671LE,Leonard Blavatnik,Gulfstream G550,GLF5,Civ,Oligarch,Dirty Money,Di
 A8E205,N67112,Era Alaska,DHC-6 Twin Otter 310,DHC6,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 A8EE4E,N675AC,Era Alaska,BN Islander 2B-26,BN2P,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 A8F213,N676AS,Rick Ross,Gulfstream G550,GLF5,Civ,The Boss,Maybach Music,Blowin’ Money Fast,Don't you know who I am?,https://w.wiki/3kQQ
+A8F21C,N676BA,Bank of America,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A8F547,N67662,Austin Police Dept,Bell TH-67A Creek,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.austintexas.gov/department/police
 A8F778,N677TX,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
 A900DD,N68,Federal Aviation Administration,Beech King Air 300,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
@@ -9000,6 +9007,7 @@ AB9F3B,N848TA,Top Aces Inc,General Dynamics F-16B Netz,F16,Civ,Aggressor Squadro
 ABA4FE,N85,Federal Aviation Administration,Bombardier Challenger 601,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
 ABA54A,N85D,Dole Foods,Bombardier Global 6000,GLEX,Civ,Bizjet,Fruity Antics,Eat Your Veg,As Seen on TV,https://en.wikipedia.org/wiki/Dole_Food_Company
 ABA6DA,N85V,Dart Container Corp,Gulfstream G500,GLF5,Civ,Red Solo Cup,Containers,Bizjet,As Seen on TV,https://w.wiki/4md$
+ABA78C,08-0850,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
 ABA885,N850NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 ABAB5A,N851D,Stallion 51,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 ABAB7F,N851EM,Los Angeles Police Dept,Beech C-12C Huron,BE20,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.lapdonline.org
@@ -9255,6 +9263,7 @@ ACF101,N933CA,Meta Special Aerospace,B350 Super King Air,B350,Civ,Surveillance,C
 ACF27E,N933TG,Tampa General Hospital,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.tgh.org/institutes-and-services/emergency-and-trauma-center/aeromed-ambulance-transport
 ACF4C9,N934CT,Clemson University,Cessna Citation CJ3,C25B,Civ,Dabo,The Other Football,Vanity Plate,Football,https://w.wiki/7r5s
 ACF4F5,N934EM,Reach Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
+ACF987,N935PF,Pentagon Federal Credit Union,Cessna Citation XLS,C56X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/AwR9
 ACFC26,N936CA,National Airlines,Boeing 747 446BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
 AD088F,N939R,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AD08B9,N939SS,Electrolux Home Products,Dassault Falcon 900B,F900,Civ,Washing Machine,White Goods,Bizjet,As Seen on TV,https://www.electroluxappliances.com
@@ -10991,6 +11000,7 @@ AE0D0A,85-24452,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The 
 AE0D35,05-27046,USAF,Sikorsky HH-60G Pave Hawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
 AE0DCB,83-23886,United States Army,Sikorsky UH-60A+ Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E00,83-23871,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0E15,88-26065,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E17,88-26081,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E1E,84-23970,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E23,88-26021,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -13698,6 +13708,7 @@ C007CA,CF-CYR,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump
 C008E9,CF-DJS,Private,DHC-1 Chipmunk,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C0095E,C-FDOF,Canadian Coast Guard,Bell 212,B212,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
 C00968,C-FDOP,Canadian Coast Guard,Bell 212,B212,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
+C009B6,C-FDRP,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C00B3B,CF-EGO,Vintage Wings of Canada,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C00BDC,C-FEMT,Fox Flight Inc,Learjet 40,LJ40,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://foxflight.com/
 C00C29,C-FEPS,Edmonton Police Service,Eurocopter EC120B Colibri,EC20,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.edmontonpolice.ca
@@ -13717,15 +13728,19 @@ C01271,C-FGZO,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsi
 C01275,C-FGZS,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01276,C-FGZT,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C01479,C-FHTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C015B2,C-FIFP,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C015C6,C-FIGJ,Province of Newfoundland,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.gov.nl.ca
 C015CE,C-FIGR,VIH Helicopters,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://vih.com
 C0168E,C-FIOB,SkyCare Air Ambulance,Swearingen Metro 3,SW4,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.skycare.ca/
 C0168F,C-FIOC,SkyCare Air Ambulance,Swearingen Metro 3,SW4,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.skycare.ca/
+C01751,C-FIVO,Calgary Police Service Air Support Unit,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.calgary.ca/cps.html
 C017CB,CF-JAG,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C01897,C-FJIC,PAL Aerospace,Cessna Citation X,C56X,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C019C2,C-FJTP,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C01B5B,C-FKJI,Mag Aerospace,B200 Super King Air,BE20,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,http://www.magaero.ca
+C01D49,C-FLCI,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C01E5B,C-FLMW,PAL Aerospace,Gulfstream G280,G280,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C01E69,C-FLNK,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C01E86,C-FLON,Private,DHC-1 Chipmunk,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C01FFD,C-FMCY,United Nations,Mitsubushi CRJ-200LR,CRJ2,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 C0203E,C-FMFL,McCain Foods,Dassault Falcon 2000LX,F2TH,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
@@ -13742,6 +13757,7 @@ C02147,C-FMPQ,Royal Canadian Mounted Police,Eurocopter EC120B Colibri,EC20,Pol,P
 C021C6,C-FMUN,PAL Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C021CE,C-FMUV,United Nations,Mitsubushi CRJ-200LR,CRJ2,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 C02341,C-FNJC,Province of Newfoundland,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.gov.nl.ca
+C023EE,C-FNPT,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C024F9,CF-OAA,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C0250E,C-FOAV,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C02514,C-FOBB,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -13848,6 +13864,7 @@ C05001,C-GEHS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spy
 C050C2,C-GEPD,Edmonton Police Service,Eurocopter EC120B Colibri,EC20,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.edmontonpolice.ca
 C0532C,C-GFMX,PAL Aerospace,DHC-8-314,DH8C,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C0537E,C-GFQB,Government of Quebec,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.quebec.ca/en
+C0539D,C-GFRG,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C053D9,C-GFTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C0548F,C-GGAO,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C0549D,C-GGBC,PAL Aerospace,Dassault Falcon 900LX,F900,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
@@ -13871,8 +13888,10 @@ C05F00,C-GJZJ,United Nations,Mitsubushi CRJ-200ER,CRJ2,Gov,United Nations,World 
 C05FA0,C-GKFN,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C05FD2,C-GKHL,Helinka SAC,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
 C06016,C-GKKB,Kenn Borek Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Arctic,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C06047,C-GKLY,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,SC7,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://abpic.co.uk/pictures/registration/C-FARA
 C061D9,C-GLBK,Private,Amateur Built Super Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+C062E5,C-GLLS,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C06312,C-GLNL,Latitude Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://latitude2009.com/
 C063B1,C-GLTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C06455,C-GLZW,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
@@ -13959,6 +13978,7 @@ C07D22,C-GVKB,Kenn Borek Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,A
 C07D59,C-GVME,Private,Amateur Built Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C07D87,C-GVNY,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C07E0B,C-GVTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
+C0807D,C-GWRC,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C08163,C-GWZY,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C082B8,C-GXNB,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C08554,C-GYMT,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
@@ -14111,23 +14131,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/National_Police_of_Uruguay
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Bolivia
-A773D7,N58CX,CSX Transportation,Gulfstream G280,G280,Civ,Not A Train,Steam Powered,Skytrain,As Seen on TV,https://w.wiki/9suB
-A8F21C,N676BA,Bank of America,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
-A60BA5,17-01610,United States Army,DHC-8-300,DH8C,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
-AE0E15,88-26065,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
-ACF987,N935PF,Pentagon Federal Credit Union,Cessna Citation XLS,C56X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/AwR9
-A2E45F,N286BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
-ABA78C,08-0850,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
-A2C7F3,N279AH,Charlotte Mecklenburg Hospital Authority,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/fixed-wing-critical-care-transport
-440834,OE-IGL,Glock Aviation,Bombardier Global Express 6000,GLEX,Civ,Polymer Perfection,Austrian Engineering,Bizjet,As Seen on TV,https://w.wiki/AwSH
-A2A4C7,N27GP,GPI Geospatial,Cessna T206 Turbo Stationair,T206,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.gpinet.com/expertise/geospatial/
-C06047,C-GKLY,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C01D49,C-FLCI,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C062E5,C-GLLS,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C0539D,C-GFRG,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C0807D,C-GWRC,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C009B6,C-FDRP,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C023EE,C-FNPT,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C015B2,C-FIFP,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C01E69,C-FLNK,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-3,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
-C01751,C-FIVO,Calgary Police Service Air Support Unit,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.calgary.ca/cps.html
