@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14202** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14205** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14169)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14172)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (68)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (33)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11214)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11216)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3802)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3805)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7811)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (913)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1643)
@@ -69,10 +69,10 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Coastguard|Coastguard, Customs and Border Patrols|440|
 |Da Comrade|Russian or Soviet Aircraft|91|
 |Dictator Alert|People of potentially questionable morals and values|324|
-|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|188|
+|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|189|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|175|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|65|
-|Flying Doctors|Air Ambulance and Medical Flights|801|
+|Flying Doctors|Air Ambulance and Medical Flights|803|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|407|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
