@@ -10,21 +10,21 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0093C4,ZS-HLZ,South African Fire Fighting Association,Bell UH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fpasa.co.za
 0097DB,ZS-JAG,United Nations,Beechcraft 1900D,B190,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 00AEC9,ZS-RSA,South African Air Force,Boeing 737-BBJ,B737,Gov,South Africa,Cyril Ramaphosa,Government,Governments,https://www.gov.za
-010024,SU-GGG,Gov of Egypt,Airbus A340-212,A342,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-01003D,SU-BNC,Gov of Egypt,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-010057,SU-BNO,Gov of Egypt,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+010024,SU-GGG,Gov of Egypt,Airbus A340-212,A342,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+01003D,SU-BNC,Gov of Egypt,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+010057,SU-BNO,Gov of Egypt,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
 010058,SU-BNP,Government of Egypt,Gulfstream G-IV SP,GLF4,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
-01006B,SU-AYD,Gov of Egypt,Dassault Falcon 20 F5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-01006C,SU-AZJ,Gov of Egypt,Dassault Falcon 20 F5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-01006D,SU-AXN,Gov of Egypt,Dassault Falcon 20 E5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+01006B,SU-AYD,Gov of Egypt,Dassault Falcon 20 F5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+01006C,SU-AZJ,Gov of Egypt,Dassault Falcon 20 F5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+01006D,SU-AXN,Gov of Egypt,Dassault Falcon 20 E5B,FA20,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
 010070,SU-BGM,Government of Egypt,Gulfstream G-IV,GLF4,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
-01008E,SU-BPE,Gov of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-01008F,SU-BPF,Gov of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
-010137,SU-BRF,Gov of Egypt,Cessna Citation Sovereign,C680,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+01008E,SU-BPE,Gov of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+01008F,SU-BPF,Gov of Egypt,Gulfstream G400,GLF4,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
+010137,SU-BRF,Gov of Egypt,Cessna Citation Sovereign,C680,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
 010148,SU-BRG,Government of Egypt,Cessna Citation Sovereign,C680,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
 0101D0,SU-BTU,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
 0101D1,SU-BTV,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
-0101D2,SU-BTW,Gov of Egypt,Dassault Falcon 8X,FA8X,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Egypt
+0101D2,SU-BTW,Gov of Egypt,Dassault Falcon 8X,FA8X,Gov,Dictator Alert,Egypt,Free And Fair Elections,Dictator Alert,https://w.wiki/B5xg
 0101D3,SU-BTT,Government of Egypt,Dassault Falcon 7X,FA7X,Gov,Egypt,Dictator Alert,Free And Fair Elections,Dictator Alert,https://youtu.be/Cv6tuzHUuuk
 018019,5A-DCN,Gov of Libya,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 01801C,5A-CAA,Libyan Air Force,Antonov An-74TK-300,A743,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Free And Fair Election,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -32,11 +32,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 018030,5A-UAA,Gov of Libya,Bombardier Challenger 300,CL30,Gov,Dictator Alert,Abdul Hamid Dbeibeh,Free And Fair Elections,Dictator Alert,https://tinyurl.com/3m82af6x
 018098,5A-POL,Libyan Government,Ilyushin IL-76TD,IL76,Gov,Dictator Alert,General Hafar,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0200CC,CN-MVI,Gov of Morocco,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed VI,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Morocco
-0200E6,CN-ATM,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://en.wikipedia.org/wiki/Royal_Moroccan_Air_Force
-0200EE,CN-ATN,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://en.wikipedia.org/wiki/Royal_Moroccan_Air_Force
-020107,CN-ATO,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://en.wikipedia.org/wiki/Royal_Moroccan_Air_Force
-020109,CN-ATP,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://en.wikipedia.org/wiki/Royal_Moroccan_Air_Force
-02010A,CN-ATQ,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://en.wikipedia.org/wiki/Royal_Moroccan_Air_Force
+0200E6,CN-ATM,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://w.wiki/4n3m
+0200EE,CN-ATN,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://w.wiki/4n3m
+020107,CN-ATO,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://w.wiki/4n3m
+020109,CN-ATP,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://w.wiki/4n3m
+02010A,CN-ATQ,Royal Moroccan Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Fire,Aerial Firefighter,https://w.wiki/4n3m
 02010F,CN-MMS,Royal Moroccan Government,AgustaWestland AW.139,A139,Gov,Morocco,Aziz Akhannouch,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Morocco
 020130,CN-MBH,Royal Moroccan Air Force,Boeing 747-BBJ,B748,Gov,VIP Transport,Government,Morocco,Other Air Forces,https://w.wiki/4n3m
 02A1CE,TS-IOO,Government of Tunisia,Boeing 737-BBJ,B737,Gov,Tunisia,Kais Saied,Government,Governments,https://en.wikipedia.org/wiki/Tunisia
@@ -869,8 +869,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 89804C,P2-ANW,Papua New Guinea Government,Dassault Falcon 900EX,F900,Gov,Papua New Guinea,James Marape,Government,Governments,https://w.wiki/3igv
 898056,P2-PNG,Papua New Guinea Government,B350 Super King Air,B350,Gov,Papua New Guinea,James Marape,Government,Governments,https://en.wikipedia.org/wiki/Papua_New_Guinea
-8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,B737,Gov,Indonesia,Joko Widodo,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
-8A0452,PK-GIG,Indonesia Presidential Flight,Boeing 777-3ER,B77W,Gov,Indonesia,Joko Widodo,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Indonesia
+8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,B737,Gov,Indonesia,Joko Widodo,Government,Governments,https://w.wiki/B6WQ
+8A0452,PK-GIG,Indonesia Presidential Flight,Boeing 777-3ER,B77W,Gov,Indonesia,Joko Widodo,Government,Governments,https://w.wiki/B6WQ
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A001DE,N1VA,Virginia Department of Aviation,Beechcraft Super King Air 350,B350,Gov,Bizjet,Must Be Nice,Sic Semper Tyrannis,Governments,https://doav.virginia.gov/
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov

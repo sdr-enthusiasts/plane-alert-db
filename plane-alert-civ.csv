@@ -144,7 +144,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 300762,I-AVNE,Avionord SRL,Learjet 40,LJ40,Civ,Organ Transport,Medical Evac,Saving Lives,Flying Doctors,https://www.avionord.com/en/home-page/
 30076D,OY-VPS,Bioflight,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
 320004,MM62249,Italian Customs Police,Piaggio P-180 Avanti II,P180,Civ,Maritime Patrol,Coastguard,Eye In The Sky,Coastguard,https://en.wikipedia.org/wiki/Guardia_di_Finanza
-33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Viaggiare Con Stile,Other Air Forces,https://tinyurl.com/ycknd373
+33FE3A,MM62286,Italian Air Force,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 3423D4,EC-JQE,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
 34254B,EC-KBC,Christian Ronaldo,Gulfstream G200,GALX,Civ,Jumpers For Goalposts,Golden Boot,Ronaldo,Don't you know who I am?,https://en.wikipedia.org/wiki/Cristiano_Ronaldo
 343359,EC-LBB,Mercadona SA,Gulfstream G200,GALX,Civ,Bizjet,Supermarket,Word Of Mouth,As Seen on TV,https://en.wikipedia.org/wiki/Mercadona
@@ -2113,6 +2113,7 @@ A0046F,N10XG,Google Inc,Gulfstream G550,GLF5,Civ,OK Google,The Internet,Propriet
 A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A004BF,N100AL,Abbott Laboratories,Gulfstream G650 ER,GLF6,Civ,Medical Devices,Generic Drugs,Nutritional Products,As Seen on TV,https://en.wikipedia.org/wiki/Abbott_Laboratories
 A00529, N100ES,Earth Star Inc,Gulfstream G650 ER,GLF6,Civ,Disney,House Of Mouse,Media Conglomerate,As Seen on TV,https://youtu.be/7OSNtf76C5M
+A00538,N100FG,University Athletic Association,Embraer Phenom 300,E55P,Civ,Egghead Eight,NCAA Div III,Sports?,As Seen on TV,https://w.wiki/B64P
 A00557,N100GN,Fertitta Entertainment Holdings LLC,Airbus Helicopters EC-155 B1,EC55,Civ,BizJet,Gambler,Entertainent,As Seen on TV,https://en.wikipedia.org/wiki/Eurocopter_EC135
 A008EF,N101FG,University of Florida Athletic Association,Embraer Phenom 100,E50P,Civ,Go Gators,The Other Football,Football,Vanity Plate,https://w.wiki/7$Y$
 A00939,N101JF,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2146,6 +2147,7 @@ A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,
 A05CD7,N122TP,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
+A062E6,N124DN,Aviation Specialty Services,Cessna 337 Super Skymaster,C337,Civ,I Am Old,Beach Life,Former USAF,Historic,https://w.wiki/B64a
 A0640D,N124RH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A066DC,N125GA,Gulfstream Aerospace Corp,Gulfstream G280,G280,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://www.gulfstream.com/en
 A06ABB,N126HR,Seminole Tribe of Florida,Gulfstream G550,GLF5,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://www.seminolehardrockhollywood.com/
@@ -2441,6 +2443,7 @@ A2AE06,N272BC,Bissell Inc,Bombardier Challenger 350,CL35,Civ,Mega Maid,Vacuum Cl
 A2AE0A,N272BG,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 A2AF86,N272SM,Reach Air Medical,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A2B041,N272ZZ,Big Flats LLC,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+A2B1D5,N273CB,Private,Beechcraft T-34,T34P,Civ,I Am Old,Retired Life,Former USAF,Historic,https://w.wiki/B6WK
 A2B2D2,N273NE,Boston MedFlight,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.bostonmedflight.org
 A2B560,N274AH,Charlotte Mecklenburg Hospital Authority,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/fixed-wing-critical-care-transport
 A2B6F4,N274SM,Reach Air Medical,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
@@ -2458,6 +2461,7 @@ A2E0FE,N285EM,Exxon Mobil Corp,Gulfstream G280,G280,Civ,Oil Spill,Man Made Clima
 A2E45F,N286BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A2E4AC,N286EC,Entergy Services Inc,Challenger 300,CL30,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
 A2F434,N29M,Bluesky Geospatial,Beechcraft E90 King Air,BE9L,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://bluesky-world.us/
+A2F4E5,N29UB,JDI Holdings,MIG-29UB,MG29,Civ,Too Much Money,You Can't See Me,Aaaaaaaand It's Gone,Zoomies,https://w.wiki/3ADz
 A30243,N293SV,Mercy St Vincent Medical Center,Eurocopter AS365 N2 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.mercy.com/
 A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
 A30FE0,N297EA,Erickson Aero Tanker,McDonnell Douglas DC-9 87,MD87,Civ,Fire Bomber,Air Attack,Wildfire,Aerial Firefighter,http://www.eatanker.com/
@@ -2736,6 +2740,7 @@ A527D5,N431LF,Life Flight,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,S
 A5281A,N431P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A528D0,N431WG,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A52B8C,N432LF,Life Flight,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
+A52C68,N432VA,SF2VA,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A52F88,N433P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A53347,N434PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Air-Med-12-CHI-St-Joseph/
 A535FF,N435DC,Guardian Flight,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
@@ -2866,7 +2871,7 @@ A65921,N508RB,Five Point Aerial Survey,Cessna 208B,C208,Civ,Palm Beach County Sh
 A65AFB,N5087F,Historic Flight Foundation,North American P-51B Mustang,P51,Civ,Fighter,WW2,Impatient Virgin,Historic,https://w.wiki/3nth
 A65F18,N51AB,Plane Fun,CAC CA-18 Mustang Mk22,P51,Civ,Land Down Under,Warbird,Fighter,Historic,https://en.wikipedia.org/wiki/Commonwealth_Aircraft_Corporation
 A65F7B,N51EA,Training Services,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Double Trouble Two,Historic,https://w.wiki/3nth
-A65F86,N51EM,JDI Holdings,Cessna Citation CJ4,C25C,Civ,You Can't See Me,Aaaaaaaand It's Gone,Bizjet,Distinctive,https://w.wiki/B4Du
+A65F86,N51EM,JDI Holdings,Cessna Citation CJ4,C25C,Civ,You Can't See Me,Aaaaaaaand It's Gone,Bizjet,Distinctive,https://w.wiki/3ADz
 A65F8F,N51EW,Tom Cruise,North American FP-51K Mustang,P51,Civ,Maverick,Ethan Hunt,Xenu,Historic,https://youtu.be/EPzvExtJgxw
 A65FD5,N51HR,American Airpower Heritage Flying Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Jacqueline,Historic,https://w.wiki/3nth
 A65FE1,N51JC,Cavanaugh Flight Museum,North American P-51D Mustang,P51,Civ,War Bird,Shiny,The Brat III,Historic,https://w.wiki/3nth
@@ -2879,6 +2884,7 @@ A66791,N5110U,Era Alaska,Cessna 206H Stationair,C206,Civ,Extreme Weather,Polar E
 A66E1C,N513RS,Yankee Air Force,WACO YMF-5,WACF,Civ,Biplane,Barn Stormer,Do A Barrel Roll,Historic,https://yankeeairmuseum.org/
 A671D0,N514RP,Collectable Aircraft LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Red Dog,Historic,https://w.wiki/3nth
 A67527,N515MT,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
+A67C72,N517LH,Labcorp,Pilatus PC-24,PC24,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A67FF6,N518JG,Joe Gibbs Racing,Bombardier Challenger 600,CL60,Civ,Not A Car,Left Turns Only,Vanity Plate,As Seen on TV,https://w.wiki/7rSF
 A6804C,N518MT,Pacific Western Bank,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
 A68945,N520DM,Bear Defence,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,Spyplane,All About That Wingspan,Oxcart,https://en.wikipedia.org/wiki/Grob_G_520
@@ -2953,6 +2959,7 @@ A722E7,N559X,American Express Travel,Gulfstream G550,GLF5,Civ,That Will Do Nicel
 A724FB,N56EF,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A72567,N56JP,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A725D7,N56PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A725DF,N56PJ,Luca Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A72B11,N561EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 A72DCB,N5616,Halliburton Energy Services,Gulfstream G500,GLF5,Civ,Fracking,Climate Crisis,Fossil Fuels,Climate Crisis,https://en.wikipedia.org/wiki/Halliburton
 A72F85,N562NA,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
@@ -2992,7 +2999,7 @@ A79436,N588G,Gulfstream Aerospace Corp,Gulfstream G550,GLF5,Civ,Bizjets,How The 
 A79437,N588GA,Lowe's Hardware,Gulfstream G500,GA5C,Civ,Home Improvement,Bizjet,Must Be Nice,As Seen on TV,https://w.wiki/AycG
 A79955,N589WK,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A79B46,N59CF,Compass Foods,Gulfstream G450,GLF4,Civ,Canteen Food,Dinner Ladies,Is It On The Trolley,As Seen on TV,https://en.wikipedia.org/wiki/Compass_Group
-A79DB2,N590D,Private,Cessna O-2A Skymaster,C337,Civ,Bat21,Forward Air Control,PSYOPS,Distinctive,https://en.wikipedia.org/wiki/Cessna_O-2_Skymaster
+A79DB2,N590D,Private,Cessna O-2A Skymaster,C337,Civ,Bat21,Forward Air Control,PSYOPS,Distinctive,https://w.wiki/B64a
 A7A4D8,N592AC,West Michigan Air Care,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aircare.org/
 A7B4B1,N596LF,Life Flight,AgustaWestland AW.119,A119,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
@@ -3352,6 +3359,7 @@ AB1270,N812SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toy
 AB1D35,N815PA,Pepsi Americas,Bombardier Global 5000,GL5T,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
 AB20A6,N816LF,Life Flight,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 AB2404,N817GS,Larry Ellison,Gulfstream G650,GLF6,Civ,Bizjet,Oracle,America's Cup,Don't you know who I am?,https://en.wikipedia.org/wiki/Larry_Ellison
+AB2764,N818DE,Mt Gilead Full Gospel International Ministries,Cessna 650 Citation,C650,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.mtgileadfgim.org/
 AB277B,N818EC,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 AB28C5,N818TH,Tommy Hilfiger USA,Dassault Falcon 900EX,F900,Civ,Fashion,Sweatshops,Not For Me Thanks,As Seen on TV,https://en.wikipedia.org/wiki/Tommy_Hilfiger
 AB2AE6,N819BB,Tailwind Air,Cessna 208 Caravan Amphibian,C208,Civ,Seaplane,Amphibian,Floatplane,Dogs with Jobs,https://en.wikipedia.org/wiki/Tailwind_Air_Service
@@ -3363,6 +3371,7 @@ AB2EC4,N82CR,Northrop Grumman,Grumman GII,GLF2,Civ,Testbed,Radar,One Ping Only V
 AB2F19,N82GA,CAF Airpower Museum,Douglas SBD-5 Dauntless,SBD,Civ,War Bird,Dive Bomber,Hero of Midway,Historic,https://commemorativeairforce.org/
 AB3169,N820FS,Era Alaska,Piper PA-31 Navajo C,PA31,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 AB374C,N82123,Adobe Inc,Gulfstream G650 ER,GLF6,Civ,PDF,Photoshop,Dreamweaver,As Seen on TV,https://en.wikipedia.org/wiki/Adobe_Inc.
+AB3966,N822MK,Merck Group,Gulfstream G650,G650,Civ,Pharmaceuticals,Vaccines,Bizjet,As Seen on TV,https://w.wiki/B53f
 AB3C0C,N823AM,Airmed International,BAe 125,H25C,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://airmed.com
 AB3EC1,N8233,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://w.wiki/4o4M
 AB40A4,N824KM,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
