@@ -6188,6 +6188,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738A4E,514,French Air Force,S.A.N. Jodel D.140R Abeille,D140,Mil,Musketeer,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+738A4F,016,Republic Of Singapore Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://en.wikipedia.org/wiki/EL/W-2085
 738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/7ok9
 738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738B49,662,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
@@ -7358,6 +7359,7 @@ A110AF,N168PD,Puerto Rico Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squa
 A1128A,N16854,OV10 Squadron,North American Rockwell OV-10D Bronco,V10,Civ,Eye In The Sky,Observation,Twin Boom,Joe Cool,https://www.ov10squadron.com/
 A116EC,N17AZ,Trinity Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://trinityairambulance.com/
 A117CF,N17LA,Los Angeles Fire Department,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
+A11921,N17ZP,Walmart,Cessna Citation Sovereign,C680,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A11999,N170EH,Honeywell International,Embraer EMB-170 LR,E170,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A11A73,N170PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A11C57,956,Venezuelan Air Force,Cessna 208B Caravan,C208,Mil,Light Utility,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
@@ -7598,6 +7600,7 @@ A27F4B,N260DC,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump
 A283FD,N261PD,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
 A2862B,N2618G,Eagle Mountain Intl Church,Cessna 182B Skylane,C182,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A286AB,N262CP,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+A28934,N2623H,Walmart,Ercoupe 415-E,ERCO,Civ,Join A Union,Corporate Dictatorship,Shop Local,Historic,https://en.wikipedia.org/wiki/Walmart
 A291CE,N265CM,Charlotte Mecklenburg Hospital Authority,Cessna Citation V,C560,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/airplane-transport
 A296C2,N266RD,Guardian Flight,C90A King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
 A299F9,N267LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
@@ -7713,6 +7716,7 @@ A34F8C,N312PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Savi
 A34FCC,N312RX,Reach Air Medical,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A34FD3,N312SD,Harris County Sheriff's Office,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil
 A35206,N313AR,Alex Rodriguez,Gulfstream G-IV,GLF4,Civ,Bizjet,MLB,NY Yankees,Don't you know who I am?,https://en.wikipedia.org/wiki/Alex_Rodriguez
+A35217,N313BH,Walmart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A35221,N313BT,Early Birds Foundation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
 A35383,N313RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
 A35517,N31351,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -8796,6 +8800,7 @@ AA027B,N744MB,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado
 AA0308,N744ST,National Airlines,Boeing 747 Supertanker,B744,Civ,Cargo,Former Supertanker,I Used To Be Someone,Dogs with Jobs,https://en.wikipedia.org/wiki/747_Supertanker
 AA0325,N744TX,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
+AA0602,N745KD,Walmart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 AA06DC,N745TX,Mother Frances Hospital,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.christushealth.org/locations/tyler-hospital
 AA0CA7,N747BC,Boeing,Boeing 747 Dreamlifter,BLCF,Civ,Absolute Unit,How Does It Fly,Heavy Lift,Distinctive,https://en.wikipedia.org/wiki/Boeing_Dreamlifter
 AA0D27,N747GF,General Electric,Boeing 747,B744,Civ,5 Engines,Testbed,Funny Looking,Distinctive,https://cdn.airplane-pictures.net/images/uploaded-images/2019/8/17/1224376.jpg
@@ -14195,8 +14200,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-738A4F,016,Republic Of Singapore Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://en.wikipedia.org/wiki/EL/W-2085
-A11921,N17ZP,Walmart,Cessna Citation Sovereign,C680,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
-A28934,N2623H,Walmart,Ercoupe 415-E,ERCO,Civ,Join A Union,Corporate Dictatorship,Shop Local,Historic,https://en.wikipedia.org/wiki/Walmart
-A35217,N313BH,Walmart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
-AA0602,N745KD,Walmart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
