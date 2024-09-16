@@ -11729,7 +11729,7 @@ AE1752,06-3864,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made
 AE1753,06-3865,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1754,06-3866,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1762,166760,United States Marine Corps,Bell Textron AH-1Z Viper,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
-AE176F,166768,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE176F,166768,United States Marine Corps,Bell Textron UH-1Y Venom,UH1Y,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE1788,91-0317,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE1789,00-3001,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE178A,91-0306,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
@@ -11783,8 +11783,8 @@ AE17BD,98-0133,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https:
 AE17BE,98-0134,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE17BF,98-0135,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE17EF,05-0730,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
-AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
-AE1818,167807,United States Marine Corps,Bell Textron UH-1Y Venom,SUCO,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,UH1Y,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE1818,167807,United States Marine Corps,Bell Textron UH-1Y Venom,UH1Y,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE1827,00-26868,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE1849,71-20167,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE1899,06-72001,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
@@ -14251,3 +14251,14 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+AE7418,170237,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73EA,170191,United States Navy,Agusta Phillidephia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE00C5,64-13280,United States Air Force,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE62CA,165488,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE1169,84-00163,United States Army,Beech C-12U-3 Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
+AE56D4,13-20620,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE56D9,13-20625,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE6881,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5EC7,162036,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
+AE5EE3,162067,United States Marine Corps,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,Mmm Crayons,United States Marine Corps,http://tinyurl.com/th57c
+AE5EFB,162815,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
