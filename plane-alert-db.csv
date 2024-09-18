@@ -7259,6 +7259,7 @@ A0AA61,N142CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The 
 A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A0ACF4,N1423W,Maricopa County Sherriff,Cessna 206H,C206,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.mcso.org/
 A0AD1F,N14244,Pacific Fleet Aviation,Piper PA-23 Aztec 250E,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
+A0ADE7,N143AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
 A0AE18,N143CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0AE77,N143GM,Nby Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A0AE7C,N143GS,Pxw Services (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -7274,6 +7275,7 @@ A0B674,N145NE,Boston MedFlight,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,S
 A0B6DC,N145SJ,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A0B93D,N146CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0B94F,N146DK,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+A0BCC3,N147AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
 A0BCF4,N147CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0BE47,N147SF,Constellation Brands,Gulfstream G550,GLF5,Civ,Bizjet,Booze,Alcohol,As Seen on TV,https://en.wikipedia.org/wiki/Constellation_Brands
 A0C0AB,N148CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
@@ -7492,6 +7494,7 @@ A1A93D,N206KQ,Metrea,Quest Aircraft Company Kodiak 100,KODI,Civ,Surveillance,Cov
 A1A990,N206NY,New York Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www1.nyc.gov/site/nypd/index.page
 A1AB42,N20646,US Department of Energy,Bell 206L Long Ranger,B06,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A1AC0F,N207AL,Pickett,Cessna T206H,T206,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.pickettusa.com/geospatial/
+A1AC16,N207AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
 A1AFD1,N208AX,UK Parachuting,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk/
 A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A1B0B8,N208LC,Miami Dade Fire & Rescue,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://tinyurl.com/2t4kjxez
@@ -13807,6 +13810,7 @@ AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cav
 AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
 AF384C,170744,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
+AF3C5F,18-20984,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AF54C4,170747,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF6C00,????,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
@@ -14262,7 +14266,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-AF3C5F,18-20984,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
-A0ADE7,N143AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
-A0BCC3,N147AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
-A1AC16,N207AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
