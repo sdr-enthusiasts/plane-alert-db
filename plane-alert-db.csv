@@ -7068,7 +7068,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 898056,P2-PNG,Papua New Guinea Government,B350 Super King Air,B350,Gov,Papua New Guinea,James Marape,Government,Governments,https://en.wikipedia.org/wiki/Papua_New_Guinea
 898080,P2-LAD,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 899009,3310,Republic Of China Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Navies,https://w.wiki/4nt9
-89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://w.wiki/4meM
 899041,B-55411,EVA Air,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 899056,B-77777,EVA Air,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 899180,5001,Republic Of China Air Force,Fokker F50,F50,Mil,VIP Transport,Military Transport,ROCAF,Other Air Forces,https://w.wiki/4nt8
@@ -9741,7 +9741,7 @@ ADFE4B,94-00319,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,No
 ADFE4C,94-00320,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFE51,94-00322,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFE52,94-00323,United States Army,Beech C-12R Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
-ADFE53,94-00324,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
+ADFE53,94-00324,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFE55,94-00326,United States Army,Beech C-12R Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFE5A,90-1791,USAF,C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFE5B,90-1792,USAF,C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -11017,45 +11017,45 @@ AE093A,00-01051,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport
 AE093B,00-01052,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://w.wiki/8p9F
 AE093C,00-01053,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://w.wiki/8p9F
 AE093D,01-00301,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://w.wiki/8p9F
-AE093F,165939,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
-AE0940,166374,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
-AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix
+AE093F,16-5939,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
+AE0940,16-6374,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
+AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://w.wiki/BFnm
 AE0942,73-1208,USAF,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE0943,86-0080,USAF,Beech C-12J Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE0944,76-0161,USAF,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
-AE0949,68-10329,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094A,68-10331,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094B,68-10336,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094C,68-10337,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094D,80-1064,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094E,80-1065,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE094F,80-1066,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0950,80-1067,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0952,80-1069,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0953,80-1070,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0954,80-1071,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0955,80-1073,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0956,80-1074,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0957,80-1076,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0958,80-1077,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0959,80-1078,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE095A,80-1079,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE095B,80-1080,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE095C,80-1081,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE095E,80-1083,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE095F,80-1084,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0960,80-1085,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0961,80-1086,USAF,Lockheed U-2A,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0962,80-1087,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0963,80-1089,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0964,80-1090,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0965,80-1091,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0966,80-1092,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0967,80-1093,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0968,80-1094,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE0969,80-1096,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
-AE096A,80-1099,USAF,Lockheed U-2R,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Lockheed_U-2
+AE0949,68-10329,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094A,68-10331,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094B,68-10336,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094C,68-10337,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094D,80-1064,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094E,80-1065,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE094F,80-1066,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0950,80-1067,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0952,80-1069,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0953,80-1070,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0954,80-1071,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0955,80-1073,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0956,80-1074,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0957,80-1076,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0958,80-1077,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0959,80-1078,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE095A,80-1079,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE095B,80-1080,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE095C,80-1081,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE095E,80-1083,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE095F,80-1084,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0960,80-1085,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0961,80-1086,USAF,Lockheed U-2A,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0962,80-1087,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0963,80-1089,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0964,80-1090,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0965,80-1091,USAF,Lockheed TU-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0966,80-1092,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0967,80-1093,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0968,80-1094,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE0969,80-1096,USAF,Lockheed U-2S,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
+AE096A,80-1099,USAF,Lockheed U-2R,U2,Mil,Hiiiiiigh In The Sky,Dragon Lady,Spyplane,Oxcart,https://w.wiki/3kR8
 AE0976,165833,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE0977,165834,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE0978,01-0076,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
@@ -12064,7 +12064,7 @@ AE1D5B,161415,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only 
 AE1D5F,161588,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D61,161590,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D7C,162999,United States Navy,Lockheed P-3C AIP Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
-AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://w.wiki/4meM
 AE1D85,163291,United States Navy,Lockheed P-3C-AIP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D8C,156517,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D8E,156528,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
@@ -12914,7 +12914,7 @@ AE4CF8,10-27024,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility
 AE4CFB,10-27027,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 AE4CFC,10-27028,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 AE4CFD,10-27029,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
-AE4D27,11-9001,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
+AE4D27,11-9001,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE4D66,10-0213,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4D67,10-0214,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4D68,10-0215,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -12923,14 +12923,14 @@ AE4D6A,10-0217,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,T
 AE4D98,????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE4D9B,08-00262,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 AE4DDD,11-0550,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
-AE4DE1,11-9355,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
+AE4DE1,11-9355,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE4DFE,6046,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4DFF,6047,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E00,6048,United States Coast Guard,Sikorsky MH-60T Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E01,6049,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4E02,6050,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E03,6051,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E08,08-5712,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
+AE4E03,6051,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Re-scue,Mae West,Coastguard,https://www.uscg.mil/
+AE4E08,08-5712,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,ht-tps://www.airforce.com
 AE4E09,08-5715,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4E0A,08-5724,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4E0B,08-5726,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -13053,14 +13053,14 @@ AE540D,11-0061,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE541D,Tactical,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE5422,11-2047,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE543E,76-22558,United States Army,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8o8J
-AE54B4,12-9506,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
+AE54B4,12-9506,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE54B5,10-2043,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE54B6,11-2049,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE54B7,05-2024,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE54C6,11-5765,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE54C7,12-5756,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
-AE54C8,10-5771,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
-AE54C9,12-5732,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
+AE54C8,10-5771,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,ht-tps://www.airforce.com
+AE54C9,12-5732,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/-3u7_xoxJyMk
 AE54CA,12-5755,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE54CB,12-5757,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE54CC,12-5759,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
@@ -13773,21 +13773,21 @@ AE6D80,19-5953,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,E
 AE6D83,21-5965,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6DC3,21-03387,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE6E7E,20-14510,USAF,Sikorsky HH-60W Jolly Green II,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
-AE73E0,170181,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE73E3,170184,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE73EA,170191,United States Navy,Agusta Phillidephia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE73F1,170198,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE73FC,170209,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE73FF,170212,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE7405,170218,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE7406,170219,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE7418,170237,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
-AE7457,170041,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
-AE7458,170042,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
+AE73E0,17-0181,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73E3,17-0184,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73EA,17-0191,United States Navy,Agusta Phillidephia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73F1,17-0198,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73FC,17-0209,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE73FF,17-0212,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE7405,17-0218,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE7406,17-0219,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE7418,17-0237,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
+AE7457,17-0041,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
+AE7458,17-0042,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
 AE7477,21-03394,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE748D,21-03416,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE748F,21-03418,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
-AE749C,170477,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE749C,17-0477,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE74C2,21-03423,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE74D4,22-03441,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE74D6,22-03443,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
@@ -13812,11 +13812,11 @@ AED618,22-03486,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cav
 AED9B7,22-03488,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
-AF384C,170744,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
+AF384C,17-0744,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF3C5F,18-20984,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
-AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
-AF54C4,170747,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
+AF4A7B,16-8207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AF54C4,17-0747,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF6C00,????,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AFF009,18-20994,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 B191D8,75-0528,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
@@ -14273,3 +14273,8 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+ADFE54,94-00325,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
+ADFE47,94-00315,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
+A97C45,N710CF,Calspan Corp,Gulfstream 2,GLF2,Civ,OG Defense Contractor,Flight Research,Bizjet,https://w.wiki/BFnz
+A2CE95,N280GD,General Dynamics Corp,Gulfstream G280,G280,Civ,Arms Company,Aerospace,Defense,As Seen on TV,https://w.wiki/Aych
+A7C64D,N60QJ,Johnson & Johnson,Gulfstream G600,GA6C,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://w.wiki/Az5x
