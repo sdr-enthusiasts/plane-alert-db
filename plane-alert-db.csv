@@ -2122,7 +2122,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D069D,D-EATH,Private Owner,Piper PA-28 Cherokee,P28A,Civ,Wheelbarrow,Jesus He Knows Me,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Death_(Discworld)
 3D0983,D-EBVV,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 3D0B74,D-ECOY,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
-3D0BD2,D-ECSO,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+3D0BD2,D-ECSO,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 3D0FB6,D-EEEW,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
 3D0FB7,D-EEEX,Private,Gyroflug Speed Canard SC-01B,SC01,Civ,Nope Mobile,Unconventional,Canards,You came here in that thing?,https://en.wikipedia.org/wiki/Gyroflug_Speed_Canard
 3D1024,D-EEJC,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2140,7 +2140,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D1D82,D-EJKS,Private,Extra EA-300S,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D1DC0,D-EJNC,Private,Extra EA230,E230,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-230
 3D1EC2,D-EJXA,Private,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
-3D24E5,D-EMFL,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+3D24E5,D-EMFL,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 3D2533,D-EMIL,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Historic,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
 3D2A4E,D-EOGS,Private,Sukhoi Su-29,SU29,Civ,Da Comrade,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Sukhoi_Su-29
 3D2AE4,D-EOMM,Private,CASA 1-131E Jungmann,BU31,Civ,Biplane,Basic Trainer,Freshman,Historic,https://w.wiki/4trf
@@ -2152,7 +2152,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D2E44,D-EPTS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 3D2EFF,D-EQAX,Private,Focke-Wulf Stieglitz FW 44J,FW44,Civ,Biplane,Open Cockpit,Historic,Historic,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_44_Stieglitz
 3D3131,D-EQWN,Private,Mudry CAP-10 B,CP10,Civ,Display Team,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Mudry_CAP_10
-3D3149,D-EQXL,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+3D3149,D-EQXL,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 3D31CB,D-ERCL,Private,Steen Skybolt,BOLT,Civ,Biplane,Aerobatics,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Steen_Skybolt
 3D3392,D-ERTY,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 3D355A,D-ESLM,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -2162,7 +2162,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D3D03,D-EVIX,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D3ECF,D-EWAP,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D3FDA,D-EWKW,Private,Extra EA-300LX,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
-3D40FD,D-EWWB,Private,Boeing Stearman PT-17D Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+3D40FD,D-EWWB,Private,Boeing Stearman PT-17D Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 3D4182,D-EXBE,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 3D41D0,D-EXEE,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 3D420E,D-EXGO,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
@@ -3219,7 +3219,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4030B0,G-EEPJ,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4030B1,G-BRXY,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 4030E2,G-BSBG,Private,Canadian Car & Foundry T-6J Texan,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/uk-harvards/g-bsbg/
-40313A,G-BSDS,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+40313A,G-BSDS,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 403147,G-WHRL,Private,Schweizer 269C,H269,Civ,Chopper,Lightweight,Bubble Canopy,Joe Cool,https://w.wiki/4o3R
 403180,G-MOUR,Heritage Aircraft Ltd,Folland Gnat T.1,GNAT,Civ,Display Team,Aerobatics,Dave Gilmour,Historic,https://tinyurl.com/mrx67vdy
 4031D3,G-KITI,Private,Pitts Special S-2SE,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -3239,7 +3239,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403978,G-YAKI,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 4039A0,G-OSIS,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 4039A3,G-WHOG,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
-4039B3,G-ISDN,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+4039B3,G-ISDN,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 4039E9,G-SIII,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 4039F4,G-BVXK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 403A07,G-BVZZ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3542,7 +3542,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 406E1B,G-WPDE,Western Power Distribution,Eurocopter EC135,EC35,Civ,Overload,Choppa,Wichita Lineman,Dogs with Jobs,https://tinyurl.com/23ksnmbn
 406E4D,G-CIRH,Willy Rose Technology,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
 406E61,G-TICO,Private,Cameron O-77 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,http://www.cameronballoons.co.uk
-406E76,G-CIPE,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+406E76,G-CIPE,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 406E97,G-DHHF,DH Heritage Flight,SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/uk-harvards/g-dhhf/
 406E9F,G-VYGM,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406EA2,G-CIPX,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
@@ -3657,7 +3657,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4077E4,G-SKNG,Historic Helicopters,Westland Sea King HAR3,S61,Civ,Sea King,Amphibian,Rejuvenated,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
-40780A,G-CLEN,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+40780A,G-CLEN,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 407814,G-HMGA,HM Coastguard,B200 Super King Air,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407821,G-EZMT,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
 407823,G-CLFJ,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
@@ -4619,7 +4619,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4484CA,OO-AFJ,Private,SNCAN Stampe SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 448B2C,OO-BYL,Private,De Havilland DH-82A Tiger Moth,DH82,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Tiger_Moth
 449026,OO-DAF,Private,Noorduyn AT-16ND Harvard IIB,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/belgium-harvards/oo-daf-full-history/
-44904D,OO-DBM,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+44904D,OO-DBM,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 4490D0,OO-DFP,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 449462,OO-ECB,Noordzee Helikopters Vlaanderen,Eurocopter EC120B Colibri,EC20,Civ,Helicopter,Offshore,Oil And Gas,Dogs with Jobs,https://w.wiki/4rNv
 449532,OO-EIR,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
@@ -5512,7 +5512,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B2917,HB-POP,Bundesamt für Zivilluftfahrt,PA-46 350P Malibu,PA46,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B2CF0,HB-RAM,Private,Pilatus P-2 06,PP2,Civ,Basic Trainer,I Am Old,Historic,Historic,https://en.wikipedia.org/wiki/Pilatus_P-2
 4B2CF2,HB-RAO,Private,Morane-Saulnier MS.317,MS31,Civ,Primary Trainer,Highwing,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_MS.315
-4B2D04,HB-RBG,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+4B2D04,HB-RBG,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 4B2D1B,HB-RCD,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1C,HB-RCE,Private,Pilatus P-3-05,PP3,Civ,Training Wheels,Aerobatics,I Am Old,Historic,https://en.wikipedia.org/wiki/Pilatus_P-3
 4B2D1D,HB-RCF,Association Morane Charlie Fox,D-3801 (Morane MS-412),ZZZZ,Civ,Fighter,History,WW2,Historic,https://en.wikipedia.org/wiki/Morane-Saulnier_M.S.406
@@ -7208,7 +7208,7 @@ A05562,N120TG,Intl Air Response,L-100 Hercules,C130,Civ,Drone Catcher,Gremlin,Te
 A056FD,1603,Venezuelan Air Force,Cessna Citation II,C550,Mil,VIP Transport,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
 A05CD7,N122TP,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
-A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
 A062E6,N124DN,Aviation Specialty Services,Cessna 337 Super Skymaster,C337,Civ,I Am Old,Beach Life,Former USAF,Historic,https://w.wiki/B64a
 A0640D,N124RH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7324,7 +7324,7 @@ A0F56B,N161AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To F
 A0F6BA,N161PR,N161PR LLC,Douglas C-47B BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 A0F6BB,N161PS,Private,Pitts Special S-2B,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A0F740,N161V,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
-A0F8BE,N1617M,Private,Boeing Stearman E75 PT-13D Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A0F8BE,N1617M,Private,Boeing Stearman E75 PT-13D Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A0F922,N162AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A0F9B2,N162G,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A0F9E7,N162JC,Jim Carrey,Gulfstream G500,GLF5,Civ,Alrighty Then,The Grinch,Man On The Moon,Don't you know who I am?,https://en.wikipedia.org/wiki/Jim_Carrey
@@ -7389,7 +7389,7 @@ A1320E,N17613,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hugh
 A13210,N17615,Private,Spartan Aircraft Executive 7W,SP7,Civ,Historic,Howard Hughes,Shiny,Historic,https://w.wiki/4zCg
 A136FE,N178B,Missile Defence Agency,Grumman GII,GLF2,Gov,Dept of Defence,ICBM,Trackball,Distinctive,https://www.mda.mil
 A13733,N178DC,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A137FC,N178MD,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A137FC,N178MD,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A13811,N178N,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A13ADC,N179CP,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
 A13D1C,N1791E,Sol Aerial Surveys,Cessna 310R,C310,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://solaerialsurveys.com
@@ -7609,7 +7609,7 @@ A27D74,N26JH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnn
 A27DFE,N26PW,Almanor Aviation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Grim Reaper,Historic,https://w.wiki/3nth
 A27E80,N26VA,Virginia State Police,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.vsp.virginia.gov
 A27F4B,N260DC,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A283FD,N261PD,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A283FD,N261PD,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A2862B,N2618G,Eagle Mountain Intl Church,Cessna 182B Skylane,C182,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A286AB,N262CP,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
 A28934,N2623H,Walmart,Ercoupe 415-E,ERCO,Civ,Join A Union,Corporate Dictatorship,Shop Local,Historic,https://en.wikipedia.org/wiki/Walmart
@@ -7842,7 +7842,7 @@ A3E4FB,N350BW,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,O
 A3E533,N350EB,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A3E5C2,N350KV,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A3E5EE,N350MP,Memphis Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://memphispolice.org
-A3E88C,N351AH,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A3E88C,N351AH,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A3E8E1,N351DT,Stallion 51,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Crazy Horse,Historic,https://w.wiki/3nth
 A3E8E6,N351DY,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/2p8dtmuw
 A3E8EE,N351EF,Medway Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
@@ -8141,7 +8141,7 @@ A5707C,N45HK,Walmart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,S
 A57090,N45JE,Liberty Mutual Insurance,Gulfstream G550,GLF5,Civ,Bizjet,Insurance,Bunch of Bankers,As Seen on TV,https://en.wikipedia.org/wiki/Liberty_Mutual
 A570DC,N45MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
 A5719F,N45VA,Walmart,Learjet 45XR,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
-A57267,N450D,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A57267,N450D,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A5726D,N450DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A57369,N450PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A575EF,N451BC,P-51 Mustang LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Angels Playmate,Historic,https://w.wiki/3nth
@@ -8155,14 +8155,14 @@ A57E5C,N453MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC4
 A57E8E,N453PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A57EB8,N453R,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A58213,N454MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
-A5840C,N4545N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A5840C,N4545N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A585CA,N455MH,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
 A588FD,N456GA,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculator,Mr Fancy Pants,As Seen on TV,https://en.wikipedia.org/wiki/Hewlett-Packard
 A58A19,N456TK,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
 A58C21,N457AD,Dangote Group,Bombardier Global 7500,GL7T,Civ,Bizjet,Conglomerate,West Africa,As Seen on TV,https://en.wikipedia.org/wiki/Dangote_Group
 A58CE9,N457JD,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
 A59025,N458DF,Cal Fire,Grumman S-2G Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A59239,N4580N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A59239,N4580N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A594B0,N459MT,Med-Trans,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net
 A597A6,N46E,Hunt Oil Company,Dassault Falcon 2000LX,F2TH,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A597EE,N46GX,Texas Instruments,Bombardier Global 6000,GLEX,Civ,Semiconductors,Transistors,Ti88,As Seen on TV,https://en.wikipedia.org/wiki/Texas_Instruments
@@ -8197,7 +8197,7 @@ A5D93F,N476V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmerica
 A5DAB1,N4767,Private,Zivko Edge 540,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 A5DF79,N478GS,L-3 Harris,Gulfstream G-IV SP,GLF4,Civ,C6ISR,Defense Contractor,Bizjet,As Seen on TV,https://en.wikipedia.org/wiki/L3Harris_Technologies
 A5E57A,N4794N,ACTS Aviation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
-A5E5D0,N47964,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A5E5D0,N47964,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A5E6E1,N48GL,Phoenix Air,Gulfstream G-IV,GLF4,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A5E7BD,N48RF,NOAA,DHC-6 Twin Otter 300,DHC6,Gov,Weather Recon,Snow Measurement,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A5E7C9,N48RT,Raytheon Systems,Gulfstream G600,GA6C,Civ,Arms Company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
@@ -8352,11 +8352,11 @@ A6A990,N5284F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squ
 A6AB8A,N529NA,NASA,B200 Super King Air,BE20,Gov,SCE To Aux,Mission Support,Research,Distinctive,https://www.nasa.gov
 A6AFA1,N53RX,Reach Air Medical,AgustaWestland AW.109,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A6B27A,N530X,Oxford Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.oxfordms.net/departments/police-department
-A6BAA9,N5323N,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A6BAA9,N5323N,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A6BBC7,N533CC,Harris Teeter Supermarkets,Cessna 560XL,C56X,Civ,Grocery Store,Food,Your Neighborhood Food Market,As Seen on TV,https://w.wiki/BB5J
 A6BBDF,N533DB,Private,DHC-1 Chipmunk T10,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A6BC3C,N533GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
-A6C25D,N5345N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A6C25D,N5345N,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A6C3AA,N535GV,Netflix,Gulfstream G550,GLF5,Civ,Streaming,And Chill,Use A VPN,As Seen on TV,https://en.wikipedia.org/wiki/Netflix
 A6C428,N535MW,Midwest Medical Transport,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.midwest-med.com/
 A6C48B,N535RV,REVA Air Ambulance,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com
@@ -8423,7 +8423,7 @@ A71A72,N557LM,Aero Air,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,
 A71AB8,N557PG,National Aircraft Leasing (DOJ),Cessna Citation V Ultra,C560,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A71D63,N558CP,City of Columbus Division of Police,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A71DBA,N558GA,Amgen,Gulfstream G550,GLF5,Civ,Bizjet,Genetics,Biotechnology,As Seen on TV,https://en.wikipedia.org/wiki/Amgen
-A71F87,N5580M,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A71F87,N5580M,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A722E7,N559X,American Express Travel,Gulfstream G550,GLF5,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 A724A9,N56AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 A724FB,N56EF,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -8460,7 +8460,7 @@ A76288,N575RW,Washington County Sheriff,Cessna 172 Skyhawk,C172,Pol,Eye In The S
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A76523,N576EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 A7698F,N577MT,Bank of Utah Trustee,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
-A772DC,N57947,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A772DC,N57947,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A773A7,N58AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 A773D7,N58CX,CSX Transportation,Gulfstream G280,G280,Civ,Not A Train,Steam Powered,Skytrain,As Seen on TV,https://w.wiki/9suB
 A778CA,N58038,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -8677,7 +8677,7 @@ A8A4BF,N656TT,Taj Hotels,Gulfstream G650 ER,GLF6,Civ,Bizjet,Hotels,Tata,As Seen 
 A8A872,N657TP,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A8AE35,N659AM,Air Methods,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A8B236,N66DL,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A8B36C,N66RW,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A8B36C,N66RW,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A8B43E,N660AE,Air Evac EMS Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://lifeteam.net/
 A8B4C7,N660FS,Endless Summer Aviation LLC,Sikorsky UH-60 Black Hawk,H60,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/3nxX
 A8B539,N660LF,Life Flight Network,Pilatus PC-12 47E,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org/
@@ -8715,11 +8715,11 @@ A905F7,N68029,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump John
 A90611,N68030,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A90612,N68031,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A90A00,6685,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
-A90E57,N68296,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A90E57,N68296,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A91338,N684MT,Micron Technology,Gulfstream G650 ER,GLF6,Civ,Memory,SSD,Crucial,As Seen on TV,https://en.wikipedia.org/wiki/Micron_Technology
-A91557,N68461,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A91557,N68461,Private,Boeing Stearman E75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A91DE9,N687HB,Inflight Medical Services International,Mitsubishi MU-2B -36,MU2,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.inflightmed.com/
-A927A4,N68941,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A927A4,N68941,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A92949,N69KL,The Flying Bulls,Sukhoi Su-29,SU29,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A92AEB,N690CC,Geofly Latvija SIA,Turbo Commander,AC90,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://cdn.jetphotos.com/full/5/78332_1581762614.jpg
 A92BFF,N690PD,Kansas City Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.kcpd.org
@@ -8814,7 +8814,7 @@ A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Just
 A9CF59,N731GA,Medway Air Ambulance,Learjet 31,LJ31,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A9D056,N731SD,Harris County Sheriff's Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,Abel5,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
 A9D64A,N733BA,Boeing Company,Boeing 737-MAX7-BBJ,B37M,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-A9DCED,N73449,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+A9DCED,N73449,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A9DDD1,N735CA,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A9DDF1,N735DH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A9E513,N737AG,Funair Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -8849,7 +8849,7 @@ AA1AB5,N750GX,Bombardier Aerospace Corp,Bombardier Global 7500,GL7T,Civ,We Make 
 AA1DE9,N751BR,RV Aviation LLC,Commander 690/840,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/8o8e
 AA2D66,N755JB,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 AA2F29,N7551T,Mustang High Flight LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Hell-er Bust,Historic,https://w.wiki/3nth
-AA2F9F,N75546,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+AA2F9F,N75546,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 AA3086,N756CA,National Airlines,Boeing 747 412BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
 AA340A,N757A,Boeing,Boeing 757,B752,Civ,Testbed,Radar,Catfish,Distinctive,https://www.thisdayinaviation.com/tag/n757a/
 AA3410,N757AF,DJT Operations,Boeing 757,B752,Civ,Original Nuttah,Orange Danger,Lock Him Up,Dictator Alert,https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump
@@ -9464,7 +9464,7 @@ ADDB35,N992MS,Las Vegas Sands Corp,Gulfstream G-IV SP,GLF4,Civ,The Gambler,Snake
 ADDB3E,N992NA,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Oxcart,https://bit.ly/3rpxuMM
 ADE58F,N995DP,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
-ADE845,N9955H,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://en.wikipedia.org/wiki/Boeing-Stearman_Model_75
+ADE845,N9955H,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 ADE8EC,N996,Marine Aviation Museum,Mikoyan Gurevich MiG-15,MG15,Civ,Mig,Historic,Vashe Zdorovye,Historic,https://w.wiki/7oBJ
 ADEDBE,N997MG,USAF,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADF5D2,N999TY,TAG Aviation Asia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -14273,3 +14273,16 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+ADFE54,94-00325,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8o8J
+ADFE47,94-00315,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8o8J
+A97C45,N710CF,Calspan Corp,Gulfstream 2,GLF2,Civ,OG Defense Contractor,Flight Research,Bizjet,As Seen on TV,https://w.wiki/BFnz
+A2CE95,N280GD,General Dynamics Corp,Gulfstream G280,G280,Civ,Arms Company,Aerospace,Defense,As Seen on TV,https://w.wiki/Aych
+A7C64D,N60QJ,Johnson & Johnson,Gulfstream G600,GA6C,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://w.wiki/Az5x
+AE60F5,162635,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
+A9F681,N741CP,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+AE64B4,168676,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+A2B5C8,N274EM,Draken Intl,Aero L-159E,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
+A66BAB,N5123N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
+AE486A,09-20188,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+A9855F,N712VJ,SVJ Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
+A432A5,N37NG,Northrop Grumman,Gulfstream 5,GLF5,Civ,Aerospace,Stealth Mode,Bizjet,As Seen on TV,https://w.wiki/3rhX
