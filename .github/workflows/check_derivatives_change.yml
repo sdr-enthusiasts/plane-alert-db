@@ -15,7 +15,7 @@ jobs:
     name: Fail if the PR contains incorrect derivative databases
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.2.0
+        uses: actions/checkout@v4.2.1
 
       - name: Check if the PR changes any of the derivative databases
         id: changed-files
