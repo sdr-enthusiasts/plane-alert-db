@@ -872,6 +872,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 8A0002,A-001,Government of Indonesia,Boeing 737-BBJ,B737,Gov,Indonesia,Joko Widodo,Government,Governments,https://w.wiki/B6WQ
 8A0452,PK-GIG,Indonesia Presidential Flight,Boeing 777-3ER,B77W,Gov,Indonesia,Joko Widodo,Government,Governments,https://w.wiki/B6WQ
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
+A00195,N1SC,South Carolina Aeronautics Commission,Beechcraft King Air 350,B350,Gov,Safety Committee,Not a Bus,Airport Overlords,Governments,https://aeronautics.sc.gov/
 A001DE,N1VA,Virginia Department of Aviation,Beechcraft Super King Air 350,B350,Gov,Bizjet,Must Be Nice,Sic Semper Tyrannis,Governments,https://doav.virginia.gov/
 A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -914,6 +915,8 @@ A1488A,N182EM,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice
 A15C88,N187V,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A16926,N190LA,Los Angeles Fire Department,Sikorsky S-70A,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A17016,N192F,Dept of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A18E80,N2NC,North Carolina Dept of Transportation,Beech 90 King Air,BE9L,Gov,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ncdot.gov/divisions/aviation/Pages/sections-units.aspx
+A18EE4,N2SC,South Carolina Aeronautics Commission,Beechcraft King Air C90,BE9L,Gov,Safety Committee,Not a Bus,Airport Overlords,Governments,https://aeronautics.sc.gov/
 A19122,N20RA,Janet Airlines,Beechcraft 1900,B190,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 A1A588,N205KS,Santa Barbara County Fire Department,Bell UH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sbcfire.com
 A1AB42,N20646,US Department of Energy,Bell 206L Long Ranger,B06,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
