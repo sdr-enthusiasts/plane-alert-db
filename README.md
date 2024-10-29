@@ -24,18 +24,18 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14349** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14354** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14316)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14321)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (80)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (33)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11335)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11342)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3889)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7867)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7872)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (913)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1647)
 
@@ -103,7 +103,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|222|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|395|
-|USAF|Aircraft of the United States Air Force|2270|
+|USAF|Aircraft of the United States Air Force|2275|
 |Vanity Plate|Distinctive registrations|75|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|99|
