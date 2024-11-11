@@ -24,20 +24,20 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14400** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14416** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14367)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14383)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (82)
 -   [plane-alert-ukraine.csv](plane-alert-ukraine.csv): A list with Ukrainian planes. (33)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11369)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11372)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3923)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3924)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7875)
--   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (913)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1656)
+-   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (915)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1669)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -61,16 +61,16 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|330|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|78|
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|446|
+|As Seen on TV|Companies and Brands|447|
 |Big Hello|Large Helicopters (sic)|104|
-|Bizjets|Fancy pants planes for fancy pants people|43|
+|Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|8|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|194|
 |Coastguard|Coastguard, Customs and Border Patrols|440|
 |Da Comrade|Russian or Soviet Aircraft|91|
 |Dictator Alert|People of potentially questionable morals and values|324|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|187|
-|Dogs with Jobs|Aircraft with specific roles and/or modifications|176|
+|Dogs with Jobs|Aircraft with specific roles and/or modifications|179|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|65|
 |Flying Doctors|Air Ambulance and Medical Flights|806|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
@@ -87,10 +87,10 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Oligarch|I made this money all by myself.|41|
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2004|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|199|
-|Oxcart|Intelligence gathering aircraft|655|
+|Oxcart|Intelligence gathering aircraft|664|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|44|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
-|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|901|
+|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|903|
 |Ptolemy would be proud|Mapping and Aerial Survey aircraft.|148|
 |Quango|NATO, United Nations, World Bank etc.|32|
 |Radiohead|Very Very special aircraft. Think VC25.|5|
