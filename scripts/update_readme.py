@@ -13,9 +13,6 @@ if __name__ == "__main__":
     logging.info("Reading the main csv file...")
     df = pd.read_csv("plane-alert-db.csv")
 
-    logging.info("Reading the Ukraine csv file...")
-    ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
-
     logging.info("Reading the PIA csv file...")
     pia_df = pd.read_csv("plane-alert-pia.csv")
 
@@ -24,20 +21,20 @@ if __name__ == "__main__":
     logging.info("All csv files read successfully.")
 
     plane_count_df = (
-        pd.concat([df["$ICAO"], ukraine_df["$ICAO"]])
+        df["$ICAO"]
         .drop_duplicates()
         .reset_index(drop=True)
     )
     logging.info(f"Total Planes Count: ({plane_count_df.shape[0]}).")
 
     category_unique_df = (
-        pd.concat([df["Category"], ukraine_df["Category"]])
+        df["Category"]
         .drop_duplicates()
         .reset_index(drop=True)
     )
     logging.info(f"Total Categories Count: ({category_unique_df.shape[0]}).")
 
-    category_df = pd.concat([df["Category"], ukraine_df["Category"]]).reset_index(
+    category_df = df["Category"].reset_index(
         drop=False
     )
 
@@ -53,7 +50,6 @@ with open("readme.mustache", "r") as template:
                     "categories": category_unique_df.shape[0],
                     "plane_alert_db": df.shape[0],
                     "plane_alert_pia": pia_df.shape[0],
-                    "plane_alert_ukraine": ukraine_df.shape[0],
                     "plane_alert_images": images_df.dropna(
                         subset=["#ImageLink"], inplace=False
                     ).shape[0],
@@ -202,9 +198,6 @@ with open("readme.mustache", "r") as template:
                     ].shape[0],
                     "cap_count": category_df[
                         category_df["Category"] == "CAP"
-                    ].shape[0],
-                    "ukraine_count": category_df[
-                        category_df["Category"] == "Ukraine"
                     ].shape[0],
                 },
             )

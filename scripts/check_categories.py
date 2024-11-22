@@ -12,11 +12,8 @@ if __name__ == "__main__":
     logging.info("Reading the main csv file...")
     df = pd.read_csv("plane-alert-db.csv")
 
-    logging.info("Reading the Ukraine csv file...")
-    ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
-
     category_unique_df = (
-        pd.concat([df["Category"], ukraine_df["Category"]])
+        df["Category"]
         .drop_duplicates()
         .reset_index(drop=False)
     )
