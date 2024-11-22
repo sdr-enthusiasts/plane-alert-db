@@ -17,17 +17,6 @@ if __name__ == "__main__":
     main_df = pd.read_csv("plane-alert-db.csv")
     logging.info("'plane-alert-db' csv file read successfully.")
 
-    logging.info("Reading the 'plane-alert-twitter-blocked' csv file...")
-    twitter_blocker_df = pd.read_csv("plane-alert-twitter-blocked.csv")
-    logging.info("'plane-alert-twitter-blocked' csv file read successfully.")
-
-    logging.info("Reading 'plane-alert-ukraine' csv file...")
-    ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
-    logging.info("'plane-alert-ukraine' csv file read successfully.")
-
-    logging.info("Concatenating all the dataframes...")
-    main_df = pd.concat([main_df, twitter_blocker_df, ukraine_df])
-    logging.info("Concatenation done.")
 
     logging.info(
         f"Get new items in 'james-planes' database ({james_planes_df.shape[0]})..."

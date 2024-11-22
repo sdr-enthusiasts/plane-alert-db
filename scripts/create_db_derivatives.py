@@ -1,7 +1,6 @@
 """This script creates (derivative) category and images CSV database files from the main
 'plane-alert-db.csv' database file. The categories are created based on the 'CMPG'
-column, while images are added using the 'plane_images.csv' reference file. It also
-creates the 'plane-alert-ukraine-images.csv' database file. Lastly, based on the
+column, while images are added using the 'plane_images.csv' reference file. Based on the
 'plane-alert-db.csv' database file, missing records are added and/or extra records are 
 removed from the 'plane_images.csv' reference file.
 """
@@ -69,28 +68,6 @@ if __name__ == "__main__":
         )
     logging.info("Category and category images CSV files created successfully.")
 
-    logging.info("Reading the Ukraine csv file...")
-    unsort_ukraine_df = pd.read_csv("plane-alert-ukraine.csv")
-    ukraine_df = unsort_ukraine_df.sort_values(by=["$ICAO"], ascending=True)
-    ukraine_df.to_csv(
-        "plane-alert-ukraine.csv",
-        mode="wb",
-        index=False,
-        header=True,
-        encoding="utf8",
-        lineterminator="\n",
-    )
-    logging.info("Ukraine csv file read and sorted successfully.")
-    logging.info("Creating the Ukraine database images CSV file...")
-    ukraine_df_images = pd.merge(ukraine_df, images_df, how="left", on="$ICAO")
-    ukraine_df_images.to_csv(
-        "plane-alert-ukraine-images.csv",
-        index=False,
-        mode="wb",
-        encoding="utf8",
-        lineterminator="\n",
-    )
-    logging.info("Ukraine database images CSV file created successfully.")
 
     logging.info("Creating the main database images csv file...")
     main_images_df = pd.merge(df, images_df, how="left", on="$ICAO")
@@ -105,14 +82,14 @@ if __name__ == "__main__":
     logging.info("Category and images CSV files created successfully.")
 
     logging.info(
-        "Check for new ICAOs in DB files and add them to the images reference file..."
+        "Check for new ICAOs in DB file and add them to the images reference file..."
     )
     plane_alert_df = (
-        pd.concat([df["$ICAO"], ukraine_df["$ICAO"]])
+        df["$ICAO"]
         .drop_duplicates()
         .reset_index(drop=True)
     )
-    logging.info(f"ICAOs retrieved from DB files: ({plane_alert_df.shape[0]}).")
+    logging.info(f"ICAOs retrieved from DB file: ({plane_alert_df.shape[0]}).")
     logging.info(f"ICAOs retrieved from 'plane_images.csv ({images_df.shape[0]}).")
     new_ICAOs_df = plane_alert_df[~plane_alert_df.isin(images_df["$ICAO"])]
     if new_ICAOs_df.shape[0] > 0:

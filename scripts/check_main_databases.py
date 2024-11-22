@@ -12,7 +12,6 @@ logging.basicConfig(
 )
 
 MAIN_DATABASE_NAME = "plane-alert-db.csv"
-UKRAINE_DATABASE_NAME = "plane-alert-ukraine.csv"
 PLANE_IMAGES_DATABASE_NAME = "plane_images.csv"
 
 
@@ -169,26 +168,6 @@ if __name__ == "__main__":
     # contains_bad_links(main_df)
     logging.info("The main database is valid.")
 
-
-    ##########################################
-    # Check 'plane-alert-ukraine' db.        #
-    ##########################################
-    logging.info("Checking the 'plane-alert-ukraine' database...")
-    try:
-        ukraine_df = pd.read_csv(UKRAINE_DATABASE_NAME)
-        ukraine_df.name = UKRAINE_DATABASE_NAME
-    except Exception as e:
-        logging.error(f"The '{UKRAINE_DATABASE_NAME}' database is not a valid CSV.")
-        sys.stdout.write(
-            f"The '{UKRAINE_DATABASE_NAME}' database is not a valid CSV: {e}\n"
-        )
-        sys.exit(1)
-
-    # Preform database checks.
-    contains_duplicate_ICAOs(ukraine_df)
-    contains_duplicate_regs(ukraine_df)
-    contains_bad_links(ukraine_df)
-    logging.info("The 'plane-alert-ukraine' database is valid.")
 
     ##########################################
     # Check 'plane_images.csv' db.           #
