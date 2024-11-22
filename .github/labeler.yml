@@ -6,10 +6,6 @@ images:
 - any:
   - changed-files:
     - any-glob-to-any-file: ['plane_images.csv']
-ukraine:
-- any:
-  - changed-files:
-    - any-glob-to-any-file: ['plane-alert-ukraine.csv']
 planes:
 - all:
   - changed-files:
