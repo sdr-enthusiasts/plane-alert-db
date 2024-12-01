@@ -41,7 +41,7 @@ jobs:
           echo "EOF" >> $GITHUB_ENV
       - name: Post derivative databases change warning
         if: steps.changed.outputs.derivative_files_changed == 'true'
-        uses: thollander/actions-comment-pull-request@v3.0.0
+        uses: thollander/actions-comment-pull-request@v3.0.1
         with:
           message: |
             ${{ env.WARNING_MSG }}
