@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14433** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14447** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14433)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14447)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (83)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11390)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11398)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3969)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7879)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3974)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7888)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (914)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1671)
 
@@ -76,27 +76,27 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
 |Governments|Aircraft registered to Governments|257|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|261|
-|Hired Gun|Why do the dirty work when someone else can do it for you?|254|
+|Hired Gun|Why do the dirty work when someone else can do it for you?|257|
 |Historic|It's older than I am and most likely has a prop.|428|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|21|
-|Joe Cool|Cool Planes. Or at least I think they are cool.|226|
+|Joe Cool|Cool Planes. Or at least I think they are cool.|227|
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|16|
 |Oligarch|I made this money all by myself.|41|
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2005|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|199|
-|Oxcart|Intelligence gathering aircraft|661|
+|Oxcart|Intelligence gathering aircraft|662|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|45|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|902|
-|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|151|
+|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|152|
 |Quango|NATO, United Nations, World Bank etc.|32|
 |Radiohead|Very Very special aircraft. Think VC25.|5|
 |RAF|Aircraft of the Royal Air Force|240|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
-|Special Forces|The best of the best of the best. Sir.|180|
-|Toy Soldiers|Armies from around the world.|806|
+|Special Forces|The best of the best of the best. Sir.|181|
+|Toy Soldiers|Armies from around the world.|813|
 |UAV|It's not natural, I tell 'ya!|33|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|222|
