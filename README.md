@@ -28,8 +28,8 @@ There currently are about **14433** unique aircraft in **51** categories found i
 These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14433)
--   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (82)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11385)
+-   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (83)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11390)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
