@@ -7245,7 +7245,7 @@ A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,
 A05CD7,N122TP,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
-A06006,N123NC,North Carolina Highway Patrol,Bell 206A,B06,Gov,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
+A06006,N123NC,North Carolina Highway Patrol,Bell 206A,B06,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A062E6,N124DN,Aviation Specialty Services,Cessna 337 Super Skymaster,C337,Civ,I Am Old,Beach Life,Former USAF,Historic,https://w.wiki/B64a
 A0640D,N124RH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A0644D,N124TX,Texas Department of Public Safety,Eurocopter AS350 Squirrel B2,AS50,Pol,Police Squad,Spectre 219,Speed Enforced by Aircraft,Police Forces,https://w.wiki/7kcW
@@ -7293,7 +7293,7 @@ A0A557,N1402J,Peruvian Coast Guard,Lake Renegade LA-250,LA25,Gov,Maritime Patrol
 A0A798,N141NE,Boston MedFlight,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.bostonmedflight.org
 A0AA61,N142CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A0ACF4,N1423W,Maricopa County Sherriff,Cessna 206H,C206,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.mcso.org/
+A0ACF4,N1423W,Maricopa County Sheriff,Cessna 206H,C206,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.mcso.org/
 A0AD1F,N14244,Pacific Fleet Aviation,Piper PA-23 Aztec 250E,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A0ADE7,N143AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
 A0AE18,N143CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
@@ -8013,7 +8013,7 @@ A4B06E,N401AX,Airborne Tactical Advantage,IAI F-21 Kfir C-2,KFIR,Civ,Aggressor S
 A4B0A9,N401DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A4B155,N401LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 A4B158,N401LF,Life Flight,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
-A4B187,N401NC,North Carolina Highway Patrol,Bell 429,B429,Gov,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
+A4B187,N401NC,North Carolina Highway Patrol,Bell 429,B429,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4B1A6,N401PJ,Skylens,Piper PA-23 Aztec 250D,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
 A4B202,N401TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 A4B421,N402AT,Aero Air,Embraer ERJ-135LR,E135,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
@@ -8032,20 +8032,20 @@ A4BB24,N4037S,Siller Helicopters,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,H
 A4BB80,N404AC,Apache Corporation,Gulfstream G280,G280,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A4BB86,N404AJ,Billings Flying Service,Meridionali CH-47D Chinook,H47,Civ,Heavy Lift,Aerial Firefighter,Wocka Wocka,Dogs with Jobs,https://billingsflyingservice.com/
 A4BBA7,403,Venezuelan Air Force,Cessna Citation II,C550,Mil,VIP Transport,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
-A4BCAC,N404NC,North Carolina Highway Patrol,Bell 407,B407,Gov,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
+A4BCAC,N404NC,North Carolina Highway Patrol,Bell 407,B407,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4BCCA,N404PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4BDF0,N40402,Commemorative Air Force,Grumman TBM-3 Avenger,TBM,Civ,War Bird,Historic,Doris Mae,Historic,https://commemorativeairforce.org/
 A4BF4A,N405AX,Airborne Tactical Advantage,IAI F-21 Kfir C-2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4BF7A,N405CV,Civil Air Patrol,Textron Aviation 182T Skylane,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
 A4BFD3,N405GJ,Trinity Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://trinityairambulance.com/
-A4C063,N405NC,North Carolina Highway Patrol,Bell 407,B407,Gov,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
+A4C063,N405NC,North Carolina Highway Patrol,Bell 407,B407,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4C07A,N405PA,Phoenix Air,Embraer EMB 120ER,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A4C0F3,N405TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B2,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.dps.texas.gov/section/aircraft-operations-division
 A4C18C,N4050,PayPal,Gulfstream G650 ER,GLF6,Civ,PayPal,Middle Man,Money For Nothing,As Seen on TV,https://en.wikipedia.org/wiki/PayPal
 A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,https://youtu.be/5akEgsZSfhg
 A4C301,N406AX,Airborne Tactical Advantage,IAI F-21 Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C32B,N406CP,Calcasieu Parish Police Jury,Beech JU-21A Ute,U21,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.calcasieuparish.gov
-A4C41A,N406NC,North Carolina State Highway Patrol,Bell 407,B407,Gov,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
+A4C41A,N406NC,North Carolina State Highway Patrol,Bell 407,B407,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4C47F,N406SD,Woolpert,Cessna F406 Caravan II,F406,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
 A4C6B8,N407AX,Airborne Tactical Advantage,IAI F-21 Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4C6EE,N407DA,Dillon Aero,Bell 407,B407,Civ,Arms Company,Aerospace,Defense,As Seen on TV,https://dillonaero.com/
@@ -8862,7 +8862,7 @@ A96B72,N706GD,Gulfstream Aerospace Corp,Gulfstream G700,GA7C,Civ,Bizjets,How The
 A96BEE,N706MC,St Bernard Parish Mosquito Control,BN Islander 2A-26,BN2P,Gov,Mosquito Control,Parasites,Malaria,Dogs with Jobs,https://www.sbpg.net/304/Mosquito-Control
 A96FB1,N707MQ,Omega Air,Boeing 707-368C,B703,Civ,Air2Air,Tanker,Military Contractor,Hired Gun,https://w.wiki/4zCf
 A97023,N707SD,San Diego Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sandiego.gov/police
-A9702C,N707SN,Private,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
+A9702C,N707SN,K Supply Company,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A9714D,N70727,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A97153,N7073C,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 A97316,N708JH,Dept of State JPATS,Gulfstream G550,GLF5,Gov,Con Air,Prison,Cameron Poe,Dogs with Jobs,https://w.wiki/4mcf
@@ -9119,7 +9119,7 @@ AB0DD7,N811HW,Memphis Medical Center Air Ambulance,Eurocopter EC130 B4,EC30,Civ,
 AB0E21,N811LV,Air Methods,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 AB0E2B,N811ME,Center for Emergency Medicine of Western PA,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://centerem.org/
 AB118E,N812HW,Memphis Medical Center Air Ambulance,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.hospitalwing.com/hospwing/
-AB11C9,N812LE,Maricopa County Sherriff,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
+AB11C9,N812LE,Maricopa County Sheriff,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
 AB1257,N812RX,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 AB1270,N812SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -9558,7 +9558,7 @@ AD8ECF,N973AE,PHI Health,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical 
 AD9330,N974H,Hillcrest Aircraft Co Inc,Bell 407,B407,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.hillcrestaircraft.com/
 AD9470,N974VV,Omega Air,Douglas DC-10 40I,DC10,Civ,Air2Air,Tanker,Military Contractor,Hired Gun,https://w.wiki/4zCf
 AD9E75,N977JG,Ekspres Air,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-AD9ECA,N977MS,Maricopa County Sherriff,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
+AD9ECA,N977MS,Maricopa County Sheriff,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
 ADA5F1,N979JW,S C Johnson & Son,Dassault Falcon 7X,FA7X,Civ,Bizjet,Cleaning Products,Mr Muscle,As Seen on TV,https://w.wiki/4rP4
 ADA691,N979RF,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 ADA784,N9790Z,Commemorative Air Force,Noorduyn AT-16ND Harvard IIB,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
@@ -10574,11 +10574,11 @@ AE042B,63-8030,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Wi
 AE042C,64-14828,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE042D,64-14834,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE042E,64-14837,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
-AE0430,96-6049,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
+AE0430,96-6049,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
-AE0434,96-6045,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
-AE0437,96-6046,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
-AE0442,96-6044,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
+AE0434,96-6045,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
+AE0437,96-6046,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
+AE0442,96-6044,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
@@ -12753,8 +12753,8 @@ AE2707,2309,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritim
 AE2708,2310,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2709,2311,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE270A,2312,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE272C,96-6042,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
-AE272D,96-6043,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/CASA/IPTN_CN-235
+AE272C,96-6042,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
+AE272D,96-6043,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
@@ -14445,3 +14445,9 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+A3BBDF,N34KJ,Wright Wing Aviation,Beechcraft T-34,T34P,Civ,I Am Old,Retired Life,Former USAF,Historic,https://w.wiki/B6WK
+AE0436,98-6027,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
+A8DF6D,N67099,Spartanburg County Sheriff,Bell 206A,B06,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://w.wiki/A$BB
+AE47FC,07-20063,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE56C6,13-20606,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+A556DC,N443MG,Georgia Aviation Authority,Piper PA-44,PA44,Gov,Safety Committee,Safe Flying,Airport Overlords,Governments,https://gaa.georgia.gov/
