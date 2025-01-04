@@ -1488,7 +1488,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4850AD,P4-LAS,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 4850BA,P4-LAC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
 4850C6,P4-LTI,Liza Transport International,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Velocity_XL
+48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://w.wiki/Cbv8
 4851D4,PH-IIJ,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
 485202,PH-SVZ,Slagboom en Peeters Luchtfotografie,Cessna Citation II,C550,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/mttrvpe4
@@ -3386,6 +3386,7 @@ A9E5BB,N737H,Airborne Imaging,Douglas DC-3,DC3,Civ,Aerial Cartography,Photo Reco
 A9E5FD,N737KR,Arabasco,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A9E60B,N737LE,Leonard Blavatnik,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://en.wikipedia.org/wiki/Russian_oligarch
 A9E61F,N737M,Eagle Intl Establishment,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Mercenary,Hired Gun,https://www.eagleinternationalgroup.com
+A9F04D,N74BC,Private,Velocity SE-RG,VELO,Civ,Canards,Daredevil,Nope Mobile,You came here in that thing?,https://w.wiki/Cbv3
 A9F07F,N74DC,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 A9F164,N74NG,Northrop Grumman,Beechcraft Super King Air 350,B350,Civ,Aerospace,Stealth Mode,Bizjet,As Seen on TV,https://w.wiki/3rhX
 A9F224,N74VZ,Verizon Corporate Services,Gulfstream G550,GLF5,Civ,Basic Cable,We Don't Care,Telecoms,As Seen on TV,https://youtu.be/vbHqUNl8YFk?t=3
@@ -3929,6 +3930,7 @@ C06455,C-GLZW,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadro
 C06457,C-GLZY,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C06487,C-GMBU,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C06625,C-GMRS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C066B2,C-GMXD,Airmedic Inc,Pilatus PC-12,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmedic.net/
 C068EB,C-GNTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizjet,All That Glitters,Golden,Vanity Plate,https://youtu.be/ntG50eXbBtc
 C06B21,C-GOOU,ALCI Aviation,Douglas C-47A BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
