@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14473** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14491** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14473)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14491)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (87)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11427)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11441)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3979)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7904)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (3992)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (7909)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (920)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1670)
 
@@ -59,7 +59,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|330|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|78|
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|447|
+|As Seen on TV|Companies and Brands|448|
 |Big Hello|Large Helicopters (sic)|104|
 |Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|11|
@@ -89,19 +89,19 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|45|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|903|
-|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|152|
+|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|164|
 |Quango|NATO, United Nations, World Bank etc.|32|
 |Radiohead|Very Very special aircraft. Think VC25.|5|
 |RAF|Aircraft of the Royal Air Force|240|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|181|
-|Toy Soldiers|Armies from around the world.|815|
+|Toy Soldiers|Armies from around the world.|817|
 |UAV|It's not natural, I tell 'ya!|33|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
-|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|222|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|224|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|406|
-|USAF|Aircraft of the United States Air Force|2277|
+|USAF|Aircraft of the United States Air Force|2278|
 |Vanity Plate|Distinctive registrations|77|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|100|
