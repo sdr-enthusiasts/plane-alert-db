@@ -50,7 +50,7 @@ jobs:
           mkdir -p ./check_derivatives_change
           echo ${{ steps.changed-files.outputs.any_changed }} > ./check_derivatives_change/derivative_files_changed
           echo ${{ github.event.number }} > ./check_derivatives_change/issue_number
-      - uses: actions/upload-artifact@v4.5.0
+      - uses: actions/upload-artifact@v4.6.0
         with:
           name: check_derivatives_change
           path: check_derivatives_change/
