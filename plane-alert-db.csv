@@ -3478,7 +3478,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4069E7,G-OSRA,2 Excel Aviation,Boeing 727-2S2F,B722,Civ,Specialist,Oil Spill Dispersal,Old,Distinctive,https://www.2excelaviation.com/our-activity
 406A20,G-HAHU,Private,Yakovlev Yak-18T,Y18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
 406A2E,G-GMAD,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
-406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Historic,Historic,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
+406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD9
 406A97,G-CICK,Private,Supermarine Spitfire TIX,SPIT,Civ,War Bird,Fighter,Merlin,Historic,https://www.aerolegends.co.uk/the-aircraft/
 406AAD,G-CICM,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
@@ -13679,7 +13679,7 @@ AE6173,163879,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,
 AE6177,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE61B3,82-23835,USAF,DHC UV-18 Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,To Fly Fight And Win,USAF,https://www.airforce.com
 AE61BD,761526,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
-AE61BE,76-1527,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE61BE,761527,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61BF,761528,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C0,761531,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
 AE61C1,761532,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
@@ -14519,3 +14519,23 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+AE61CD,761550,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61DC,761574,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61CA,761547,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61CC,761549,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AE61D9,761570,United States Navy,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Navy,https://w.wiki/6Qi9
+AAD903,N79863,Flying Heritage Collection,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A5B51E,N467RL,Air Legends Foundation,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A6295B,N4964W,Planes of Fame Air Museum,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+ACD77C,N9265A,Fagan Fighters,Grumman F6F-5 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A0223D,N1078Z,Commemorative Air Force,Grumman F6F-5 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A6347F,N4994V,Planes of Fame Air Museum,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+AAA94E,N7861C,American Aircraft Sales,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A31D7D,N30FG,Comanche Warbirds,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+AAE4C9,N8004H,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+AD100A,N94038,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A1B65D,N2094G,Navy Fighters,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A4E668,N41476,Collings Foundation,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+A6350B,N4998V,Erickson Aircraft Collection,Grumman F6F-5N Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+AA288E,N7537U,World's Createst Aircraft Collection,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
+ACA499,N9133H,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
