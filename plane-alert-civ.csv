@@ -940,7 +940,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4069E7,G-OSRA,2 Excel Aviation,Boeing 727-2S2F,B722,Civ,Specialist,Oil Spill Dispersal,Old,Distinctive,https://www.2excelaviation.com/our-activity
 406A20,G-HAHU,Private,Yakovlev Yak-18T,Y18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
 406A2E,G-GMAD,Gama Aviation,B350C Super King Air,B350,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
-406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Historic,Historic,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
+406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD9
 406A97,G-CICK,Private,Supermarine Spitfire TIX,SPIT,Civ,War Bird,Fighter,Merlin,Historic,https://www.aerolegends.co.uk/the-aircraft/
 406AAD,G-CICM,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 406ABF,G-OMAA,Babcock MCS Onshore,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.babcockinternational.com/what-we-do/aviation
@@ -2153,6 +2153,7 @@ A00A18,N101TD,Bopper Airways,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,B
 A00E0E,N102VS,Calspan Corporation,Learjet 25B,LJ25,Civ,Adversary Simulator,Specialist,Shapeshifter,Hired Gun,https://www.calspan.com
 A00E20,N102WK,Willis Knighton Medical Center,F90 King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.wkhs.com/
 A010E5,N103LT,Commemorative Air Force,North American SNJ-4 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
+A0223D,N1078Z,Commemorative Air Force,Grumman F6F-5 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A022B9,N108DB,Labcorp,Gulfstream G600,GA6C,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A02390,N108MS,Las Vegas Sands Corp,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Snake Eyes,As Seen on TV,https://youtu.be/QKsZD47PHvE
 A023FD,N108SA,Jet West LLC,Rockwell Turbo Commander 690B,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Aerial_firefighting
@@ -2408,6 +2409,7 @@ A1AC16,N207AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,B
 A1AFD1,N208AX,UK Parachuting,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk/
 A1B0D5,N208MG,ISR Platforms,Cessna 208 Caravan,C208,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
 A1B489,N209MD,Walmart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
+A1B65D,N2094G,Navy Fighters,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A1B748,N21BF,Private,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 A1B7B7,N21FS,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
 A1BAD9,N210PT,Classic Air Medical,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://classicairmedical.com/
@@ -2530,6 +2532,7 @@ A31AA0,N3A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcaniza
 A31AE0,N3CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A31BDE,N3NT,Spur Aviation Services,Rockwell Turbo Commander 690D,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.spuraviationservices.com
 A31BE8,N3PC,Paul Crouch,Bombardier Global 6000,GLEX,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
+A31D7D,N30FG,Comanche Warbirds,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A31D98,N30GJ,Publix Supermarkets,Learjet 60,LJ60,Civ,Grocery Store,Food,Where Shopping is a Pleasure,As Seen on TV,https://www.publix.com/
 A31DAE,N30HF,HALO-Flight Inc,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
 A31E09,N30LX,Lockheed Martin Corp,Grumman GIII,GLF3,Civ,Bizjet,Skunk Works,Kelly Johnson,As Seen on TV,https://en.wikipedia.org/wiki/Skunk_Works
@@ -2798,6 +2801,7 @@ A4DD1B,N412RX,REACH Air Medical Services,Eurocopter EC130 T2,EC30,Civ,Air Ambo,M
 A4E02D,N413KG,Eagle Mountain Intl Church,Beech E55 Baron,BE55,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A4E0D2,N413RX,Reach Air Medical,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A4E411,N414MB,Private,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
+A4E668,N41476,Collings Foundation,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A4E742,N415FT,Financial Technology Partners,Gulfstream G650,GLF6,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://www.ftpartners.com/
 A4E85D,N415TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 A4EC77,N416X,Boeing,Candair T33 Mk3,T33,Civ,Testbed,Radar,One Ping Only Vasily,Distinctive,https://cdn.jetphotos.com/full/6/17868_1607897976.jpg
@@ -2900,6 +2904,7 @@ A5AD73,N465P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Fly
 A5AD74,N465PA,Phoenix Air,Embraer EMB 120RT,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A5AEA1,N46502,Private,Ryan Recruit ST3-KR,PT22,Civ,Basic Trainer,Open Cockpit,Shiny,Historic,https://en.wikipedia.org/wiki/Ryan_ST
 A5B4E9,N467PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A5B51E,N467RL,Air Legends Foundation,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A5BF2C,N47EG,Michael Bloomberg,Dassault Falcon 900,F900,Civ,Bizjet,Bloomberg,ex-NYC Mayor,Don't you know who I am?,https://en.wikipedia.org/wiki/Michael_Bloomberg
 A5BFDA,N47MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
 A5C06C,N47TB,Commemorative Air Force,Douglas C-47A,DC3,Civ,War Bird,Shiny,That's All Brother,Historic,https://w.wiki/7o4E
@@ -2939,10 +2944,13 @@ A6039A,N487LF,Geisinger Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo
 A6155A,N491RV,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 A61C8A,N493PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A62041,N494PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A6295B,N4964W,Planes of Fame Air Museum,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A62B5E,N497P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A62C34,N497XP,DFS Furniture Company,Beechjet 400XP,BE40,Civ,Sale Must End Soon,Reduced,Buy Now Pay Forever,As Seen on TV,https://youtu.be/DGkhTEZWle4
+A6347F,N4994V,Planes of Fame Air Museum,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A634B1,N4996,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A63509,N4998T,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+A6350B,N4998V,Erickson Aircraft Collection,Grumman F6F-5N Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A63543,N5AE,Tenax Aerospace,Beech 200 Super King Air,BE20,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://tenaxaerospace.com/
 A6357E,N5CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
 A63595,N5DM,Guardian Flight,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.guardianflight.com/
@@ -3427,6 +3435,7 @@ AA198E,N75VC,Sunshine Aero,NA Sabreliner,SBR1,Civ,Shapeshifter,Target Practice,T
 AA1A20,N750AY,Skydive North West,Pacific Aerospace PAC750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydivenorthwest.co.uk/
 AA1AB5,N750GX,Bombardier Aerospace Corp,Bombardier Global 7500,GL7T,Civ,We Make Planes,Bizjet,Aerospace,As Seen on TV,https://en.wikipedia.org/wiki/Bombardier_Aviation
 AA1DE9,N751BR,RV Aviation LLC,Commander 690/840,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/8o8e
+AA288E,N7537U,World's Createst Aircraft Collection,Grumman F6F-3 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 AA2D66,N755JB,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 AA2F29,N7551T,Mustang High Flight LLC,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Hell-er Bust,Historic,https://w.wiki/3nth
 AA2F9F,N75546,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
@@ -3474,6 +3483,7 @@ AA9913,N782MM,Mandalay Resorts,Embraer Legacy 500,E550,Civ,The Gambler,The House
 AA9992,N782SP,Samaritans Purse,Douglas DC-8 72CF,DC87,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://en.wikipedia.org/wiki/Douglas_DC-8
 AA9F6A,N784AH,Bank of New York Mellon,Gulfstream G650 ER,GLF6,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bnymellon.com/
 AAA438,N785MM,Mandalay Resorts,Embraer Lineage 1000E,E190,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://en.wikipedia.org/wiki/Mandalay_Resort_Group
+AAA94E,N7861C,American Aircraft Sales,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Odd,Distinctive,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
 AAAE77,N788CG,Corning,Bombardier CL-600-2B19,CL60,Civ,Glass Works,Apple Supplier,Bizjet,As Seen on TV,https://w.wiki/7$LE
 AAAE97,N788DP,DP World,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -3489,6 +3499,7 @@ AAC7F5,N794MA,Inflight Medical Services International,Mitsubishi MU-2B -60,MU2,C
 AACB59,N795HT,Helicopter Transport Services,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 AAD246,N797CP,ConocoPhillips,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AAD24A,N797CT,Caterpillar Inc,Bombardier Global 6000,GLEX,Civ,Backhoe,Digger,797F,As Seen on TV,https://en.wikipedia.org/wiki/Caterpillar_797
+AAD903,N79863,Flying Heritage Collection,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 AADD32,N8AG,Michael Bloomberg,Dassault Falcon 900,F900,Civ,Bizjet,Bloomberg,ex-NYC Mayor,Don't you know who I am?,https://en.wikipedia.org/wiki/Michael_Bloomberg
 AADD8B,N8DW,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AADE79,N8PJ,Faith Life Church Inc,Raytheon 390,PRM1,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -3500,6 +3511,7 @@ AAE1E8,N800AL,Abbott Laboratories,Gulfstream G450,GLF4,Civ,Medical Devices,Gener
 AAE2A5,N800J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,Cancer Talcum,As Seen on TV,https://w.wiki/Az5x
 AAE2CF,N800KS,AEJ Services LLC,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AAE3BA,N800VB,Aerial Surveys International,Turbo Commander 690C,AC90,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://www.aerialsurveysintl.com/
+AAE4C9,N8004H,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 AAE796,N801WP,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AAE955,N802AK,Walmart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 AAEBE5,N80216,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3713,6 +3725,7 @@ ACA128,N9125H,Private,Howard DG-15P,DG15,Civ,Commandeered,Retired Life,Air Ambo,
 ACA12C,N9125M,Siller Helicopters,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 ACA246,N913ET,UT Health East Texas,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
 ACA35D,N913RX,Reach Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
+ACA499,N9133H,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 ACA5FD,N914ET,UT Health East Texas,Eurocopter EC135 P1,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/UT-Health-East-Texas/
 ACA71F,N914SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
 ACADFA,N916LL,Milton S Hershey Medical Center,Eurocopter EC155 B1,EC55,Civ,Air Ambo,Medical Evac,Chocolate,Flying Doctors,https://w.wiki/CAGn
@@ -3740,6 +3753,7 @@ ACD27A,N925TV,Tiny Bubbles Aviation,Eurocopter Squirrel AS.350 B2,AS50,Civ,Eye I
 ACD3FF,N9256Z,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 ACD61E,N926TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
 ACD6EF,N9261,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+ACD77C,N9265A,Fagan Fighters,Grumman F6F-5 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 ACDD88,N928SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 ACE044,N929GW,Publix Supermarkets,Learjet 60,LJ60,Civ,Grocery Store,Food,Where Shopping is a Pleasure,As Seen on TV,https://www.publix.com/
 ACE3B7,N93EC,Entergy Services Inc,Bombardier Challenger 350,CL35,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
@@ -3761,6 +3775,7 @@ AD088F,N939R,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnn
 AD08B9,N939SS,Electrolux Home Products,Dassault Falcon 900B,F900,Civ,Washing Machine,White Goods,Bizjet,As Seen on TV,https://www.electroluxappliances.com
 AD0B27,N94DN,Spur Aviation Services,de Havilland Canada DHC-2 Beaver (Turbo),DH2T,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.spuraviationservices.com
 AD0B73,N94GP,Aeromedevac,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aeromedevac.com/
+AD100A,N94038,Artemis Aviation Group,Grumman F6F Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 AD103C,N9405N,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AD114F,N941EM,Reach Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 AD13AE,N9413P,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
