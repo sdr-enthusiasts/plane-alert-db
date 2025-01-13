@@ -1469,7 +1469,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 38FDDB,F-AZMC,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 39016D,F-GALN,Institut National Geographique,B200 Super King Air,BE20,Gov,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ign.fr
 390CE3,F-GDHD,Aero Sotravia,BN Islander 2A-27,BN2P,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
-390EFB,F-PDHZ,Private,Hubertus Verhees Delta 2B,ZZZZ,Civ,Flying Wing,Nope Mobile,You Came Here In That Thing,You came here in that thing?,https://www.verheesengineering.com/d2-twoseater/
+390EFB,F-PDHZ,Private,Hubertus Verhees Delta 2B,ZZZZ,Civ,Flying Wing,Nope Mobile,Flying Dorito,You came here in that thing?,https://www.verheesengineering.com/d2-twoseater/
 391C9B,F-AZKE,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 3924A0,F-GJFA,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
 3924A4,F-GJFE,Aero Sotravia,B200 Super King Air,BE20,Civ,Television Relay,Tour De France,Thermal Survey,Dogs with Jobs,https://tinyurl.com/yckkhdny
@@ -3259,7 +3259,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403BBB,G-BWNT,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403C0C,G-INTV,Arena Aviation,Eurocopter AS355 Twin Squirrel,AS55,Civ,TV Chopper,Specialist,Is This My Good Side,Dogs with Jobs,https://www.arena-aircraft.com
 403C41,G-BWTG,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-403C4F,G-SKYT,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+403C4F,G-SKYT,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
 403C50,G-BWUT,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403C56,G-BWTO,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403C57,G-ULAS,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3293,7 +3293,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403E00,G-BXIA,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403E17,G-BXJB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 403E19,G-BXNN,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-403E4D,G-CIAO,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+403E4D,G-CIAO,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 403E59,G-VALS,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
 404005,G-BYCT,Private,Aero L-29 Delfin,L29,Civ,Da Comrade,Jet Trainer,Must Be Nice,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-29_Delf%C3%ADn
 4040AF,G-FORZ,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -3326,14 +3326,14 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 404788,G-CBPM,Private,Yakovlev Yak-50,YK50,Civ,Do A Barrel Roll,Vashe Zdorovye,Aerobatics,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-50_(1975)
 40478A,G-YAKC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 404792,G-OUGH,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-4047BF,G-CBTB,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+4047BF,G-CBTB,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 40481E,G-POLG,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 40483D,G-HDAE,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 404865,G-PBYA,Catalina Aircraft,Catalina Canso,CAT,Civ,Amphibian,Warbird,Flying Boat,Historic,https://www.catalina.org.uk/our-catalina-g-pbya/
 4048AD,G-SIJJ,Hangar 11 Collection,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tall In The Saddle,Historic,https://w.wiki/3nth
 4048D3,G-JEJE,Private,Rotary Air Force RAF 2000 GTX-SE,RAF2,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://w.wiki/4o3U
 40491E,G-STCH,German Air Force,Fieseler Fi 156A-1 Storch,F156,Mil,History,I Am Old,Liason,GAF,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
-404923,G-IOIA,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+404923,G-IOIA,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
 40497E,G-CCFO,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 40499A,G-POLB,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 4049FA,G-CCJK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
@@ -3518,7 +3518,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 406D27,G-VYGL,AirTanker,Airbus A330-243,A332,Civ,Tanker,Air2Air,Tiger Tokens,Hired Gun,https://www.airtanker.co.uk
 406D2C,G-MCGH,HM Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406D2D,G-MCGI,HM Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
-406D2E,G-CINC,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
+406D2E,G-CINC,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
 406D43,G-COXI,ABD Networks LLP,Xtremeair Sbach XA-42,XA42,Civ,Umlimited Aerobatics,Speed,Luxury,Joe Cool,https://en.wikipedia.org/wiki/XtremeAir_Sbach_342
 406D5E,G-CIPP,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 406D5F,G-MCGN,HM Coastguard,AgustaWestland AW.189,A189,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
@@ -5181,7 +5181,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484A94,PH-PXD,KLPD Police Aviation,Eurocopter EC135 P2,EC35,Pol,Flikken,Moped Mustache,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484A95,PH-PXE,KLPD Police Aviation,Eurocopter EC135 P2,EC35,Pol,Flikken,Moped Mustache,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484A96,PH-PXF,KLPD Police Aviation,Eurocopter EC135 P2,EC35,Pol,Flikken,Moped Mustache,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
-484AB5,PH-WUR,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+484AB5,PH-WUR,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 484AC0,PH-PXZ,KLPD Police Aviation,AgustaWestland AW.139,A139,Pol,Flikken,Moped Mustache,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484AC1,PH-PXY,KLPD Police Aviation,AgustaWestland AW.139,A139,Pol,Flikken,Moped Mustache,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Dienst_Luchtvaartpolitie
 484AD2,PH-GRY,RNAF Historic Flight,Fokker Instructor S-11,S11,Civ,History,Basic Trainer,Big Bird,Historic,https://kluhv.nl/
@@ -5215,7 +5215,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4851D4,PH-IIJ,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
 485202,PH-SVZ,Slagboom en Peeters Luchtfotografie,Cessna Citation II,C550,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/mttrvpe4
-485221,PH-4M5,Private,3i Sky Arrow 450T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,You Came Here In That Thing,You came here in that thing?,https://w.wiki/4o4G
+485221,PH-4M5,Private,3i Sky Arrow 450T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 485324,PH-4N3,Private,BLACKSHAPE BS100 Prime,PRIM,Civ,Sleek,Shiny,Fast,Joe Cool,https://en.wikipedia.org/wiki/Blackshape_Prime
 485372,PH-4P4,Private,BLACKSHAPE BS100 Prime,PRIM,Civ,Sleek,Shiny,Fast,Joe Cool,https://en.wikipedia.org/wiki/Blackshape_Prime
 4853E2,PH-OOP,ANWB Medical Air Assistance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
