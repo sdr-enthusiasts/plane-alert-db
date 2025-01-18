@@ -2022,18 +2022,18 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C387,ZG847,Joint Special Forces Aviation Wing,BN Islander AL1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C388,ZG848,Joint Special Forces Aviation Wing,BN Islander R1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C38C,ZZ664,Royal Air Force,Boeing RC-135W Airseeker,R135,Mil,Eye In The Sky,SIGINT,Reconnaissance,Oxcart,https://www.raf.mod.uk
-43C38D,WG486,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38E,WK518,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C38F,ZA947,Battle of Britain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C390,LF363,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C391,PZ865,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C392,PA474,Battle of Britain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C393,P7350,Battle of Britain Flight,Supermarine Spitfire IIa,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C394,AB910,Battle of Britain Flight,Supermarine Spitfire MkVb,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C38D,WG486,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://w.wiki/CmFh
+43C38E,WK518,Battle of Britain Flight,DHC-1 Chipmunk T10,DHC1,Mil,Historic,Basic Trainer,WW2,Historic,https://w.wiki/CmFh
+43C38F,ZA947,Battle of Britain Flight,Douglas C-47A Dakota,DC3,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C390,LF363,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C391,PZ865,Battle of Britain Flight,Hawker Hurricane IIc,HURI,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C392,PA474,Battle of Britain Flight,Avro Lancaster B1,LANC,Mil,Historic,Bomber,WW2,Historic,https://w.wiki/CmFh
+43C393,P7350,Battle of Britain Flight,Supermarine Spitfire IIa,SPIT,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C394,AB910,Battle of Britain Flight,Supermarine Spitfire MkVb,SPIT,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
 43C395,MK356,Battle of Britain Flight,Supermarine Spitfire Mk LFIXe,SPIT,Mil,Historic,War Bird,WW2,Historic,https://tinyurl.com/2p8sppw4
-43C396,TE311,Battle of Britain Flight,Supermarine Spitfire Mk XVI,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C397,PM631,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
-43C398,PS915,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial_Flight
+43C396,TE311,Battle of Britain Flight,Supermarine Spitfire Mk XVI,SPIT,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C397,PM631,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
+43C398,PS915,Battle of Britain Flight,Supermarine Spitfire PRXIX,SPIT,Mil,Historic,War Bird,WW2,Historic,https://w.wiki/CmFh
 43C399,ZJ780,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C39A,ZJ781,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C39B,ZJ782,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
@@ -6779,11 +6779,14 @@ AE4788,07-20036,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE4798,08-20138,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE47B5,09-20226,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47E0,07-20030,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE47EE,07-20049,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47EF,07-20050,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE47F4,07-20055,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE47FC,07-20063,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE4811,07-20068,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE4812,07-20069,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE481B,07-20078,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE481F,07-20082,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4821,07-20084,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE483A,08-20105,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE485C,08-20150,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -7147,6 +7150,7 @@ AE5774,10-00259,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,No
 AE5775,10-00260,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE577D,14-20653,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5781,14-20657,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE578D,14-20669,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578E,14-20670,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578F,14-20671,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5792,14-20674,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7375,6 +7379,7 @@ AE5D49,16-20832,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE5D4F,16-20838,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D61,16-20856,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D6A,16-20865,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE5D88,16-20894,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D93,16-20905,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D95,16-20907,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D96,16-20908,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -7494,6 +7499,7 @@ AE5FAF,15-46068,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE5FE8,76-22565,United States Army,DHC UV-18A Twin Otter,DHC6,Mil,Surveillance,Eye In The Sky,Testbed,Dogs with Jobs,https://w.wiki/8p5d
 AE5FEA,163057,United States Navy,Sikorsky MH-53E Sea Dragon,H53S,Mil,Chopper,Airborne Minesweeper,Get To The Choppa,United States Navy,https://www.navy.mil
 AE6027,17-20952,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE6037,17-20968,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6041,80-23378,United States Army,Beech RC-12D Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://w.wiki/8p9R
 AE6042,169532,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6043,169533,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
@@ -7573,6 +7579,7 @@ AE6205,15-5893,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 AE6206,16-5895,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE6207,18-20995,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE621A,18-21014,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE6226,18-21026,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6236,69-6639,USAF,Bell UH-1N Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE623D,69-6650,USAF,Bell UH-1N Iroquois,B212,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE623E,69-6653,USAF,Bell UH-1N Iroquois,B212,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
@@ -7626,8 +7633,11 @@ AE634E,21-72470,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air
 AE6350,22-72472,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6355,22-72477,United States Army,Eurocopter UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6357,22-72479,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE636F,18-21031,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE6370,18-21032,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE638D,169792,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE638E,169793,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
+AE6395,18-21037,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE63B2,19-46070,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B5,20-46073,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B6,20-46074,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -7675,10 +7685,12 @@ AE6474,17-5901,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,A
 AE6475,17-5902,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE6476,17-5903,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6477,17-5904,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
+AE647B,19-21041,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6482,18-21048,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6484,19-21050,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6485,19-21051,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6489,19-21055,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE648A,19-21056,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE648C,19-21058,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE649F,19-21092,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE64A0,19-21093,United States Army,Sikorsky MH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -7805,8 +7817,10 @@ AE6A78,20-21138,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6A79,20-21139,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6A7B,20-21141,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6A7D,20-21143,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE6A85,20-21151,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6A8C,20-21158,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6A90,20-21162,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE6A99,20-21171,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6AB0,168709,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6AB9,170002,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -7907,9 +7921,11 @@ AF6172,170750,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L
 AF6C00,170751,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF8437,170754,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF848C,18-20986,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AFA827,18-20990,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AFF009,18-20994,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 B191D8,75-0528,USAF,Boeing E-3B Sentry,E3TF,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 C02978,C-FPSH,Royal Air Force Falcons,Dornier Do 228-202,D228,Mil,Display Team,Parachute,Formation Skydiving,Dogs with Jobs,https://www.raf.mod.uk/display-teams/falcons/
+C07DD7,C-GVRA,Canadian Warplane Heritage,Avro Lancaster MK X,LANC,Mil,To Be Faaaaaaaaaaaaaaaaaaair,Bomber,WW2,Historic,https://w.wiki/CmFi
 C2AF27,130339,Royal Canadian Air Force,Lockheed KCC-130H Hercules,C130,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2AF8B,130338,Royal Canadian Air Force,Lockheed KCC-130H Hercules,C130,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2AF95,130340,Royal Canadian Air Force,Lockheed KCC-130H Hercules,C130,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
