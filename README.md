@@ -63,13 +63,13 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Big Hello|Large Helicopters (sic)|106|
 |Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|11|
-|Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|194|
+|Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|195|
 |Coastguard|Coastguard, Customs and Border Patrols|441|
 |Da Comrade|Russian or Soviet Aircraft|91|
 |Dictator Alert|People of potentially questionable morals and values|322|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|188|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|185|
-|Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|66|
+|Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|65|
 |Flying Doctors|Air Ambulance and Medical Flights|808|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|407|
