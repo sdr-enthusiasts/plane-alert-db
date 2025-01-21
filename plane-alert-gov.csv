@@ -1017,6 +1017,7 @@ A4FAC3,N42RF,NOAA,Lockheed WP-3D Orion,P3,Gov,Kermit,Cyclone Research,Hurricane 
 A4FCCC,N420NA,NASA,Bell UH-1H Iroquois,UH1,Gov,SCE To Aux,Recovery,Wallops Flight Facility,Distinctive,https://www.nasa.gov
 A4FFA7,N421DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A5035E,N422DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
+A507F1,N423NA,NASA,Short C-23C,SH33,Gov,SCE To Aux,Research,Sherpa,Distinctive,https://www.nasa.gov
 A5085E,N423SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
 A50ACC,N424DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A50E83,N425DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
@@ -1102,13 +1103,17 @@ A73B05,N565RS,Rivers State Government,Bombardier Global 5000,GL5T,Gov,Nigeria,Ez
 A74D8D,N57RF,NOAA,DHC-6 Twin Otter 300,DHC6,Gov,Weather Recon,Snow Measurement,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
 A75568,N57165,Brown Helicopter (DOJ),Bell 206B Jet Ranger,B06,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A76997,N577NA,NASA,Boeing 777 246ER,B772,Gov,SCE To Aux,DC-8 Replacement,Langley Research Center,Distinctive,https://www.nasa.gov
 A780ED,N5829D,County of Henrico VA,Piper PA-46,PA46,Gov,Unincorporated,OG Shire,Bizjet,Governments,https://w.wiki/BPAm
 A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
 A7C6C4,N60VC,Ventura County Fire Department,Sikorsky HH-60L Black Hawk,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://vcfd.org
 A7CAD8,HZMF9,Saudi Ministry of Finance,Boeing 777-ER,B77W,Gov,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
+A7CFDA,N602NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 A7D391,N603NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
+A7DEB6,N606NA,NASA,Pilatus PC-12 47E NG,PC12,Gov,SCE To Aux,Real Genius,Glenn Research Center,Distinctive,https://www.nasa.gov
 A7E26D,N607NA,NASA,DHC-6 Twin Otter 100,DHC6,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 A7E517,N608BG,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
+A7E624,N608NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 A7E68F,N608SH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7EEBE,N610A,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A7EEC5,N610AG,Obr Leasing (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1181,8 +1186,8 @@ AB0D1B,N811AH,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,
 AB0DC2,N811H,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AB1838,N814A,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB1965,N814NA,NASA,Gulfstream Aerospace C-20G,GLF4,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 AB2055,N816H,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
-AB248A,N817NA,NASA,Douglas DC-8 72,DC87,Gov,SCE To Aux,I Am Old,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov/centers/armstrong/home/index.html
 AB3084,N82WP,Salt River Project,Bell 212,B212,Gov,Overload,Choppa,Wichita Lineman,Dogs with Jobs,https://www.srpnet.com/about/about-srp
 AB358D,N821LA,Los Angeles Fire Department,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 AB36F1,N8210G,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1202,6 +1207,7 @@ ABB3AA,N853NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission 
 ABBECF,N856NA,NASA,AeromotAMT-200S TG-14A Super Ximango,RF10,Gov,SCE To Aux,Motor Glider,All About That Wingspan,Distinctive,https://www.nasa.gov
 ABCAC9,N859WP,Janet Airlines,Boeing 737NG,B736,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 ABCC7D,N86,Federal Aviation Administration,Bombardier Challenger 601,CL60,Gov,FAA,Bizjet,The Management,Dogs with Jobs,https://www.faa.gov
+ABD772,N862NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 ABE297,N865NA,NASA,Beech NT-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 ABEA05,N867NA,NASA,McDonnell Douglas F/A-18B Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 ABEDBC,N868NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
@@ -1243,6 +1249,7 @@ ACB0AC,N917A,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The
 ACB0BF,N917AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,http://www.airstrikefirefighters.com
 ACB1D9,N917NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 ACB590,N918NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
+ACB947,N919NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 ACBF57,N920NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 ACC29C,N921HM,Heligroup Fire,Eurocopter AS350 Squirrel,AS50,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 ACC2EC,N921LS,Ng Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -1315,6 +1322,7 @@ ADFEB7,98-0001,USAF,Boeing C-32A,B752,Gov,VPOTUS,Air Force Two,Government,Govern
 ADFEB8,98-0002,USAF,Boeing C-32A,B752,Gov,VPOTUS,Air Force Two,Government,Governments,https://w.wiki/7wDo
 ADFEB9,99-0003,USAF,Boeing C-32A,B752,Gov,VPOTUS,Air Force Two,Government,Governments,https://w.wiki/7wDo
 ADFEBA,99-0004,USAF,Boeing C-32A,B752,Gov,VPOTUS,Air Force Two,Government,Governments,https://w.wiki/7wDo
+AE016A,N520NA,NASA,Grumman C-20B,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 AE0433,02-5001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron

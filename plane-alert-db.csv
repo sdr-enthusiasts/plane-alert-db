@@ -8133,6 +8133,7 @@ A50338,N422BT,Bridger Air Tanker 6 LLC,Canadair CL-215T,CL2T,Civ,Flying Fire Ext
 A5035E,N422DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A5042E,N422MP,Marathon Petroleum Company LP,Bombardier Challenger 300,CL30,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A50456,N422PD,New York Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://www1.nyc.gov/site/nypd/index.page
+A507F1,N423NA,NASA,Short C-23C,SH33,Gov,SCE To Aux,Research,Sherpa,Distinctive,https://www.nasa.gov
 A5085E,N423SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
 A50ACC,N424DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A50B9C,N424MP,Marathon Petroleum Company LP,Bombardier Challenger 350,CL35,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -8570,6 +8571,7 @@ A76298,N575SM,Island Air,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpa
 A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A76523,N576EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 A7698F,N577MT,Bank of Utah Trustee,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
+A76997,N577NA,NASA,Boeing 777 246ER,B772,Gov,SCE To Aux,DC-8 Replacement,Langley Research Center,Distinctive,https://www.nasa.gov
 A772DC,N57947,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A773A7,N58AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 A773C8,N58CG,Corning,Dassault Falcon 900EX,F900,Civ,Glass Works,Apple Supplier,Bizjet,As Seen on TV,https://w.wiki/7$LE
@@ -8633,6 +8635,7 @@ A7CB8D,N601GA,Gulfstream Aerospace Corp,Gulfstream G600,GA6C,Civ,Bizjets,How The
 A7CC1B,N601MT,Med-Trans,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
 A7CEE7,N602CH,JP Morgan Chase Bank,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A7CFD2,N602MT,Med-Trans,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net/
+A7CFDA,N602NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 A7D27A,N603AX,10 Tanker Air Carrier,Douglas DC-10 30ER,DC10,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.10tanker.com/
 A7D389,N603MT,Med-Trans,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net
 A7D391,N603NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
@@ -8653,6 +8656,7 @@ A7DB1E,N605PG,Pacific Gas & Electric Co,Sikorsky UH-60A Blackhawk,H60,Civ,PG&E,A
 A7DD95,N606AM,Medcare Emergency Medical Services,Dassault Falcon 10 100,FA10,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.medcareehs.com/
 A7DE71,N606KG,Keurig Green Mountain,Cessna Citation Sovereign,C680,Civ,The Coffee Express,DRM,Pods,As Seen on TV,https://w.wiki/CAGr
 A7DE89,N606LF,Life Flight,AgustaWestland AW.119,A119,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
+A7DEB6,N606NA,NASA,Pilatus PC-12 47E NG,PC12,Gov,SCE To Aux,Real Genius,Glenn Research Center,Distinctive,https://www.nasa.gov
 A7DED2,N606PD,Nassau County Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.pdcn.org
 A7DED5,N606PG,Pacific Gas & Electric Co,Sikorsky UH-60A Blackhawk,H60,Civ,PG&E,Aerial Survey,Measuring Stick,Dogs with Jobs,https://www.pge.com
 A7DF0E,N606RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
@@ -8661,6 +8665,7 @@ A7E156,N607AX,Airborne Tactical Advantage,Dassault Mirage F1 B,MRF1,Civ,Aggresso
 A7E26D,N607NA,NASA,DHC-6 Twin Otter 100,DHC6,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 A7E4F1,N60795,National WASP WWII Museum,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
 A7E517,N608BG,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
+A7E624,N608NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
 A7E67C,N608RP,Purina Petcare,Bombardier Challenger 300,CL30,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A7E68F,N608SH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7E693,N608SM,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
@@ -9172,6 +9177,7 @@ AB1257,N812RX,CVS Pharmacy,Dassault Falcon 2000LXS,F2TH,Civ,Pharmacy,Tylenol,Dru
 AB1270,N812SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 AB1838,N814A,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+AB1965,N814NA,NASA,Gulfstream Aerospace C-20G,GLF4,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 AB1D35,N815PA,Pepsi Americas,Bombardier Global 5000,GL5T,Civ,Bad For You,Bizjet,Drink Water Instead,As Seen on TV,https://youtu.be/UJb-czNC_ls
 AB1E6D,ARC-101,Colombian Navy,B350 Super King Air,B350,Mil,Utility,Military Transport,Plus Ultra,Other Navies,https://w.wiki/4meJ
 AB1F34,5079,Pakistan Army,Cessna 208B-EX Caravan,C208,Mil,Medical Evac,Air Ambo,Saving Lives,Toy Soldiers,https://w.wiki/4myg
@@ -9298,6 +9304,7 @@ ABD32F,N861GL,Bombardier Aerospace Corp,Bombardier Global 6000,GLEX,Civ,We Make 
 ABD352,N861HW,Memphis Medical Center Air Ambulance,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.hospitalwing.com/hospwing/
 ABD438,N861TA,Top Aces Inc,General Dynamics F-16A Netz,F16,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 ABD490,N861WP,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+ABD772,N862NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
 ABD7EF,N862TA,Top Aces Inc,General Dynamics F-16A Netz,F16,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 ABDE66,N864HD,Aircraft Guaranty Corp,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 ABE297,N865NA,NASA,Beech NT-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
@@ -9488,6 +9495,7 @@ ACB563,N918LF,Life Flight,Cessna Citation CJ4,C25C,Civ,Air Ambo,Medical Evac,Sav
 ACB590,N918NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 ACB5AC,N918PD,New York City Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www1.nyc.gov/site/nypd/index.page
 ACB84D,N919CA,National Airlines,Boeing 747 428BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
+ACB947,N919NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 ACBA95,N9191,Bear Defence,Bombardier Challenger 604 Artemis ISR,CL60,Civ,Covert,ISR,SIGINT,Oxcart,https://actualcontrol.substack.com/p/openskys-open-api
 ACBB1C,N91945,Marine Aviation Museum,Douglas AD-4NA Skyraider,A1,Civ,Attack,Skyraider,Uncle Ho's Nightmare,Historic,https://w.wiki/7oBQ
 ACBBD4,N92AC,Aerbus Holdings,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
@@ -10251,6 +10259,7 @@ AE0162,63-8022,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Wi
 AE0163,58-0052,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE0167,86-0202,USAF,Grumman C-20B,GLF2,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
 AE0169,86-0204,USAF,Grumman C-20B,GLF2,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
+AE016A,N520NA,NASA,Grumman C-20B,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 AE016D,84-0075,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
 AE0171,84-0079,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
 AE0175,84-0120,USAF,Gates C-21A,LJ35,Mil,Bizjet,Must Be Nice,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -14655,12 +14664,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-A76997,N577NA,NASA,Boeing 777 246ER,B772,Gov,SCE To Aux,DC-8 Replacement,Langley Research Center,Distinctive,https://www.nasa.gov
-A7CFDA,N602NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
-A7DEB6,N606NA,NASA,Pilatus PC-12 47E NG,PC12,Gov,SCE To Aux,Real Genius,Glenn Research Center,Distinctive,https://www.nasa.gov
-A7E624,N608NA,NASA,Beech T-34C Turbo Mentor,T34T,Gov,SCE To Aux,Photography,Chase Plane,Distinctive,https://www.nasa.gov
-A507F1,N423NA,NASA,Short C-23C,SH33,Gov,SCE To Aux,Research,Sherpa,Distinctive,https://www.nasa.gov
-ACB947,N919NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
-ABD772,N862NA,NASA,McDonnell Douglas F/A-18A Hornet,F18H,Gov,SCE To Aux,Mission Support,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
-AB1965,N814NA,NASA,Gulfstream Aerospace C-20G,GLF4,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
-AE016A,N520NA,NASA,Grumman C-20B,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
