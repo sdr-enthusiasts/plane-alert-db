@@ -3649,6 +3649,7 @@ AABB3C,N7906N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly
 AABBA5,N7909N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AADD4B,FAH-015,Honduran Air Force,B200 Super King Air,BE20,Mil,Surveillance,Eye In The Sky,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
+AAE4EF,90-00178,United States Army,CASA C-212 Aviocar,C212,Mil,STOL,Medium Cargo,Jump Johnny Jump,Toy Soldiers,https://w.wiki/CstG
 AAF4E7,805,Pakistan Army,B350 Super King Air,B350,Mil,ISR,Eye In The Sky,Surveillance,Toy Soldiers,https://w.wiki/4myg
 AB1E6D,ARC-101,Colombian Navy,B350 Super King Air,B350,Mil,Utility,Military Transport,Plus Ultra,Other Navies,https://w.wiki/4meJ
 AB1F34,5079,Pakistan Army,Cessna 208B-EX Caravan,C208,Mil,Medical Evac,Air Ambo,Saving Lives,Toy Soldiers,https://w.wiki/4myg
@@ -4972,9 +4973,9 @@ AE06DE,163556,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,S
 AE06DF,163557,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE06E0,163562,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE06E1,163553,United States Marine Corps,UC-12F Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
-AE06E4,163836,United States Navy,UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://www.navy.mil
+AE06E4,163836,United States Marine Corps,UC-12M Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE06E7,163838,United States Navy,UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://www.navy.mil
-AE074E,163836,United States Marine Corps,UC-12M Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE074E,163840,United States Navy,UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://www.navy.mil
 AE0750,163839,United States Navy,UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://www.navy.mil
 AE0752,163846,United States Navy,Beech RC-12M Huron,BE20,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.navy.mil
 AE075C,84-0147,USAF,Beech C-12F Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
@@ -5193,7 +5194,7 @@ AE093C,00-01053,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport
 AE093D,01-00301,United States Army,Cessna UC-35B Citation,C560,Mil,VIP Transport,Bizjet,Must Be Nice,Toy Soldiers,https://w.wiki/8p9F
 AE093F,165939,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
 AE0940,166374,United States Marine Corps,Cessna UC-35D Citation,C560,Mil,USMC,Bizjet,Sensitive Mission,United States Marine Corps,https://w.wiki/8p9F
-AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix
+AE0941,61-2667,USAF,Boeing WC-135W,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://w.wiki/BFnm
 AE0942,73-1208,USAF,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE0943,86-0080,USAF,Beech C-12J Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
 AE0944,76-0161,USAF,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
@@ -5239,6 +5240,7 @@ AE09B5,89-26130,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE09D0,????,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0A08,85-24412,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0A0C,86-24497,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0A14,89-26168,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0A35,92-26421,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0A54,84-00170,United States Army,Beech C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE0A70,85-24442,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -5625,7 +5627,7 @@ AE13CD,04-3759,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made
 AE13CE,04-6205,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE13CF,04-6206,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE13D1,04-01778,United States Army,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,Toy Soldiers,https://www.army.mil
-AE13E5,62-3582,USAF,Boeing WC-135C,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix
+AE13E5,62-3582,USAF,Boeing WC-135C,C135,Mil,mmm Neutrons,Its The End Of The World And I Know It,U-235,Nuclear,https://w.wiki/BFnm
 AE13EF,05-3760,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE13F0,05-3761,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE13F1,05-3762,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -7039,6 +7041,7 @@ AE509D,08-00263,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serv
 AE509E,08-00264,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 AE50BC,10-20252,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50C1,10-20257,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE50E0,10-20288,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E2,10-20311,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E5,10-20314,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE50EB,10-20320,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7047,6 +7050,7 @@ AE5193,10-20241,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE5199,10-20330,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE51AB,15-20359,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE51B8,11-20373,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE51C0,11-20393,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE51DD,11-20378,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE51E8,11-20406,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE51F9,166231,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
@@ -7245,6 +7249,7 @@ AE58B7,11-00267,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Co
 AE58E1,166236,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE58F1,166252,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE58F4,166255,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE5931,166490,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE595B,13-5784,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE595C,14-5788,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE595D,14-5791,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -7654,6 +7659,7 @@ AE633E,19-72454,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry
 AE634E,21-72470,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6350,22-72472,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6355,22-72477,United States Army,Eurocopter UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE6356,22-72478,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE6357,22-72479,United States Army,Airbus Helicopters UH-72B Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE636F,18-21031,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6370,18-21032,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7937,6 +7943,7 @@ AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Figh
 AF384C,170744,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF3C5F,18-20984,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AF3C88,22-03503,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AF54C4,170747,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
 AF6172,170750,United States Navy,Textron T-54A,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/7op8
