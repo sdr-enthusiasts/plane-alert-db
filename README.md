@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14686** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14691** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14686)
--   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (89)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11537)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14691)
+-   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (90)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11544)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4046)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8041)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4049)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8043)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (921)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1678)
 
@@ -59,7 +59,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|349|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|78|
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|451|
+|As Seen on TV|Companies and Brands|453|
 |Big Hello|Large Helicopters (sic)|106|
 |Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|11|
@@ -70,7 +70,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|196|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|185|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|65|
-|Flying Doctors|Air Ambulance and Medical Flights|809|
+|Flying Doctors|Air Ambulance and Medical Flights|810|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|9|
 |GAF|Aircraft of the German Air Force|408|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
@@ -96,7 +96,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|182|
-|Toy Soldiers|Armies from around the world.|877|
+|Toy Soldiers|Armies from around the world.|879|
 |UAV|It's not natural, I tell 'ya!|33|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|228|
