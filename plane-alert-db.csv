@@ -5159,7 +5159,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48448C,P4-SKN,Equatorial Guinea,Boeing 777-LR,B77L,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,President4Life,Dictator Alert,https://en.wikipedia.org/wiki/Equatorial_Guinea
 484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 484495,P4-MIS,Viktor Vekselberg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://en.wikipedia.org/wiki/Russian_oligarch
-484497,P4-LAE,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+484497,P4-LAE,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 484499,P4-MLO,Comlux Aviation,Airbus A330-200,A332,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://comlux.com
 4844A1,P4-BDL,Roman Abramovich,Boeing 787-8 Dreamliner,B788,Civ,Oligarch,Dirty Money,Disgusting Excess,Oligarch,https://en.wikipedia.org/wiki/Russian_oligarch
 4844B2,P4-NGK,ABS Jets,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -5208,8 +5208,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484FFD,PH-YAX,Private,Aerostar Yak-52,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 485013,PH-DTY,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://aviapages.com/aircraft/p4-xtl
-4850AD,P4-LAS,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
-4850BA,P4-LAC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+4850AD,P4-LAS,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+4850BA,P4-LAC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 4850BE,P4RMA,Libya,Dassault Falcon 900,F900,Gov,Dictator Alert,General Hafar,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4850C6,P4-LTI,Liza Transport International,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4850CA,P4-POL,Aruba Police,Bell 206L Long Ranger,B06,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Aruba_Police_Force
@@ -7101,7 +7101,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896C40,1230,UAE Air Force,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 89804C,P2-ANW,Papua New Guinea Government,Dassault Falcon 900EX,F900,Gov,Papua New Guinea,James Marape,Government,Governments,https://w.wiki/3igv
 898056,P2-PNG,Papua New Guinea Government,B350 Super King Air,B350,Gov,Papua New Guinea,James Marape,Government,Governments,https://en.wikipedia.org/wiki/Papua_New_Guinea
-898080,P2-LAD,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+898080,P2-LAD,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 899009,3310,Republic Of China Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Navies,https://w.wiki/4nt9
 89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 899041,B-55411,EVA Air,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -7497,7 +7497,6 @@ A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fi
 A179F0,N1944E,Choice Aviation LLC,Cessna 340 Super,C340,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://choiceaviation.com/
 A179FC,N1944S,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A17DC2,N19547,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-A17DD1,N1955M,McDonalds Corp,Bombardier Global 6000,GLEX,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
 A17DEC,N1956D,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A17E7D,N196AH,Charlotte Mecklenburg Hospital Authority,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/fixed-wing-critical-care-transport
 A17F4D,N196JR,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -8040,7 +8039,7 @@ A4AD69,N400J,Johnson & Johnson,Gulfstream G650 ER,GLF6,Civ,One Shot,Baby Powder,
 A4B055,N40098,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 A4B06E,N401AX,Airborne Tactical Advantage,IAI F-21 Kfir C-2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4B0A9,N401DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A4B155,N401LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+A4B155,N401LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 A4B158,N401LF,Life Flight,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A4B187,N401NC,North Carolina Highway Patrol,Bell 429,B429,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4B1A6,N401PJ,Skylens,Piper PA-23 Aztec 250D,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
@@ -8048,7 +8047,7 @@ A4B202,N401TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign 
 A4B421,N402AT,Aero Air,Embraer ERJ-135LR,E135,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
 A4B425,N402AX,Airborne Tactical Advantage,IAI F-21 Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A4B460,N402DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A4B50C,N402LC,Lynden Air Cargo,C-130H Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+A4B50C,N402LC,Lynden Air Cargo,C-130H Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 A4B558,N402PD,Omaha Police Dept,Bell 407GX,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://police.cityofomaha.org
 A4B7BC,N40291,Private,DHC-1 Chipmunk 23,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A4B7DC,N403AX,Airborne Tactical Advantage,IAI F-21 Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
@@ -8089,12 +8088,12 @@ A4C88E,N407VS,Kalispell Regional Medical Center,Bell 407GX,B407,Civ,Air Ambo,Med
 A4CAAA,N408DF,Cal Fire,North American Rockwell OV-10D Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A4CAF0,N408GA,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A4CB13,N408HL,Heavy Lift Helicopters,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
-A4CB56,N408LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+A4CB56,N408LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 A4CB5E,N408LL,SEMSA Air Ambulance,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sierramed.org/
 A4CBA2,N408PD,San Jose Police,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sjpd.org
 A4CBEB,N408SB,Aircraft Associates Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A4CE61,N409DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A4CF0D,N409LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,http://www.lynden.com/lac
+A4CF0D,N409LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 A4CF5D,N409PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4D1AF,HL9650,Korean Forest Service,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 A4D240,N41EW,Memphis Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://memphispolice.org
@@ -14719,3 +14718,13 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+AE74D5,22-03442,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+A9247C,N68884,Barren Creek,Helio HT-295 Courier,COUR,Civ,VSTOL,Low and Slow,I am Old,Historic,https://w.wiki/Cuaa
+AB6C11,N835MS,Private,Rutan Long-EZ,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://w.wiki/CVYP
+A4C79F,N407LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A4B8C3,N403LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A4C031,N405LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A4D51D,N410LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A4D8D4,N411LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A5040A,N422LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A50B78,N424LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
