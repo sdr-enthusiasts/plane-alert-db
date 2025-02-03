@@ -24,19 +24,19 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14731** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14733** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14731)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14733)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (90)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11573)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11577)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4077)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8051)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8052)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (924)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1679)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1680)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -64,7 +64,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|11|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|195|
-|Coastguard|Coastguard, Customs and Border Patrols|442|
+|Coastguard|Coastguard, Customs and Border Patrols|443|
 |Da Comrade|Russian or Soviet Aircraft|91|
 |Dictator Alert|People of potentially questionable morals and values|322|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|203|
@@ -101,7 +101,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|228|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|438|
-|USAF|Aircraft of the United States Air Force|2313|
+|USAF|Aircraft of the United States Air Force|2314|
 |Vanity Plate|Distinctive registrations|77|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|100|
