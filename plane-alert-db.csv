@@ -372,7 +372,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D06B2,XC-TJN,State Gov of Veracruz,Learjet 40XR,LJ40,Gov,Mexico,Cuitlahuac García Jimenez,Government,Governments,https://en.wikipedia.org/wiki/Veracruz
 0D06DA,ANX-1230,Mexican Navy,DHC-8-202,DH8B,Mil,Tactical Transport,STOL,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D0705,6604,Mexican Air Force,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
-0D078C,XC-LNR,Mexican Air Force,AgustaWestland AW109S Grand,A109,Mil,VIP Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP,
+0D078C,XC-LNR,Mexican Air Force,AgustaWestland AW109S Grand,A109,Mil,VIP Transport,Must Be Nice,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D0795,XC-MEX,Government of Mexico,Boeing 787-BBJ,B788,Gov,Mexico,Andres Obrador,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
 0D07C5,ANX-1190,Mexican Navy,B350ER Super King Air,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D07CF,ANX-1191,Mexican Navy,B350ER Super King Air,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
@@ -441,7 +441,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D0C40,XC-MED,Government of the State of Yucatan,Bell 429 GlobalRanger,B429,Gov,Yucatan,Mauricio Vila Dosal,Government,Governments,https://en.wikipedia.org/wiki/Yucat%C3%A1n
 0D0CE2,XC-HEX,Mexican State Government,Bell 206B Jet Ranger,B06,Gov,Mexico,Andres Manuel Lopez Obrador,Government,Governments,https://w.wiki/4mcg
 0D0E26,ANX-1231,Mexican Navy,Bombardier DHC-8 202,DH8B,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
-0D0F1E,XA-VGF,Quintana Roo State Police,Bell 429 GlobalRanger,B429,Pol,VIP Transport,Survilleance,Police Forces,https://w.wiki/A$VP,
+0D0F1E,XA-VGF,Quintana Roo State Police,Bell 429 GlobalRanger,B429,Pol,VIP Transport,Survilleance,Copper Chopper,Police Forces,https://w.wiki/A$VP
 0D8032,207,Venezuelan Air Force,Boeing 737,B732,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D809F,YV2040,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
