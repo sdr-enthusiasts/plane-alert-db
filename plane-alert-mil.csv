@@ -78,7 +78,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D068C,3206,Mexican Air Force,CASA C-295 M,C295,Mil,Cargo,Tactical Airlift,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D06DA,ANX-1230,Mexican Navy,DHC-8-202,DH8B,Mil,Tactical Transport,STOL,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D0705,6604,Mexican Air Force,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
-0D078C,XC-LNR,Mexican Air Force,AgustaWestland AW109S Grand,A109,Mil,VIP Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP,
+0D077E,XC-LNP,Mexican Air Force,AgustaWestland AW109S Grand,A109,Mil,VIP Transport,Must Be Nice,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
+0D078C,XC-LNR,Mexican Air Force,AgustaWestland AW109S Grand,A109,Mil,VIP Transport,Must Be Nice,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D07C5,ANX-1190,Mexican Navy,B350ER Super King Air,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D07CF,ANX-1191,Mexican Navy,B350ER Super King Air,B350,Mil,Surveillance,Reconnaissance,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D07D5,ANX-1207,Mexican Navy,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
@@ -2946,7 +2947,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4A81F4,100008,Swedish Air Force,Saab 340B,SF34,Mil,Transport,Must Be Nice,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A81F8,102003,Swedish Air Force,S102B Korpen,GLF4,Mil,ELINT,Covert,Bork Bork,Oxcart,https://tinyurl.com/86ejw7hz
 4A821F,100003,Swedish Air Force,Saab 340AEW,SF34,Mil,Airborne Early Warning,Eye In The Sky,AESA Radar,Oxcart,https://en.wikipedia.org/wiki/Saab_340_AEW%26C
-4A8220,100004,Swedish Air Force,S100B Argus ,SF34,Mil,AEW,SIGINT,What Big Eyes You Have,Oxcart,https://w.wiki/4nmh
+4A8220,100004,Swedish Air Force,S100B Argus,SF34,Mil,AEW,SIGINT,What Big Eyes You Have,Oxcart,https://w.wiki/4nmh
 4A82F0,60038,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A82F9,60063,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A82FD,60083,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
