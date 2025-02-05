@@ -441,7 +441,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D0C40,XC-MED,Government of the State of Yucatan,Bell 429 GlobalRanger,B429,Gov,Yucatan,Mauricio Vila Dosal,Government,Governments,https://en.wikipedia.org/wiki/Yucat%C3%A1n
 0D0CE2,XC-HEX,Mexican State Government,Bell 206B Jet Ranger,B06,Gov,Mexico,Andres Manuel Lopez Obrador,Government,Governments,https://w.wiki/4mcg
 0D0E26,ANX-1231,Mexican Navy,Bombardier DHC-8 202,DH8B,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
-0D0F1E,XA-VGF,Quintana Roo State Police,Bell 429 GlobalRanger,B429,Pol,VIP Transport,Survilleance,Copper Chopper,Police Forces,https://w.wiki/A$VP
+0D0F1E,XA-VGF,Quintana Roo State Police,Bell 429 GlobalRanger,B429,Pol,VIP Transport,Surveillance,Copper Chopper,Police Forces,https://w.wiki/A$VP
 0D8032,207,Venezuelan Air Force,Boeing 737,B732,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D8034,YV2165,Venezuelan Air Force,Dassault Falcon 50,FA50,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0D809F,YV2040,Petroleos de Venezuela,Dassault Falcon 900B,F900,Gov,Dictator Alert,Nicolas Maduro,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -3769,7 +3769,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4247DB,VP-CAO,Royal Cayman Islands Police Service,Eurocopter EC145,EC45,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.rcips.ky
 4247EC,VP-CGL,ExecuJet Australia,Bombardier Global 6000,GLEX,Civ,Man Made Climate Change,Private Airline,The Front Fell Off,Bizjets,https://www.execujet.com/news
 424810,VP-CVP,Southern Jet,Boeing 737NG-BBJ,B738,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-42481F,VP-CTO,Wings of Grace,Bombardier Global 7500,GL7T,Civ,Bizjet,Billionaire ,Folorunso Alakija,Don't you know who I am?,https://en.wikipedia.org/wiki/Folorunso_Alakija
+42481F,VP-CTO,Wings of Grace,Bombardier Global 7500,GL7T,Civ,Bizjet,Billionaire,Folorunso Alakija,Don't you know who I am?,https://en.wikipedia.org/wiki/Folorunso_Alakija
 424858,VP-CDS,Shanghai Deer Jet,Airbus ACJ319-133,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4248D9,VQ-BMS,Las Vegas Sands Corp,Boeing 747-SP,B74S,Civ,Man Made Climate Change,Boeing Business Jet,Snake Eyes,As Seen on TV,https://youtu.be/j26R_gPWKB4
 424918,VQ-BDD,Gov of Jordan,Airbus ACJ319-Elite,A319,Gov,Dictator Alert,Abdullah II bin Al-Hussein,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -5200,7 +5200,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484C09,PH-JAT,Wings over Holland,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Trusty Rusty,Historic,https://w.wiki/3nth
 484E86,PH-XXV,RNAF Historic Flight,North American B-25N Mitchell,B25,Mil,Bomber,War Bird,WW2,Historic,https://kluhv.nl/
 484F03,PH-ZWS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
-484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply ,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
+484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
 484FD6,PH-FBH,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 484FD7,PH-DCG,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 484FF6,PH-DTW,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
@@ -5398,7 +5398,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4A81F8,102003,Swedish Air Force,S102B Korpen,GLF4,Mil,ELINT,Covert,Bork Bork,Oxcart,https://tinyurl.com/86ejw7hz
 4A81F9,102002,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Electonic Reccon,Covert,Surveillance,Oxcart,https://en.wikipedia.org/wiki/Swedish_royal_family
 4A821F,100003,Swedish Air Force,Saab 340AEW,SF34,Mil,Airborne Early Warning,Eye In The Sky,AESA Radar,Oxcart,https://en.wikipedia.org/wiki/Saab_340_AEW%26C
-4A8220,100004,Swedish Air Force,S100B Argus ,SF34,Mil,AEW,SIGINT,What Big Eyes You Have,Oxcart,https://w.wiki/4nmh
+4A8220,100004,Swedish Air Force,S100B Argus,SF34,Mil,AEW,SIGINT,What Big Eyes You Have,Oxcart,https://w.wiki/4nmh
 4A822A,102005,Swedish Air Force,Gulfstream G550 TP-102D,GLF5,Gov,Sweden,Magdalena Andersson,Government,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
 4A82F0,60038,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
 4A82F9,60063,Swedish Air Force,SAAB 105 Sk-60B,SB05,Mil,Jet Trainer,Light Attack,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
@@ -5837,7 +5837,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 503D0E,LY-AUS,Private,Yakovlev Yak-54B,YK54,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Yakovlev_Yak-54
 503D91,LY-HLZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
-503DAF, LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
+503DAF,LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503FD2,07 BLUE,Lithuanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,LK KOP,Other Air Forces,https://en.wikipedia.org/wiki/Lithuanian_Air_Force
 503FD3,08 BLUE,Lithuanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,LK KOP,Other Air Forces,https://en.wikipedia.org/wiki/Lithuanian_Air_Force
 505C02,OM-BYU,Government of Slovakia,Mil Mi-17,MI8,Gov,Slovakia,Zuzana Caputova,Government,Governments,https://www.vlada.gov.sk
@@ -7942,7 +7942,7 @@ A3F6D3,N3546,Nike Inc,Gulfstream G550,GLF5,Civ,Swoosh,Waffle,Air Jordan,As Seen 
 A3F8FC,N355SM,Fifth Third Bank,Textron 560XL,C56X,Civ,Bunch of Bankers,Scrooge McDuck,Bizjet,As Seen on TV,https://w.wiki/Az6H
 A3FF4D,N357FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A40020,N357PN,Washington State Department of Fish and Wildlife,Vulcanair P.68C,P68,Gov,Fish,Wildlife,Nature Patrol,Dogs with Jobs,https://wdfw.wa.gov
-A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard ,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
+A40460,N358V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 A4061A,N3589B,Era Alaska,Piper PA-31 Navajo C,PA31,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,https://en.wikipedia.org/wiki/Era_Aviation
 A406BB,N359FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A406E3,N359GS,Lockheed Martin Corp,Gulfstream G280,G280,Civ,Bizjet,Skunk Works,Kelly Johnson,As Seen on TV,https://en.wikipedia.org/wiki/Skunk_Works
@@ -8614,7 +8614,7 @@ A778CA,N58038,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump
 A779EA,N581D,DuPont,Gulfstream G550,GLF5,Civ,Bizjet,Chemicals,Dark Waters,As Seen on TV,https://en.wikipedia.org/wiki/DuPont
 A77AE7,06-0581,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
 A77B6F,N581UP,United Parcel Service,Boeing 747,B744,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
-A77C26,N5811M ,Jerry Moss,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Music Mogul,A&M Records,Don't you know who I am?,https://en.wikipedia.org/wiki/Jerry_Moss
+A77C26,N5811M,Jerry Moss,Dassault Falcon 2000EX,F2TH,Civ,Bizjet,Music Mogul,A&M Records,Don't you know who I am?,https://en.wikipedia.org/wiki/Jerry_Moss
 A780ED,N5829D,County of Henrico VA,Piper PA-46,PA46,Gov,Unincorporated,OG Shire,Bizjet,Governments,https://w.wiki/BPAm
 A784C4,N584A,Saudi Aramco,Gulfstream G450,GLF4,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A7855B,N584GA,USAF,Gulfstream G550,GLF5,Civ,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
@@ -9612,7 +9612,7 @@ AD19F8,N943TB,Arizona Department of Public Safety,Bell 429 GlobalRanger,B429,Pol
 AD1B6F,N94352,Private,ERCO Ercoupe 415-C,ERCO,Civ,Shiny,No Hands No Spin,I Am Old,Historic,https://w.wiki/Bo4w
 AD1C10,N944AM,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 AD1DB4,N944TG,Tampa General Hospital,Bell 407GX,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.tgh.org/institutes-and-services/emergency-and-trauma-center/aeromed-ambulance-transport
-AD2491,N946MM,Heathrow Enterprises, Dassault Falcon 2000EX,F2TH,Civ,Morgan & Morgan,Legal Eagle,Medical Marijuana,As Seen on TV,https://w.wiki/AcaF
+AD2491,N946MM,Heathrow Enterprises,Dassault Falcon 2000EX,F2TH,Civ,Morgan & Morgan,Legal Eagle,Medical Marijuana,As Seen on TV,https://w.wiki/AcaF
 AD2763,N947CH,Heligroup Fire,Boeing-Vertol CH-47D Chinook,H47,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 AD2B1A,N948CH,Heligroup Fire,Boeing-Vertol CH-47D Chinook,H47,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 AD2D55,N94804,Private,Ercoupe 415-E,ERCO,Civ,Nearly Foolproof,Double Vision,I Am Old,Historic,https://en.wikipedia.org/wiki/ERCO_Ercoupe
@@ -9694,7 +9694,7 @@ ADC21E,N986HA,USAF,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special For
 ADC293,N986MT,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 ADC302,N986SD,Oxford Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.oxfordms.net/departments/police-department
 ADC362,N986W,National Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All ,As Seen on TV,https://www.amys.com/
+ADC979,N988GG,Amys Kitchen,Bombardier Global 6000,GLEX,Civ,Bizjet,Food,Does Amy Cook Them All,As Seen on TV,https://www.amys.com/
 ADC98B,N988H,Honeywell International,Dassault Falcon 8X,FA8X,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 ADC9BE,HS-ATS,Aeronautical Radio of Thailand,B200 Super King Air,BE20,Gov,Air Traffic Management,CNS,AIS,Dogs with Jobs,https://www.aerothai.co.th/en/home
 ADCA0B,N988NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
@@ -9717,7 +9717,7 @@ ADD817,N991TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity P
 ADD845,N991VR,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 ADDB35,N992MS,Las Vegas Sands Corp,Gulfstream G-IV SP,GLF4,Civ,The Gambler,Snake Eyes,House Always Wins,As Seen on TV,https://youtu.be/aNMtzfOCyT0
 ADDB3E,N992NA,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
-ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Oxcart,https://bit.ly/3rpxuMM
+ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive,Oxcart,https://bit.ly/3rpxuMM
 ADE58F,N995DP,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 ADE845,N9955H,Private,Boeing Stearman A75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 ADE8EC,N996,Marine Aviation Museum,Mikoyan Gurevich MiG-15,MG15,Civ,Mig,Historic,Vashe Zdorovye,Historic,https://w.wiki/7oBJ
@@ -14400,7 +14400,7 @@ C045A5,C-GAJS,Latitude Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,
 C04605,C-GANK,United Nations,DHC-8-100,DH8A,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 C04620,C-GAOL,Winnipeg Police Dept,Eurocopter EC120B Colibri,EC20,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.winnipeg.ca/police
 C046ED,C-GAWI,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 5,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
-C047EB,C-GBGC,Barrick Gold Corp,Gulfstream G500,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
+C047EB,C-GBGC,Barrick Gold Corp,Gulfstream G500,GLF5,Civ,Gold,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 C048CF,C-GBOW,Air Spray,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.airspray.com
 C048D6,C-GBPD,Province of Northwest Territories,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.gov.nt.ca
 C04937,C-GBSW,Latitude Air Ambulance,IAI 1125 Astra SPX,ASTR,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://latitude2009.com/
@@ -14453,7 +14453,7 @@ C053D9,C-GFTO,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadro
 C0548F,C-GGAO,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C05570,C-GGJF,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
 C055B0,C-GGLR,PAL Aerospace,Bombardier Challenger 604,CL60,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
-C05613,C-GGPM,Barrick Gold Corp,Gulfstream G550,GLF5,Civ,Gold ,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
+C05613,C-GGPM,Barrick Gold Corp,Gulfstream G550,GLF5,Civ,Gold,Environment Damage,Mining,As Seen on TV,https://www.barrick.com/English/home/default.aspx
 C0563E,C-GGRD,Fugro Airborne Surveys,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.fugro.com/
 C05669,C-GGSU,CGG Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C057C6,C-GHGF,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 6,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
