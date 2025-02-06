@@ -7210,6 +7210,7 @@ A010E5,N103LT,Commemorative Air Force,North American SNJ-4 Texan,T6,Civ,Training
 A0110E,N103NJ,New Jersey Forest Fire Service,Bell 206B Jet Ranger,B06,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://www.nj.gov/dep/parksandforests/fire
 A0187C,N105NJ,New Jersey Forest Fire Service,Bell UH-1H Iroquois,UH1,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://www.nj.gov/dep/parksandforests/fire
 A01C33,N106NJ,New Jersey Forest Fire Service,Bell UH-1H Iroquois,UH1,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://www.nj.gov/dep/parksandforests/fire
+A0215F,N1072M,Big Flats LLC,Douglas DC-3 Turbine Dakota,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxhr
 A0223D,N1078Z,Commemorative Air Force,Grumman F6F-5 Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A022B9,N108DB,Labcorp,Gulfstream G600,GA6C,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A022E9,N108F,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
@@ -7686,6 +7687,7 @@ A2A9F1,N2708E,Sino Jet Management,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Cha
 A2AAA3,N271EM,Draken Intl,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 A2AE06,N272BC,Bissell Inc,Bombardier Challenger 350,CL35,Civ,Mega Maid,Vacuum Cleaner,DustBuster,As Seen on TV,https://youtu.be/O7aeWQCF1jM
 A2AE0A,N272BG,Falcon Landing LLC,Gulfstream G550,GLF5,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
+A2AF61,N272R,Desert Air Transport,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxho
 A2AF86,N272SM,Reach Air Medical,AgustaWestland A.109 E Power,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A2B041,N272ZZ,Big Flats LLC,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxho
 A2B1D5,N273CB,Private,Beechcraft T-34,T34P,Civ,I Am Old,Retired Life,Former USAF,Historic,https://w.wiki/B6WK
@@ -8245,6 +8247,7 @@ A55CC6,N4447,Commemorative Air Force,Canadian Car & Foundry Harvard IV,T6,Civ,Tr
 A55D7D,N445DB,First Data Corp,Bombardier Global 5000,GL5T,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A55D81,N445DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A55DB1,N445FD,Family Dollar,Learjet 45,LJ45,Civ,Must Be Nice,Bizjet,Just a Buck,As Seen on TV,https://w.wiki/AsJH
+A560C0,N44587,Desert Air Transport,Douglas DC-3 Dakota,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxhr
 A56214,N446NA,NASA,Short C-23,SH33,Gov,SCE To Aux,Research,Sherpa,Distinctive,https://www.nasa.gov
 A565EB,N447PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A5679C,N44741,Commemorative Air Force,Naval Aircraft Factory N3N-3,N3N,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/7o2b
@@ -8573,6 +8576,7 @@ A72567,N56JP,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Savi
 A725D7,N56PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A725DF,N56PJ,Luca Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A7260E,N56RF,NOAA,DHC-6 Twin Otter 300,DHC6,Gov,Weather Recon,Snow Measurement,Storm Chaser,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
+A72841,N560PT,JCB,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxho
 A72AA1,N561A,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A72ADA,N561CG,NSW Rural Fire Service,Cessna Citation V,C560,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.rfs.nsw.gov.au
 A72B11,N561EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
@@ -14735,7 +14739,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-A0215F,N1072M,Big Flats LLC,Douglas DC-3 Turbine Dakota,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxhr
-A72841,N560PT,JCB,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxho
-A2AF61,N272R,Desert Air Transport,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxho
-A560C0,N44587,Desert Air Transport,Douglas DC-3 Dakota,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxhr
