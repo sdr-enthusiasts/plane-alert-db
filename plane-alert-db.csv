@@ -3233,7 +3233,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403348,G-BTAK,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 403362,G-BTDE,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 403510,G-FGID,The Fighter Collection,Goodyear FG-1D Corsair,CORS,Civ,Historic,Aircraft Carrier,Fighter Bomber,Historic,https://tinyurl.com/ybferkrc
-403563,G-BUCH,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+403563,G-BUCH,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 403576,G-HEBS,Hebridean Air Services,BN Islander 2B-26,BN2P,Civ,Whiskey Galore,Barra,Uisge Beath,Dogs with Jobs,https://youtu.be/g_2SlqF0kA0
 4035D3,G-EXTR,The Global Stars,Extra EA-260,E260,Civ,Rare,High G,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Extra_EA-260
 40382D,G-BVEZ,Private,Hunting Percival Jet Provost T3A,JPRO,Civ,Jet Trainer,Unpressurised,Flying Rust Bucket,Distinctive,https://www.baesystems.com/en-uk/heritage/jet-provost
@@ -7253,7 +7253,7 @@ A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,B
 A05534,N120RL,ISR Platforms,Beech 200 Super King Air,BE20,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
 A05562,N120TG,Intl Air Response,L-100 Hercules,C130,Civ,Drone Catcher,Gremlin,Testbed,Distinctive,https://tinyurl.com/4uv4t3tp
 A056FD,1603,Venezuelan Air Force,Cessna Citation II,C550,Mil,VIP Transport,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
-A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A05CD7,N122TP,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
@@ -7497,7 +7497,7 @@ A1770A,N194AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,D
 A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.nemtstatair.com/
 A178A3,N194SM,Surveying And Mapping,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.sam.biz/
 A17907,N194WM,Bill Gates,Gulfstream G650,GLF6,Civ,Microsoft,Bill & Melinda Gates Foundation,Harvard Dropout,Don't you know who I am?,https://w.wiki/Yof
-A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A179F0,N1944E,Choice Aviation LLC,Cessna 340 Super,C340,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://choiceaviation.com/
 A179FC,N1944S,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A17DC2,N19547,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7613,9 +7613,9 @@ A20747,N23MN,Weather Modification LLC,B200 Super King Air,BE20,Civ,Cloudbusting,
 A2075A,N23NG,Northrop Grumman,Cessna Citation Sovereign,C680,Civ,Aerospace,Stealth Mode,Bizjet,As Seen on TV,https://w.wiki/3rhX
 A20A32,N230TJ,Air Methods,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.enloe.org/
 A20C6E,N231CE,Intercontinental Exchange,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,FCOJ,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
-A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
-A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
-A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
+A20F61,N2316,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
+A20F84,N2317,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
+A20FCA,N2319,Nuclear Security Administration,B350 Super King Air,B350,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
 A2104E,N232DW,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A21084,N232G,Google Inc,Gulfstream G650,GLF6,Civ,OK Google,The Internet,Proprietary Eponym,As Seen on TV,https://letmegooglethat.com/?q=let+me+google+that+for+you
 A2147B,N233JP,Las Vegas PD,Bell UH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Las_Vegas_Metropolitan_Police_Department
@@ -7663,9 +7663,9 @@ A25952,N250UT,Beta Air,Beta Air Alia-250,ZZZZ,Civ,VTOL,Prototype,From The Future
 A25CD5,N251SR,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A262AE,N253AL,Air Methods,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 A263EB,N253PC,Classic Air Medical,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://classicairmedical.com/
-A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A26B9C,N255RV,REVA Air Ambulance,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
-A277B3,N2581B,Private,Stinson Sentinel OY-1,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A277B3,N2581B,Private,Stinson Sentinel OY-1,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A278F9,N259AM,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A27D74,N26JH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A27DFE,N26PW,Almanor Aviation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Grim Reaper,Historic,https://w.wiki/3nth
@@ -7886,7 +7886,7 @@ A3A4DE,N334CA,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,O
 A3A512,N334EC,Entergy Services Inc,Challenger 300,CL30,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
 A3A878,N335AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3A8B5,N335DH,Mary Hitchcock Medical Center,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mxH
-A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A3AC2F,N336AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3AC7F,N336EB,J C Flowers & Co LLC,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A3AD24,N336LS,Las Vegas Sands Corp,Gulfstream G550,GLF5,Civ,The Gambler,Snake Eyes,House Always Wins,As Seen on TV,https://youtu.be/TRfk2RRoLRY
@@ -8142,7 +8142,7 @@ A4EE4C,N417BT,Bridger AeroSpace,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attac
 A4EF4E,N417NA,NASA,Bell UH-1H Iroquois,UH1,Gov,SCE To Aux,Recovery,Wallops Flight Facility,Distinctive,https://www.nasa.gov
 A4F203,N418BT,Bridger Air Tanker 3 LLC,Canadair CL-215T,CL2T,Civ,Flying Fire Extinguisher,Super Scooper,Air Attack,Aerial Firefighter,https://en.wikipedia.org/wiki/Canadair_CL-215
 A4F229,N418DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,Enclosed Cabin,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_Junior
+A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,Enclosed Cabin,History,Speak Up Sonny,Historic,https://w.wiki/CzGX
 A4F305,N418NA,NASA,Bell UH-1H Iroquois,UH1,Gov,SCE To Aux,Recovery,Wallops Flight Facility,Distinctive,https://www.nasa.gov
 A4F325,N418PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4F670,N419K,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
@@ -8921,7 +8921,7 @@ A93418,N692W,Guardian Flight,C90 King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving 
 A9399E,N694AM,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A942AA,N696TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
 A943AE,N6962R,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Olga,Big Hello,https://w.wiki/B3LE
-A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 A9503C,N7DW,Private,DHC-1 Super Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A950B0,N7JM,Joyce Meyer,Gulfstream G-IV,GLF4,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -9683,7 +9683,7 @@ ADA691,N979RF,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Savi
 ADA784,N9790Z,Commemorative Air Force,Noorduyn AT-16ND Harvard IIB,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 ADA903,N98CF,Comanche Fighters,North American P-51K Mustang,P51,Civ,War Bird,Ultimate Mustang,Fragile but Agile,Historic,https://w.wiki/3nth
 ADA932,N98EC,Entergy Services Inc,Bombardier Challenger 350,CL35,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
-ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
+ADACC6,N980ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
 ADAF83,N981GT,Northwest Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 ADAFFE,N981MR,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 ADB41E,N982RW,Coca-Cola Company,Gulfstream G600,GLF6,Civ,The Real Thing,Bad For You,Drink Water Instead,As Seen on TV,https://youtu.be/ib-Qiyklq-Q
@@ -9712,7 +9712,7 @@ ADD0D8,N99FS,Brooks Aviation,Douglas C-47B Dakota,DC3,Mil,Turboprop,Rejuvenated,
 ADD207,N99TV,Sky Helicopters,Robinson R44,R44,Civ,Is This My Good Side,Vanity Plate,News Corporation,As Seen on TV,https://www.skyhelicopters.com/
 ADD295,N99ZM,Moelis & Company Manager,Bombardier Global 6000,GLEX,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://w.wiki/4woo
 ADD3A0,N990LC,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
-ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://en.wikipedia.org/wiki/Nuclear_Emergency_Support_Team
+ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
 ADD498,N990WA,Walmart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 ADD4B2,N990XB,Boom Technology,Boom XB-1,XB1,Civ,Testbed,Flight Test,OK Boomer,Distinctive,https://boomsupersonic.com/xb-1
 ADD665,N991AL,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
@@ -14739,3 +14739,8 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+ADA776,N9790K,Private,Stinson 108,S108,Civ,Voyager,History,Speak Up Sonny,Historic,https://w.wiki/CzGM
+A202A3,N229CA,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+A236BD,N2415,Nuclear Security Administration,Augusta-Westland AW-139,A139,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
+A20F1B,N2314,Nuclear Security Administration,Augusta-Westland AW-139,A139,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
+AD8547,N970ST,Nuclear Security Administration,Boeing 737,B737,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
