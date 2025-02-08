@@ -18,7 +18,7 @@ if __name__ == "__main__":
     logging.info("Creating the plane-alert-categories.csv file sorted by frequency.")
 
     category_sorted.to_csv(
-        "zzz-plane-alert-categories.csv",
+        "plane-alert-categories.csv",
         index=False,
         header=True,
         encoding="utf8",
