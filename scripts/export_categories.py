@@ -1,4 +1,4 @@
-""" "script to export current categories, sorted descending by frequency"""
+"""script to export current categories, sorted descending by frequency"""
 
 import logging
 import pandas as pd
