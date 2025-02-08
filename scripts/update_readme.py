@@ -175,6 +175,7 @@ with open("readme.mustache", "r") as template:
                     "uk_police_count": category_df[
                         category_df["Category"] == "UK National Police Air Service"
                     ].shape[0],
+                    "ukraine_count": category_df[category_df["Category"] == "Ukraine"].shape[0],
                     "us_marines_count": category_df[
                         category_df["Category"] == "United States Marine Corps"
                     ].shape[0],

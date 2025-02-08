@@ -1,4 +1,4 @@
-""""script to export current categories"""
+""""script to export current categories, this time sorted descending by frequency"""
 
 import logging
 import pandas as pd
@@ -11,20 +11,18 @@ if __name__ == "__main__":
     logging.info("Reading the main csv file...")
     df = pd.read_csv("plane-alert-db.csv")
 
-    category_unique_df = (
-        df["Category"]
-        .drop_duplicates()
-        .reset_index(drop=True)
+    logging.info("Sorting categories by frequency...")
+    category_sorted = df["Category"].value_counts().index.to_series().reset_index(drop=True)
+
+    logging.info(f"Total Unique Categories: ({category_sorted.shape[0]}).")
+    logging.info("Creating the plane-alert-categories.csv file sorted by frequency.")
+
+    category_sorted.to_csv(
+        "zzz-plane-alert-categories.csv",
+        index=False,
+        header=True,
+        encoding="utf8",
+        lineterminator="\n",
     )
-    logging.info(f"Total Categories Count: ({category_unique_df.shape[0]}).")
-    logging.info("Creating the plane-alert-categories.csv file.")
-    
-    category_unique_df.to_csv(
-    "plane-alert-categories.csv",
-    mode="wb",
-    index=False,
-    header=True,
-    encoding="utf8",
-    lineterminator="\n",
-    )
+
     logging.info("File created successfully!")
