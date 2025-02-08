@@ -715,7 +715,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403348,G-BTAK,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 403362,G-BTDE,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 403510,G-FGID,The Fighter Collection,Goodyear FG-1D Corsair,CORS,Civ,Historic,Aircraft Carrier,Fighter Bomber,Historic,https://tinyurl.com/ybferkrc
-403563,G-BUCH,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+403563,G-BUCH,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 403576,G-HEBS,Hebridean Air Services,BN Islander 2B-26,BN2P,Civ,Whiskey Galore,Barra,Uisge Beath,Dogs with Jobs,https://youtu.be/g_2SlqF0kA0
 4035D3,G-EXTR,The Global Stars,Extra EA-260,E260,Civ,Rare,High G,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Extra_EA-260
 40382D,G-BVEZ,Private,Hunting Percival Jet Provost T3A,JPRO,Civ,Jet Trainer,Unpressurised,Flying Rust Bucket,Distinctive,https://www.baesystems.com/en-uk/heritage/jet-provost
@@ -2181,7 +2181,7 @@ A05514,N120QD,Quest Diagnostics,Pilatus PC-12/45,PC12,Civ,Clinical Laboratory,Di
 A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A05534,N120RL,ISR Platforms,Beech 200 Super King Air,BE20,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
 A05562,N120TG,Intl Air Response,L-100 Hercules,C130,Civ,Drone Catcher,Gremlin,Testbed,Distinctive,https://tinyurl.com/4uv4t3tp
-A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A0587F,N121MC,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A05CD7,N122TP,Metrea,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
 A05DCB,N1222N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A05E57,N1226N,Commemorative Air Force,Curtiss P-40N Kittyhawk,P40,Civ,Fighter,WW2,Warhawk,Historic,https://w.wiki/7o3u
@@ -2367,7 +2367,7 @@ A1770A,N194AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,D
 A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.nemtstatair.com/
 A178A3,N194SM,Surveying And Mapping,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.sam.biz/
 A17907,N194WM,Bill Gates,Gulfstream G650,GLF6,Civ,Microsoft,Bill & Melinda Gates Foundation,Harvard Dropout,Don't you know who I am?,https://w.wiki/Yof
-A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A179F0,N1944E,Choice Aviation LLC,Cessna 340 Super,C340,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://choiceaviation.com/
 A179FC,N1944S,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A17DC2,N19547,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2448,6 +2448,7 @@ A1FE6F,N22777,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump John
 A1FED3,N228BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A1FEF3,N228CH,Medical Air,SOCATA TBM 700B,TBM8,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medical-air-service.com/
 A1FF54,N228GE,276GE,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
+A202A3,N229CA,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
 A20747,N23MN,Weather Modification LLC,B200 Super King Air,BE20,Civ,Cloudbusting,Environment Monitoring,Make It Rain,Dogs with Jobs,http://www.weathermodification.com/
 A2075A,N23NG,Northrop Grumman,Cessna Citation Sovereign,C680,Civ,Aerospace,Stealth Mode,Bizjet,As Seen on TV,https://w.wiki/3rhX
 A20A32,N230TJ,Air Methods,Eurocopter EC130 T2,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.enloe.org/
@@ -2484,9 +2485,9 @@ A2575B,N25YR,CAF/Yellow Rose Wing,North American TB-25N Mitchell,B25,Civ,Bomber,
 A25952,N250UT,Beta Air,Beta Air Alia-250,ZZZZ,Civ,VTOL,Prototype,From The Future,Distinctive,https://www.beta.team/aircraft/
 A262AE,N253AL,Air Methods,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 A263EB,N253PC,Classic Air Medical,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://classicairmedical.com/
-A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A26B9C,N255RV,REVA Air Ambulance,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
-A277B3,N2581B,Private,Stinson Sentinel OY-1,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_L-5_Sentinel
+A277B3,N2581B,Private,Stinson Sentinel OY-1,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A278F9,N259AM,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A27D74,N26JH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A27DFE,N26PW,Almanor Aviation,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Grim Reaper,Historic,https://w.wiki/3nth
@@ -2652,7 +2653,7 @@ A3A4DE,N334CA,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,O
 A3A512,N334EC,Entergy Services Inc,Challenger 300,CL30,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
 A3A878,N335AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3A8B5,N335DH,Mary Hitchcock Medical Center,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mxH
-A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A3AB62,N33543,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A3AC2F,N336AX,Airborne Tactical Advantage,Hawker Hunter Mk58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A3AC7F,N336EB,J C Flowers & Co LLC,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A3AD24,N336LS,Las Vegas Sands Corp,Gulfstream G550,GLF5,Civ,The Gambler,Snake Eyes,House Always Wins,As Seen on TV,https://youtu.be/TRfk2RRoLRY
@@ -2828,7 +2829,7 @@ A4E85D,N415TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign 
 A4EC77,N416X,Boeing,Candair T33 Mk3,T33,Civ,Testbed,Radar,One Ping Only Vasily,Distinctive,https://cdn.jetphotos.com/full/6/17868_1607897976.jpg
 A4EE26,N417AE,Air Evac Lifeteam,Bell Jet Ranger,B06,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://lifeteam.net/home
 A4F203,N418BT,Bridger Air Tanker 3 LLC,Canadair CL-215T,CL2T,Civ,Flying Fire Extinguisher,Super Scooper,Air Attack,Aerial Firefighter,https://en.wikipedia.org/wiki/Canadair_CL-215
-A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,Enclosed Cabin,History,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/Stinson_Junior
+A4F2EB,N418M,Private,Stinson Junior SM-8A,ZZZZ,Civ,Enclosed Cabin,History,Speak Up Sonny,Historic,https://w.wiki/CzGX
 A4F325,N418PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4F6D4,N419P,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4FD39,N420SK,Oshkosh Corp,Bombardier Challenger 604,CL60,Civ,Trucks,Fire Engines,Military Vehicles,As Seen on TV,https://en.wikipedia.org/wiki/Oshkosh_Corporation
@@ -3374,7 +3375,7 @@ A93418,N692W,Guardian Flight,C90 King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving 
 A9399E,N694AM,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A942AA,N696TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
 A943AE,N6962R,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Olga,Big Hello,https://w.wiki/B3LE
-A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://en.wikipedia.org/wiki/Stinson_Reliant
+A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 A9503C,N7DW,Private,DHC-1 Super Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A950B0,N7JM,Joyce Meyer,Gulfstream G-IV,GLF4,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
@@ -3871,6 +3872,7 @@ AD9E75,N977JG,Ekspres Air,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boei
 AD9EC7,N977MP,Martin's Famous Pastry Shoppe,Cessna 441 Conquest,C441,Civ,Bakery,Potato Rolls,Bizjet,As Seen on TV,https://w.wiki/BmTg
 ADA5F1,N979JW,S C Johnson & Son,Dassault Falcon 7X,FA7X,Civ,Bizjet,Cleaning Products,Mr Muscle,As Seen on TV,https://w.wiki/4rP4
 ADA691,N979RF,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
+ADA776,N9790K,Private,Stinson 108,S108,Civ,Voyager,History,Speak Up Sonny,Historic,https://w.wiki/CzGM
 ADA784,N9790Z,Commemorative Air Force,Noorduyn AT-16ND Harvard IIB,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 ADA903,N98CF,Comanche Fighters,North American P-51K Mustang,P51,Civ,War Bird,Ultimate Mustang,Fragile but Agile,Historic,https://w.wiki/3nth
 ADA932,N98EC,Entergy Services Inc,Bombardier Challenger 350,CL35,Civ,Fortune 500,Electricity,Reliability? LOL,Climate Crisis,https://en.wikipedia.org/wiki/Entergy
