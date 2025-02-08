@@ -24,16 +24,16 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14756** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14761** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14756)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14761)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (90)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11601)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11606)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4090)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4095)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8059)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (924)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1683)
@@ -99,6 +99,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Toy Soldiers|Armies from around the world.|881|
 |UAV|It's not natural, I tell 'ya!|33|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
+|Ukraine|Aircraft from Ukraine|36|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|228|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|444|
 |USAF|Aircraft of the United States Air Force|2314|
