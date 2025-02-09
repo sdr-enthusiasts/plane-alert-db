@@ -1,4 +1,4 @@
-""" "script to flag new/invalid categories"""
+"""script to flag new/invalid categories"""
 
 import logging
 import pandas as pd
