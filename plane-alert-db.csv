@@ -5861,7 +5861,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 507C53,UK002,Government of Uzbekistan,Airbus A320-214SL,A320,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 507FA1,07 WHITE,Uzbek Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Strategic Airlift,Other Air Forces,https://w.wiki/4nFR
 507FA2,08 WHITE,Uzbek Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Strategic Airlift,Other Air Forces,https://w.wiki/4nFR
+508003,UR-82029,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
+508015,UR-82027,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
 50801B,UR-82007,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Asks No Questions,Weapons,Ukraine,https://w.wiki/8o8$
+50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
+50801D,UR-82009,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
+50801F,UR-82072,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
 508056,UR-74026,Motor Sich Aviakompania,Antonov An-74TK-200,AN72,Civ,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
 50807B,UR-11316,Motor Sich Aviakompania,Antonov An-12 BK,AN12,Civ,Slava Ukraini,Budmo!,Cargo,Ukraine,https://youtu.be/BDn2iGWE4Ec?t=18
 50808F,UR-CBG,Cavok Air,Antonov An-12 BP,AN12,Civ,Best Livery,Budmo!,Cargo,Ukraine,https://w.wiki/6wSo
@@ -7588,6 +7593,7 @@ A1DFFB,N22PP,United States Park Police,Bell 412,B412,Pol,Police Squad,The Cops,H
 A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.selectmedical.com/
 A1E29F,N220SP,Kentucky State Police,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,http://kentuckystatepolice.org
 A1E50A,N221DG,David Geffen,Gulfstream G650,GLF6,Civ,Asylum Records,Geffen Records,DreamWorks SKG,Don't you know who I am?,https://en.wikipedia.org/wiki/David_Geffen
+A1E968,N222KZ,Warrior Notes Ministry,Embraer Phenom 100,E50P,Civ,Deus Vult,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.warriornotesschool.com/
 A1EC64,N223CM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
 A1EC96,N223EM,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A1ECF1,N223JC,Aircraft Associates Inc (DOJ),Bell 412EP,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -7775,6 +7781,7 @@ A32F7B,N304PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Savi
 A3301A,N304VS,Calspan Corporation,Learjet 25G,LJ25,Civ,Adversary Simulator,Specialist,Shapeshifter,Hired Gun,https://www.calspan.com
 A33266,N305FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A33332,N305PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A335B4,N306AZ,Warrior Notes Ministry,Embraer Phenom 300,E55P,Civ,Deus Vult,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.warriornotesschool.com/
 A335EE,N306DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A3361D,N306FD,Los Angeles Fire Department,Bell 206B Jet Ranger,B06,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A33977,N307BL,TBL Air,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
@@ -14755,10 +14762,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-508003,UR-82029,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
-508015,UR-82027,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
-50801C,UR-82008,Antonov Airlines,Antonov An-124 100M-150,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
-50801D,UR-82009,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
-50801F,UR-82072,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Slava Ukraini,Cargo,Ukraine,https://w.wiki/8o8$
-A1E968,N222KZ,Warrior Notes Ministry,Embraer Phenom 100,E50P,Civ,Deus Vult,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.warriornotesschool.com/
-A335B4,N306AZ,Warrior Notes Ministry,Embraer Phenom 300,E55P,Civ,Deus Vult,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.warriornotesschool.com/
