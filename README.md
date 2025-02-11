@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14766** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14774** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14766)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14774)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (90)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11609)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11616)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4099)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8059)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4101)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8065)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (924)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1684)
 
@@ -59,7 +59,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Aerial Firefighter|Firefighting Aircraft|349|
 |Aerobatic Teams|Red Arrows, Blue Angels, etc.|78|
 |Army Air Corps|UK Army Air Corps, mainly Helicopters|94|
-|As Seen on TV|Companies and Brands|473|
+|As Seen on TV|Companies and Brands|475|
 |Big Hello|Large Helicopters (sic)|106|
 |Bizjets|Fancy pants planes for fancy pants people|44|
 |CAP|Civil Air Patrol.|13|
@@ -83,8 +83,8 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|41|
-|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2009|
-|Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|199|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2012|
+|Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
 |Oxcart|Intelligence gathering aircraft|669|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|45|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
@@ -97,10 +97,10 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|182|
 |Toy Soldiers|Armies from around the world.|881|
-|UAV|It's not natural, I tell 'ya!|33|
+|UAV|It's not natural, I tell 'ya!|34|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
-|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|228|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|229|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|444|
 |USAF|Aircraft of the United States Air Force|2314|
 |Vanity Plate|Distinctive registrations|77|

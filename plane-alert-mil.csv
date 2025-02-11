@@ -13,6 +13,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 01007C,SU-BAK,Egyptian Air Force,C-130H Hercules,C130,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://en.wikipedia.org/wiki/Egyptian_Air_Force
 01007D,SU-BAL,Egyptian Air Force,C-130H Hercules,C130,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://w.wiki/4$Pn
 01008A,SU-BKS,Egyptian Air Force,C-130H-30 Hercules,C130,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://w.wiki/4$Pn
+02003C,CN-AON,Royal Moroccan Air Force,C-130H Hercules,C130,Mil,Tactical Airlift,Military Transport,RMAF,Other Air Forces,https://w.wiki/4n3m
 0200AB,CN-MMK,Royal Moroccan Air Force,Cessna Citation XLS+,C56X,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 0200AC,CN-MMT,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 02012D,CN-MMR,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
@@ -60,7 +61,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0AC8F9,FAC1686,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://w.wiki/Cxho
 0AC99C,ARC-431,Colombian Navy,Cessna 208B Caravan,C208,Mil,Utility,Military Transport,Plus Ultra,Other Navies,https://w.wiki/4meJ
 0AC99E,ARC-101,Colombian Navy,B350 Super King Air,B350,Mil,Utility,Military Transport,Plus Ultra,Other Navies,https://w.wiki/4meJ
+0BA003,FAH019,Honduran Air Force,Cessna 208B,C208,Mil,Light Utility,Not So VIP,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0BA036,FAH080,Honduran Air Force,Beech King Air C90B,BE9L,Mil,Surveillance,Eye In The Sky,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
+0BA039,FAH990,Honduran Air Force,Airbus EC-145,EC45,Mil,Light Utility,Medevac,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0D003F,XC-UJB,Mexican Air Force,Boeing 737,B733,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D01E0,3520,Mexican Air Force,Boeing 737,B732,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D04C2,ANX-1202,Mexican Navy,Gulfstream G450,GLF4,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
@@ -5299,6 +5302,7 @@ AE0EE5,87-24649,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE0EF9,83-23908,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0EFA,84-23980,United States Army,Sikorsky UH-60L Halcon,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0EFC,85-24431,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0F92,170111,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE10B3,01-0065,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE10B5,01-0186,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE10B6,01-0187,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -6692,7 +6696,7 @@ AE26F5,09-1944,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery
 AE272C,96-6042,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE272D,96-6043,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE27A6,84-0047,USAF,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,Covert,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
-AE27A7,04-2021,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE27A7,04-2021,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE2817,86-0174,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE2863,86-0162,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE291E,08-00376,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Covert,ISR,Oxcart,https://tinyurl.com/2p89t5k4
@@ -7097,13 +7101,14 @@ AE540A,11-0058,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE540B,11-0059,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE540C,11-0060,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE540D,11-0061,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
-AE541D,Tactical,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE5422,11-2047,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE541D,Tactical,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE5420,11-2045,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE5422,11-2047,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE543E,76-22558,United States Army,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8o8J
 AE54B4,12-9506,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
-AE54B5,10-2043,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B6,11-2049,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B7,05-2024,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE54B5,10-2043,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE54B6,11-2049,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE54B7,05-2024,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE54C6,11-5765,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE54C7,12-5756,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE54C8,10-5771,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -8027,6 +8032,7 @@ E20030,AE-186,Argentine Army,Cessna Citation Bravo,C55B,Mil,Bizjet,VIP Transport
 E20047,AE-227,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E20048,AE-228,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,Fuerza Aerea Argentina,Other Air Forces,https://en.wikipedia.org/wiki/Argentine_Air_Force
+E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B42,TT-3107,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
