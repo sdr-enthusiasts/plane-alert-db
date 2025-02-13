@@ -123,6 +123,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 018039,5A-DRL,Libyan Air Ambulance,Cessna Citation XLS,C56X,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.laa.ly/
 018098,5A-POL,Libyan Government,Ilyushin IL-76TD,IL76,Gov,Dictator Alert,General Hafar,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 01809C,5A-DFN,Libyan Air Ambulance,Cessna Citation Latitude,C680,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.laa.ly/
+02003C,CN-AON,Royal Moroccan Air Force,C-130H Hercules,C130,Mil,Tactical Airlift,Military Transport,RMAF,Other Air Forces,https://w.wiki/4n3m
 0200AB,CN-MMK,Royal Moroccan Air Force,Cessna Citation XLS+,C56X,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 0200AC,CN-MMT,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 0200CC,CN-MVI,Gov of Morocco,Boeing 737-BBJ,B737,Gov,Dictator Alert,Mohammed VI,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Morocco
@@ -342,7 +343,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0AE045,MSP019,Costa Rica Police,Piper PA-31 Navajo C,PA31,Pol,Police Squad,Policia,Surveillance,Police Forces,https://w.wiki/CuYp
 0AE056,MSP002,Costa Rica Police,B200GT Super King Air,BE20,Pol,Police Squad,Policia,Surveillance,Police Forces,https://w.wiki/CuYp
 0AE090,MSP024,Costa Rica Police,Textron Aviation 208 B EX,C208,Pol,Police Squad,Policia,Surveillance,Police Forces,https://w.wiki/CuYp
+0BA003,FAH019,Honduran Air Force,Cessna 208B,C208,Mil,Light Utility,Not So VIP,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0BA036,FAH080,Honduran Air Force,Beech King Air C90B,BE9L,Mil,Surveillance,Eye In The Sky,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
+0BA039,FAH990,Honduran Air Force,Airbus EC-145,EC45,Mil,Light Utility,Medevac,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://w.wiki/4nE6
 0C204E,HP-1A,Gov of Panama,Embraer Legacy 600,E35L,Gov,Government,Panama,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Panama
 0C20EA,AN-401,Panamanian Coastguard,B350 Super King Air,B350,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Panamanian_Public_Forces
@@ -8393,6 +8396,7 @@ A63665,N5MV,Michael Bloomberg,Dassault Falcon 900,F900,Civ,Bizjet,Bloomberg,ex-N
 A63673,N5NJ,New Jersey State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.njsp.org
 A6370A,N5UK,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A638AD,N50MC,City of New Orleans,Bell 505 Jet Ranger X,B505,Gov,Bug Stomper,We Endanger Species,Aerial Sprayer,Dogs with Jobs,https://nola.gov/mosquito/
+A638D1,N50NP,Nestle Purina Petcare,Gulfstream G500,GA5C,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A638D5,N50NT,Ontario Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.opp.ca
 A638E1,N50PE,Primecare Medical,B200GT Super King Air,BE20,Civ,Air Ambo,Correctional Healthcare,Saving Lives,Flying Doctors,http://www.primecaremedical.com/
 A6392D,N50SF,Storage Units Capital Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
@@ -8656,6 +8660,7 @@ A79DB2,N590D,Private,Cessna O-2A Skymaster,C337,Civ,Bat21,Forward Air Control,PS
 A7A04C,N5904A,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A7A2BE,N591SR,ISR Platforms,Bombardier Global 6000,GLEX,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
 A7A4D8,N592AC,West Michigan Air Care,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aircare.org/
+A7ACDA,N594GA,Nestle Purina Petcare,Gulfstream G500,GA5C,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A7B4B1,N596LF,Life Flight,AgustaWestland AW.119,A119,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A7C0F2,N599XQ,US SOCOM,DHC-8-315,DH8C,Gov,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
@@ -11407,6 +11412,7 @@ AE0EE5,87-24649,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE0EF9,83-23908,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0EFA,84-23980,United States Army,Sikorsky UH-60L Halcon,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0EFC,85-24431,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0F92,170111,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE109A,02,United States Coast Guard,Gulfstream G550,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://www.uscg.mil
 AE10B3,01-0065,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE10B5,01-0186,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -12932,7 +12938,7 @@ AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Pa
 AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE27A6,84-0047,USAF,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,Covert,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
-AE27A7,04-2021,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE27A7,04-2021,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE27F3,6002,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE27F4,6003,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -13407,13 +13413,14 @@ AE540A,11-0058,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE540B,11-0059,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE540C,11-0060,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE540D,11-0061,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
-AE541D,Tactical,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE5422,11-2047,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE541D,Tactical,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE5420,11-2045,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE5422,11-2047,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE543E,76-22558,United States Army,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8o8J
 AE54B4,12-9506,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://en.wikipedia.org/wiki/Battlefield_Airborne_Communications_Node
-AE54B5,10-2043,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B6,11-2049,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
-AE54B7,05-2024,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE54B5,10-2043,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE54B6,11-2049,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
+AE54B7,05-2024,USAF,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/D2b9
 AE54C6,11-5765,USAF,HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://en.wikipedia.org/wiki/Lockheed_HC-130
 AE54C7,12-5756,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE54C8,10-5771,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -14711,6 +14718,7 @@ E47EEC,PR-BBS,Grupo Safra,Boeing 737NG-BBJ2,B737,Civ,Climate Crisis,Boeing Busin
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
 E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Roraima
 E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48421,PR-PFN,Brazilian Federal Police,Embraer ERJ-145 LR,E145,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E48A7E,PR-HGR,Brazilian Fire Service,AS350 Squirrel B2,AS50,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Military_Firefighters_Corps
