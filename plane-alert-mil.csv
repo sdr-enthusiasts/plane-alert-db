@@ -802,10 +802,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 33FD8F,MM81557,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FD93,MM81625,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FD97,MM81604,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
+33FD99,MM62303,Italian Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://theaviationist.com/2022/03/08/italian-g550-caew-romania/
 33FD9A,MM81603,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FD9C,MM81602,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FDA7,MM81624,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FDBA,MM81623,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
+33FDC2,MM62293,Italian Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://theaviationist.com/2022/03/08/italian-g550-caew-romania/
 33FDC3,MM81555,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FDC4,MM81554,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FDC5,MM81553,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
@@ -3129,8 +3131,14 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 738A01,272,Israeli Air Force,Boeing 707-3L6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738A41,275,Israeli Air Force,Boeing KC-707-3P1C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738A45,290,Israeli Air Force,Boeing 707-3W6C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
+738A49,676,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
+738A4A,679,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
+738A4B,684,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
+738A4C,537,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
+738A4D,569,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
 738A4E,514,French Air Force,S.A.N. Jodel D.140R Abeille,D140,Mil,Musketeer,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 738A4F,016,Republic Of Singapore Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://en.wikipedia.org/wiki/EL/W-2085
+738A69,452,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
 738A91,522,Israeli Air Force,KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/7ok9
 738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738B49,662,Israeli Air Force,C-130J-30 Super Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
@@ -3610,6 +3618,7 @@ A6A1B9,N5261F,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly
 A6A519,6687,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 A6A70D,6689,Philippine Air Force,Bell 412EP,B412,Mil,VIP Transport,Utility,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 A6C6CF,1304,Mexican Air Force,Bell 407GX,B407,Mil,Choppa,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
+A6E762,166379,United States Navy,Gulfstream NC-37B,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Oxcart,https://www.twz.com/23448/behold-the-first-official-photo-of-the-navys-new-nc-37b-missile-tracking-bizjet
 A70773,N552GD,Israeli Air Force,Gulfstream G550,GLF5,Mil,Bizjet,VIP,Air Corps,Other Air Forces,https://w.wiki/4e3x
 A739E7,N565EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 A77AE7,06-0581,USAF,Pilatus PC-12 U-28A,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
@@ -3990,6 +3999,7 @@ ADFE93,95-00094,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,No
 ADFE94,95-00095,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFE97,95-00098,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8o8J
 ADFE98,94-00316,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
+ADFE99,95-00100,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFE9A,95-00101,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFEA0,94-7320,USAF,C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 ADFEA1,94-7321,USAF,C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -5170,6 +5180,8 @@ AE08B2,00-3597,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made
 AE08B3,165958,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE08B4,167085,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE08B6,165961,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE08B7,165963,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE08BB,165967,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE08BD,165968,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE08BE,00-0184,USAF,C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://www.airforce.com
 AE08BF,76-0163,USAF,Beech C-12C Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,USAF,https://www.airforce.com
@@ -5281,6 +5293,7 @@ AE0CF1,88-26018,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE0D0A,85-24452,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0D31,96-26714,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0D35,05-27046,USAF,Sikorsky HH-60G Pave Hawk,H60,Mil,Special Operations,Whirly Bird,Black Helicopter,Special Forces,https://www.airforce.com
+AE0D5B,89-26166,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0D6F,96-26726,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0DCB,83-23886,United States Army,Sikorsky UH-60A+ Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0DD3,84-23957,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -5290,6 +5303,7 @@ AE0E15,88-26065,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE0E17,88-26081,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E1E,84-23970,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E23,88-26021,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0E39,95-26645,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E3B,95-26650,United States Army,Sikorsky MH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E56,86-24530,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0E61,97-26767,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -5395,14 +5409,17 @@ AE1138,02-3668,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made
 AE1139,02-3669,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE113A,02-3670,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE113B,02-3671,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
+AE113C,165970,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE113D,165971,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1140,165974,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1141,165975,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1144,165978,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1146,165980,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE114C,165986,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE1150,165990,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1151,165991,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1153,165993,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE1154,165994,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE115E,01-1930,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE1160,02-1434,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1161,02-1463,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -6216,6 +6233,7 @@ AE1BF5,07-6312,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 AE1BF6,07-4635,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE1BFF,04-08706,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE1C08,04-08715,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
+AE1C16,06-08022,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE1C1B,06-08027,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE1C2A,06-72002,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE1C2B,06-72003,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
@@ -7928,6 +7946,7 @@ AE7418,170237,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Ch
 AE741B,170240,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE7457,170041,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
 AE7458,170042,United States Marine Corps,Boeing C-40A Clipper,B737,Mil,Gyrenes,Not a Bus,Clipper,United States Marine Corps,https://w.wiki/7wDu
+AE7466,21-9045,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE7477,21-03394,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE7483,21-03406,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE748D,21-03416,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
@@ -7948,6 +7967,7 @@ AE74E1,22-03454,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cav
 AE74E2,22-03455,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE74E7,22-03460,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE77A3,22-9046,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
+AE77A4,22-9047,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AE77C2,22-21246,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE77C4,22-21248,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE77D0,23-21259,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -8033,6 +8053,8 @@ E20030,AE-186,Argentine Army,Cessna Citation Bravo,C55B,Mil,Bizjet,VIP Transport
 E20047,AE-227,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E20048,AE-228,Argentine Army,Cessna 208B-EX Caravan,C208,Mil,Highwing,Troop Transport,Ejercito Argentino,Toy Soldiers,https://en.wikipedia.org/wiki/Argentine_Army
 E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,Fuerza Aerea Argentina,Other Air Forces,https://en.wikipedia.org/wiki/Argentine_Air_Force
+E400B3,4111,Mexican Air Force,Embraer ERJ-145MP,E145,Mil,Surveillance,Eye In The Sky,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
+E400B4,4101,Mexican Air Force,Embraer ERJ-145SA,E145,Mil,Eye In The Sky,Airborne Early Warning,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
