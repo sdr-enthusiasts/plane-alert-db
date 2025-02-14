@@ -6863,6 +6863,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 800E89,IN328,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
 800E8A,IN329,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,CL60,Gov,Gujarat,Acharya Devvrat,Government,Governments,https://gujaratindia.gov.in
+80169F,VT-AKV,Reliance Commercial Dealers Ltd,Boeing 737MAX 9 BBJ,B39M,Civ,Mukesh Ambani,India's Richest,Billionaire,Don't you know who I am?,https://en.wikipedia.org/wiki/Mukesh_Ambani
 801801,L-915,Lebanese Air Force,IAR 330M,PUMA,Mil,Chopper,Military Transport,Here I Am Lebanon's Sky,Other Air Forces,https://w.wiki/4nEW
 840120,JA008G,Japan Civil Aviation Bureau,Cessna Citation CJ4,C25C,Civ,Flight Inspection,Fight Calibration,Trundle Wheel,Dogs with Jobs,https://tinyurl.com/ythr9kku
 840142,JA009G,Japan Civil Aviation Bureau,Cessna Citation CJ4,C25C,Civ,Flight Inspection,Fight Calibration,Trundle Wheel,Dogs with Jobs,https://tinyurl.com/ythr9kku
@@ -10287,6 +10288,7 @@ AE0075,66-4387,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 AE0076,66-8350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007A,66-8359,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007B,66-8360,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE007D,66-8362,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007E,66-8364,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007F,66-8365,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0084,66-8372,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -13162,8 +13164,11 @@ AE4A17,166142,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels
 AE4A18,166143,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A1B,166146,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A1D,166148,USAF,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
+AE4A1F,166150,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4A21,166152,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A23,166154,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A26,166157,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4A2B,166162,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A4B,6044,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A4C,6045,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A60,166696,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
@@ -13200,6 +13205,7 @@ AE4AFC,08-5691,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fi
 AE4AFD,08-5692,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4AFE,08-5693,USAF,C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4B00,08-5697,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE4B25,161180,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE4B2A,161252,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE4B35,161381,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE4B36,161382,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -13344,10 +13350,17 @@ AE4E1A,11-5729,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfi
 AE4E1B,11-5733,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE4E1C,11-5735,USAF,AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE4E1D,11-5737,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE4E3B,166743,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E3C,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E3D,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E3E,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E55,168222,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
 AE4E8D,166164,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4E97,166173,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4EA5,166187,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4EAB,166194,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4EB1,167956,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB2,168428,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB6,168432,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -13410,6 +13423,8 @@ AE4FB1,168097,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,
 AE4FB7,168103,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE4FE3,168147,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE4FE9,168153,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
+AE4FF1,168161,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
+AE4FFC,168172,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE5003,168179,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE5026,167792,USAF,Bell MQ-8B,UAV,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_MQ-8_Fire_Scout
 AE503D,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
@@ -13921,6 +13936,8 @@ AE6044,169534,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest
 AE6045,169535,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6046,169536,United States Marine Corps,KC-130J Super Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE60D3,168667,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60DC,168676,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
+AE60DF,168679,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE60E4,168684,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE60E9,160472,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -14002,6 +14019,7 @@ AE6257,169171,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Publi
 AE625B,169307,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE625C,169537,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE625D,169538,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
+AE6260,163602,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626B,163615,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626C,163616,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626D,163617,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14034,6 +14052,7 @@ AE62D0,165494,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE62D1,165495,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62D5,165598,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62E0,165610,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62E3,165612,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62E5,165614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62EA,165621,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62EB,165620,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14825,22 +14844,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-AE60DC,168676,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
-AE62E3,165612,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE6260,163602,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE007D,66-8362,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE4E3B,166743,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4E3C,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4E3D,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4E3E,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE60DF,168679,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE4A1F,166150,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4A2B,166162,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4EAB,166194,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4A21,166152,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4B25,161180,United States Marine Corps,Sikorsky CH-53E Sea Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
-AE4FF1,168161,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
-AE4FFC,168172,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
-80169F,VT-AKV,Reliance Commercial Dealers Ltd,Boeing 737MAX 9 BBJ,B39M,Civ,Mukesh Ambani,India's Richest,Billionaire,Don't you know who I am?,https://en.wikipedia.org/wiki/Mukesh_Ambani
