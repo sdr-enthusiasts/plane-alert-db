@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14848** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14849** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14848)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14849)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (92)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11676)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11677)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4134)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8106)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8107)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (924)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1684)
 
@@ -83,7 +83,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|41|
-|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2022|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2023|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
 |Oxcart|Intelligence gathering aircraft|673|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|45|
