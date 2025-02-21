@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **14849** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **14855** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14849)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (14855)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (92)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11677)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11691)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4134)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8107)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4138)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8109)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (924)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1684)
 
@@ -69,15 +69,15 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Dictator Alert|People of potentially questionable morals and values|322|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|204|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|185|
-|Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|80|
-|Flying Doctors|Air Ambulance and Medical Flights|809|
+|Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|82|
+|Flying Doctors|Air Ambulance and Medical Flights|810|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|17|
 |GAF|Aircraft of the German Air Force|408|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
 |Governments|Aircraft registered to Governments|261|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|261|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|267|
-|Historic|It's older than I am and most likely has a prop.|456|
+|Historic|It's older than I am and most likely has a prop.|457|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|24|
 |Joe Cool|Cool Planes. Or at least I think they are cool.|232|
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
@@ -96,11 +96,11 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|182|
-|Toy Soldiers|Armies from around the world.|885|
+|Toy Soldiers|Armies from around the world.|886|
 |UAV|It's not natural, I tell 'ya!|34|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
-|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|238|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|239|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|458|
 |USAF|Aircraft of the United States Air Force|2315|
 |Vanity Plate|Distinctive registrations|77|
