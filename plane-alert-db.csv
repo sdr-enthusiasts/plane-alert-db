@@ -123,6 +123,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 018039,5A-DRL,Libyan Air Ambulance,Cessna Citation XLS,C56X,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.laa.ly/
 018098,5A-POL,Libyan Government,Ilyushin IL-76TD,IL76,Gov,Dictator Alert,General Hafar,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 01809C,5A-DFN,Libyan Air Ambulance,Cessna Citation Latitude,C680,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.laa.ly/
+020035,CN-AOE,Royal Moroccan Air Force,C-130H Hercules,C130,Mil,Tactical Airlift,Military Transport,RMAF,Other Air Forces,https://w.wiki/4n3m
 02003C,CN-AON,Royal Moroccan Air Force,C-130H Hercules,C130,Mil,Tactical Airlift,Military Transport,RMAF,Other Air Forces,https://w.wiki/4n3m
 0200AB,CN-MMK,Royal Moroccan Air Force,Cessna Citation XLS+,C56X,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
 0200AC,CN-MMT,Royal Moroccan Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Bizjet,Morocco,Other Air Forces,https://w.wiki/4n3m
@@ -1320,6 +1321,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 32001E,MM81898,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32001F,MM81910,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320020,MM81911,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
+320025,MM81946,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320026,MM81947,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320027,MM81948,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32002C,VF-139,Italian Fire Service,AgustaWestland AW.139,A139,Gov,Air Attack,Firebird,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Vigili_del_Fuoco
@@ -1984,6 +1986,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B7B98,F-ZBPS,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7B9A,F-ZBPQ,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7BA2,F-ZBPI,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
+3B7BA8,F-ZBQR,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7BE5,6016,French Army,Eurocopter Tiger EC665,TIGR,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3B7BED,6013,French Army,Eurocopter Tiger EC665,TIGR,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 3B7F72,F-ZAFT,DGA Essais en Vol,Fokker F100,F100,Gov,Testbed,ABE-NG,Flight Test,Dogs with Jobs,https://www.aeroflight.co.uk/ops/gov/dga-essais-en-vol.htm
@@ -10310,6 +10313,7 @@ ADFFC5,64-13285,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made F
 ADFFC7,64-13301,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 ADFFC8,64-13304,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 ADFFC9,65-10412,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+ADFFD5,65-10464,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 ADFFDA,66-4330,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 ADFFDF,66-4359,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 ADFFE6,67-14848,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -10353,6 +10357,7 @@ AE003C,69-7080,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 AE003D,70-1562,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE003F,70-1565,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0040,70-1571,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE0041,70-1573,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0042,70-1581,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0043,70-1584,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0044,70-1589,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -10382,6 +10387,7 @@ AE0076,66-8350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 AE0079,66-8357,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007A,66-8359,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007B,66-8360,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE007C,66-8361,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007D,66-8362,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007E,66-8364,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE007F,66-8365,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -10400,6 +10406,7 @@ AE009C,67-14937,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made F
 AE009E,67-14942,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00A0,68-8145,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00A1,68-8155,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE00A2,68-8203,United States Air Force,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00A3,69-7073,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00A4,68-8203,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00A5,70-1557,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -10838,6 +10845,7 @@ AE0417,164405,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking 
 AE0418,164406,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AE0419,164407,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AE041A,164408,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
+AE041B,164409,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AE041C,164410,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AE041D,57-1486,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE041E,57-1487,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
@@ -12621,9 +12629,11 @@ AE1EB2,166045,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels
 AE1EBE,166057,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1EC3,166062,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1EC5,166064,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE1EC9,166068,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1ECB,166070,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1ECC,166071,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1ED2,166077,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE1ED5,166080,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1ED6,166081,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1ED9,166084,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE1F21,07-72018,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
@@ -13170,6 +13180,7 @@ AE2EDD,166096,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels
 AE2EE0,166099,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EE2,166101,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EE5,166104,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE2EE7,166106,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EE9,166108,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EEF,166114,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE2EFA,166125,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
@@ -13267,9 +13278,11 @@ AE4A1B,166146,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels
 AE4A1D,166148,USAF,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4A1F,166150,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A21,166152,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4A22,166153,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A23,166154,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A26,166157,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A2B,166162,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4A2C,166163,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4A4B,6044,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A4C,6045,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4A60,166696,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
@@ -13460,6 +13473,7 @@ AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope
 AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E55,168222,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
 AE4E8D,166164,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE4E8E,166165,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4E97,166173,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4EA5,166187,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE4EAB,166194,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
@@ -13609,7 +13623,10 @@ AE54D7,13-5776,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Win
 AE54D8,13-5777,USAF,MC-130J Super Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE54D9,13-5778,USAF,MC-130J Super Hercules,C30J,Mil,352nd Special Operations Wing,Covert,UARRSI,Special Forces,https://w.wiki/8pAQ
 AE54DF,166205,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE54E3,166209,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE54EF,166221,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE54F1,166223,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
+AE54F6,166228,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
 AE5622,13-00282,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE5623,13-00283,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Covert,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE5644,11-20410,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14135,6 +14152,7 @@ AE625B,169307,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Publi
 AE625C,169537,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE625D,169538,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE6260,163602,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE626A,163614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626B,163615,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626C,163616,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626D,163617,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14151,6 +14169,7 @@ AE6294,165061,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE629F,165073,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A3,165080,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A5,165082,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62A6,165083,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62AB,165089,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62AF,165457,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62B4,165463,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14969,22 +14988,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-AE1ED5,166080,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4A2C,166163,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4E8E,166165,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE62A6,165083,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE54EF,166221,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE4A22,166153,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE626A,163614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE54F6,166228,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE0041,70-1573,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-ADFFD5,65-10464,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE1EC9,166068,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE2EE7,166106,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE54E3,166209,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://www.navy.mil
-AE007C,66-8361,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE041B,164409,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
-020035,CN-AOE,Royal Moroccan Air Force,C-130H Hercules,C130,Mil,Tactical Airlift,Military Transport,RMAF,Other Air Forces,https://w.wiki/4n3m
-320025,MM81946,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
-3B7BA8,F-ZBQR,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
-AE00A2,68-8203,United States Air Force,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F

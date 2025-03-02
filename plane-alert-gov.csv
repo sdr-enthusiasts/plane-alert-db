@@ -235,6 +235,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 32001E,MM81898,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32001F,MM81910,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320020,MM81911,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
+320025,MM81946,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320026,MM81947,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 320027,MM81948,Italian Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.guardiacostiera.gov.it/en
 32002C,VF-139,Italian Fire Service,AgustaWestland AW.139,A139,Gov,Air Attack,Firebird,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Vigili_del_Fuoco
@@ -308,6 +309,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B7B98,F-ZBPS,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7B9A,F-ZBPQ,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7BA2,F-ZBPI,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
+3B7BA8,F-ZBQR,Securite Civile,Eurocopter EC145,EC45,Gov,Search And Rescue,Air Attack,EMS,Aerial Firefighter,https://w.wiki/4nsA
 3B7F72,F-ZAFT,DGA Essais en Vol,Fokker F100,F100,Gov,Testbed,ABE-NG,Flight Test,Dogs with Jobs,https://www.aeroflight.co.uk/ops/gov/dga-essais-en-vol.htm
 3B7F76,301,French Air Force,Dassault Rafale B,RFAL,Gov,Canards,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3C5829,D-AFAI,United Nations,Bombardier Challenger 604,CL60,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
