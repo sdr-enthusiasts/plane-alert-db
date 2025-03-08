@@ -3497,7 +3497,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 406A67,G-WCME,Private,General Motors Wildcat FM-2,WCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD9
 406A97,G-CICK,Private,Supermarine Spitfire TIX,SPIT,Civ,War Bird,Fighter,Merlin,Historic,https://www.aerolegends.co.uk/the-aircraft/
 406AAD,G-CICM,Private,RotorSport UK Calidus,CDUS,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
-406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://w.wiki/DLW5
 406ABF,G-OMAA,Babcock MCS Onshore,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.babcockinternational.com/what-we-do/aviation
 406AD0,G-FFMV,Draken Europe,Diamond Aircraft DA42-MPP,DA42,Civ,ISR,Target Practice,Adversary Simulation,Hired Gun,https://www.draken.aero
 406AFB,G-CIGS,Private,RotorSport UK MTO Sport,MT,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
@@ -3579,7 +3579,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 406F8B,G-MCGL,HM Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 406FA5,G-CIUW,Private,Noorduyn AT-16ND Harvard Sk16A,T6,Civ,Trainer,History,WW2,Historic,https://www.t6harvard.com/uk-harvards/g-ciuw/
 406FB7,G-IISC,Private,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
-406FD2,G-EVMK,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+406FD2,G-EVMK,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://w.wiki/DLW5
 406FED,G-IHHI,The Global Stars,Extra EA-300SC,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Aerobatic Teams,https://w.wiki/4nF6
 407009,G-UKCS,2 Excel Aviation,Piper PA-31 Navajo B,PA31,Civ,Oil Spill Dispersal,Specialist,Eye In The Sky,Dogs with Jobs,https://www.2excelaviation.com/our-activity
 40700C,G-CIZD,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
@@ -3981,7 +3981,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C32E,LS326,Fly Navy Heritage Trust,Fairey Swordfish II,SWOR,Civ,Torpedo Bomber,Stringbag,WW2,Historic,https://navywings.org.uk
 43C32F,VR930,Fly Navy Heritage Trust,Hawker Sea Fury FB11,FURY,Civ,War Bird,Fighter,WW2,Historic,https://navywings.org.uk
 43C331,WK608,Royal Naval Historic Flight,DHC-1 Chipmunk T10,DHC1,Mil,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-43C332,XP820,Historic Aircraft Flight,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+43C332,XP820,Historic Aircraft Flight,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://w.wiki/DLW5
 43C33B,ZJ700,BAE Systems,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
 43C34D,G-CMDO,Historic Helicopters,Westland Sea King HC4,S61,Civ,Commando,Chopper,Rejuvenated,Historic,https://www.historichelicopters.com/Pages/35/Sea-King.html
 43C364,XV666,Heli Operations,Westland Sea King HU5 SAR,S61,Civ,Sea King,The Last Of Us,Amphibian,Historic,https://w.wiki/4nD$
@@ -7515,7 +7515,7 @@ A16681,N19H,Hubbard Broadcasting Inc,Gulfstream G500,GLF5,Civ,Bizjet,Radio,Where
 A16692,N19HS,Starbucks,Gulfstream G650 ER,GLF6,Civ,Kara Thrace,Coffee,Multinational,As Seen on TV,https://en.wikipedia.org/wiki/Starbucks
 A16926,N190LA,Los Angeles Fire Department,Sikorsky S-70A,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A16971,N190PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
-A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
+A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://w.wiki/3jtt
 A16AAD,N1901G,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washer,White Goods,As Seen on TV,https://en.wikipedia.org/wiki/Whirlpool_Corporation
 A16D84,N191ST,Kactus Capital Management,Dassault Falcon 7X,FA7X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
@@ -9031,7 +9031,7 @@ A8F21C,N676BA,Bank of America,Gulfstream G600,GA6C,Civ,Aaaaaaaand its gone,Bunch
 A8F34A,N676PC,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A8F547,N67662,Austin Police Dept,Bell TH-67A Creek,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.austintexas.gov/department/police
 A8F75B,N677ST,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
-A8F778,N677TX,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+A8F778,N677TX,Private,DHC-2 Beaver U-6A,DHC2,Civ,Radial Engine,Highwing,I Am Old,Joe Cool,https://w.wiki/DLW5
 A8F8E4,N6776A,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A8F990,N678BG,Blue Sky Flight,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A900DD,N68,Federal Aviation Administration,Beech King Air 300,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
@@ -14648,7 +14648,7 @@ C02E82,C-FRPX,SkyCare Air Ambulance,Swearingen Merlin,SW2,Civ,Air Ambo,Medical E
 C02EB1,C-FRRS,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C02EB3,CF-RRU,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C02F67,C-FRYS,McCain Foods,Learjet 75,LJ75,Civ,Oven Chips,Eat More Chips,Not French Fries,As Seen on TV,https://en.wikipedia.org/wiki/McCain_Foods
-C02FC9,C-FSCM,Private,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+C02FC9,C-FSCM,Private,DHC-2 Beaver AL1,DHC2,Civ,STOL,Bush Plane,Speak Up Sonny,Historic,https://w.wiki/DLW5
 C03177,C-FSTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C03194,C-FSUD,Ventura County Fire Department,Turbo Commander 690B,AC90,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,http://www.magaero.ca
 C0319A,C-FSUJ,Royal Canadian Mounted Police,Cessna 208 Caravan,C208,Pol,Police Squad,Mountie,Surveillance,Police Forces,https://www.rcmp-grc.gc.ca
@@ -15017,3 +15017,15 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+AA833C,N777CB,Berichi Aviation Aircraft,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
+A9A1F0,N72HP,Ohio Highway Patrol,Airbus AS350B3,AS50,Pol,The Flying Wheel,Copper Chopper,Eye in the Sky,Police Forces,https://w.wiki/DLVm
+AE600A,17-20923,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+A08673,N133BD,Dominick Holdings Wisconson,de Havilland DHC-2 Beaver,DHC2,Civ,Radial Engine,Highwing,I Am Old,Historic,https://w.wiki/DLW5
+A886EA,N649CP,Civil Air Patrol,Cessna 182,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
+A3323A,N305DK,Washington State Patrol,Cessna 206H Stationaire,C206,Pol,Rain Spots on the Lens,Flying Copper,Eye in the Sky,Police Forces,https://w.wiki/DLWM
+AE5779,14-20649,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+A6735F,N5145N,Ace Maker Aviation,Boeing Stearman B75N1 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
+AC29D3,N883JS,Private,Jonker JS-3 Rapture Electric Sailplane,JS3E,Civ,Flying Wing,Nope Mobile,Glider,You came here in that thing?,https://w.wiki/DLWi
+A44360,N374HK,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://w.wiki/3jtt
+A07232,N128J,Department of Homeland Security,Beechcraft Super King Air 350,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A10FE4,N168FA,Black Op Holding,SIAI Marchetti S.211,S211,Civ,Ciao,Target Practice,Jet Trainer,Zoomies,https://w.wiki/DLWt
