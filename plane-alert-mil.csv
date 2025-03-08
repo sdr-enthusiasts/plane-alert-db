@@ -1848,7 +1848,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4015C8,G-ASJV,The Old Flying Machine Company,Supermarine Spitfire LFIXb,SPIT,Mil,Historic,War Bird,MH434,Historic,https://tinyurl.com/pk3346je
 40491E,G-STCH,German Air Force,Fieseler Fi 156A-1 Storch,F156,Mil,History,I Am Old,Liason,GAF,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
 405358,ZJ165,Royal Navy Fleet Air Arm,AS365 Dauphin,AS65,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
-406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver
+406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://w.wiki/DLW5
 4072B9,G-MEPS,Royal Air Force,Embraer Phenom 100,E50P,Mil,45 Squadron,Training Wheels,L-Plate,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1
 407887,G-SAEB,RAF,Supermarine Spitfire LFXVI,SPIT,Mil,War Bird,Fighter,WW2,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire_(late_Merlin-powered_variants)
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
@@ -3585,7 +3585,7 @@ A10090,N164AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To F
 A10447,N165AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A11C57,956,Venezuelan Air Force,Cessna 208B Caravan,C208,Mil,Light Utility,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 A11CF8,17-01609,United States Army,DHC-8-311,DH8C,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
-A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.ga-asi.com/remotely-piloted-aircraft/mq-9b
+A169D7,N190TC,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://w.wiki/3jtt
 A1A131,N204DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A1A4E8,N205DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A2C83E,N279DH,US Special Operations Command,PZL-M28 Skytuck,M28,Mil,Covert,STOL,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -3598,6 +3598,7 @@ A34ADA,N311DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fi
 A3BE59,N340LS,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 A3E533,N350EB,US Special Operations Command,B350 Super King Air,B350,Mil,Covert,ISR,SOCOM,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 A41409,N362DD,USAF,PZL-M28 Skytuck,M28,Mil,Covert,Special Ops,STOL,Special Forces,https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command
+A44360,N374HK,General Atomics,MQ-9B SkyGuardian,Q9,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://w.wiki/3jtt
 A486EA,N931EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 A4B055,N40098,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 A4BBA7,403,Venezuelan Air Force,Cessna Citation II,C550,Mil,VIP Transport,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
@@ -7244,6 +7245,7 @@ AE5772,10-00256,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Ut
 AE5773,10-00257,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE5774,10-00259,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE5775,10-00260,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
+AE5779,14-20649,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE577D,14-20653,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5781,14-20657,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE578D,14-20669,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7624,6 +7626,7 @@ AE5FAE,15-46067,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE5FAF,15-46068,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FE8,76-22565,United States Army,DHC UV-18A Twin Otter,DHC6,Mil,Surveillance,Eye In The Sky,Testbed,Dogs with Jobs,https://w.wiki/8p5d
 AE5FEA,163057,United States Navy,Sikorsky MH-53E Sea Dragon,H53S,Mil,Chopper,Airborne Minesweeper,Get To The Choppa,United States Navy,https://www.navy.mil
+AE600A,17-20923,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6027,17-20952,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE6037,17-20968,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6041,80-23378,United States Army,Beech RC-12D Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://w.wiki/8p9R
