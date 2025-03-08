@@ -1349,7 +1349,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 44E42B,OO-YAK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 44E576,OO-YKV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 44E6D6,OO-YVV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-44F421,CH-01,Belgian Air Component,C-130H Hercules,C130,Civ,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
+44F421,CH-01,Belgian Air Component,Lockheed C-130H Hercules,C130,Civ,Cargo,Tactical Airlift,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F64C,H-38,Belgian Air Component,Agusta A.109 BA,A109,Civ,Get To The Choppa,Multi Role,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F652,H-44,Belgian Air Component,Agusta A.109 BA,A109,Civ,Get To The Choppa,Multi Role,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 451DA8,LZ-FLL,Bright Flight,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
@@ -2183,7 +2183,7 @@ A045CB,N1167A,Tenax Aerospace,B350 Super King Air,B350,Civ,Surveillance,ISR,Eye 
 A046CB,N117GA,Berlin Airlift Historical Foundation,Boeing C-97G Stratofreighter,C97,Civ,Old Stuff,Angel of Deliverance,The Last Of Us,Distinctive,https://tinyurl.com/dn9wn3x4
 A0470A,N117JP,Sanborn Map Company,Piper PA-31,PA31,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/D9rY
 A04A91,N118GR,Private,Thorp T-18,T18,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://w.wiki/7oBZ
-A04B9B,N118TG,International Air Response,C-130A Hercules,C130,Civ,Government Contractor,Entertainment,Energy,Dogs with Jobs,https://internationalairresponse.com/
+A04B9B,N118TG,International Air Response,Lockheed C-130A Hercules,C130,Civ,Government Contractor,Entertainment,Energy,Dogs with Jobs,https://internationalairresponse.com/
 A04DFB,N119DP,Warbird Adventures LLC,North American T-6 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://www.t6harvard.com/belgium-harvards/g-tdjn/
 A04F04,N119QD,Quest Diagnostics,Pilatus PC-12/45,PC12,Civ,Clinical Laboratory,Diagnostic Testing,Drug Testing,As Seen on TV,https://w.wiki/CuKh
 A0517A,N12BH,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -2835,7 +2835,7 @@ A4B1A6,N401PJ,Skylens,Piper PA-23 Aztec 250D,PA27,Civ,Aerial Survey,Measuring St
 A4B202,N401TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 A4B421,N402AT,Aero Air,Embraer ERJ-135LR,E135,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
 A4B425,N402AX,Airborne Tactical Advantage,IAI F-21 Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
-A4B50C,N402LC,Lynden Air Cargo,C-130H Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
+A4B50C,N402LC,Lynden Air Cargo,Lockheed C-130H Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 A4B7A0,N40288,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A4B7BC,N40291,Private,DHC-1 Chipmunk 23,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A4B7DC,N403AX,Airborne Tactical Advantage,IAI F-21 Kfir C2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
