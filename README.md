@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15110** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
+There currently are about **15115** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/46ff4328-09d3-4e65-ab5a-bd2ba27a18fd/page/4taCC) contains details of the main list and the most recent additions.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15110)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15115)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11840)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11844)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4259)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8205)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8210)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (926)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1720)
 
@@ -101,7 +101,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|245|
-|United States Navy|United States Naval avaitors. Some say they are the best of the best.|499|
+|United States Navy|United States Naval avaitors. Some say they are the best of the best.|504|
 |USAF|Aircraft of the United States Air Force|2343|
 |Vanity Plate|Distinctive registrations|78|
 |Watch Me Fly|Flying and Training Schools|75|

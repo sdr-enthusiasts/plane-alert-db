@@ -55,7 +55,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0AC10B,EJC-1126,Colombian Army,B350 Super King Air,B350,Mil,Electronic Countermeasures,SIGNIT,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC191,EJC-1138,Colombian Army,Cessna 208B-EX Caravan,C208,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC35A,ARC-703,Colombian Navy,ATR 42-320,AT43,Mil,Utility,Military Transport,Plus Ultra,Other Navies,https://w.wiki/4meJ
-0AC7DD,FAC4476,Colombian Air Force,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,Sic Itur ad Astra,Other Air Forces,https://w.wiki/6kJE
+0AC7DD,FAC4476,Colombian Air Force,Bell 206B Jet Ranger III,B06,Mil,Chopper,Training Wheels,Sic Itur ad Astra,Other Air Forces,https://w.wiki/6kJE
 0AC8BD,FAC3104,Colombian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Guns Guns Guns,Toucan Sam,Other Air Forces,https://w.wiki/6kJE
 0AC8F4,FAC1658,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://w.wiki/Cxho
 0AC8F5,FAC1654,Colombian Air Force,Basler AC-47T Fantasma,DC3T,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Skytrain,Gunship,https://w.wiki/Cxho
@@ -5628,6 +5628,7 @@ AE1388,03-8154,USAF,Lockheed C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,
 AE1389,04-8153,USAF,Lockheed C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE138A,04-3142,USAF,Lockheed C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE138B,04-3143,USAF,Lockheed C-130J-30 Super Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
+AE1395,614856,United States Navy,Northrop T-38C Talon,T38,Mil,Test Pilot,Bicycle Made For Two,In The Navy,United States Navy,https://w.wiki/9VjQ
 AE1396,701579,United States Navy,Northrop T-38A Talon,T38,Mil,Test Pilot,Bicycle Made For Two,In The Navy,United States Navy,https://w.wiki/9VjQ
 AE139A,04-3708,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
 AE139B,04-3709,USAF,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -7574,7 +7575,9 @@ AE5ED3,162049,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training
 AE5ED7,162053,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5ED8,162054,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EDA,162057,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
+AE5EDF,162063,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EE3,162067,United States Marine Corps,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,Mmm Crayons,United States Marine Corps,http://tinyurl.com/th57c
+AE5EE6,162668,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EEA,162672,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EED,162676,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EF8,162812,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
@@ -7748,6 +7751,7 @@ AE6294,165061,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE6295,165062,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE629F,165073,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A3,165080,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62A4,165081,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A5,165082,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A6,165083,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62AA,165088,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -8091,6 +8095,7 @@ AECAA3,170752,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo
 AED12A,170753,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AED3F6,22-03485,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AED618,22-03486,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AED922,170749,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AED9B7,22-03488,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AF20C1,170748,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
