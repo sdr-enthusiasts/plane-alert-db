@@ -2208,6 +2208,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D6F56,D-FOKK,Classic Wings,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 3D7656,D-FRBI,Private,EKW C-3603,C365,Civ,Training Wheels,Not Very Good,History,Historic,https://en.wikipedia.org/wiki/EKW_C-36
 3D76A0,D-FREE,Pullout Skydive,Pilatus PC-6 B2-H2,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pullout.de/?lang=en
+3D777F,D-FRMT,QinetiQ GmbH,Pilatus PC-XII 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
 3D7A64,D-FSPG,BSF Swissphoto,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://en.bsf-swissphoto.com/
 3D7CC7,D-FTMT,QinetiQ GmbH,Pilatus PC-12 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
 3D7F2E,D-FUKK,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fukk/
@@ -3076,6 +3077,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 401003,G-LGEZ,Private,Rutan Long-EZ,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://w.wiki/CVYP
 40100E,G-VANC,Skydive Ireland,GA-8 Airvan,GA8,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 401046,G-WCCP,2 Excel Aviation,B200 Super King Air,BE20,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+40105F,G-BJED,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 401073,G-AERV,Private,Miles Whitney Straight M.11A,WHIT,Civ,Air Racing,I Am Old,Shiny,Historic,https://en.wikipedia.org/wiki/Miles_Whitney_Straight
 401075,G-ZZEL,Gazelle Squadron Display Team,Aerospatiale Gazelle SA31B,GAZL,Civ,Do A Barrel Roll,Chopper,Whirly Bird,Aerobatic Teams,https://gazellesquadron.co.uk/node/homepage
 4010A2,G-BYSJ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3668,6 +3670,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4076FC,G-OWLS,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
 4076FE,G-REXA,RVL Aviation Ltd,B200GT Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
 407734,G-MGPS,Magpas Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Flying Doctors,Medical Evac,Flying Doctors,https://www.magpas.org.uk/
+40774D,G-BJYT,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407775,G-SEDC,Private,Fairchild F-24 W,FA24,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/Fairchild_24
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 4077C4,G-FOMO,Luxaviation UK,Bombardier Global 6000,GLEX,Civ,Fear Of Missing Out,Must Be Nice,Vanity Plate,Vanity Plate,https://www.luxaviationuk.com
@@ -3730,10 +3733,14 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407BBD,G-NGTC,The Starlings Display Team,Extra NG,EXNG,Civ,Aerobatics,The Starlings,Display Team,Aerobatic Teams,https://tinyurl.com/5vmpwb4w
 407BDF,G-WKTS,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
 407C16,G-JAAM,IAS Medical Ltd,Diamond Aircraft DA62,DA62,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
+407C17,G-BLNU,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
+407C18,G-BLNT,Draken Intl,Britten Norman Islander BN-2T AL.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407C1D,G-GAMB,Private,Game Composites Gamebird GB1,GB1,Civ,Do A Barrel Roll,All Carbon,Unlimted Aerobatics,Joe Cool,https://gamecomposites.com/
 407C7C,G-MIIL,Angels High,Extra NG,EXNG,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,http://www.angels-high.co.uk/
 407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
+407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 4176E2,2,Myanmar Air Force,Fokker F70,F70,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 424059,VP-BNZ,Gazpromavia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -5773,6 +5780,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4CAAB1,EI-TVG,Charter Jets,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4CAB3D,EJ-REVA,Reva Air Ambulance,Hawker 125 800XP,H25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com
 4CACA4,EI-ICS,Irish Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
+4CAEC4,EI-IRF,Irish Coastguard,Raytheon Aircraft Company King Air B200,BE20,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
 4CC468,TF-SIF,Icelandic Coast Guard,DHC-8-314Q,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 4CC51C,TF-EIR,Icelandic Coast Guard,Eurocopter EC225 Super Puma,AS32,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.lhg.is/english/
 4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,AS32,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.lhg.is/english/
@@ -11626,6 +11634,7 @@ AE0D31,96-26714,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE0D35,96-26718,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0D5B,89-26166,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0D6F,96-26726,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE0D8B,85-24410,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0DCB,83-23886,United States Army,Sikorsky UH-60A+ Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0DD3,84-23957,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0DDA,83-23884,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -13330,6 +13339,7 @@ AE2FAF,08-8203,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globem
 AE2FB0,08-8204,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
 AE2FD2,166502,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE2FD6,168076,United States Navy,Grumman E-2C Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
+AE43DD,170746,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AE4788,07-20036,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4798,08-20138,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE47B5,09-20226,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14126,6 +14136,7 @@ AE5F3C,169547,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasil
 AE5F3D,169548,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F41,169552,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F47,169558,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F49,169560,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F50,169567,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F92,18-46039,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5F93,18-46040,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -14271,6 +14282,7 @@ AE6284,163647,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE6289,163652,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE628B,163654,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE628E,163657,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE6291,165058,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6294,165061,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6295,165062,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE629F,165073,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14287,6 +14299,7 @@ AE62B5,165464,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE62B6,165465,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62BF,165474,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62C5,165481,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62C6,165482,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62CA,165488,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62CB,165489,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62CC,165490,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14301,14 +14314,20 @@ AE62E5,165614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE62EA,165621,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62EB,165620,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62ED,165622,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62F0,165474,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62F8,165634,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62F9,165635,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62FC,165638,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62FE,165639,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE630C,167083,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE630D,167084,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6310,167088,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE6316,167093,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6318,167095,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6319,167096,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE631B,167098,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE631F,167102,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE6321,167104,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6322,167105,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE633A,19-72450,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE633C,19-72452,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
@@ -14404,6 +14423,7 @@ AE67B1,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,
 AE67B5,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67B9,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67BB,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE67BD,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67C0,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67C1,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE67C3,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -14446,6 +14466,7 @@ AE684F,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,
 AE6851,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6852,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6854,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6861,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6864,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE686A,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6876,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -15118,24 +15139,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-4CAEC4,EI-IRF,Irish Coastguard,Raytheon Aircraft Company King Air B200,BE20,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
-407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
-407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
-40105F,G-BJED,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
-40774D,G-BJYT,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
-407C17,G-BLNU,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
-407C18,G-BLNT,Draken Intl,Britten Norman Islander BN-2T AL.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
-3D777F,D-FRMT,QinetiQ GmbH,Pilatus PC-XII 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
-AE0D8B,85-24410,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE43DD,170746,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
-AE5F49,169560,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
-AE6291,165058,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE62C6,165482,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE62F0,165474,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE62F9,165635,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE630D,167084,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE6316,167093,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE631F,167102,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE6321,167104,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE67BD,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
-AE6861,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW

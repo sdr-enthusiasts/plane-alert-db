@@ -362,6 +362,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407843,G-HMGB,HM Coastguard,B200 Super King Air,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.justice.gov
 407A3E,G-XATW,UK Government,Airbus A321neo,A21N,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party?,Governments,https://www.bbc.co.uk/news/uk-politics-60159230
+407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 4241BB,VP-CAL,Prince Mohammed bin Fahd al Saud,Boeing 777-LR,B77L,Gov,Saudi Arabia,Government,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4241F8,VP-FBD,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
 4241FA,VP-FBR,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
@@ -477,6 +479,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4CA98D,EI-ICA,Irish Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
 4CA98F,EI-ICD,Irish Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
 4CACA4,EI-ICS,Irish Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
+4CAEC4,EI-IRF,Irish Coastguard,Raytheon Aircraft Company King Air B200,BE20,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
 4CC468,TF-SIF,Icelandic Coast Guard,DHC-8-314Q,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Icelandic_Coast_Guard
 4CC51C,TF-EIR,Icelandic Coast Guard,Eurocopter EC225 Super Puma,AS32,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.lhg.is/english/
 4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,AS32,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.lhg.is/english/

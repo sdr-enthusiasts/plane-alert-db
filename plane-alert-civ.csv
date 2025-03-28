@@ -363,6 +363,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D6F56,D-FOKK,Classic Wings,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
 3D7656,D-FRBI,Private,EKW C-3603,C365,Civ,Training Wheels,Not Very Good,History,Historic,https://en.wikipedia.org/wiki/EKW_C-36
 3D76A0,D-FREE,Pullout Skydive,Pilatus PC-6 B2-H2,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pullout.de/?lang=en
+3D777F,D-FRMT,QinetiQ GmbH,Pilatus PC-XII 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
 3D7A64,D-FSPG,BSF Swissphoto,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://en.bsf-swissphoto.com/
 3D7CC7,D-FTMT,QinetiQ GmbH,Pilatus PC-12 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
 3D7F2E,D-FUKK,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fukk/
@@ -547,6 +548,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 401003,G-LGEZ,Private,Rutan Long-EZ,LGEZ,Civ,Whoosh,Shiny,Spaceship Spaceship Spaceship,Joe Cool,https://w.wiki/CVYP
 40100E,G-VANC,Skydive Ireland,GA-8 Airvan,GA8,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 401046,G-WCCP,2 Excel Aviation,B200 Super King Air,BE20,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+40105F,G-BJED,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 401073,G-AERV,Private,Miles Whitney Straight M.11A,WHIT,Civ,Air Racing,I Am Old,Shiny,Historic,https://en.wikipedia.org/wiki/Miles_Whitney_Straight
 401075,G-ZZEL,Gazelle Squadron Display Team,Aerospatiale Gazelle SA31B,GAZL,Civ,Do A Barrel Roll,Chopper,Whirly Bird,Aerobatic Teams,https://gazellesquadron.co.uk/node/homepage
 4010A2,G-BYSJ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -1082,6 +1084,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4076FC,G-OWLS,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
 4076FE,G-REXA,RVL Aviation Ltd,B200GT Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
 407734,G-MGPS,Magpas Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Flying Doctors,Medical Evac,Flying Doctors,https://www.magpas.org.uk/
+40774D,G-BJYT,Draken Intl,Britten-Norman Islander BN-2T,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407775,G-SEDC,Private,Fairchild F-24 W,FA24,Civ,Highwing,I Am Old,History,Historic,https://en.wikipedia.org/wiki/Fairchild_24
 4077B6,G-CLLU,Windracers Ltd,UoS Ultra-UAS,UOSUAV,Civ,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.southampton.ac.uk/news/2020/04/drones-covid-iow.page
 4077C4,G-FOMO,Luxaviation UK,Bombardier Global 6000,GLEX,Civ,Fear Of Missing Out,Must Be Nice,Vanity Plate,Vanity Plate,https://www.luxaviationuk.com
@@ -1132,6 +1135,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407BBD,G-NGTC,The Starlings Display Team,Extra NG,EXNG,Civ,Aerobatics,The Starlings,Display Team,Aerobatic Teams,https://tinyurl.com/5vmpwb4w
 407BDF,G-WKTS,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
 407C16,G-JAAM,IAS Medical Ltd,Diamond Aircraft DA62,DA62,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
+407C17,G-BLNU,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
+407C18,G-BLNT,Draken Intl,Britten Norman Islander BN-2T AL.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407C1D,G-GAMB,Private,Game Composites Gamebird GB1,GB1,Civ,Do A Barrel Roll,All Carbon,Unlimted Aerobatics,Joe Cool,https://gamecomposites.com/
 407C7C,G-MIIL,Angels High,Extra NG,EXNG,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,http://www.angels-high.co.uk/
 407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
