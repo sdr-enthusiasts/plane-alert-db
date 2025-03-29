@@ -258,6 +258,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 084C00,TT-AAI,Gov of Chad,Grumman GII,GLF2,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 084F00,TT-ABC,Gov of Chad,McDonnell Douglas MD-87,MD87,Gov,Dictator Alert,Idriss Deby,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 084FE0,TT-AAH,Chadian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Force Aerienne Tchadienne,Other Air Forces,https://en.wikipedia.org/wiki/Chadian_Air_Force
+0852F2,PH-STB,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 088005,5V-TAI,Gov of Togo,Fokker F28 1000,F28,Gov,Dictator Alert,Faure Gnassingbe,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Maeen Abdulmalik Saeed,Government,Governments,https://www.parliament.gov.zm
 08AF3D,AF002,Zambian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Defend And Support,Other Air Forces,https://w.wiki/4n6h
@@ -2101,6 +2102,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3CC57D,D-CCCB,DRF Luftrettung,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3CC5FF,D-CCHB,Bauhaus AG,Learjet 35,LJ35,Civ,Bizjet,Home Improvement,DIY,As Seen on TV,https://en.wikipedia.org/wiki/Bauhaus_(company)
 3CC9AB,D-CDRF,DRF Luftrettung,Learjet 35A,LJ35,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
+3CCBD6,D-CEMO,Exxaero,Hawker Beechcraft Corp 750,H25B,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
+3CCC7F,D-CETB,Exxaero GmbH,Hawker Beechcraft Corp Hawker 750,H25B,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 3CCDCA,D-CFFU,DLR Flugbetrieb,Dornier Do 228-212,D228,Civ,Testbed,Aerospace Research,Clean Propulsion,Dogs with Jobs,https://www.dlr.de/EN/Home/home_node.html
 3CCE6F,D-CFMD,Flight Calibration Services,B350 Super King Air,B350,Civ,Measuring Stick,Calibration,Certification,Ptolemy would be proud,http://www.flight-cal.com
 3CCE70,D-CFME,Flight Calibration Services,B350 Super King Air,B350,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com
@@ -2466,6 +2469,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E46E5,D-ISAV,Aerodata AG,Cessna 402B,C402,Civ,Special Mission,Surveillance,Flight Inspection,Oxcart,https://www.aerodata.de/en/home.html
 3E4712,D-ISCO,Private,Dornier Do 28 G-92 Skyservant,D28T,Civ,Glitterball,Disco Doesnt Suck,Vanity Plate,Vanity Plate,https://youtu.be/e6LOWKVq5sQ
 3E477E,D-ISGS,SVEGE Flight Inspection,AP68TP-600 Viator,VTOR,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.svege.de/about-us.html
+3E4AE2,D-ITOC,Exxaero GmbH,Raytheon Aircraft Company Premier I,PRM1,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 3E4AEB,D-ITOL,AVT Airborne Sensing,Cessna T303 Crusader,C303,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
 3E5176,D-IWAW,AVT Airborne Sensing,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.avt.at/avt-group/avt-airborne-sensing
 3E80C0,55+01,German Air Force,Lockheed C-130J-30 Super Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
@@ -5198,6 +5202,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484609,PH-TBR,RNAF Historic Flight,Noorduyn AT-16ND Harvard IIB,T6,Mil,Trainer,History,WW2,Historic,https://kluhv.nl/
 484620,PH-KHV,RNAF Historic Flight,Beech Expeditor 3NM,BE18,Mil,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://kluhv.nl/
 484646,PH-CGC,Netherlands Coast Guard,Dornier Do 228-212,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustwacht.nl/en
+484703,PH-NDK,Exxaero,Dassault Falcon 900 B,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 4847AE,PH-DHC,RNAF Historic Flight,DHC-2 Beaver U-6A,DHC2,Mil,Light Transport,Medical Evac,History,Historic,https://kluhv.nl/
 48488D,PH-JMP,Skydive Teuge,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydiveteuge.com/
 484989,PH-PGP,Wings over Holland,Pitts Special S-2A,PTS2,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -5224,6 +5229,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484E86,PH-XXV,RNAF Historic Flight,North American B-25N Mitchell,B25,Mil,Bomber,War Bird,WW2,Historic,https://kluhv.nl/
 484F03,PH-ZWS,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 484F76,PH-EUE,CHC Netherlands,AgustaWestland AW.139,A139,Gov,Ship Supply,Support,Rescure,Dogs with Jobs,https://en.wikipedia.org/wiki/CHC_Helicopter
+484FA9,PH-EBR,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 484FD6,PH-FBH,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 484FD7,PH-DCG,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 484FF6,PH-DTW,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
@@ -5238,13 +5244,16 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4850BE,P4RMA,Libya,Dassault Falcon 900,F900,Gov,Dictator Alert,General Hafar,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4850C6,P4-LTI,Liza Transport International,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4850CA,P4-POL,Aruba Police,Bell 206L Long Ranger,B06,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Aruba_Police_Force
+4850CF,PH-LAU,Exxaero,Dassault Falcon 900EX,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 48510F,PH-YXY,Private,Velocity XL-5 RG,VELO,Civ,Canards,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://w.wiki/Cbv8
 4851D4,PH-IIJ,Private,Amateur Built Acrosport II,ACR2,Civ,Biplane,Aerobatics,Homebrew,Joe Cool,https://en.wikipedia.org/wiki/Acro_Sport_II
 4851D5,PH-VDK,Private,Sonex Aircraft Onex,ONEX,Civ,Teeny Tiny,You Came Here In That Thing,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Sonex_Aircraft_Onex
 485202,PH-SVZ,Slagboom en Peeters Luchtfotografie,Cessna Citation II,C550,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/mttrvpe4
 485221,PH-4M5,Private,3i Sky Arrow 450T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
+4852F2,PH-STB,Exxaero,Dassault Falcon 900 C,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 485324,PH-4N3,Private,BLACKSHAPE BS100 Prime,PRIM,Civ,Sleek,Shiny,Fast,Joe Cool,https://en.wikipedia.org/wiki/Blackshape_Prime
 485372,PH-4P4,Private,BLACKSHAPE BS100 Prime,PRIM,Civ,Sleek,Shiny,Fast,Joe Cool,https://en.wikipedia.org/wiki/Blackshape_Prime
+4853B3,PH-JTJ,Exxaero,Cessna Citation Sovereign,C680,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 4853E2,PH-OOP,ANWB Medical Air Assistance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 4853F6,PH-HOW,ANWB Medical Air Assistance,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 485586,PH-JBR,Paracentrum Texel,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.paracentrumtexel.nl/en/
@@ -5263,6 +5272,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 485C3F,PH-4S7,Private,Blackshape BS100 Prime,PRIM,Civ,Sleek,Shiny,Fast,Joe Cool,https://en.wikipedia.org/wiki/Blackshape_Prime
 485C5B,PH-KIO,Kavel 10 Aerial Surveys,Tecnam P.2006T,P06T,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://kavel10.nl/#team
 485D9E,PH-MAS,Miramap Aerial Surveys,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://en.miramap.com/home
+485E31,PH-IWS,Exxaero,Dassault Falcon 7X,FA7X,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
+485E32,PH-GWS,Exxaero,Dassault Falcon 7X,FA7X,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 485E49,PH-DOC,ANWB Medical Air Assistance,Eurocopter EC135 P3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.anwb.nl/maa
 485EC3,PH-ZCZ,Zeusch Aviation,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://zeusch.com
 485F2A,PH-SLE,Slagboom en Peeters Luchtfotografie,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tinyurl.com/mttrvpe4
@@ -15151,14 +15162,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-0852F2,PH-STB,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-3CCBD6,D-CEMO,Exxaero,Hawker Beechcraft Corp 750,H25B,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-3CCC7F,D-CETB,Exxaero GmbH,Hawker Beechcraft Corp Hawker 750,H25B,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-3E4AE2,D-ITOC,Exxaero GmbH,Raytheon Aircraft Company Premier I,PRM1,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-484703,PH-NDK,Exxaero,Dassault Falcon 900 B,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-484FA9,PH-EBR,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-4850CF,PH-LAU,Exxaero,Dassault Falcon 900EX,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-4852F2,PH-STB,Exxaero,Dassault Falcon 900 C,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-4853B3,PH-JTJ,Exxaero,Cessna Citation Sovereign,C680,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-485E31,PH-IWS,Exxaero,Dassault Falcon 7X,FA7X,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-485E32,PH-GWS,Exxaero,Dassault Falcon 7X,FA7X,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
