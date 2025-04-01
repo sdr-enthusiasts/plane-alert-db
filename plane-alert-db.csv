@@ -153,6 +153,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 038613,TU-VAS,Gov of the Ivory Coast,Airbus ACJ319-133X,A319,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
 038615,TU-VAE,Ivory Coast Air Force,Gulfstream G550,GLF5,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
 038F46,TU-VAI,Ivory Coast Air Force,Gulfstream G400SP,GLF4,Mil,VIP Transport,Government,FACI,Other Air Forces,https://w.wiki/4z6h
+038F4A,TU-VAJ,Gov of the Ivory Coast,Airbus A320 251NCJSL,A20N,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
 03E003,TR-LEX,Gov of Gabon,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E004,TR-KSP,Gov of Gabon,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E00A,TR-KPR,Gov of Gabon,Boeing 777,B772,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -228,6 +229,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1E4,A7-HBJ,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A1F0,A7-TAA,Qatar Executive,Bombardier Global 6000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
 06A248,A7-MAA,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://w.wiki/4ntJ
 06A255,A7-MAC,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27A,A7-MAM,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
@@ -1348,6 +1350,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 33F10E,MM81597,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33F9DF,MM81601,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FCD6,MM81522,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
+33FCEB,MM62332,Italian Air Force,Gulfstream Aerospace G550,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FD0A,MM62329,Italian Air Force,Gulfstream 5,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FD45,MM-AV-SA0018,NATO,RQ-4D Phoenix,Q4,Mil,UAV,Eye In The Sky,Alliance Ground Surveillance,Oxcart,https://en.wikipedia.org/wiki/Alliance_Ground_Surveillance
 33FD48,MM81568,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
@@ -1400,8 +1403,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 33FFC0,MM62210,Italian Air Force,Dassault Falcon 900EX,F900,Mil,Bizjet,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFC1,MM62209,Italian Air Force,Airbus ACJ319-115X,A319,Gov,Italy,Mario Draghi,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
 33FFD3,MM62205,Italian Air Force,Piaggio P-180 Avanti,P180,Gov,Italy,VIP Transport,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Italy
+33FFE1,MM62195,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFE3,MM62193,Italian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFE5,MM62191,Italian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
+33FFF0,MM62180,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF1,MM62179,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF2,MM62178,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF3,MM62177,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
@@ -2519,6 +2524,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E9F71,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E9FD2,54+29,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA048,5426,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA12C,10+01,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://w.wiki/Dfbp
 3EA15A,31+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA18B,30+32,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA1CC,54+04,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -2594,6 +2600,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F528F,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F531F,30+46,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5360,46+24,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
+3F5407,15+10,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F551D,15+02,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5572,54+33,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5595,31+27,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -2603,6 +2610,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F581F,4X+XX,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F5888,46+07,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F58AE,14+01,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F59F3,15+11,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5B0F,30+84,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5C84,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5D05,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -3411,6 +3419,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 405FF8,G-ETPI,Empire Test Pilots School,AW.109,A109,Civ,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://www.qinetiq.com/en/what-we-do/services-and-products/etps
 406004,G-XXED,The Kings Helicopter flight,Sikorsky S-76 C,S76,Gov,Fred and Gladys,The King,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Charles_III
 406046,G-CFWJ,Private,P & M Aviation Quik GT450,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
+4060DA,G-CGKK,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
+4060DF,G-CGKP,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
+4060E1,G-CGKS,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
 406100,G-DCPB,National Police Air Service,Eurocopter EC145,EC45,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 406138,G-CGAO,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 406147,G-OTOP,Private,P & M Aviation QuikR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,http://www.pmaviationusa.com/
@@ -4476,6 +4487,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C922,ZM341,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
 43C923,ZM342,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
 43C924,ZM343,Royal Air Force,Raytheon T-6C Texan T1,TEX2,Mil,Training Wheels,Pass The Sick Bag,L-Plate,RAF,https://www.raf.mod.uk
+43C925,PP-XHH,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Civ,Jet Fighter,Transonic,Hunter Team,Distinctive,https://hunterteam.com
 43C92A,ZM496,Royal Air Force,Airbus Jupiter HT1,EC45,Mil,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://w.wiki/4mcw
 43C92B,ZM497,Royal Air Force,Airbus Jupiter HT1,EC45,Mil,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://w.wiki/4mcw
 43C92C,ZM498,Royal Air Force,Airbus Jupiter HT1,EC45,Mil,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://w.wiki/4mcw
@@ -4489,6 +4501,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C963,ZB134,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43C964,ZB135,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43C965,ZB136,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
+43C968,ZB139,Qatar Emiri Air Force,British Aerospace Hawk T.2A,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43CAE3,ZK343,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAE8,ZK334,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
@@ -5149,6 +5162,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 480C43,T-057,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 480C44,T-058,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 480C46,T-060,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
+480C47,T-061,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 481040,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Choppa,Foutje Bedankt,Security On The Sea,Other Navies,https://w.wiki/4ygj
 481041,N-088,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Choppa,Foutje Bedankt,Security On The Sea,Other Navies,https://w.wiki/4ygj
 481042,N-102,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Helikopter,Search And Rescue,Security On The Sea,Other Navies,https://w.wiki/4ygj
@@ -6439,6 +6453,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 78CF95,LH94007,Chinese Army,Shaanxi Y-8,AN12,Mil,Military Transport,Vashe Zdorovye,PLA,Toy Soldiers,https://w.wiki/4meK
 79141C,21047,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 791CF7,B-4662,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+79819F,B-4091,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C104,21043,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D0,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D1,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -6471,6 +6486,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7AA759,B-4188,China Geological Survey,Learjet 35A,LJ35,Gov,Aerial Survey,Measuring Stick,Rock Lobster,Ptolemy would be proud,https://en.cgs.gov.cn
 7B0949,B-4065,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0A1B,B-4066,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+7B0B31,B-4092,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7B0EAB,B-4067,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0FCD,B-4068,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B7026,B-4069,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
@@ -7052,8 +7068,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 87CC40,08-1212,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC49,18-1213,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC4A,18-1214,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD01,14-3611,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD02,24-3612,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CD03,02-3031,Japan Air Self-Defense Force,Cessna Citation Latitude,C68A,Civ,Flight Inspection,Light Utility,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CD04,02-3032,Japan Air Self-Defense Force,Cessna Citation Latitude,C68A,Mil,Flight Inspection,Light Utility,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD2E,44-3613,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD2F,44-3614,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 8805A1,93303,Royal Thai Survey Dept,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/4mcm
 8805A2,93304,Royal Thai Survey Dept,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/4mcm
 8805A3,93305,Royal Thai Survey Dept,B200 Super King Air,BE20,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://w.wiki/4mcm
@@ -13788,6 +13808,7 @@ AE571F,12-0065,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5735,169018,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
+AE574D,19-46007,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE574F,15-46009,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5750,19-46010,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5751,15-46011,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -13986,6 +14007,7 @@ AE5B8D,08-0850,USAF,Pilatus PC-12,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https
 AE5BA7,169060,United States Navy,Grumman E-2D Advanced Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE5BAB,??????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE5BAE,13-20641,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5BBD,16-46012,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BBE,16-46013,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BBF,16-46014,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BC0,16-46015,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -14367,19 +14389,37 @@ AE6370,18-21032,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE638D,169792,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE638E,169793,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE6395,18-21037,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE63B1,19-46069,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B2,15-46070,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63B3,19-46071,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63B4,20-46072,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B5,20-46073,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B6,20-46074,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B7,20-46075,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B8,20-46076,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B9,20-46077,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BA,20-46078,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BB,20-46079,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BC,20-46080,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BD,20-46081,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BE,20-46082,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BF,20-46083,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C0,20-46084,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C1,21-46085,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C2,21-46086,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C3,21-46087,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C4,21-46088,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C5,21-46089,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C6,21-46090,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C7,21-46091,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C8,21-46092,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C9,21-46093,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CA,21-46094,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CB,21-46095,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CC,21-46096,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CD,21-46097,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CE,21-46098,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CF,22-46099,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63D1,64-13268,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63D2,65-10324,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63D4,65-10418,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -15051,6 +15091,7 @@ C2BE09,188769,Royal Canadian Air Force,McDonnell Douglas CF-188 Hornet,F18H,Mil,
 C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C363,330002,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
+C2C36D,330003,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C80075,ZK-ARL,Private,DHC-1 Chipmunk,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C80386,ZK-DUC,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 C80A95,ZK-BSV,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -15167,44 +15208,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-33FCEB,MM62332,Italian Air Force,Gulfstream Aerospace G550,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
-33FFE1,MM62195,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
-33FFF0,MM62180,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
-79819F,B-4091,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
-7B0B31,B-4092,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
-3EA12C,10+01,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://w.wiki/Dfbp
-3F5407,15+10,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
-3F59F3,15+11,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
-038F4A,TU-VAJ,Gov of the Ivory Coast,Airbus A320 251NCJSL,A20N,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
-43C925,PP-XHH,Hawker Hunter Aviation,Hawker Hunter T72,HUNT,Civ,Jet Fighter,Transonic,Hunter Team,Distinctive,https://hunterteam.com
-4060DA,G-CGKK,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
-4060DF,G-CGKP,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
-4060E1,G-CGKS,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
-480C47,T-061,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
-06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
-43C968,ZB139,Qatar Emiri Air Force,British Aerospace Hawk T.2A,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
-C2C36D,330003,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
-87CD01,14-3611,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
-87CD02,24-3612,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
-87CD2E,44-3613,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
-87CD2F,44-3614,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
-AE574D,19-46007,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE5BBD,16-46012,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63B1,19-46069,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63B3,19-46071,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63B4,20-46072,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63BB,20-46079,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63BE,20-46082,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63BF,20-46083,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C0,20-46084,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C1,21-46085,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C3,21-46087,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C5,21-46089,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C7,21-46091,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63C8,21-46092,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CA,21-46094,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CB,21-46095,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CC,21-46096,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CD,21-46097,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CE,21-46098,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE63CF,22-46099,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC

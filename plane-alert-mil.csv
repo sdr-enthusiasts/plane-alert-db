@@ -33,6 +33,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 062F01,5U-MBH,Niger Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Military Transport,Chonky Boy,Other Air Forces,https://w.wiki/4myf
 062F0F,5U-MBI,Niger Air Force,Dornier Do 228-201,D228,Mil,Utility,Light Transport,Niger,Other Air Forces,https://w.wiki/4myf
 0641E1,5N-FGZ,Nigerian Air Force,Bombardier Challenger 605,CL60,Mil,Bizjet,Must Be Nice,Lads from Lagos,Other Air Forces,https://en.wikipedia.org/wiki/Nigerian_Air_Force
+06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
 06A248,A7-MAA,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://w.wiki/4ntJ
 06A255,A7-MAC,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27A,A7-MAM,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
@@ -792,6 +793,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 33F10E,MM81597,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33F9DF,MM81601,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33FCD6,MM81522,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
+33FCEB,MM62332,Italian Air Force,Gulfstream Aerospace G550,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FD0A,MM62329,Italian Air Force,Gulfstream 5,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FD45,MM-AV-SA0018,NATO,RQ-4D Phoenix,Q4,Mil,UAV,Eye In The Sky,Alliance Ground Surveillance,Oxcart,https://en.wikipedia.org/wiki/Alliance_Ground_Surveillance
 33FD48,MM81568,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
@@ -836,8 +838,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 33FFB4,MM62223,Italian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://en.wikipedia.org/wiki/Alenia_C-27J_Spartan
 33FFBC,MM62218,Italian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://en.wikipedia.org/wiki/Alenia_C-27J_Spartan
 33FFC0,MM62210,Italian Air Force,Dassault Falcon 900EX,F900,Mil,Bizjet,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
+33FFE1,MM62195,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFE3,MM62193,Italian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFE5,MM62191,Italian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
+33FFF0,MM62180,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF1,MM62179,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF2,MM62178,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FFF3,MM62177,Italian Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
@@ -1321,143 +1325,145 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B9BFF,36,French Navy,Dassault Falcon 50,FA50,Mil,Etre Marin,Vive La France,Honour Homeland Valour Discipline,Other Navies,https://www.etremarin.fr
 3D16B7,2804,Myanmar Air Force,Grob G-120 TP-A,G12T,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 3D16B9,2809,Myanmar Air Force,Grob G-120 TP-A,G12T,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
-3DF28B,625,German Air Force,MBB Bo 105M,B105,Mil,Helicopter,Chopper,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3DF5BF,D-HNHV,German Air Force,Eurocopter EC145 D-3,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/luftwaffe
+3DF28B,625,German Air Force,MBB Bo 105M,B105,Mil,Helicopter,Chopper,Luftwaffe,GAF,https://w.wiki/Dfbp
+3DF5BF,D-HNHV,German Air Force,Eurocopter EC145 D-3,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://w.wiki/Dfbp
 3DF5C0,D-HNHW,German Army,Eurocopter H145,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/heer
 3DF5C1,D-HNHX,German Army,Eurocopter H145,EC45,Mil,Special Operations,Covert,Luftwaffe,Special Forces,https://www.bundeswehr.de/de/organisation/heer
-3E80C0,55+01,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E80DF,55+02,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8182,55+03,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E80C0,55+01,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E80DF,55+02,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E8182,55+03,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E819E,43+29,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E826F,54+15,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8525,31+47,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8555,31+38,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E826F,54+15,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E8525,31+47,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E8555,31+38,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E857E,79+10,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3E861B,30+94,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E861B,30+94,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E8629,4X+XX,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E865F,54+22,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E875E,55+04,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8764,55+05,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E865F,54+22,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E875E,55+04,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E8764,55+05,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E87C9,43+29,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E89E7,16+02,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E89E7,16+02,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3E8A4F,45+57,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E8A58,44+23,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E8A9A,31+44,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E8B41,54+13,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8A9A,31+44,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E8B41,54+13,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E8BCE,46+54,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3E8C6B,79+21,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3E8C89,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E8E96,54+34,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E8E96,54+34,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E92AC,4X-XX,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E9335,3X+XX,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E936C,30+35,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9335,3X+XX,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E936C,30+35,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
 3E93DE,46+55,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E93F1,????,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E95CA,14+05,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E93F1,????,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E95CA,14+05,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E95CB,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E970F,30+85,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E970F,30+85,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E98A1,46+05,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E98D9,45+88,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E9A29,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E9A57,44+75,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E9BD1,45+19,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E9BF7,54+02,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E9C06,30+49,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E9C5F,30+60,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9BF7,54+02,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E9C06,30+49,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E9C5F,30+60,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E9CD6,78+33,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3E9DAF,54+48,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9DAF,54+48,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E9F6A,45+57,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3E9F71,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E9FD2,54+29,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA048,5426,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA15A,31+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA18B,30+32,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA1CC,54+04,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3E9F71,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E9FD2,54+29,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA048,5426,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA15A,31+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA18B,30+32,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA1CC,54+04,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA2D7,44+33,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3EA437,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3EA567,46+36,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3EA653,54+05,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA653,54+05,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA74D,78+15,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3EA836,30+75,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EA91B,31+50,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EA836,30+75,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA91B,31+50,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EAB37,46+49,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3EAB46,46+44,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3EABD0,30+86,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EABD0,30+86,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EAD21,43+92,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EAD63,54+39,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EADE8,76+07,German Air Force,Airbus Helicopters EC-645 T2,EC45,Mil,Chopper,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EAEF2,30+01,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EAF7E,30+96,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EAD63,54+39,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EADE8,76+07,German Air Force,Airbus Helicopters EC-645 T2,EC45,Mil,Chopper,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EAEF2,30+01,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EAF7E,30+96,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EAFFF,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EB0EB,31+17,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB0FD,82+01,German Air Force,AS532 Cougar U2,AS32,Mil,Chopper,Military Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB1A6,16+01,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB0EB,31+17,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EB0FD,82+01,German Air Force,AS532 Cougar U2,AS32,Mil,Chopper,Military Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EB1A6,16+01,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EB1E3,43+48,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3EB1F8,44+21,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3EB2F3,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EB3E3,31+06,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB3F6,31+41,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB4FA,30+30,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB3E3,31+06,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EB3F6,31+41,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EB4FA,30+30,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EB57B,78+32,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3EB763,????,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB763,????,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
 3EB866,78+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3EB882,44+16,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EB90F,50+82,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB90F,50+82,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EB972,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EB99F,30+38,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EB9DB,30+74,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EBD12,30+51,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3EBD41,14+06,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EB99F,30+38,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3EB9DB,30+74,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EBD12,30+51,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EBD41,14+06,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EBDAB,44+16,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3EBE12,14+07,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3EBE12,14+07,German Air Force,Bombardier Global 6000,GLEX,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EBFCE,46+56,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F4038,30+29,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4049,30+71,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4038,30+29,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4049,30+71,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4090,43+98,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F4181,45+35,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F4220,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F4305,44+70,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F4368,54+01,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F44FF,30+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4368,54+01,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F44FF,30+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F458F,46+48,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F4674,45+85,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F46DB,54+27,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F47F3,31+43,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4833,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4857,30+68,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F49E6,54+23,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4BA0,31+12,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4BA9,54+20,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F46DB,54+27,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F47F3,31+43,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4833,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4857,30+68,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F49E6,54+23,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4BA0,31+12,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4BA9,54+20,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4C76,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F4D0C,54+18,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4D4E,30+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4D0C,54+18,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4D4E,30+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4D9F,46+54,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F4DDF,54+24,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4DDF,54+24,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4E0F,43+38,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F4E27,14+02,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4E74,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4E27,14+02,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4E74,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4EA6,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F4EFE,54+16,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4F0D,31+08,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F4F0F,54+25,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F528F,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F531F,30+46,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F4EFE,54+16,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4F0D,31+08,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F4F0F,54+25,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F528F,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F531F,30+46,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5360,46+24,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F551D,15+02,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5572,54+33,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5595,31+27,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5407,15+10,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F551D,15+02,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F5572,54+33,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F5595,31+27,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F55BE,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F5727,54+14,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5727,54+14,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F575B,46+36,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F581F,4X+XX,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F5888,46+07,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F58AE,14+01,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5B0F,30+84,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5C84,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5D05,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F58AE,14+01,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F59F3,15+11,German Air Force,Airbus A321-251NX,A21N,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F5B0F,30+84,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F5C84,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F5D05,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5E33,46+50,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F5E98,31+39,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F5E98,31+39,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F5F35,44+75,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F5FBB,46+25,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F5FEE,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
@@ -1465,68 +1471,68 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F6004,60+04,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
 3F6006,60+06,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
 3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
-3F60AA,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F61AA,54+36,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6219,54+31,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F644F,31+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F64F6,54+21,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F60AA,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F61AA,54+36,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6219,54+31,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F644F,31+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F64F6,54+21,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F652F,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F6533,14+03,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F656D,30+98,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6682,54+11,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F66B0,54+32,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F67B2,30+45,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6931,54+17,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6982,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6AC9,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6533,14+03,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F656D,30+98,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6682,54+11,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F66B0,54+32,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F67B2,30+45,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6931,54+17,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6982,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6AC9,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F6B1D,45+57,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F6C26,54+37,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6D41,31+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6EB6,30+42,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6F02,54+12,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F6FB0,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7001,54+06,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F6C26,54+37,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6D41,31+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6EB6,30+42,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6F02,54+12,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F6FB0,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7001,54+06,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F7011,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F719E,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F727C,54+08,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7567,30+90,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7588,54+09,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F719E,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F727C,54+08,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7567,30+90,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7588,54+09,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F75DC,46+54,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F7620,46+24,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F7827,30+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7827,30+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F793F,79+28,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3F79F9,54+07,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7AB3,30+68,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7B3C,14+04,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F79F9,54+07,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7AB3,30+68,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7B3C,14+04,German Air Force,Bombardier Global 5000,GL5T,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F7BC8,43+48,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F7D5E,46+51,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F7DC1,15+01,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F7DE4,30+95,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F7DC1,15+01,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7DE4,30+95,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8013,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F8019,54+28,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8019,54+28,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8032,79+14,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F80FC,79+57,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F8143,89+56,German Navy,Westland Sea King Mk41,S61,Mil,SAR,Marine Patrol,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F814B,78+40,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3F818D,31+18,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F818D,31+18,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F81DC,44+21,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F8356,30+78,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F83DB,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8420,30+35,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8356,30+78,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F83DB,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8420,30+35,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F843E,77+01,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3F84D6,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8517,10+23,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8518,10+24,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8519,10+25,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F851A,10+26,German Air Force,Airbus A310-304F,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F851B,10+27,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F854A,30+55,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F84D6,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8517,10+23,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8518,10+24,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8519,10+25,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F851A,10+26,German Air Force,Airbus A310-304F,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F851B,10+27,German Air Force,Airbus A310-304,A310,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F854A,30+55,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8569,79+59,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F8580,79+60,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F859E,83+07,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F86AD,79+53,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F88CC,79+63,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3F88DC,31+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F88DC,31+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8905,77+02,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F892A,77+04,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F8975,79+27,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
@@ -1538,31 +1544,31 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F8BD0,77+03,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F8C41,79+15,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F8C62,77+08,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3F8C82,31+34,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8C82,31+34,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8CF0,79+58,German Navy,NH Industries NH90 Sea Lion,NH90,Mil,Search And Rescue,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3F8D6C,31+05,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8D6C,31+05,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8DEA,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F8ED6,12+03,German Air Force,Canadair Challenger 601,CL60,Mil,Bizjet,VIP,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F02,30+02,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F03,30+03,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F06,30+06,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F0A,30+10,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F0B,30+11,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F0C,30+12,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F0E,30+14,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F0F,30+15,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F14,30+20,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F17,30+23,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F18,30+24,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F19,30+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F1B,30+27,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F1C,30+28,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F21,30+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F28,30+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F39,30+57,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8F48,30+72,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F8FA4,30+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9176,30+17,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F8ED6,12+03,German Air Force,Canadair Challenger 601,CL60,Mil,Bizjet,VIP,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F02,30+02,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F03,30+03,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F06,30+06,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F0A,30+10,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F0B,30+11,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F0C,30+12,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F0E,30+14,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F0F,30+15,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F14,30+20,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F17,30+23,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F18,30+24,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F19,30+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F1B,30+27,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3F8F1C,30+28,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F21,30+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F28,30+40,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F39,30+57,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8F48,30+72,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F8FA4,30+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9176,30+17,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F927C,89+68,German Navy,Westland Sea King Mk41,S61,Mil,SAR,Marine Patrol,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F9565,43+01,German Air Force,Panavia Tornado IDS(T),TOR,Mil,Danger Zone,Bicycle Made For Two,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F956E,43+10,German Air Force,Panavia Tornado IDS(T),TOR,Mil,Danger Zone,Bicycle Made For Two,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -1633,87 +1639,87 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F9734,46+52,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F9738,46+56,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F9739,46+57,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3F97FD,15+04,German Air Force,Airbus ACJ321-231,A321,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F97FD,15+04,German Air Force,Airbus ACJ321-231,A321,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F984F,77+05,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F98AC,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3F9911,50+17,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9912,31+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F991D,50+29,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9921,50+33,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9922,50+34,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9923,50+35,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9924,50+36,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9926,50+38,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9928,50+40,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9929,50+41,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F992A,50+42,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F992C,50+44,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F992D,50+45,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F992E,50+46,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9930,50+48,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9931,50+49,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9933,50+51,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9935,50+53,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9936,50+54,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9937,50+55,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9939,50+57,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F993A,50+58,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F993B,50+59,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F993D,50+61,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9941,50+65,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9942,50+66,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9943,50+67,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9945,50+69,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9946,50+70,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9947,50+71,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9948,50+72,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9949,50+73,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F994A,50+74,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F994B,50+75,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F994D,50+77,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F994F,50+79,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9951,50+81,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9953,50+83,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9956,50+86,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9957,50+87,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9958,50+88,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F995A,50+90,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F995B,50+91,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F995C,50+92,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F995D,50+93,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9960,50+96,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9961,50+97,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9983,51+03,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9984,51+04,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9986,51+06,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9988,51+08,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F998A,51+10,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F998C,51+12,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F998D,51+13,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9911,50+17,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9912,31+33,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F991D,50+29,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9921,50+33,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9922,50+34,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9923,50+35,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9924,50+36,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9926,50+38,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9928,50+40,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9929,50+41,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F992A,50+42,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F992C,50+44,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F992D,50+45,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F992E,50+46,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9930,50+48,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9931,50+49,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9933,50+51,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9935,50+53,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9936,50+54,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9937,50+55,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9939,50+57,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F993A,50+58,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F993B,50+59,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F993D,50+61,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9941,50+65,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9942,50+66,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9943,50+67,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9945,50+69,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9946,50+70,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9947,50+71,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9948,50+72,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9949,50+73,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F994A,50+74,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F994B,50+75,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F994D,50+77,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F994F,50+79,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9951,50+81,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9953,50+83,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9956,50+86,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9957,50+87,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9958,50+88,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F995A,50+90,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F995B,50+91,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F995C,50+92,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F995D,50+93,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9960,50+96,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9961,50+97,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9983,51+03,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9984,51+04,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9986,51+06,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9988,51+08,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F998A,51+10,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F998C,51+12,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F998D,51+13,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F99C6,89+63,German Navy,Westland Sea King Mk41,S61,Mil,SAR,Marine Patrol,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3F9AE8,57+05,German Navy,Dornier Do 228-212,D228,Mil,Polution Control,Marineflieger,What Is That Smell,Dogs with Jobs,https://cdn.jetphotos.com/full/6/24667_1558857611.jpg
 3F9B11,78+19,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F9C21,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F9C84,57+04,German Navy,Dornier Do 228-212,D228,Mil,Polution Control,Marineflieger,What Is That Smell,Dogs with Jobs,https://cdn.jetphotos.com/full/6/70510_1613061242.jpg
-3F9D48,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9D48,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F9DAC,79+11,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F9E5B,79+23,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F9E66,89+65,German Navy,Westland Sea King Mk41,S61,Mil,SAR,Marine Patrol,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3F9EA0,30+05,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9EAC,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9EF2,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F9F15,30+67,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3F9EA0,30+05,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9EAC,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9EF2,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9F15,30+67,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F9F9A,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FA16E,83+09,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3FA18D,31+53,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FA1A4,30+89,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FA1BE,76+12,German Air Force,Airbus Helicopters EC-645 T2,EC45,Mil,Chopper,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA18D,31+53,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FA1A4,30+89,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FA1BE,76+12,German Air Force,Airbus Helicopters EC-645 T2,EC45,Mil,Chopper,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FA2CE,89+58,German Navy,Sea King Mk41,S61,Mil,Search And Rescue,Sea King,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3FA360,70+96,German Air Force,Bell UH-1D Iroquois,UH1,Mil,Chopper,Huey,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA360,70+96,German Air Force,Bell UH-1D Iroquois,UH1,Mil,Chopper,Huey,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FA572,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3FA6F8,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA6F8,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FA82A,79+03,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3FA855,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA855,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FA90F,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FA933,82+51,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA934,82+52,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
@@ -1722,92 +1728,92 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3FA937,82+55,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA938,82+57,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA93B,82+59,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3FA93C,82+60,German Air Force,Eurocopter EC135,EC35,Mil,Chopper,Military Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FA93C,82+60,German Air Force,Eurocopter EC135,EC35,Mil,Chopper,Military Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FA93D,82+61,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA93F,82+63,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA941,82+65,German Army,Eurocopter EC135 T1,EC35,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FA98D,83+13,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3FA991,83+17,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3FAA05,84+05,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA06,84+06,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA12,84+18,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1C,84+28,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1D,84+29,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA1F,84+31,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA21,84+33,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA22,84+34,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA26,84+38,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2B,84+43,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2C,84+44,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2E,84+46,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA31,84+49,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA32,84+50,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA36,84+54,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA39,84+57,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3A,84+58,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3B,84+59,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3C,84+60,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3E,84+62,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA3F,84+63,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA41,84+65,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA47,84+71,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4A,84+74,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4B,84+75,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4C,84+76,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA54,84+84,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA57,84+87,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA58,84+88,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA59,84+89,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5A,84+90,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5C,84+92,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5E,84+94,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA5F,84+95,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA61,84+97,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA82,85+02,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAA05,84+05,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA06,84+06,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA0D,84+13,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA0F,84+15,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA12,84+18,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA19,84+25,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA1A,84+26,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA1C,84+28,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA1D,84+29,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA1F,84+31,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA21,84+33,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA22,84+34,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA25,84+37,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA26,84+38,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA27,84+39,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA2B,84+43,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA2C,84+44,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA2D,84+45,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA2E,84+46,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA2F,84+47,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA31,84+49,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA32,84+50,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA33,84+51,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA34,84+52,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA35,84+53,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA36,84+54,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA39,84+57,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA3A,84+58,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA3B,84+59,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA3C,84+60,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA3E,84+62,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA3F,84+63,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA40,84+64,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA41,84+65,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA42,84+66,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA43,84+67,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA44,84+68,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA47,84+71,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA49,84+73,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA4A,84+74,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA4B,84+75,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA4C,84+76,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA4F,84+79,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA52,84+82,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA54,84+84,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA55,84+85,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA56,84+86,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA57,84+87,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA58,84+88,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA59,84+89,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA5A,84+90,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA5C,84+92,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA5E,84+94,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA5F,84+95,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA60,84+96,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA61,84+97,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA80,85+00,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA81,85+01,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA82,85+02,German Air Force,Sikorksy CH-53G Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA84,85+04,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA85,85+05,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA87,85+07,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA8A,85+10,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAA8C,85+12,German Air Force,Sikorsky CH-53GA Stallion,H53,Mil,Ho Ho Ho,Hubschrauber,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FAAC0,98+59,German Air Force,Panavia Tornado IDS(T),TOR,Mil,Danger Zone,Bicycle Made For Two,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FAB67,44+73,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FAB93,8747,Venezuelan Air Force,Boeing 707-384C,B703,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Bolivarian_Military_Aviation
 3FAC9E,45+88,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FACFE,78+39,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FAD05,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3FAD63,30+77,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAD63,30+77,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
 3FAD9D,77+06,German Army,Eurocopter H145M,EC45,Mil,Chopper,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FAE33,45+61,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FAE4C,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
-3FAE58,50+76,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FAF3A,30+52,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FAE58,50+76,German Air Force,Transall C-160D,C160,Mil,Old Stuff,Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
+3FAF3A,30+52,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FAFB6,79+35,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FB103,98+03,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
-3FB107,98+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB101,99+01,German Air Force,RQ-4B EuroHawk,Q4,Mil,UAV,Border Patrol,Uphold The Public Trust,UAV,https://w.wiki/Dfbp
+3FB103,98+03,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
+3FB107,98+07,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FB138,46+38,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3FB13B,98+59,German Air Force,Panavia Tornado IDS(T),TOR,Mil,Danger Zone,Bicycle Made For Two,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FB13C,98+60,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -1820,14 +1826,14 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3FB34D,83+15,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
 3FB461,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FB65B,79+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3FB6EB,31+31,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB6EB,31+31,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FB88A,78+31,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
-3FB950,54+38,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FB950,54+38,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FBA06,78+34,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FBA74,83+22,German Navy,Westland Lynx Mk88A,LYNX,Mil,ASW,Marineflieger,Deutsche Marine,Other Navies,https://en.wikipedia.org/wiki/German_Navy
-3FBABF,31+00,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FBABF,31+00,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FBAF9,46+35,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3FBB26,31+51,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FBB26,31+51,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FBBC5,79+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FBC98,46+49,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FBDCA,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -1836,7 +1842,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3FBEBF,78+28,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FBEFC,78+38,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3FBFA1,46+55,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
-3FBFFD,30+58,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+3FBFFD,30+58,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 4005EC,4113,Venezuelan Air Force,Short SD3-60 200,SH36,Mil,Trainer,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 400910,10669,Philippine Air Force,Fokker F27 500,F27,Mil,Military Transport,Friendship,Guardians Of Our Precious Skies,Other Air Forces,https://w.wiki/4n2S
 4009E6,ZJ708,Defense Helicopter Flying School,Bell Griffin HT1,B412,Mil,L-Plate,Training Wheels,Huey,Watch Me Fly,https://w.wiki/4mcw
@@ -1848,6 +1854,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4015C8,G-ASJV,The Old Flying Machine Company,Supermarine Spitfire LFIXb,SPIT,Mil,Historic,War Bird,MH434,Historic,https://tinyurl.com/pk3346je
 40491E,G-STCH,German Air Force,Fieseler Fi 156A-1 Storch,F156,Mil,History,I Am Old,Liason,GAF,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
 405358,ZJ165,Royal Navy Fleet Air Arm,AS365 Dauphin,AS65,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
+4060DA,G-CGKK,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
+4060DF,G-CGKP,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
+4060E1,G-CGKS,Royal Air Force,Grob G-115 E Tutor,G115,Mil,Flying Classroom,Training Wheels,L-Plate,RAF,https://w.wiki/Dfba
 406AB0,G-CICP,Army Air Corps,DHC-2 Beaver AL1,DHC2,Mil,STOL,Bush Plane,Speak Up Sonny,Historic,https://w.wiki/DLW5
 4072B9,G-MEPS,Royal Air Force,Embraer Phenom 100,E50P,Mil,45 Squadron,Training Wheels,L-Plate,Watch Me Fly,https://www.raf.mod.uk/aircraft/phenom-t1
 407887,G-SAEB,RAF,Supermarine Spitfire LFXVI,SPIT,Mil,War Bird,Fighter,WW2,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire_(late_Merlin-powered_variants)
@@ -2029,7 +2038,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C32A,ZH864,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C32B,ZH841,Royal Navy Fleet Air Arm,EH-101 Merlin HM2,EH10,Mil,One Ping Only Vasily,AEW,Not A Wizard,Royal Navy Fleet Air Arm,https://youtu.be/jr0JaXfKj68
 43C331,WK608,Royal Naval Historic Flight,DHC-1 Chipmunk T10,DHC1,Mil,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-43C33B,ZJ700,BAE Systems,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://www.bundeswehr.de/de/organisation/luftwaffe
+43C33B,ZJ700,BAE Systems,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 43C383,ZH537,Joint Special Forces Aviation Wing,BN Islander CC2,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C384,ZG844,Joint Special Forces Aviation Wing,BN Islander AL1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C385,ZG845,Joint Special Forces Aviation Wing,BN Islander AL1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
@@ -2513,6 +2522,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C963,ZB134,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43C964,ZB135,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43C965,ZB136,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
+43C968,ZB139,Qatar Emiri Air Force,British Aerospace Hawk T.2A,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
 43CAE3,ZK343,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAE8,ZK334,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
@@ -2874,6 +2884,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 480C43,T-057,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 480C44,T-058,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 480C46,T-060,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
+480C47,T-061,MRTT Fleet,Airbus A330-243-MRTT,A332,Mil,Air2Air,Tanker,Sharing Is Caring,Quango,https://tinyurl.com/2p8sy3yv
 481040,N-319,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Choppa,Foutje Bedankt,Security On The Sea,Other Navies,https://w.wiki/4ygj
 481041,N-088,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Choppa,Foutje Bedankt,Security On The Sea,Other Navies,https://w.wiki/4ygj
 481042,N-102,Royal Netherlands Navy,NH Industries NH90 NFH,NH90,Mil,Helikopter,Search And Rescue,Security On The Sea,Other Navies,https://w.wiki/4ygj
@@ -3222,6 +3233,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 78CF95,LH94007,Chinese Army,Shaanxi Y-8,AN12,Mil,Military Transport,Vashe Zdorovye,PLA,Toy Soldiers,https://w.wiki/4meK
 79141C,21047,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 791CF7,B-4662,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+79819F,B-4091,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C104,21043,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D0,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D1,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -3253,6 +3265,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7AA30B,B-4074,Chinese Air Force,Xian Y-7G,AN24,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7B0949,B-4065,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0A1B,B-4066,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
+7B0B31,B-4092,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7B0EAB,B-4067,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0FCD,B-4068,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B7026,B-4069,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
@@ -3491,6 +3504,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 87C83D,9906,Japan Maritime Self-Defense Force,ShinMaywa US-2,US2,Mil,Amphibian,Flying Boat,Coolest Plane In The World,Radiohead,https://en.wikipedia.org/wiki/ShinMaywa_US-2
 87CC01,75-3252,Japan Air Self-Defense Force,Gulfstream U-4,GLF4,Mil,Flight Inspection,Must Be Nice,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC08,87-3602,Japan Air Self-Defense Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CC0A,07-3604,Japan Air Self-Defence Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
 87CC0B,87-3601,Japan Air Self-Defense Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC10,18-1202,Japan Air Self-Defense Force,Kawasaki RC-2,KC2,Mil,ELINT,Electronic Warfare,Ready Anytime,Oxcart,https://w.wiki/4wRh
 87CC20,85-1079,Japan Air Self-Defense Force,Lockheed C-130H Hercules,C130,Mil,Chonky Boy,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
@@ -3500,7 +3514,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 87CC40,08-1212,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC49,18-1213,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC4A,18-1214,Japan Air Self-Defense Force,Kawasaki C-2,KC2,Mil,Military Transport,Tactical Airlift,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD01,14-3611,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD02,24-3612,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CD04,02-3032,Japan Air Self-Defense Force,Cessna Citation Latitude,C68A,Mil,Flight Inspection,Light Utility,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD2E,44-3613,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
+87CD2F,44-3614,Japan Air Self-Defense Force,Boeing KC-46A,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 880DB6,11-111,Royal Thai Air Force,Boeing 737,B734,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 8821AB,HS-HMK,Royal Thai Air Force,Boeing 737NG-BBJ2,B738,Mil,Thailand,Tank Top,Air Chief Marshall Fufu,Governments,https://en.wikipedia.org/wiki/Royal_Thai_Air_Force
 883801,2113,Royal Thai Navy,Embraer Legacy 600,E35L,Mil,VIP Transport,Bizjet,See The World,Other Navies,https://w.wiki/4nsn
@@ -7247,6 +7265,7 @@ AE571F,12-0065,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5735,169018,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
+AE574D,19-46007,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE574F,15-46009,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5750,19-46010,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5751,15-46011,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -7440,6 +7459,7 @@ AE5B8D,08-0850,USAF,Pilatus PC-12,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https
 AE5BA7,169060,United States Navy,Grumman E-2D Advanced Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE5BAB,??????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE5BAE,13-20641,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5BBD,16-46012,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BBE,16-46013,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BBF,16-46014,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5BC0,16-46015,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -7814,19 +7834,37 @@ AE6370,18-21032,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE638D,169792,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE638E,169793,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE6395,18-21037,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE63B1,19-46069,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B2,15-46070,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63B3,19-46071,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63B4,20-46072,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B5,20-46073,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B6,20-46074,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B7,20-46075,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B8,20-46076,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63B9,20-46077,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BA,20-46078,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BB,20-46079,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BC,20-46080,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63BD,20-46081,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BE,20-46082,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63BF,20-46083,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C0,20-46084,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C1,21-46085,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C2,21-46086,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C3,21-46087,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C4,21-46088,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C5,21-46089,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C6,21-46090,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C7,21-46091,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63C8,21-46092,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63C9,21-46093,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CA,21-46094,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CB,21-46095,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CC,21-46096,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CD,21-46097,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CE,21-46098,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE63CF,22-46099,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE63D1,64-13268,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63D2,65-10324,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63D4,65-10418,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -8179,6 +8217,7 @@ C2BE09,188769,Royal Canadian Air Force,McDonnell Douglas CF-188 Hornet,F18H,Mil,
 C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C363,330002,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
+C2C36D,330003,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C815A3,ZK-EAJ,Myanmar Air Force,Beechcraft 1900D,B190,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 C87F0D,NZ3301,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F0E,NZ3302,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv

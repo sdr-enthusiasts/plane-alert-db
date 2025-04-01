@@ -46,6 +46,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0360F8,TN-AJN,Gov of The Republic of Congo,Dassault Falcon 50,FA50,Gov,Republic of Congo,Felix Tshisekedi,Government,Governments,https://w.wiki/3QZ$
 036BC1,TN-ELS,Gov of The Republic of Congo,Dassault Falcon 7X,FA7X,Gov,Republic of Congo,Felix Tshisekedi,Government,Governments,https://w.wiki/3QZ$
 038613,TU-VAS,Gov of the Ivory Coast,Airbus ACJ319-133X,A319,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
+038F4A,TU-VAJ,Gov of the Ivory Coast,Airbus A320 251NCJSL,A20N,Gov,Ivory Coast,Alassane Ouattara,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
 03E003,TR-LEX,Gov of Gabon,Dassault Falcon 900EX,F900,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E004,TR-KSP,Gov of Gabon,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 03E00A,TR-KPR,Gov of Gabon,Boeing 777,B772,Gov,Dictator Alert,Ali Bongo Ondimba,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -320,9 +321,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3CC011,YV3000,Venezuelan Air Force,Dornier Do 228-NG,D228,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 3CC9AB,D-CDRF,DRF Luftrettung,Learjet 35A,LJ35,Gov,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.drf-luftrettung.de
 3CE2D2,YV3083,Venezuelan Air Force,Dornier Do 228-212,D228,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-3DD2F3,D-HADF,German Air Force,Eurocopter H145M,EC45,Gov,Search And Rescue,Chopper,Saving Lives,Coastguard,https://www.bundeswehr.de/de/organisation/luftwaffe
-3E854F,10+03,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://www.bundeswehr.de/de/organisation/luftwaffe
-3F5D91,10+02,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://www.bundeswehr.de/de/organisation/luftwaffe
+3DD2F3,D-HADF,German Air Force,Eurocopter H145M,EC45,Gov,Search And Rescue,Chopper,Saving Lives,Coastguard,https://w.wiki/Dfbp
+3E854F,10+03,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://w.wiki/Dfbp
+3EA12C,10+01,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://w.wiki/Dfbp
+3F5D91,10+02,German Air Force,Airbus A350-941,A359,Gov,Germany,Olaf Scholz,Government,Governments,https://w.wiki/Dfbp
 3F6EEA,76+11,German Air Force,Airbus Helicopters EC-645 T2,EC45,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 3F9A92,15+03,German Air Force,Airbus ACJ319-133X,A319,Gov,Open Skies,Eye In The Sky,Luftwaffe,Dogs with Jobs,https://globe.adsbexchange.com/?icao=3f9a92
 40013D,VP-BAT,Gov of Qatar,Boeing 747-SP,B74S,Gov,Dictator Alert,Tamim bin Hamad Al Thani,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -831,7 +833,6 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 87420C,JA977A,Japan Coast Guard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kaiho.mlit.go.jp/e/index_e.html
 87C002,80-1111,Government of Japan,Boeing 777-ER,B77W,Gov,Japan,Fumio Kishida,Government,Governments,https://www.japan.go.jp/
 87C003,80-1112,Japan Air Self Defence Force,Boeing 777-3ER,B77W,Gov,Japan,Fumio Kishida,Government,Governments,https://www.japan.go.jp
-87CC0A,622557,Japanese Air Self Defence Force,Boeing KC-767J,B762,Gov,Air2Air,Refuel,Military Transport,Other Air Forces,https://w.wiki/4wRh
 888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietnam,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
 890034,7O-VIP,Government of Yemen,Boeing 757,B752,Gov,Yemen,Maeen Abdulmalik Saeed,Government,Governments,https://en.wikipedia.org/wiki/Yemen
 894001,A9C-BRF,Bahrain Amiri Flight,Gulfstream G650,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
