@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15211** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15216** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15211)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15216)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11917)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (11919)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4287)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8269)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8274)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (927)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1728)
 
@@ -83,7 +83,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|41|
-|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2042|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2045|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
 |Oxcart|Intelligence gathering aircraft|677|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|45|
@@ -95,7 +95,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |RAF|Aircraft of the Royal Air Force|243|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
-|Special Forces|The best of the best of the best. Sir.|171|
+|Special Forces|The best of the best of the best. Sir.|172|
 |Toy Soldiers|Armies from around the world.|906|
 |UAV|It's not natural, I tell 'ya!|37|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
@@ -106,7 +106,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Vanity Plate|Distinctive registrations|78|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|102|
-|Zoomies|Fast jets, fighters. Anything that moves fast.|136|
+|Zoomies|Fast jets, fighters. Anything that moves fast.|137|
 
 ## Planefence
 

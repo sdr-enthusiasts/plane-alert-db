@@ -438,7 +438,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4A35F9,818,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 4A35FA,819,Romanian Border Patrol,Schiebel Camcopter S-100,ZZZZ,Gov,Drone,Maritime Patrol,Coastguard,UAV,https://w.wiki/4x6X
 4A8199,102004,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Sweden,Magdalena Andersson,Government,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
-4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://en.wikipedia.org/wiki/Swedish_Air_Force
+4A81E6,86001,Swedish Air Force,NA Sabreliner,SBR1,Gov,Testbed,System Test,Smakar det sa kostar det,Other Air Forces,https://w.wiki/DixW
 4A81F9,102002,Swedish Air Force,Gulfstream G-IV SP,GLF4,Gov,Electonic Reccon,Covert,Surveillance,Oxcart,https://en.wikipedia.org/wiki/Swedish_royal_family
 4A822A,102005,Swedish Air Force,Gulfstream G550 TP-102D,GLF5,Gov,Sweden,Magdalena Andersson,Government,Governments,https://en.wikipedia.org/wiki/Swedish_royal_family
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
@@ -446,8 +446,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4AB423,SE-MAC,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4B0D6D,HB-FCF,Armasuisse,Pilatus PC-6 B1-H2,PC6T,Gov,Defense Procurement,Test Flight,Calibration,Quango,https://www.ar.admin.ch/en/home.html
 4B0EA6,HB-FOG,Armasuisse,Pilatus PC-12 Eagle,PC12,Gov,Defense Procurement,Test Flight,Calibration,Quango,https://www.ar.admin.ch/en/home.html
-4B7F5D,R-711,Swiss Air Force,Diamond Aircraft DA42M-NG,DA42,Gov,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
-4B7FA7,T-312,Swiss Air Force,Eurocopter AS332 Super Puma,AS32,Gov,Neutral,Chopper,Aviatica Militara Svizra,Other Air Forces,https://en.wikipedia.org/wiki/Swiss_Air_Force
+4B7F5D,R-711,Swiss Air Force,Diamond Aircraft DA42M-NG,DA42,Gov,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://w.wiki/Diws
+4B7FA7,T-312,Swiss Air Force,Eurocopter AS332 Super Puma,AS32,Gov,Neutral,Chopper,Aviatica Militara Svizra,Other Air Forces,https://w.wiki/Diws
 4B822A,TCSG-551,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822B,TCSG-552,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
@@ -1346,21 +1346,21 @@ ADD445,N990ST,US Nuclear Security Administration,Boeing 737,B734,Gov,mmm Neutron
 ADDB3E,N992NA,NASA,Grumman GIII,GLF3,Gov,SCE To Aux,Airborne Science,Testbed,Distinctive,https://www.nasa.gov
 ADFDF8,82-8000,US Government,Boeing VC25A,B742,Gov,Air Force One,Government,POTUS,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25
 ADFDF9,92-9000,US Government,Boeing VC25A,B742,Gov,Air Force One,Government,POTUS,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25
-ADFE0D,1701,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE0E,1702,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE0F,1703,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE10,1704,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE12,1706,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE13,1707,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE15,1709,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE17,1711,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE18,1712,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE19,1713,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE1A,1714,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE1B,1715,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE1C,1716,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE1E,1718,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-ADFE20,1720,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+ADFE0D,1701,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE0E,1702,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE0F,1703,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE10,1704,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE12,1706,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE13,1707,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE15,1709,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE17,1711,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE18,1712,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE19,1713,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE1A,1714,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE1B,1715,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE1C,1716,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE1E,1718,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+ADFE20,1720,United States Coast Guard,Lockheed HC-130H Hercules,C130,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
 ADFE2D,2112,NASA,Dassault HU-25C Guardian,FA20,Gov,SCE To Aux,Remote Sensing,Satellite Support,Distinctive,https://www.nasa.gov
 ADFEB3,73-1676,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://w.wiki/7wEU
 ADFEB4,73-1677,USAF,E-4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://w.wiki/7wEU
@@ -1376,14 +1376,14 @@ AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Spec
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://en.wikipedia.org/wiki/486th_Flight_Test_Squadron
 AE0945,01-0040,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
-AE109A,02,United States Coast Guard,Gulfstream G550,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://www.uscg.mil
-AE10C1,01,United States Coast Guard,Gulfstream G500,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://www.uscg.mil
-AE10E7,2001,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE10E8,2002,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE10E9,2003,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE10EA,2004,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE10EB,2005,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE10EC,2006,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE109A,02,United States Coast Guard,Gulfstream C-37A,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://w.wiki/DiyY
+AE10C1,01,United States Coast Guard,Gulfstream C-37A,GLF5,Gov,Command and Control,Must Be Nice,VIP Transport,Coastguard,https://w.wiki/DiyY
+AE10E7,2001,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE10E8,2002,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE10E9,2003,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE10EA,2004,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE10EB,2005,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE10EC,2006,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
 AE115D,01-0015,USAF,Boeing C-40B,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE1165,02-0201,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE1167,02-0202,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
@@ -1508,50 +1508,50 @@ AE270A,2312,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritim
 AE272E,2703,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE2730,2705,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE2731,2706,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F3,6002,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F4,6003,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F5,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F6,6005,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F7,6006,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE27F8,6007,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27F9,6008,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FA,6009,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FB,6010,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FC,6011,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FD,6012,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FE,6013,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE27FF,6014,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2900,6015,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2901,6016,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2902,6018,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2903,6019,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2905,6021,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2906,6022,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2907,6023,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2908,6024,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2909,6025,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE290A,6026,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE290B,6027,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE290C,6029,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE290D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE290E,6031,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE290F,6032,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2910,6033,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2911,6034,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2912,6035,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE2913,6036,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2914,6037,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2915,6038,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2916,6039,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2917,6040,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2918,6041,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE2919,6042,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE291A,6043,United States Coast Guard,Sikorsky MH-60T Frankenhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE27F2,6001,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F3,6002,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F4,6003,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F5,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F6,6005,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F7,6006,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F8,6007,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27F9,6008,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FA,6009,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FB,6010,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FC,6011,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FD,6012,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FE,6013,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE27FF,6014,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2900,6015,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2901,6016,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2902,6018,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2903,6019,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2905,6021,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2906,6022,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2907,6023,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2908,6024,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2909,6025,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290A,6026,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290B,6027,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290C,6029,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290E,6031,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE290F,6032,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2910,6033,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2911,6034,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2912,6035,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2913,6036,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2914,6037,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2915,6038,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2916,6039,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2917,6040,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2918,6041,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE2919,6042,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE291A,6043,United States Coast Guard,Sikorsky MH-60T Frankenhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE2BEF,2315,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Miscode (AE4BEF),Coastguard,https://www.uscg.mil/
 AE2BF2,2318,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Miscode (AE4BF2),Coastguard,https://www.uscg.mil/
-AE4A4B,6044,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4A4C,6045,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4A4B,6044,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE4A4C,6045,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE4ADF,2707,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE4AE0,2708,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
 AE4AE1,2709,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
@@ -1570,32 +1570,32 @@ AE4BF0,2316,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritim
 AE4BF1,2317,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4BF2,2318,United States Coast Guard,CASA HC-144B Minotaur,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE4CF7,2714,United States Coast Guard,Alenia HC-27J Spartan,C27J,Gov,Maritime Patrol,Search And Rescue,Sacramento,Oxcart,https://www.uscg.mil/
-AE4DFE,6046,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4DFF,6047,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4DFE,6046,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE4DFF,6047,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE4E00,6048,United States Coast Guard,Sikorsky MH-60T Seahawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E01,6049,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E02,6050,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE4E03,6051,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE4E01,6049,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE4E02,6050,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE4E03,6051,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE503D,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 AE5394,12-20500,United States Army,Sikorsky UH-60M,H60,Gov,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5641,86-24558,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
-AE57D1,2007,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE57D2,2008,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE57D3,2009,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE57D4,2010,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE57D5,2011,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE57D1,2007,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE57D2,2008,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE57D3,2009,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE57D4,2010,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE57D5,2011,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
 AE5D37,16-20814,United States Army,Sikorsky UH-60M,H60,Gov,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE5DEB,2012,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE5DEC,2013,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE5DED,2014,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE5DEE,2015,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE5DEF,2016,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE5DF0,C2017,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
-AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
-AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil
+AE5DEB,2012,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE5DEC,2013,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE5DED,2014,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE5DEE,2015,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE5DEF,2016,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE5DF0,C2017,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
+AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
+AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE6987,79-23321,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE698F,80-23465,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
-AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search and Rescue,Mae West,Coastguard,https://www.uscg.mil/
+AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 C00091,C-FAFO,Province of Saskatchewan,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.saskatchewan.ca
 C0095E,C-FDOF,Canadian Coast Guard,Bell 212,B212,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.ccg-gcc.gc.ca/index-eng.html
