@@ -1374,7 +1374,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E9F6A,45+57,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E9F71,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E9FD2,54+29,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
-3EA048,5426,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3EA048,54+26,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA15A,31+25,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA18B,30+32,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA1CC,54+04,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -5349,6 +5349,7 @@ AE0E15,88-26065,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE0E17,88-26081,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E1E,84-23970,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E23,88-26021,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0E32,89-26142,United States Army,Sikorsky UH-60A+ Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E39,95-26645,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E3B,95-26650,United States Army,Sikorsky MH-60L Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E56,86-24530,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7265,6 +7266,7 @@ AE571C,12-0062,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE571D,12-0063,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE571E,12-0064,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE571F,12-0065,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
+AE5722,13-0068,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5735,169018,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
