@@ -2215,6 +2215,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C5EB,ZM417,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5EC,ZM418,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5ED,ZM419,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
+43C5EE,ZM420,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
+43C5EF,ZM421,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5F4,ZH897,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5F5,ZH898,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5F6,ZH899,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
@@ -2335,7 +2337,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C740,ZK309,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43C741,ZK379,Royal Air Force,Eurofighter Typhoon T3,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43C743,ZJ947,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
-43C746,ZK335,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
+43C746,ZK335,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,AKA 43CAE9,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43C747,ZK336,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43C748,ZK337,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43C749,ZK338,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
@@ -3037,6 +3039,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B820A,93-005,Turkish Air Force,Cessna Citation VII,C650,Mil,Bizjet,VIP Transport,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B820F,15-0051,Turkish Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B82DF,TCB-752,Turkish Navy,ATR 72-600MPA,AT72,Mil,Maritime Patrol,Detect,Locate,Oxcart,https://www.airforce-technology.com/projects/atr-72-mp-maritime-patrol-aircraft/
+4B82E8,68-1609,Turkish Air Force,Lockheed C-130E Hercules,C130,Mil,Cargo,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B9297,13-003,Turkish Air Force,Boeing E-7T,E737,Mil,Wedgetail,Peace Eagle,Turk Hava Kuvvetleri,Other Air Forces,https://w.wiki/52xZ
 4C5C00,71386,Serbian Air Force,Antonov An-26,AN26,Mil,Got It Where It Counts,Vashe Zdorovye,Curl,Other Air Forces,https://w.wiki/Diwo
 4C8080,701,Cyprus Air Force,AgustaWestland AW.139,A139,Mil,Maritime Patrol,Search And Rescue,Mae West,Other Air Forces,https://w.wiki/4mdN
@@ -3045,6 +3048,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4CA13E,252,Irish Air Corps,CASA CN-235 100MPA,CN35,Mil,Persuader,Military Transport,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,CN35,Mil,Persuader,Military Transport,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1E7,260,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
+4CA1E8,261,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1E9,262,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1EB,264,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1ED,266,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
@@ -7654,10 +7658,10 @@ AE5FA1,18-46054,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE5FA2,18-46055,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FA3,18-46056,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FA4,11-46057,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE5FA5,21-46058,USAF,Boeing KC-46A Pegasus,KC46,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE5FA6,21-46059,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE5FA5,19-46058,USAF,Boeing KC-46A Pegasus,KC46,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE5FA6,19-46059,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FA7,21-46060,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
-AE5FA8,21-46061,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE5FA8,19-46061,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FA9,19-46062,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FAA,19-46063,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5FAB,19-46064,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -8072,6 +8076,7 @@ AE6C01,86-0127,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bo
 AE6C0E,19-5926,USAF,Lockheed AC-130J Hercules,C30J,Mil,Ghostrider - Last AC-130J Made,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE6C0F,20-5931,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6C11,20-5935,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE6C12,20-5937,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6C13,170271,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6C16,170274,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6C17,170275,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK

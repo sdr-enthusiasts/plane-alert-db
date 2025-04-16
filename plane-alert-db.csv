@@ -227,6 +227,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1DA,A7-CHA,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1DB,A7-CHB,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1DC,A7-CHC,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1E4,A7-HBJ,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A1F0,A7-TAA,Qatar Executive,Bombardier Global 6000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
@@ -3753,6 +3756,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407C18,G-BLNT,Draken Intl,Britten Norman Islander BN-2T AL.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407C1D,G-GAMB,Private,Game Composites Gamebird GB1,GB1,Civ,Do A Barrel Roll,All Carbon,Unlimted Aerobatics,Joe Cool,https://gamecomposites.com/
 407C7C,G-MIIL,Angels High,Extra NG,EXNG,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,http://www.angels-high.co.uk/
+407CA7,G-BLNY,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
 407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
@@ -4189,6 +4193,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C5EB,ZM417,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5EC,ZM418,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5ED,ZM419,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
+43C5EE,ZM420,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
+43C5EF,ZM421,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
 43C5F4,ZH897,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5F5,ZH898,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
 43C5F6,ZH899,Royal Air Force,Boeing-Vertol Chinook HC5,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,RAF,https://www.raf.mod.uk
@@ -4879,6 +4885,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 45CF33,OY-SYS,Bioflight,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
 45D1D3,OY-TNS,Bioflight,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
 45D9D3,OY-VNS,Bioflight,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
+45DA04,OY-VPD,Bioflight,Vulcanair P.68 Observer 2,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
 45F422,C-080,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Denmark,Mette Frederiksen,Government,Governments,https://en.wikipedia.org/wiki/Denmark
 45F424,C-168,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
@@ -5722,6 +5729,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B82CC,EM-1593,Turkish National Police,Sikorsky S-70,H60,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/ube7rsp6
 4B82D4,OR-3192,Turkish Police,Bell 429 GlobalRanger,B429,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/ube7rsp6
 4B82DF,TCB-752,Turkish Navy,ATR 72-600MPA,AT72,Mil,Maritime Patrol,Detect,Locate,Oxcart,https://www.airforce-technology.com/projects/atr-72-mp-maritime-patrol-aircraft/
+4B82E8,68-1609,Turkish Air Force,Lockheed C-130E Hercules,C130,Mil,Cargo,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B846E,TC-ACN,Deniz Bank,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4me3
 4B85C1,TC-ANA,Gov of Turkey,Airbus ACJ319-115X,A319,Gov,Dictator Alert,Erdogan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4B85CB,TC-ANK,Gov of Turkey,Airbus ACJ318-112 Elite,A318,Gov,Dictator Alert,Erdogan,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -5780,6 +5788,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4CA13F,253,Irish Air Corps,CASA CN-235 100MPA,CN35,Mil,Persuader,Military Transport,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA158,256,Garda Air Support Unit,Eurocopter EC135 T1,EC35,Pol,Copper Chopper,Eye In The Sky,An Garda Siochana,Police Forces,https://w.wiki/4zCe
 4CA1E7,260,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
+4CA1E8,261,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1E9,262,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1EA,263,Irish Air Corps,Pilatus PC-9 M,PC9,Civ,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
 4CA1EB,264,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
@@ -7704,6 +7713,7 @@ A1EFFE,N224BH,State Gov of Akwa Ibom,Gulfstream G450,GLF4,Gov,Nigeria,Udom Gabri
 A1F0C0,N224KB,Pasadena Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofpasadena.net/police
 A1F1C1,N224VJ,ASI Flight Services,Cirrus SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A1F32A,N2247,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+A1F3AA,N225AX,Omni Air International,Boeing 767 224ER,B762,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A1F4DD,N225PD,Baton Rouge Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.brla.gov/203/Police-Department
 A1F7AA,N226DV,Private,Stolp SA.300 Starduster Too,SA30,Civ,Biplane,Aerobatics,Cool,Joe Cool,https://en.wikipedia.org/wiki/Stolp_Starduster_Too
 A1F7E1,N226G,Comco,Boeing 757-200,B752,Civ,DoD?,CIA?,Black Flight,Special Forces,https://simpleflying.com/comco-mysterious-boeing-757-operator-guide/
@@ -9538,6 +9548,7 @@ AB3FBF,N824AH,Massachusetts State Police,Eurocopter EC135 T2,EC35,Pol,Police Squ
 AB40A4,N824KM,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 AB4176,N824TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.dps.texas.gov/section/aircraft-operations-division
 AB448D,N825MM,Massachusetts State Police,Eurocopter EC135 T2,EC35,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mass.gov/orgs/massachusetts-state-police
+AB453E,N825UP,Wheels Up Private Jets,Textron Aviation King Air B350,B350,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 AB456D,N825WL,Heligroup Fire,Sikorsky S-61 N,S61,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 AB486E,N826PD,Anaheim Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.anaheim.net/171/Police-Department
 AB4B43,N827EC,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
@@ -14644,6 +14655,7 @@ AE6C01,86-0127,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bo
 AE6C0E,19-5926,USAF,Lockheed AC-130J Hercules,C30J,Mil,Ghostrider - Last AC-130J Made,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE6C0F,20-5931,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6C11,20-5935,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
+AE6C12,20-5937,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
 AE6C13,170271,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6C16,170274,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6C17,170275,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
@@ -15232,15 +15244,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-AE6C12,20-5937,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
-45DA04,OY-VPD,Bioflight,Vulcanair P.68 Observer 2,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,http://bioflight.dk
-407CA7,G-BLNY,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
-4CA1E8,261,Irish Air Corps,Pilatus PC-9 M,PC9,Mil,Training Wheels,Pass The Sick Bag,Watchful And Loyal,Other Air Forces,https://www.military.ie/en/who-we-are/air-corps
-06A1DA,A7-CHA,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-06A1DB,A7-CHB,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-06A1DC,A7-CHC,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-43C5EE,ZM420,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
-43C5EF,ZM421,Royal Air Force,Airbus Military A400M Atlas C1,A400,Mil,Cargo,Tactical Airlift,Per Ardua Ad Astra,RAF,https://www.raf.mod.uk
-4B82E8,68-1609,Turkish Air Force,Lockheed C-130E Hercules,C130,Mil,Cargo,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
-A1F3AA,N225AX,Omni Air International,Boeing 767 224ER,B762,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
-AB453E,N825UP,Wheels Up Private Jets,Textron Aviation King Air B350,B350,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
