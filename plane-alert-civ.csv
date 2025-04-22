@@ -19,7 +19,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 00A74E,ZS-OWJ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 00A9B2,ZS-PTX,The SA Red Cross Mercy Service,Pilatus PC-12 47,PC12,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.ams.org.za
 00AD1A,ZS-RBL,Netcare 911 Aeromedical,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.netcare911.co.za/
-00AEB7,ZS-RRI,Helitrans Helicopters,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+00AEB7,ZS-RRI,Helitrans Helicopters,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 00B16F,ZS-SSC,Fugro Airborne Surveys,Cessna F406 Caravan II,F406,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.fugro.com/
 00B185,ZS-SSY,Fugro Airborne Surveys,Cessna F406 Caravan II,F406,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.fugro.com/
 00B608,ZS-ULJ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -50,8 +50,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A1DC,A7-CHC,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 07C024,5A-EWX,Libyan National Army,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 0852F2,PH-STB,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
-0A4022,7T-WID,Algerian Air Force,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-0A4026,7T-WIU,Algerian Air Force,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+0A4022,7T-WID,Algerian Air Force,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Dstq
+0A4026,7T-WIU,Algerian Air Force,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Dstq
 0D031E,XA-MMI,Air One Ambulance,Learjet 25D,LJ25,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aironeambulance.com/airambulance/
 0D0B1A,XC-BDM,Banco de Mexico,Bombardier Challenger 700,CRJ7,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.banxico.org.mx/
 0D0BB7,XA-DOC,Med Jets SA de CV,Learjet 36,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.jetrescueairambulance.com/
@@ -63,64 +63,64 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 14620D,RA-25101,Norilsk Nikel,Mil Mi-8,MI8,Civ,Oligarch,Dirty Money,Disgusting Excess,Oligarch,https://w.wiki/DixP
 14620F,RA-25103,Norilsk Nikel,Mil Mi-8,MI8,Civ,Oligarch,Dirty Money,Disgusting Excess,Oligarch,https://w.wiki/DixP
 1464B1,RA-25777,Mikhail Fridman,Mil Mi-8,MI8,Civ,Oligarch,Dirty Money,Disgusting Excess,Oligarch,https://w.wiki/DixP
-147919,RA-31001,GosNII MGA,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-14791E,RA-31006,Sochispetsavia,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147919,RA-31001,GosNII MGA,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+14791E,RA-31006,Sochispetsavia,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147920,RA-31008,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147921,RA-31009,Avialift Vladivostok,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
-147922,RA-31010,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-14792A,RA-31018,Operator Unknown,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147922,RA-31010,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+14792A,RA-31018,Operator Unknown,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 14792D,RA-31021,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147956,RA-31062,Kamov OKB,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.aviastar.org/people/kamov/index.html
-147958,RA-31064,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-14795A,RA-31066,Operator Unknown,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147958,RA-31064,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+14795A,RA-31066,Operator Unknown,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147960,RA-31072,Moscow Aviation Centre,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.mai.ru/
-147961,RA-31073,MChS Rossii,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-147962,RA-31074,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147966,RA-31078,Panh Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147961,RA-31073,MChS Rossii,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+147962,RA-31074,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147966,RA-31078,Panh Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147986,RA-31110,Avialift Vladivostok,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147987,RA-31111,Kamov OKB,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.aviastar.org/people/kamov/index.html
 147988,RA-31112,Kamov OKB,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,http://www.aviastar.org/people/kamov/index.html
-147B53,RA-31571,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147B53,RA-31571,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147B55,RA-31573,Avialift Vladivostok,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147B56,RA-31574,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
-147B58,RA-31576,Panh Air,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B59,RA-31577,Panh Air,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B5B,RA-31579,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147B58,RA-31576,Panh Air,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B59,RA-31577,Panh Air,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B5B,RA-31579,Panh Air,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147B5D,RA-31581,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
-147B65,RA-31589,Panh Air,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+147B65,RA-31589,Panh Air,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 147B66,RA-31590,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
 147B67,RA-31591,Avialift Vladivostok,Kamov Ka-32 S,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://www.avialiftvladivostok.com
-147B68,RA-31592,Aviakrug,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B69,RA-31593,Heli-Union,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B6B,RA-31595,UT air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B6D,RA-31597,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B6E,RA-31598,Operator Unknown,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B71,RA-31601,Operator Unknown,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147B73,RA-31603,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-147FF4,RF-32756,MChS Rossii,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148020,RF-32800,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148021,RF-32801,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148022,RF-32802,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148023,RF-32803,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148024,RF-32804,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148025,RF-32805,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148026,RF-32806,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148027,RF-32807,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
-148046,RF-32838,MChS Rossii,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Ministry_of_Emergency_Situations_(Russia)
+147B68,RA-31592,Aviakrug,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B69,RA-31593,Heli-Union,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B6B,RA-31595,UT air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B6D,RA-31597,Nefteyugansk Air,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B6E,RA-31598,Operator Unknown,Kamov Ka-32 AO,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B71,RA-31601,Operator Unknown,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147B73,RA-31603,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+147FF4,RF-32756,MChS Rossii,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148020,RF-32800,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148021,RF-32801,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148022,RF-32802,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148023,RF-32803,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148024,RF-32804,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148025,RF-32805,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148026,RF-32806,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148027,RF-32807,MChS Rossii,Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
+148046,RF-32838,MChS Rossii,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dstd
 151D41,RA-73025,Russia State Transport Company,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 151D42,RA-73026,Russia State Transport Company,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 15211F,RA-74015,VSV,Antonov An-74,AN72,Civ,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
-152A4B,RA-76363,Ministry for Emergency Situations,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152AC4,RA-76484,Abakan Air,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152AD7,RA-76503,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152ADF,RA-76511,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C07,RA-76807,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C2E,RA-76846,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C96,RA-76950,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C97,RA-76951,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-152C98,RA-76952,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+152A4B,RA-76363,Ministry for Emergency Situations,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152AC4,RA-76484,Abakan Air,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152AD7,RA-76503,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152ADF,RA-76511,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C07,RA-76807,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C2E,RA-76846,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C96,RA-76950,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C97,RA-76951,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+152C98,RA-76952,Volga-Dnepr Airlines,Ilyushin IL-76TD-90VD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
 15405A,RA-82010,Polet Cargo Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://w.wiki/8o8$
 15407A,RA-82042,Volga-Dnepr Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://w.wiki/8o8$
 15407B,RA-82043,Volga-Dnepr Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://w.wiki/8o8$
@@ -356,7 +356,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D4A6F,D-FALB,Skydive Nuggets,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydive-nuggets.de/
 3D4A79,D-FALL,Skydrive Hildesheim,Cessna 208B-EX Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydive-hildesheim.de/
 3D4B37,D-FAST,Business Wings,Cessna 208 Caravan,C208,Civ,Whoosh,Speedy,Vanity Plate,Vanity Plate,https://youtu.be/j5a_00YVVkQ
-3D4C0A,D-FBAW,LTS Luft Taxi,Antonov An-2,AN2,Civ,Indestructible,Biplane,Colt,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+3D4C0A,D-FBAW,LTS Luft Taxi,Antonov An-2,AN2,Civ,Indestructible,Biplane,Colt,Historic,https://w.wiki/Dstm
 3D4DCD,D-FBSF,BSF Swissphoto,Cessna 208 B,C208,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://en.bsf-swissphoto.com/
 3D5238,D-FDJS,Skydive Stadtlohn,Cessna 208 Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://skydive-stadtlohn.de/de
 3D5C89,D-FHHH,Private,Grob G-520 T Egrett,EGRT,Civ,Hiiiiiigh In The Sky,All About That Wingspan,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Grob_G_520
@@ -364,9 +364,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D665E,D-FLAC,Fallschirmsportclub Schwaben,Pilatus PC-6 B4-H4,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.fsc-schwaben.de/
 3D67CA,D-FLOC,Skydive Binz,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.sky-fun.de/
 3D67CF,D-FLOH,British Parachute Schools,Cessna 208B Caravan,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydivelangar.co.uk/
-3D6F33,D-FOJB,Ostthuring FSC,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
-3D6F3F,D-FOJN,Bernd Haussmann,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
-3D6F56,D-FOKK,Classic Wings,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+3D6F33,D-FOJB,Ostthuring FSC,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
+3D6F3F,D-FOJN,Bernd Haussmann,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
+3D6F56,D-FOKK,Classic Wings,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
 3D7656,D-FRBI,Private,EKW C-3603,C365,Civ,Training Wheels,Not Very Good,History,Historic,https://en.wikipedia.org/wiki/EKW_C-36
 3D76A0,D-FREE,Pullout Skydive,Pilatus PC-6 B2-H2,PC6T,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.pullout.de/?lang=en
 3D777F,D-FRMT,QinetiQ GmbH,Pilatus PC-XII 47E,PC12,Civ,Weapons,Missiles,Arms Company,As Seen on TV,https://en.wikipedia.org/wiki/Qinetiq
@@ -375,8 +375,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3D7F2E,D-FUKK,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fukk/
 3D7F67,D-FUMP,Take off Fallschirmsport,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.funjump.de/en/?noredirect=en-US
 3D7F7F,D-FUNN,Air Fighter Academy,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Little-Ite,Historic,https://w.wiki/3nth
-3D8456,D-FWJE,Ballenstedter Aero Club,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
-3D845C,D-FWJK,Fallschirm Club Halle,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+3D8456,D-FWJE,Ballenstedter Aero Club,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
+3D845C,D-FWJK,Fallschirm Club Halle,Antonov An-2 TD,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
 3D8879,D-FXXX,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,To Be Faaaaaaaaaaaaaaaaaaair,Historic,https://www.t6harvard.com/german-harvards/d-fxxx/
 3D88BA,D-FYAK,Private,Let Yak-11 C-11,YK11,Civ,Basic Trainer,Soviet Union,Historic,Historic,https://en.wikipedia.org/wiki/Yakovlev_Yak-11
 3D8EBA,D-GAHM,AHM Airborne Mapping,Tecnam P.2006T,P06T,Civ,Aerial Survey,Measuring Stick,Hydro Mapping,Ptolemy would be proud,http://www.ahm.co.at/
@@ -1591,12 +1591,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 497C9A,14810,Portuguese Air Force,Lockheed P-3C CUP+ Orion,P3,Civ,Maritime Patrol,Anti Submarine Warfare,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497CAB,16711,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
 497CAC,16712,Portuguese Air Force,CASA C-295 MPA,C295,Civ,Maritime Patrol,ASW,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
-49D0D4,OK-HFL,Heritage of Flying Legends,Antonov An-2 R,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+49D0D4,OK-HFL,Heritage of Flying Legends,Antonov An-2 R,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
 49D104,OK-ELC,Private,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://w.wiki/4nF6
 49D161,OK-VHJ,Skydive & Air Service,Antonov An-2 TP,AN2,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/Parachuting
-49D164,OK-WHB,Aeroklub Plasy,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
-49D166,OK-GIB,Ellbogen s.r.o,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
-49D26B,OK-KIQ,Air Special,Antonov An-2 R,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+49D164,OK-WHB,Aeroklub Plasy,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
+49D166,OK-GIB,Ellbogen s.r.o,Antonov An-2 T,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
+49D26B,OK-KIQ,Air Special,Antonov An-2 R,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
 4A3610,342,SMURD Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/SMURD
 4A3611,343,SMURD Air Ambulance,Eurocopter EC135 T2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/SMURD
 4A892C,SE-BIL,Private,North American TP-51A Mustang,P51,Civ,Two Seater,Fighter,Flight Training,Historic,https://w.wiki/3nth
@@ -1766,9 +1766,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B7F78,T-741,Bundesamt für Landestopografie,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.bazl.admin.ch/bazl/en/home.html
 4B822D,09-001,Turkish Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B846E,TC-ACN,Deniz Bank,Bombardier Global Express XRS,GLEX,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4me3
-4BA185,TC-HLE,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-4BA186,TC-HLF,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-4BA187,TC-HLG,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+4BA185,TC-HLE,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+4BA186,TC-HLF,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+4BA187,TC-HLG,Private,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 4BCA61,TC-RSA,Redstar Aviation,BAe Jetstream 32-17,JS32,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.redstar.com.tr
 4BCA62,TC-RSB,Redstar Aviation,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.redstar.com.tr
 4BCA63,TC-RSC,Redstar Aviation,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.redstar.com.tr
@@ -1824,7 +1824,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 502C14,YL-RAC,RAF Avia,Antonov An-26,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://w.wiki/Diwo
 502C5C,YL-KSH,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 502C60,YL-KSS,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
-502C61,YL-LEV,Flying Adventure Tours,Antonov An-2 P,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://en.wikipedia.org/wiki/Antonov_An-2
+502C61,YL-LEV,Flying Adventure Tours,Antonov An-2 P,AN2,Civ,Biplane,Indestructible,I Must Break You,Historic,https://w.wiki/Dstm
 502C65,YL-KSM,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 503C0C,LY-CCP,Private,Yakovlev Yak-18T,Y18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
 503C27,LY-NXC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
@@ -1872,7 +1872,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 510045,EW-275TI,Ruby Star Airways,Antonov An-12 BK,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 51004C,EW-286TL,Rada Airlines,Antonov An-74TK-200,AN72,Civ,Cargo,Vashe Zdorovye,Cheburashka,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-74
 51007E,EW-328TG,Genex Air,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://w.wiki/Diwo
-510081,EW-383TH,Ruby Star Airways,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+510081,EW-383TH,Ruby Star Airways,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
 51008B,EW-435TI,Aviakompania Grodno,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 510099,EW-450TR,Rada Airlines,Ilyushin IL-62MGR,IL62,Civ,Cargo,The Last Of Us,Classic,Da Comrade,https://youtu.be/Gv13eeRh2-c
 5100C6,EW-483TI,Ruby Star Airways,Antonov An-12 BK,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
@@ -1883,7 +1883,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 511036,ES-TLB,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 511047,ES-YLF,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
 511049,ES-YLR,Breitling Team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://www.breitling.com/gb-en/partnerships/breitling-jet-team
-60005F,EW-412TH,Ruby Star Airways,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+60005F,EW-412TH,Ruby Star Airways,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
 600828,4K-AZ40,Silk Way Airlines,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 600829,4K-AZ41,Silk Way Airlines,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 600864,4K-AZ100,Silk Way Airlines,Ilyushin IL-76TD-90,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
@@ -1892,8 +1892,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 6010E9,EX-76007,Fly Sky,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 6010EC,Ex-74001,Sapsan Airline,Antonov An-74,AN72,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Antonov,Da Comrade,https://tinyurl.com/yt8u994n
 6010F6,EX-76008,Sapsan Airline,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
-60184F,EZ-F426,Turkmenistan Airlines,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
-601850,EZ-F427,Turkmenistan Airlines,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
+60184F,EZ-F426,Turkmenistan Airlines,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
+601850,EZ-F427,Turkmenistan Airlines,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://w.wiki/Dsto
 6831D7,UP-EM007,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
 6831E9,UP-EM010,Comlux Aviation Kazakhstan,Embraer ERJ-135,E135,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
 6831F8,UP-C8505,Comlux Aviation Kazakhstan,Mitsubushi CRJ-200,CRJ2,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://comlux.com
@@ -1932,8 +1932,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71C222,HL8222,Korean Air,Boeing 737-BBJ,B737,Civ,Nut Rage,Boeing Business Jet,Snake Eyes,As Seen on TV,https://w.wiki/4mkn
 71C290,HL8290,Hyundai Motor Company,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 71C372,HL8372,SK Telecomm,Gulfstream G650 ER,GLF6,Civ,Bizjet,Telecoms,Corporate Dictatorship,As Seen on TV,https://en.wikipedia.org/wiki/SK_Telecom
-71CA95,HL9295,Hanbelhelrikopta,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-71CA99,HL9299,Private,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+71CA95,HL9295,Hanbelhelrikopta,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+71CA99,HL9299,Private,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 71CC14,HL9414,Korea Forestry Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
 71CC15,HL9415,Korea Forestry Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
 71CC16,HL9416,Korea Forestry Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
@@ -1959,10 +1959,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71CC42,HL9442,Korean Forest Service,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 71CC43,HL9443,Korean Forest Service,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 71CC44,HL9444,Korean Forest Service,CH-54A Tarhe,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
-71D288,HL9288,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-71D289,HL9289,Chang-Woon Aviation,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-71D290,HL9290,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
-71D406,HL9406,Private,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+71D288,HL9288,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+71D289,HL9289,Chang-Woon Aviation,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+71D290,HL9290,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
+71D406,HL9406,Private,Kamov Ka-32 T,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 71D407,HL9407,Ulsan Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://en.wikipedia.org/wiki/Fire_services_in_South_Korea
 71D409,HL9409,Korea Forestry Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
 71D410,HL9410,Korea Forestry Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.forest.go.kr/kfsweb/kfs/subIdx/Index.do?mn=UENG
@@ -1973,7 +1973,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71D456,HL9456,Gyong-Gi Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://119.gg.go.kr/eng/?page_id=447
 71D462,HL9462,Kyungbuk Fire Department,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://en.wikipedia.org/wiki/Fire_services_in_South_Korea
 71D465,HL9465,South Korean National Park Authority,Kamov Ka-32 T,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.knps.or.kr
-71D475,HL9475,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+71D475,HL9475,Private,Kamov Ka-32 A,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 71D481,HL9481,South Korean National Park Authority,Kamov Ka-32 A,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.knps.or.kr
 71D486,HL9486,South Korean National Park Authority,Kamov Ka-32 A,KA27,Civ,Double Vision,Air Attack,Helix,Aerial Firefighter,https://english.knps.or.kr
 7306C1,EP-AVA,Ava Salamat Air Ambulance,MBB-Kawasaki BK 117 C-1,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.heliava.ir/en/
@@ -2123,7 +2123,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 862CB8,JA6512,Aero Asahi Corporation,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
 863AEC,JA6908,Aero Asahi Corporation,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
 863B07,JA6911,Aero Asahi Corporation,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroasahi.co.jp/english/
-863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+863B93,JA6955,Akagi Helicopter,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 86D5B5,JA8229,Asia Air Survey,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ajiko.co.jp/en/index.html
 86EC12,JA8890,Asia Air Survey,Cessna 208 Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.ajiko.co.jp/en/index.html
 87CD03,02-3031,Japan Air Self-Defense Force,Cessna Citation Latitude,C68A,Civ,Flight Inspection,Light Utility,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
@@ -4234,7 +4234,7 @@ C05BB7,C-GITA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadro
 C05D72,C-GJKB,Kenn Borek Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Arctic,Historic,https://w.wiki/Cxho
 C05E5B,C-GJTA,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 C05FA0,C-GKFN,Top Aces Inc,Dassault-Breguet Alpha Jet,AJET,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
-C05FD2,C-GKHL,Helinka SAC,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://en.wikipedia.org/wiki/Kamov_Ka-27
+C05FD2,C-GKHL,Helinka SAC,Kamov Ka-32 A11BC,KA27,Civ,Double Vision,Vashe Zdorovye,Helix,Big Hello,https://w.wiki/Dsta
 C06016,C-GKKB,Kenn Borek Air,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Arctic,Historic,https://w.wiki/Cxho
 C06047,C-GKLY,STARS - Shock Trauma Air Rescue Service,Airbus MBB-BK117 D-2,EC45,Civ,Air Ambo,Medical Evacuation,Saving Lives,Flying Doctors,https://w.wiki/Ax42
 C0607D,C-GKOA,Summit Air,Short Skyvan 3-100,SC7,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://abpic.co.uk/pictures/registration/C-FARA

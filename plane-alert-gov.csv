@@ -487,7 +487,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4CC531,TF-GRO,Icelandic Coast Guard,Eurocopter EC225 Super Puma,AS32,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.lhg.is/english/
 4D2032,9H-AFD,United Nations,DHC-8-300,DH8C,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 501D13,9A-CRO,Gov of Croatia,Bombardier Challenger 604,CL60,Gov,Government,Must Be Nice,Free And Fair Election,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Croatia
-501F9F,866,Croatian Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Croatian_Air_Force
+501F9F,866,Croatian Air Force,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/4mdB
 502C4F,YL-HML,Latvian Border Guard,AgustaWestland A.109 E Power,A109,Gov,Copper Chopper,Border Patrol,Valsts Robezsardze,Coastguard,https://www.rs.gov.lv/en/about-us
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503DAF,LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
@@ -1595,6 +1595,7 @@ AE67F4,6004,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE6987,79-23321,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE698F,80-23465,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
+AE6CE7,6053,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 B648D9,09-0540,USAF,Boeing C-40C,B737,Gov,VIP,Office In The Sky,Not A Bus,Governments,https://w.wiki/7wDu
 C00091,C-FAFO,Province of Saskatchewan,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.saskatchewan.ca
