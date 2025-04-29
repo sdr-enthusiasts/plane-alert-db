@@ -7363,6 +7363,7 @@ A07029,T-550,Uruguayan Air Force,Embraer EMB 120RT,E120,Gov,Luis Lacalle Pou,Gov
 A0709E,N1274G,Sol Aerial Surveys,Cessna 310R,C310,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://solaerialsurveys.com
 A07165,N12796,Skylens,Cessna 172M Skyhawk,C172,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
 A07232,N128J,Department of Homeland Security,Beechcraft Super King Air 350,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
+A07300,N128SF,Win Aviation,Beech Model 99,BE99,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6X
 A07555,N129CB,Air Methods,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.uwmedicine.org/airliftnw/aviation-services-partners
 A078D7,N13,Federal Aviation Administration,Hawker Beechcraft Corp King Air C90GTX,BE9L,Gov,FAA,Vanity Plate,The Management,Dogs with Jobs,https://www.faa.gov
 A078D8,N13A,Private,DHC-1 Chipmunk 1B-2-S3,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7415,6 +7416,7 @@ A0B586,N145CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The 
 A0B5DF,N145GF,Washington County EMS,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Washington-County-EMS-Texas/
 A0B5FF,N145HN,HealthNet Aeromedical Services,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.healthnetaeromedical.com/
 A0B674,N145NE,Boston MedFlight,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.bostonmedflight.org
+A0B6DB,N145SH,Paraclete Aviation,Cessna 208B Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
 A0B6DC,N145SJ,Air Methods,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A0B93D,N146CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0B94F,N146DK,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7483,6 +7485,7 @@ A0FCD6,N163AC,Wells Fargo Trust,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,He
 A0FCD9,N163AF,USAF,Schempp-Hirth Discus,DISC,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A0FCF2,N163BF,Bayflite,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/air-medical/program/bayflite/
 A0FD43,N163EM,Draken Intl,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
+A0FDD3,N163LF,RDT Air,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
 A0FDFB,N650HC,Group Holdings Aviation,Gulfstream G650,GLF6,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
 A0FE01,N658HC,Group Holdings Aviation,Gulfstream G650,GLF6,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
 A0FE02,N113CS,113CS LLC,Gulfstream G650,GLF6,Civ,PIA,Hive Mind,You Can Run But You Cannot Hide,PIA,https://youtu.be/zvoLZyH-KMk
@@ -7598,21 +7601,27 @@ A16EE5,N19146,Private,Fairchild F-24 G,FA24,Civ,Highwing,I Am Old,History,Histor
 A16F21,N1916W,Hatzolah Air,Gulfstream G550,GLF5,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://hatzolair.org
 A17016,N192F,Department of Homeland Security,King Air 350CER,B350,Gov,Eye In The Sky,Surveillance,Spyplane,Oxcart,https://w.wiki/3fTM
 A170DF,N192PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A171A2,N192WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A17496,N193PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A174C8,N193RA,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A17559,N193WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A1770A,N194AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Delilah,Big Hello,https://w.wiki/B3LE
 A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.nemtstatair.com/
 A178A3,N194SM,Surveying And Mapping,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.sam.biz/
+A178AB,N194SV,LA Aviation,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
 A17907,N194WM,Bill Gates,Gulfstream G650,GLF6,Civ,Microsoft,Bill & Melinda Gates Foundation,Harvard Dropout,Don't you know who I am?,https://w.wiki/Yof
+A17910,N194WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A179D9,N1943S,Private,Stinson Reliant AT-19,RELI,Civ,Lend Lease,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
 A179F0,N1944E,Choice Aviation LLC,Cessna 340 Super,C340,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://choiceaviation.com/
 A179FC,N1944S,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
+A17CC7,N195WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A17DC2,N19547,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A17DEC,N1956D,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A17E7D,N196AH,Charlotte Mecklenburg Hospital Authority,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://atriumhealth.org/medical-services/specialty-care/other-specialty-care-services/medcenter-air/fixed-wing-critical-care-transport
 A17F4D,N196JR,Private,Pitts Special S-1T,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/Diwz
 A17FBB,N196PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A1801F,N196TA,Helo N426HA LLC,Bell 407,B407,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Bell_407
+A1807E,N196WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A1811C,N1962J,Eagle Mountain Intl Church,Cessna Citation X,C56X,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A181CB,N1967J,Eagle Mountain Intl Church,Gulfstream G500,GLF5,Civ,Kenneth Copeland,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://w.wiki/3hze
 A181CE,N1967M,McDonalds Corp,Gulfstream G550,GLF5,Civ,Would You Like Fries With That?,Supersize Me,Bad Food,As Seen on TV,https://en.wikipedia.org/wiki/McDonald%27s
@@ -7621,10 +7630,12 @@ A1822F,I-CFAI,Vigili del Fuoco,S-64F Skycrane,S64,Civ,Skycrane,Thunderbird 2,Hea
 A18326,N197L,American Airpower Heritage Flying Museum,Beech D18S,BE18,Civ,Twin Beech,Twin Tail,Tricycle Landing Gear,Historic,https://w.wiki/4wor
 A18331,N197LL,Accelero,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A18372,N197PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A18435,N197WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A184D7,N1972N,Nike Inc,Gulfstream G650 ER,GLF6,Civ,Swoosh,Waffle,Air Jordan,As Seen on TV,https://w.wiki/3iVT
 A184D8,N1972P,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/Diwz
 A18698,N198HF,Hormel Foods,Gulfstream G280,G280,Civ,Spam,Wonderful Spam,Lovely Spam,As Seen on TV,https://en.wikipedia.org/wiki/Spam_(food)
 A18729,N198PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A187EC,N198WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A18A28,N199FS,Seminole Boosters Inc.,Cessna Citation X,C750,Civ,Chief Osceola,The Other Football,Vanity Plate,Football,https://www.fsu.edu/
 A18B36,N199SM,Mercy St Vincent Medical Center,Eurocopter AS365 N2 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.mercy.com/
 A18D51,N2A,Goodyear Tire & Rubber Company,Zeppelin NT N07,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
@@ -7703,6 +7714,7 @@ A1E044,N22SM,Select Medical Corp,BAe 125,H25B,Civ,Air Ambo,Medical Evac,Saving L
 A1E29F,N220SP,Kentucky State Police,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,http://kentuckystatepolice.org
 A1E50A,N221DG,David Geffen,Gulfstream G650,GLF6,Civ,Asylum Records,Geffen Records,DreamWorks SKG,Don't you know who I am?,https://en.wikipedia.org/wiki/David_Geffen
 A1E968,N222KZ,Warrior Notes Ministry,Embraer Phenom 100,E50P,Civ,Deus Vult,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://www.warriornotesschool.com/
+A1EC31,N223AL,Win Aviation,de Havilland DHC-6-200 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
 A1EC64,N223CM,Private,Beech Expeditor 3NM,BE18,Civ,Lend Lease,Thanks Uncle Sam,WW2,Historic,https://w.wiki/4wor
 A1EC96,N223EM,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A1ECF1,N223JC,Aircraft Associates Inc (DOJ),Bell 412EP,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -7711,6 +7723,7 @@ A1EDD2,N223TC,Surveying and Mapping,Cessna 206H,C206,Civ,Aerial Survey,Measuring
 A1EDE3,N223TV,Jeffrey Vinik,Bombardier Challenger 300,CL30,Civ,Bizjet,NHL,Tampa Bay Lightning,Don't you know who I am?,https://w.wiki/D8QZ
 A1EFE9,N224AM,Air Methods,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A1EFFE,N224BH,State Gov of Akwa Ibom,Gulfstream G450,GLF4,Gov,Nigeria,Udom Gabriel Emmanuel,Government,Governments,https://akwaibomstate.gov.ng
+A1F0A9,N224JD,Perrydise Aviation,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
 A1F0C0,N224KB,Pasadena Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofpasadena.net/police
 A1F1C1,N224VJ,ASI Flight Services,Cirrus SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A1F32A,N2247,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7765,6 +7778,7 @@ A233C2,N241AM,Air Methods,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Sa
 A234DB,N241MT,Aerocare,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/AeroCare-Texas/
 A23503,N241PH,PHI Health,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.phiairmedical.com/
 A236BD,N2415,Nuclear Security Administration,Augusta-Westland AW-139,A139,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://w.wiki/CzGf
+A23943,N242UV,AAI Corp,Shadow RQ-7B,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
 A23B27,N243AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Marty,Big Hello,https://w.wiki/B3LE
 A23BBD,N243GC,Department of Homeland Security,Eurocopter AS350 Squirrel,AS50,Gov,Surveillance,Border Patrol,Covert,Oxcart,https://w.wiki/3fTM
 A2440B,N245RB,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
@@ -7852,6 +7866,7 @@ A2D59E,N282CC,Cummins Engine Company,Gulfstream G280,G280,Civ,Diesel Power,P Pum
 A2D615,N282GX,Global Crossing Airlines,Airbus A320 214,A320,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A2D6FD,N282SD,San Diego City Fire Dept,Bell 412EP,B412,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sandiego.gov/fire
 A2DAB4,N283SD,San Diego City Fire Dept,Sikorsky S-70,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.sandiego.gov/fire
+A2DEAD,N284UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A2E0A8,N285BA,Bank of America,Gulfstream G280,G280,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://www.bankofamerica.com
 A2E0FE,N285EM,Exxon Mobil Corp,Gulfstream G280,G280,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A2E13A,N285GX,Global Crossing Airlines,Airbus A319 112,A319,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
@@ -7873,6 +7888,7 @@ A2FAD1,N291SR,L-3 Harris,Bombardier Global 6500,GLEX,Civ,Surveillance,ISR,Projec
 A30243,N293SV,Mercy St Vincent Medical Center,Eurocopter AS365 N2 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.mercy.com/
 A3026F,N293UP,United Parcel Service,MD-11,MD11,Civ,You Came Here In That Thing,Flying Rust Bucket,Nope Mobile,You came here in that thing?,https://www.ups.com/gb/en/Home.page
 A30842,N295CC,Clayton County Police Dept,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.claytonpolice.com
+A30D3F,N296RD,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A30FE0,N297EA,Erickson Aero Tanker,McDonnell Douglas DC-9 87,MD87,Civ,Fire Bomber,Air Attack,Wildfire,Aerial Firefighter,http://www.eatanker.com/
 A31AA0,N3A,Goodyear Tire & Rubber Company,Zeppelin LZ NO7-101,SHIP,Civ,Vulcanization,Blimp,Tires,As Seen on TV,https://w.wiki/4$EU
 A31AE0,N3CP,Pfizer,Gulfstream G650 ER,GLF6,Civ,Vaccines Save Lives,Medicines,Biotechnology,As Seen on TV,https://www.pfizer.com
@@ -7893,6 +7909,7 @@ A32022,N300JH,Fly Jive Fly,North American T-28B Trojan,T28,Civ,Basic Trainer,Rad
 A32136,N300VJ,Meridian Leasing II,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A32155,N300WQ,Woolpert,Beech B300 Super King Air,BE30,Gov,Planes with friggin lasers,Government,Pew Pew Pew,Ptolemy would be proud,https://woolpert.com/services/lidar/
 A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A32346,N301CL,Win Aviation,de Havilland DHC-6-200 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
 A3238A,N301FD,Los Angeles Fire Department,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
 A32456,N301PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
@@ -7940,6 +7957,7 @@ A3477B,N310GV,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Ev
 A347F9,N310MW,Keystone Aerial Surveys,Cessna T310R,C310,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.kasurveys.com/
 A34877,N310SX,Falcon Landing LLC,Not Yet Allocated,ZZZZ,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
 A34891,N310TY,Sol Aerial Surveys,Cessna 310R,C310,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://solaerialsurveys.com
+A348A7,N310UV,AAI Corp,Shadow RQ-7B,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
 A3494D,N3101A,Private,Cessna 170B,C170,Civ,Post-War,I am Old,All Metal,Historic,https://w.wiki/C$fM
 A34ADA,N311DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A34B57,N311JG,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -7950,6 +7968,7 @@ A34E02,N3118K,North Carolina Wildlife Resources,Maule M-7,M7,Gov,Fish,Wildlife,N
 A34F8C,N312PH,PHI Health,Eurocopter EC135 P2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A34FCC,N312RX,Reach Air Medical,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
 A34FD3,N312SD,Harris County Sheriff's Office,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil
+A35048,N312WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A35206,N313AR,Alex Rodriguez,Gulfstream G-IV,GLF4,Civ,Bizjet,MLB,NY Yankees,Don't you know who I am?,https://en.wikipedia.org/wiki/Alex_Rodriguez
 A35217,N313BH,Walmart,Learjet 45,LJ45,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A35221,N313BT,Early Birds Foundation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
@@ -7966,9 +7985,13 @@ A35AA7,N315NY,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Meas
 A35AEB,N315RR,Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A35AF1,N315RX,Methodist Air Care,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airbus.com/newsroom/stories/hems-methodist-aircare.html
 A35B1E,N315TS,Tutor-Saliba Corporation,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+A35B3A,N315UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
+A35B6D,N315WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A35EA8,N316RX,REACH Air Medical Services,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
+A35F24,N316WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A35FC5,N3162M,Private,Piper PA-12,PA12,Civ,Snow Sea and Land,Light Utility,I am Old,Historic,https://w.wiki/D5qQ
 A3625F,N317RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
+A3628C,N317TS,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A364CC,N318CS,Textron Aviation,Cessna TTx,C240,Civ,Pistons and Props,Mergers,Bizjet,As Seen on TV,https://w.wiki/Aycz
 A36616,N318RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
 A36622,N318SJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -7976,6 +7999,7 @@ A36684,N318WG,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump John
 A3685D,N319BD,Janet Airlines,Boeing 737NG,B736,Gov,Area 51,Tonopah Test Range,Little Green Men,Distinctive,https://en.wikipedia.org/wiki/Janet_(airline)
 A36932,N319KS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A369CD,N319RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
+A36A49,N319WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A36B08,N3193G,Yankee Air Force,Boeing B-17G Flying Fortress,B17,Civ,Historic,Bomber,Yankee Lady,Historic,https://w.wiki/4nFB
 A36C3A,N32CS,Private,CAC Boomerang CA-13,CA19,Civ,The Front Fell Off,Replica,Fighter,Historic,https://w.wiki/4o4i
 A36C8E,N32GA,Flying H Enterprises,Rockwell Turbo Commander 690A,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.spuraviationservices.com
@@ -7994,6 +8018,7 @@ A37A70,N323LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police 
 A37A71,N323LB,Jeremiel,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A37A7D,N323LP,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A37B02,N323RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
+A37B7E,N323WW,Win Aviation,Short SD3-30,SH33,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A37D1A,N3239T,Private,Douglas DC-3 Dakota,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://w.wiki/Cxhr
 A37D42,N324AX,Airborne Tactical Advantage,Hawker Hunter F.58,HUNT,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A37D66,N324CH,Crescent Heights Management Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
@@ -8145,6 +8170,7 @@ A44BCA,N376TM,Dakota Territory Air Museum,North American P-51D Mustang,P51,Civ,W
 A450B0,N3774,Yankee Air Force,North American B-25C Mitchell,B25,Civ,Historic,Bomber,Rosies Reply,Historic,https://yankeeairmuseum.org/
 A451CB,N378CX,Amerijet International,Boeing 767 323ERBDSF/W,B763,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A4533A,N378TP,ETPC Aviation,Embraer Lineage 1000E,E190,Civ,Bizjet,Madea,Tyler Perry,Don't you know who I am?,https://en.wikipedia.org/wiki/Tyler_Perry
+A456F4,N379TS,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A4592A,N38CG,Corning,Bombardier CL-600-2B19,CL60,Civ,Glass Works,Apple Supplier,Bizjet,As Seen on TV,https://w.wiki/7$LE
 A45A24,N38NG,Northrop Grumman,Gulfstream 5,GLF5,Civ,Aerospace,Stealth Mode,Bizjet,As Seen on TV,https://w.wiki/3rhX
 A45A7E,N38RX,Reach Air Medical,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
@@ -8186,6 +8212,7 @@ A48473,N390TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign 
 A486EA,N931EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 A487CD,N391PH,PHI Health,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A48A3A,N392AC,Aero Flite,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://fireaviation.com/tag/aero-flite
+A48A6A,N392CA,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
 A49138,N225NE,Eastern Airlines,Boeing 767-323ER,B763,Civ,NFL,The Other Football,New England Patriots,Football,https://w.wiki/3h$w
 A491E3,N394CM,Aero Air,Cessna Citation Mustang,C510,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
 A493A2,N394WJ,CoPart Inc,Bombardier Global Express XRS,GLEX,Civ,Pantone,Bizjets,Conglomerate,As Seen on TV,https://w.wiki/4nKq
@@ -8223,6 +8250,7 @@ A4B8C3,N403LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr
 A4B8D1,N403LS,Walmart,Learjet 40XR,LJ40,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A4B913,N403PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A4B960,N403SK,US Customs and Border Protection,P-3B LRT Orion,P3,Gov,Eye In The Sky,Surveillance,Border Patrol,Oxcart,https://w.wiki/6Qed
+A4B999,N403US,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A4BADE,N4035S,Siller Helicopters,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 A4BB24,N4037S,Siller Helicopters,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Heavy Lift,Big Hello,https://w.wiki/B3LE
 A4BB80,N404AC,Apache Corporation,Gulfstream G280,G280,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -8230,6 +8258,8 @@ A4BB86,N404AJ,Billings Flying Service,Meridionali CH-47D Chinook,H47,Civ,Heavy L
 A4BBA7,403,Venezuelan Air Force,Cessna Citation II,C550,Mil,VIP Transport,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 A4BCAC,N404NC,North Carolina Highway Patrol,Bell 407,B407,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4BCCA,N404PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A4BD50,N404US,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
+A4BD53,N404UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A4BDF0,N40402,Commemorative Air Force,Grumman TBM-3 Avenger,TBM,Civ,War Bird,Historic,Doris Mae,Historic,https://commemorativeairforce.org/
 A4BF4A,N405AX,Airborne Tactical Advantage,IAI F-21 Kfir C-2,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A4BF7A,N405CV,Civil Air Patrol,Textron Aviation 182T Skylane,C182,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
@@ -8238,6 +8268,7 @@ A4C031,N405LC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr
 A4C063,N405NC,North Carolina Highway Patrol,Bell 407,B407,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A4C07A,N405PA,Phoenix Air,Embraer EMB 120ER,E120,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A4C0F3,N405TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B2,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.dps.texas.gov/section/aircraft-operations-division
+A4C10A,N405UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A4C18C,N4050,PayPal,Gulfstream G650 ER,GLF6,Civ,PayPal,Middle Man,Money For Nothing,As Seen on TV,https://en.wikipedia.org/wiki/PayPal
 A4C2A9,N4058E,Private,Balloon Works Firefly 7 Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,https://youtu.be/5akEgsZSfhg
 A4C301,N406AX,Airborne Tactical Advantage,IAI F-21 Kfir,KFIR,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
@@ -8345,10 +8376,12 @@ A516ED,N427PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Fl
 A519A8,N428DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A51A7C,N428MT,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A51AA4,N428PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
+A51B2D,N428UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A51D5F,N429DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A51DC3,N429HF,HALO-Flight Inc,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://haloflight.org/
 A51E0E,N429LF,Life Flight,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
 A51E5B,N429PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.helis.com/database/sqd/Air-Med-12-CHI-St-Joseph/
+A51EE4,N429UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A51F10,N429WP,Salt River Project,Bell 429 GlobalRanger,B429,Gov,Overload,Choppa,Wichita Lineman,Dogs with Jobs,https://www.srpnet.com/about/about-srp
 A520CB,N43AF,Private,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 A521DE,N43MF,Med Flight Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://medflightair.com/
@@ -8360,6 +8393,7 @@ A5241E,N430LF,Life Flight Network,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medica
 A5244B,N430NA,NASA,Short C-23,SH33,Gov,SCE To Aux,Research,Sherpa,Distinctive,https://www.nasa.gov
 A52461,N430NY,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 A524BC,N430SP,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
+A524F4,N430UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A52519,N430WG,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A526F5,N431BG,Bismarck Air Medical,C90 King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.bismarckairmedical.com/
 A52726,N431DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
@@ -8453,6 +8487,7 @@ A588FD,N456GA,Hewlett-Packard,Gulfstream G550,GLF5,Civ,HP Garage,Pocket Calculat
 A58A19,N456TK,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
 A58C21,N457AD,Dangote Group,Bombardier Global 7500,GL7T,Civ,Bizjet,Conglomerate,West Africa,As Seen on TV,https://en.wikipedia.org/wiki/Dangote_Group
 A58CE9,N457JD,Memorial Hermann Life Flight,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://en.wikipedia.org/wiki/Memorial_Hermann_Life_Flight
+A58DF3,N457UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
 A59025,N458DF,Cal Fire,Grumman S-2G Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A59239,N4580N,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A594B0,N459MT,Med-Trans,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.med-trans.net
@@ -8496,7 +8531,9 @@ A5D4AA,N475LC,L-3 Harris,Gulfstream G-IV SP,GLF4,Civ,Eavesdropping,Defense Contr
 A5D93F,N476V,Visa,Gulfstream G650 ER,GLF6,Civ,Tree Fiddy,Credit Card,BankAmericard,As Seen on TV,https://en.wikipedia.org/wiki/Visa_Inc.
 A5DAB1,N4767,Private,Zivko Edge 540,EDGE,Civ,Unlimted Aerobatics,High G,Red Bull Air Race,Joe Cool,https://en.wikipedia.org/wiki/Zivko_Edge_540
 A5DC18,N477LC,L-3 Harris IS,Cessna S550,C550,Civ,Eavesdropping,Defense Contractor,Sensors,As Seen on TV,https://w.wiki/Az3n
+A5DD36,N477XP,Paraclete Aviation,Cessna 208B Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
 A5DF79,N478GS,L-3 Harris,Gulfstream G-IV SP,GLF4,Civ,C6ISR,Defense Contractor,Bizjet,As Seen on TV,https://w.wiki/Az3n
+A5E0ED,N478XP,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
 A5E57A,N4794N,ACTS Aviation,Vultee BT-13A Valiant,VALI,Civ,Basic Trainer,WW2,L-Plate,Historic,https://w.wiki/4ydB
 A5E5D0,N47964,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 A5E679,N48CG,Corning,Dassault Falcon 900EX,F900,Civ,Glass Works,Apple Supplier,Bizjet,As Seen on TV,https://w.wiki/7$LE
@@ -8529,8 +8566,10 @@ A606A2,N488DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation For
 A60A59,N489DF,Cal Fire,Bell EH-1X Iroquois,UH1,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A60BA5,17-01610,United States Army,DHC-8-300,DH8C,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 A60F3C,N49RF,NOAA,Gulfstream G-IV SP,GLF4,Gov,Gonzo,Cyclone Research,Hurricane Hunter,Ptolemy would be proud,https://youtu.be/pllRW9wETzw
+A613D9,N491AK,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
 A61420,N491DF,USDA Forest Service,Bell EH-1H Iroquois,UH1,Gov,Chopper,Nation Forests,National Grasslands,Dogs with Jobs,https://w.wiki/5Fsu
 A6155A,N491RV,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
+A61790,N492AK,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A61B8E,N493DF,Cal Fire,Bell EH-1H Iroquois,UH1,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A61C8A,N493PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A62041,N494PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
@@ -8780,6 +8819,7 @@ A71F87,N5580M,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,
 A722E7,N559X,American Express Travel,Gulfstream G550,GLF5,Civ,That Will Do Nicely,Amex,Charge Card,As Seen on TV,https://en.wikipedia.org/wiki/American_Express
 A724A9,N56AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 A724FB,N56EF,Private,DHC-1 Chipmunk 1B-2-S5,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
+A7254E,N56HP,Little Wing,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A72567,N56JP,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A725D7,N56PA,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A725DF,N56PJ,Luca Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
@@ -8799,6 +8839,7 @@ A73E34,N566LF,Life Flight,AgustaWestland AW.119,A119,Civ,Air Ambo,Medical Evac,S
 A73E80,N566PG,C2D LLC,Gulfstream Aerospace GV,GLF5,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A73EF3,N566TX,Lone Star Flight Museum,North American SNJ-5 Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
 A7424D,N567QD,Quest Diagnostics,Pilatus PC-12/45,PC12,Civ,Clinical Laboratory,Diagnostic Testing,Drug Testing,As Seen on TV,https://w.wiki/CuKh
+A742F4,N567WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
 A744A7,N568AE,Seminole Tribe of Florida,Eurocopter AS350 Squirrel B3,AS50,Civ,The Gambler,The House Always Wins,Snake Eyes,As Seen on TV,https://www.seminolehardrockhollywood.com/
 A744BD,N568BB,Bollinger Shipyards,Hawker 125 850XP,H25B,Civ,Shipbuilder,Jones Act,Man Made Climate Change,Bizjets,https://w.wiki/6epJ
 A745E8,N568PA,Phoenix Air,Learjet 35A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
@@ -8945,41 +8986,51 @@ A7F432,N611TV,Sky Helicopters,Robinson R66 Turbine Newscopter,R66,Civ,Is This My
 A7F642,N612AX,10 Tanker Air Carrier,Douglas DC-10 30ER,DC10,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.10tanker.com/
 A7F64F,N612BK,Kqm Aviation (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 A7F7B9,N612RX,Reach Air Medical,Eurocopter AS350 Squirrel B3,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com/
+A7F81A,N612VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A7F8F0,N6123C,The Flying Bulls,North American B-25J Mitchell,B25,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A7F9EB,N613AH,HealthNet Aeromedical Services,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.healthnetaeromedical.com/
 A7F9F9,N613AX,Airborne Tactical Advantage,Dassault Mirage F.1 CR,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A7FAE3,N613LF,Frank Lowry,Gulfstream G550,GLF5,Civ,Bizjet,Frank Lowry,Westfield,Don't you know who I am?,https://en.wikipedia.org/wiki/Frank_Lowy
+A7FBD1,N613VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A7FDAA,N614AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Research,Eye In The Sky,Airborne Science,Dogs with Jobs,http://www.twinotter.com/
 A7FDB0,N614AX,Airborne Tactical Advantage,Dassault Mirage F1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A7FDEC,N614DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
+A7FF88,N614VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A8005A,N61429,Commemorative Air Force,North American P-51C Mustang,P51,Civ,War Bird,Shiny,Tuskeegee Airmen,Historic,https://commemorativeairforce.org/
 A80161,N615AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Research,Eye In The Sky,Airborne Science,Dogs with Jobs,http://www.twinotter.com/
 A80167,N615AX,Airborne Tactical Advantage,Dassault Mirage F.1 CR,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A801A3,N615DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
 A80239,N615KG,Robert Kraft,Gulfstream G650 ER,GLF6,Civ,NFL,The Other Football,Patriots,Don't you know who I am?,https://w.wiki/_zL26
+A8033F,N615VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A80507,N616,South Carolina Forestry Commission,Cessna U206B,T206,Gov,Wildfire,FEPP,Dogs with Jobs,Aerial Firefighter,https://www.scfc.gov
 A8055A,N616DG,USAF,DG-1000S TG-16A,DG1T,Mil,Where Is The Engine,Glider,To Fly Fight And Win,USAF,https://www.airforce.com
+A806F6,N616VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A808BC,N61698,Wildfire Aviation LLC,Beechcraft King Air C90A,BE9L,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/7op8
 A808D5,N617AX,Airborne Tactical Advantage,Dassault Mirage F.1 CR,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A80A69,N617TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
+A80AAD,N617VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A80C8C,N618AX,Airborne Tactical Advantage,Dassault Mirage F1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A80D17,N618GL,Gundersen Lutheran Medical Center,MBB-Kawasaki BK 117 C-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.gundersenhealth.org/
 A80E20,N618TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
+A80E64,N618VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A81043,N619AX,Airborne Tactical Advantage,Dassault Mirage F.1 CR,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A81051,N619BL,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A8107D,N619DE,US Department of Energy,Bell 407,B407,Gov,mmm Neutrons,Nuclear,Covert,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A81093,N619EB,Camda Aviation,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A811AD,N619RJ,Aeromedevac,Eclipse Aviation EA500,EA50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aeromedevac.com/
+A8121B,N619VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A8147B,N62GA,Air Methods,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A81530,N62PG,Phoenix Air,Learjet 36A,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A81571,N62RX,Reach Air Medical,Eurocopter AS332 Super Puma,AS50,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com
 A815BF,N62V,Dynamic Avlease Inc,Beech U-21A Ute (A90-1),U21,Civ,Government Contractor,Mystery,Versatile Aircraft,Hired Gun,https://www.dynamicaviation.com/1-fleet-ka-90/
 A8164D,N620AR,L-3 Harris,CASA C-212 Aviocar 300,C212,Civ,C6ISR,Defense Contractor,Bizjet,Oxcart,https://w.wiki/Az3n
 A816BC,N620FB,Phoenix Police Dept,Pilatus PC-12 47E,PC12,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.phoenix.gov/police
+A8182B,N620VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A81832,N620WA,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
 A8184A,N620X,Massachusetts Mutual Life Insurance Co,Dassault Falcon 900LX,F900,Civ,Insurance,Bizjet,Reverse Gambling,As Seen on TV,https://w.wiki/4qPz
 A81A73,N621FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A81B13,N621MM,Island Jet Inc,Dassault Falcon 7X,FA7X,Civ,Bizjet,Music,Taylor Swift,Don't you know who I am?,https://w.wiki/3hFd
+A81BE2,N621VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
 A81DBD,N622AT,Air Ambulance by Air Trek,Cessna Citation I,C500,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medjets.com/
 A81DC1,N622AX,Airborne Tactical Advantage,Dassault Mirage F.1 CT,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://atacusa.com/
 A81E2A,N622FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
@@ -9192,6 +9243,7 @@ A95566,N700JR,Private,Canadian Car & Foundry Harvard IV,T6,Civ,Trainer,History,T
 A95644,N700TN,Private,Beech H18,BE18,Civ,Twin Beech,Twin Tail,Tricycle Landing Gear,Historic,https://w.wiki/4wor
 A95892,N701DB,Dan Bilzerian,Gulfstream G-IV,GLF4,Civ,Bizjet,Poker,Ignite International Ltd.,Don't you know who I am?,https://en.wikipedia.org/wiki/Dan_Bilzerian
 A9589C,N701DM,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
+A95A1B,N701UV,AAI Corp,Shadow RQ-7B M2,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
 A95BFC,N702A,Saudi Aramco,Hawker 125 900XP,H25B,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A95C2F,N702CA,National Airlines,Boeing 747 412BCF,B744,Civ,Cargo,Government Contractor,Airlift,Hired Gun,https://w.wiki/4xqx
 A95C79,N702F,Station Casinos,Boeing 737-MAX8-BBJ,B38M,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -9200,6 +9252,7 @@ A960FF,N703PG,Babbit's Motorsport Racing,Cirrus Jet Vision SF50,SF50,Civ,Safe Re
 A966B1,N70464,USAF,DHC UV-18 Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Wings of Blue,Aerobatic Teams,https://www.usafa.edu/wings-of-blue/
 A966B2,N70465,USAF,DHC UV-18 Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Wings of Blue,Aerobatic Teams,https://www.usafa.edu/wings-of-blue/
 A96823,N705LH,Labcorp,Pilatus PC-12,PC12,Civ,Genomes,Medical,Bizjet,As Seen on TV,https://w.wiki/Ahr2
+A968F7,N705UV,AAI Corp,Shadow RQ-7B M2,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
 A9697F,N7050F,Houston Police Department,Gippsaero GA-8 Airvan,GA8,Pol,Police Squad,The Cops,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
 A96A98,N7058G,DC Aerial Photos,Cessna 172K Skyhawk,C172,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://dcairphotos.com/
 A96B72,N706GD,Gulfstream Aerospace Corp,Gulfstream G700,GA7C,Civ,Bizjets,How The Other Half Live,We Make Planes,As Seen on TV,https://w.wiki/Aycu
@@ -9262,6 +9315,7 @@ A9AEC1,N723AR,Airborne Research LLC,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Researc
 A9AF36,N723FH,Flying Heritage Collection,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Upapa Epops,Historic,https://w.wiki/3nth
 A9B15F,N7232R,US Department of Energy,B200 Super King Air,BE20,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A9B67C,N725DT,Donald Trump,Cessna Citation X,C750,Civ,Bad Human,Orange Danger,Lock Him Up,Dictator Alert,https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump
+A9B828,N725WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 A9BA16,N726CP,Civil Air Patrol,Cessna 172 Skyhawk,C172,Civ,Air Force Auxiliary,Search and Rescue,Flying Vigilantes,CAP,https://w.wiki/8odd
 A9BAF2,N726MJ,Medway Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.medwayair.com/
 A9BC93,N72626,ISR Platforms,Cessna T206 Turbo Stationair,T206,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
@@ -9404,10 +9458,12 @@ AAB198,N7887N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly
 AAB1DE,N7889N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AAB2FA,N789LL,US SOCOM,B350 Super King Air,B350,Mil,Covert,SOCOM,You Aint Seen Me Right,Special Forces,https://w.wiki/4meC
 AAB300,N789LS,Las Vegas Sands Corp,Boeing 737,B733,Civ,Man Made Climate Change,Boeing Business Jet,House Always Wins,As Seen on TV,https://youtu.be/r1Zp0B6KViE
+AAB3FE,N789WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
 AAB47D,N7891N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AAB595,N7899N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AAB5AB,N79,Federal Aviation Administration,Beech King Air 300,BE30,Gov,FAA,Vanity Plate,The Management,Dogs with Jobs,https://www.faa.gov
 AAB8CD,N790J,IBM Corp,Dassault Falcon 2000,F2TH,Civ,HAL,Counting Machines,Big Blue,As Seen on TV,https://en.wikipedia.org/wiki/IBM
+AABA20,N790XP,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
 AABAB0,N7902N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AABAD3,N7903N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AABB19,N7905N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
@@ -9437,6 +9493,7 @@ AADE79,N8PJ,Faith Life Church Inc,Raytheon 390,PRM1,Civ,Jesus He Knows Me,Church
 AADE7F,N8PQ,Elkhorn Aviation Inc,Rockwell Turbo Commander 690A,AC90,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://bakeraircraft.com/aircraft
 AADF08,N8VB,Paramount Pictures,Bombardier Global 6000,GLEX,Civ,Is This My Good Side,Hollywood,5555 Melrose Avenue,As Seen on TV,https://www.paramount.com
 AADF83,N80,Federal Aviation Administration,Beech B300 Super Air King,BE30,Gov,FAA,The Management,Dogs with Jobs,Vanity Plate,https://www.faa.gov
+AAE01F,N80GE,Win Aviation,Cessna 208B Grand Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
 AAE0C2,N80NT,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 AAE0D0,N80PG,Phoenix Air,Learjet 35,LJ35,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 AAE138,N80TL,Tailwinds,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
@@ -9752,6 +9809,7 @@ AC6F37,N900AL,Abbott Laboratories,Gulfstream G550,GLF5,Civ,Medical Devices,Gener
 AC701E,N900KS,Steven Spielberg,Gulfstream G650,GLF6,Civ,Bizjet,Jurassic Park,Indiana Jones,Don't you know who I am?,https://en.wikipedia.org/wiki/Steven_Spielberg
 AC705B,N900NC,21st Century Fox,Gulfstream G650 ER,GLF6,Civ,Is This My Good Side,Hollywood,News Corporation,As Seen on TV,https://en.wikipedia.org/wiki/21st_Century_Fox
 AC72FD,N901BA,Bismarck Air Medical,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.bismarckairmedical.com/
+AC730D,N901BS,Paraclete Aviation,de Havilland DHC-6 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
 AC747B,N901SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.sanfordhealth.org/
 AC74F0,N901X,United States Steel Corp,Gulfstream G500,GLF5,Civ,Steel,Bizjet,JP Morgan,As Seen on TV,https://w.wiki/4sK7
 AC76D4,N902CH,Lester E Cox Medical Centers,MD 900 Explorer,EXPL,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.coxhealth.com/
@@ -9770,6 +9828,7 @@ AC8357,N905SH,Sanford Medical Center,B200 Super King Air,BE20,Civ,Air Ambo,Medic
 AC85AF,YV2869,Petroleos de Venezuela,Beechcraft 1900D,B190,Gov,Dictator Alert,Nicolas Maduro,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 AC86A3,N906NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
 AC872B,N906TM,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC877F,N906WW,Win Aviation,Short 330,SH33,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
 AC8967,N907CH,Heligroup Fire,Sikorsky S-61 N,S61,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 AC8997,N907EF,US SOCOM,Dornier C-146A,D328,Mil,Special Ops,Covert,Wolfhound,Special Forces,https://w.wiki/4meC
 AC8A5A,N907NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
@@ -9861,12 +9920,14 @@ ACBBD4,N92AC,Aerbus Holdings,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Ba
 ACBD5E,N92RX,CVS Pharmacy,Cessna Citation X,C56X,Civ,Pharmacy,Tylenol,Drugstore,As Seen on TV,https://www.cvs.com
 ACBE86,N920DS,Seven Bar Aviation,Embraer Phenom 300,E55P,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.7bar.com/
 ACBF57,N920NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
+ACBF59,N920NC,North Carolina Agriculture & Consumer,Cessna 182 Skylane,C182,Gov,Food & Drug,Agriculture,Animal Health,Governments,https://www.ncagr.gov/
 ACBFEC,N920U,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 ACC21B,N921CH,REVA Air Ambulance,Learjet 35A,LJ35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 ACC29C,N921HM,Heligroup Fire,Eurocopter AS350 Squirrel,AS50,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://chiaviation.com/about
 ACC2EC,N921LS,Ng Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
 ACC306,N921MT,Mark Cuban,Bombardier Global Express,GLEX,Civ,Bizjet,Angel Investor,Dallas Mavericks,Don't you know who I am?,https://en.wikipedia.org/wiki/Mark_Cuban
 ACC30E,N921NA,NASA,Northrop T-38N Talon,T38,Gov,SCE To Aux,Chase Plane,Astronaut Training,Distinctive,https://www.nasa.gov
+ACC3EA,N921WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
 ACC5AB,N922AU,Airstrike Firefighters,Lockheed P-3A Orion,P3,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,http://www.airstrikefirefighters.com
 ACC647,N922H,Honeywell International,Gulfstream G650,GLF6,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 ACC6B5,N922MK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
@@ -14285,6 +14346,7 @@ AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Train
 AE60EF,160937,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE60F2,161053,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
 AE60F5,162635,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
+AE60F7,164162,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
 AE613C,165574,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6140,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6142,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
@@ -15302,65 +15364,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-ACBF59,N920NC,North Carolina Agriculture & Consumer,Cessna 182 Skylane,C182,Gov,Food & Drug,Agriculture,Animal Health,Governments,https://www.ncagr.gov/
-A7F81A,N612VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A7FBD1,N613VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A7FF88,N614VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A8033F,N615VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A806F6,N616VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A80AAD,N617VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A80E64,N618VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A8121B,N619VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A8182B,N620VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A81BE2,N621VU,Platform Aerospace,Platform Vanilla,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://vanillaunmanned.com/
-A23943,N242UV,AAI Corp,Shadow RQ-7B,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
-A2DEAD,N284UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A30D3F,N296RD,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A348A7,N310UV,AAI Corp,Shadow RQ-7B,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
-A35B3A,N315UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A3628C,N317TS,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A456F4,N379TS,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A4B999,N403US,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A4BD50,N404US,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A4BD53,N404UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A4C10A,N405UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A51B2D,N428UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A51EE4,N429UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A524F4,N430UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A58DF3,N457UV,AAI Corp,Aerosonde MK 4.7G,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5A
-A95A1B,N701UV,AAI Corp,Shadow RQ-7B M2,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
-A968F7,N705UV,AAI Corp,Shadow RQ-7B M2,DRON,Civ,ISR,Drone,Eye in the Sky,UAV,https://w.wiki/Dt5E
-AE60F7,164162,United States Navy,Beech T-34C Turbo Mentor,T34T,Mil,Basic Trainer,Bicycle Made For Two,Pass The Sick Bag,United States Navy,https://www.navy.mil
-A7254E,N56HP,Little Wing,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
-A07300,N128SF,Win Aviation,Beech Model 99,BE99,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6X
-A171A2,N192WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A17559,N193WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A17910,N194WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A17CC7,N195WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A1807E,N196WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A18435,N197WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A187EC,N198WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
-A1EC31,N223AL,Win Aviation,de Havilland DHC-6-200 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
-A32346,N301CL,Win Aviation,de Havilland DHC-6-200 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
-A35048,N312WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A35B6D,N315WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A35F24,N316WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A36A49,N319WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A9B828,N725WW,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A61790,N492AK,Win Aviation,Short SD3-60,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A37B7E,N323WW,Win Aviation,Short SD3-30,SH33,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A613D9,N491AK,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
-A742F4,N567WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
-AAB3FE,N789WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
-ACC3EA,N921WW,Win Aviation,Short C-23B Sherpa,SH36,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/7YWC
-AAE01F,N80GE,Win Aviation,Cessna 208B Grand Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
-AC877F,N906WW,Win Aviation,Short 330,SH33,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt65
-A0B6DB,N145SH,Paraclete Aviation,Cessna 208B Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
-A48A6A,N392CA,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
-A5DD36,N477XP,Paraclete Aviation,Cessna 208B Caravan,C208,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt6H
-A5E0ED,N478XP,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
-AABA20,N790XP,Paraclete Aviation,CASA C-212 Aviocar 400MP,C212,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dvry
-AC730D,N901BS,Paraclete Aviation,de Havilland DHC-6 Twin Otter,DHC6,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/8p5d
-A178AB,N194SV,LA Aviation,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
-A1F0A9,N224JD,Perrydise Aviation,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
-A0FDD3,N163LF,RDT Air,Piaggio P-180 Avanti,P180,Civ,Pusher Prop,Canards,How Does It Fly,Bizjets,https://w.wiki/9wfg
