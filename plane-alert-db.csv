@@ -2508,6 +2508,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E8C6B,79+21,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3E8C89,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E8E96,54+34,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3E92A1,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E92AC,4X-XX,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3E9335,3X+XX,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E936C,30+35,German Air Force,Eurofighter Typhoon T,EUFI,Mil,Zoomies,Danger Zone,Bicycle Made For Two,GAF,https://w.wiki/Dfbp
@@ -2997,6 +2998,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3FBAF9,46+35,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3FBB26,31+51,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FBBC5,79+16,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
+3FBC55,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3FBC98,46+49,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FBDCA,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3FBDCC,45+00,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -6306,6 +6308,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 738A4F,016,Republic Of Singapore Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://en.wikipedia.org/wiki/EL/W-2085
 738A69,452,Israeli Air Force,Gulfstream G550 CAEW,GLF5,Mil,Eye In The Sky,Airborne Early Warning,AWACS,Other Air Forces,https://w.wiki/4e3x
 738A91,522,Israeli Air Force,Lockheed KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/7ok9
+738A92,545,Israeli Air Force,Lockheed KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/7ok9
 738B42,295,Israeli Air Force,Boeing 707-366C,B703,Mil,Air2Air,We Make Your Planes Better,Oryx,Other Air Forces,https://w.wiki/4e3x
 738B49,662,Israeli Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
 738B4E,663,Israeli Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/4e3x
@@ -7185,6 +7188,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896C2D,1225,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C2E,1226,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C2F,1227,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
+896C30,1228,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C3C,1302,United Arab Emirates Air Force,Airbus A330-243-MRTT,A332,Mil,Air2Air,Refuel,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 896C3E,1229,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C40,1230,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
@@ -7432,6 +7436,7 @@ A0C0AB,N148CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The 
 A0C462,N149CS,US Customs and Border Protection,P-3B AEW Orion,P3,Gov,Eye In The Sky,Surveillance,Is That A Radar?,Oxcart,https://w.wiki/6Qed
 A0C581,N149QD,Quest Diagnostics,Pilatus PC-12/45,PC12,Civ,Clinical Laboratory,Diagnostic Testing,Drug Testing,As Seen on TV,https://w.wiki/CuKh
 A0C628,N149WW,Aero Air,Cessna Citation CJ3,C25B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.aeroair.com/
+A0C62D,N149XA,Eastern Air Express,Boeing 737-400,B734,Civ,Guantanamo,ICE,Deportation Flight,Hired Gun,https://w.wiki/DyRz
 A0C7D4,N14999,Private,Lockheed Electra Junior L12A,L12,Civ,All Metal,Radial Engine,I Am Old,Historic,https://w.wiki/4o4F
 A0C82F,N15DP,Walmart,Cessna Citation Sovereign,C680,Civ,Join A Union,Corporate Dictatorship,Shop Local,As Seen on TV,https://en.wikipedia.org/wiki/Walmart
 A0C8D1,N15LA,Los Angeles Fire Department,Sikorsky S-70A,H60,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.lafd.org
@@ -7677,6 +7682,7 @@ A1A990,N206NY,New York Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The
 A1AB42,N20646,US Department of Energy,Bell 206L Long Ranger,B06,Gov,mmm Neutrons,Nuclear,Geiger,Nuclear,https://www.energy.gov/national-security-safety/emergency-response
 A1AC0F,N207AL,Pickett,Cessna T206H,T206,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.pickettusa.com/geospatial/
 A1AC16,N207AT,A-4L LLC,Douglas A-4L Skyhawk,A4,Civ,Must Be Nice,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/BEX3
+A1AC1A,N207AX,Omni Air International,Boeing 767 224ER,B762,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A1AFD1,N208AX,UK Parachuting,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://ukparachuting.co.uk/
 A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 A1B0B8,N208LC,Miami Dade Fire & Rescue,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://tinyurl.com/2t4kjxez
@@ -8523,6 +8529,7 @@ A5AEA1,N46502,Private,Ryan Recruit ST3-KR,PT22,Civ,Basic Trainer,Open Cockpit,Sh
 A5B4E9,N467PH,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A5B51E,N467RL,Air Legends Foundation,Grumman F6F-5K Hellcat,HCAT,Civ,War Bird,Tough As Old Boots,Fly Navy,Historic,https://w.wiki/CiD6
 A5B556,N467TS,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A5B769,N468AX,Omni Air International,Boeing 767 36NER,B763,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
 A5BB5B,N469DF,Cal Fire,North American Rockwell OV-10D Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A5BEC0,N47,Federal Aviation Administration,Bombardier Global 5000,GL5T,Gov,FAA,Vanity Plate,The Management,Dogs with Jobs,https://www.faa.gov
 A5BF2C,N47EG,Michael Bloomberg,Dassault Falcon 900,F900,Civ,Bizjet,Bloomberg,ex-NYC Mayor,Don't you know who I am?,https://en.wikipedia.org/wiki/Michael_Bloomberg
@@ -10528,6 +10535,7 @@ ADFECC,84-00486,United States Army,Beech C-12T-3 Huron,BE20,Mil,Light Transport,
 ADFECE,84-00488,United States Army,Beech C-12T Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFED0,85-51262,United States Army,Beech C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFED1,85-51263,United States Army,Beech C-12U Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
+ADFED2,85-51264,United States Army,Beech C-12U Huron,BE20,Mil,Priority Air Transport,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFED3,85-51265,United States Army,Beech C-12U Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFED4,85-51266,United States Army,Beech C-12U Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 ADFED5,85-51267,United States Army,Beech C-12U Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
@@ -10684,6 +10692,7 @@ AE008A,66-8379,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made Fo
 AE008F,66-8391,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0090,66-8392,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0093,66-8395,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE0094,67-14837,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0096,67-14846,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0097,67-14849,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://w.wiki/7y3F
 AE0099,67-14929,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -10703,12 +10712,14 @@ AE00C9,67-14955,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made F
 AE00DA,64-13193,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00E9,66-4327,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00F4,61-0938,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE00FB,65-10350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00FD,65-10399,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00FE,65-10432,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE00FF,65-10457,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0100,65-10472,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0101,67-14842,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE0102,67-14925,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE0106,68-8168,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE010D,97-0400,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/DiyY
 AE010E,97-0401,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/DiyY
 AE0110,941570,United States Navy,C-38A Astra SPX,ASTR,Mil,Bizjet,Must Be Nice,VIP Transport,United States Navy,https://w.wiki/Av5G
@@ -11083,6 +11094,7 @@ AE03D2,164441,United States Navy,Lockheed KC-130T Hercules,C130,Mil,USMC,Air2Air
 AE03D4,164597,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03D5,164598,United States Navy,Lockheed KC-130T Hercules,C130,Mil,USMC,Air2Air,Tactical Airlift,United States Navy,https://w.wiki/7ok9
 AE03DB,165316,United States Marine Corps,Lockheed KC-130T Hercules,C130,Mil,Air2Air,Tactical Airlift,Semper Fidelis,United States Marine Corps,https://w.wiki/7ok9
+AE03DC,165352,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03DE,164762,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03E0,164993,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03E1,164994,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
@@ -11791,6 +11803,7 @@ AE0990,91-26327,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE0997,95-26611,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE09AD,87-24617,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE09B5,89-26130,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE09BC,91-26335,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE09D0,????,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE09D2,84-23963,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0A08,85-24412,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -11822,6 +11835,7 @@ AE0C55,92-26454,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE0C59,92-26435,United States Army,Sikorsky UH-60LBlack Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0C60,93-26485,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0C67,92-26432,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE0C6B,93-26493,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0C73,94-26533,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0C7F,85-24438,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0CAD,83-23889,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -11856,6 +11870,7 @@ AE0E56,86-24530,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE0E61,97-26767,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0E73,87-24647,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E7F,85-24391,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE0E8A,88-26039,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0E8B,88-26040,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0E99,95-26639,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0EA7,88-26020,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -13235,6 +13250,7 @@ AE2049,13-72314,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry
 AE204F,14-72320,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE2051,14-72322,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE2055,14-72326,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE2056,14-72327,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE205A,14-72331,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE205B,14-72332,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE205C,14-72333,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
@@ -13566,6 +13582,7 @@ AE47B5,09-20226,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE47E0,07-20030,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47EE,07-20049,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47EF,07-20050,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE47F0,07-20051,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47F4,07-20055,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE47FC,07-20063,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4811,07-20068,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -13575,11 +13592,14 @@ AE481B,07-20078,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE481C,07-20079,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE481F,07-20082,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4821,07-20084,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE4836,08-20101,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE483A,08-20105,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE484E,08-20125,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE485C,08-20150,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE4864,09-20182,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE486A,09-20188,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4884,09-20213,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE4889,09-20218,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE488D,09-20222,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE498B,08-0037,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE498C,08-0038,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
@@ -13797,6 +13817,7 @@ AE4E3E,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope
 AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E55,168222,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
+AE4E67,168240,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E8D,166164,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E8E,166165,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E97,166173,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
@@ -13879,9 +13900,11 @@ AE50B4,10-20244,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE50BC,10-20252,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50C1,10-20257,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50CB,10-20267,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE50DC,10-20284,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E0,10-20288,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E2,10-20311,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50E5,10-20314,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE50E7,10-20316,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE50EB,10-20320,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE511B,10-20305,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE511E,10-20308,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -13892,6 +13915,7 @@ AE51AB,15-20359,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The
 AE51B3,11-20367,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE51B8,11-20373,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE51C0,11-20393,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE51D1,11-20422,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE51DD,11-20378,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Military Transport,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE51E0,11-20381,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE51E8,11-20406,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -13910,6 +13934,7 @@ AE52DA,11-08830,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,W
 AE52EE,11-08850,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE52FE,12-08110,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE5313,12-08874,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
+AE535F,12-20467,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5360,12-20455,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5365,12-20471,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE536A,12-20465,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -13970,6 +13995,7 @@ AE5622,13-00282,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Ey
 AE5623,13-00283,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Covert,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE5641,86-24558,Department of Homeland Security,Sikorsky UH-60A Black Hawk,H60,Gov,DHS,Covert,Surveillance,Oxcart,https://www.justice.gov
 AE5644,11-20410,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5645,11-20411,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5647,12-20519,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE565B,12-20477,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE565C,12-20478,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -13984,6 +14010,7 @@ AE569D,13-20565,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE56A1,13-20569,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE56A8,13-20576,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE56C6,13-20606,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE56CC,13-20612,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE56D4,13-20620,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE56D5,13-20621,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE56D6,13-20622,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14019,6 +14046,7 @@ AE577D,14-20653,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE5780,14-20656,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5781,14-20657,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5784,14-20660,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5789,14-20665,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578B,14-20667,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578D,14-20669,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578E,14-20670,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14151,6 +14179,7 @@ AE59C4,14-08163,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,W
 AE59C6,14-08165,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE59C7,14-08166,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE59CD,14-08452,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
+AE59D2,14-08457,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE59DA,15-08175,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE59DB,15-08176,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE59DF,14-08462,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
@@ -14170,16 +14199,21 @@ AE5A52,15-72358,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry
 AE5A54,15-72360,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A56,15-72362,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A57,15-72363,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE5A62,15-72374,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A67,15-72379,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A69,15-72381,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A73,15-72391,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A75,15-72393,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A79,15-72397,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE5A7D,15-72401,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A89,18-72413,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A8D,18-72417,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A91,18-72421,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A93,18-72423,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A95,18-72425,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE5ABB,15-20729,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5AC7,15-20741,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5ACA,15-20744,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5ACB,15-20745,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5AD5,15-20755,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5ADB,15-20761,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14300,6 +14334,7 @@ AE5D36,16-20813,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE5D37,16-20814,United States Army,Sikorsky UH-60M,H60,Gov,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D49,16-20832,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D4F,16-20838,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5D5C,16-20851,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D61,16-20856,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D6A,16-20865,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE5D88,16-20894,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -14383,6 +14418,7 @@ AE5EE2,162066,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training
 AE5EE3,162067,United States Marine Corps,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,Mmm Crayons,United States Marine Corps,http://tinyurl.com/th57c
 AE5EE6,162668,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EEA,162672,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
+AE5EEC,162675,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EED,162676,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EEF,162678,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EF4,162684,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
@@ -14449,6 +14485,7 @@ AE6027,17-20952,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6036,17-20967,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6037,17-20968,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6039,17-20970,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE603B,17-20972,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6041,80-23378,United States Army,Beech RC-12D Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://w.wiki/8p9R
 AE6042,169532,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE6043,169533,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
@@ -14547,6 +14584,7 @@ AE625C,169537,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Publi
 AE625D,169538,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE6260,163602,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6267,163611,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE6268,163612,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626A,163614,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626B,163615,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE626C,163616,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14567,6 +14605,7 @@ AE6291,165058,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Traini
 AE6294,165061,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE6295,165062,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE629F,165073,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
+AE62A2,165079,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A3,165080,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A4,165081,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
 AE62A5,165082,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
@@ -14687,17 +14726,21 @@ AE63E2,64-13297,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made F
 AE63E5,65-10342,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63E7,66-4332,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://w.wiki/7y3F
 AE63E8,62-3702,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE63E9,63-8133,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63EA,63-8163,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://w.wiki/7y3F
 AE63ED,67-14828,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE63EF,62-03691,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63F0,62-3722,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63F2,64-13176,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63F3,68-8185,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63F4,68-8154,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,MiG 28,USAF,https://w.wiki/7y3F
 AE63F8,66-8404,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63F9,67-14833,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE63FB,68-8139,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63FC,68-8150,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63FD,68-8172,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE63FF,68-8186,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
+AE6400,68-8204,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE6401,70-1559,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE6402,70-1574,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
 AE6404,60-0582,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
@@ -14890,6 +14933,7 @@ AE6B96,169437,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier O
 AE6B98,169439,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
 AE6B99,169440,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
 AE6BB1,169464,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
+AE6BC6,13-20582,United States Army,Sikorsky MH-60M Black Hawk,H60,Mil,Get To The Choppa,Special Ops,Night Stalkers,Toy Soldiers,https://w.wiki/3nxX
 AE6BD3,85-0064,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6C01,86-0127,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6C0D,19-5924,USAF,Lockheed MC-130J Hercules,C30J,Mil,Commando II,Special Ops,Exfiltration,Special Forces,https://w.wiki/8pAV
@@ -14917,12 +14961,14 @@ AE6CE7,6053,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime P
 AE6CE8,6054,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE6CF1,20-1941,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/8o8J
 AE6CF2,20-1949,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/8o8J
+AE6CF9,19-02917,United States Army,Boeing-Vertol MH-47G Chinook,H47,Mil,Special Operations Aviation,Twin Rotor,Night Stalkers,Toy Soldiers,https://w.wiki/3kWt
 AE6D3D,170139,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D41,170143,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D42,170144,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D46,170148,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D47,170149,United States Marine Corps,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,Delicious Crayons,United States Marine Corps,https://w.wiki/CkJD
 AE6D49,170151,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE6D4C,170154,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D4E,170156,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE6D50,170158,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE6D51,170159,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
@@ -14950,6 +14996,8 @@ AE6E7E,20-14510,USAF,Sikorsky HH-60W Jolly Green II,H60,Mil,Combat Search and Re
 AE73D6,170171,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73D7,170172,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73DA,170175,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE73DC,170177,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE73DE,170179,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73E0,170181,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE73E1,170182,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73E2,170183,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
@@ -14960,6 +15008,7 @@ AE73E7,170188,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Ch
 AE73E8,170189,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73EA,170191,United States Navy,Agusta Phillidephia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE73EB,170192,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE73EC,170193,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73ED,170194,United States Marine Corps,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,Delicious Crayons,United States Marine Corps,https://w.wiki/CkJD
 AE73EE,170195,United States Marine Corps,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,Delicious Crayons,United States Marine Corps,http://tinyurl.com/th73thrasher
 AE73EF,170196,United States Marine Corps,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,Delicious Crayons,United States Marine Corps,https://w.wiki/CkJD
@@ -14969,6 +15018,7 @@ AE73F3,170200,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Ch
 AE73F6,????,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73F7,170204,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73F8,170205,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE73F9,170206,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73FC,170209,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
 AE73FE,170211,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE73FF,170212,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th73thrasher
@@ -14994,6 +15044,7 @@ AE741B,170240,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Ch
 AE741D,170242,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE741E,170243,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE741F,170244,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
+AE7420,170245,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE7421,170246,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE7423,170248,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
 AE7424,170249,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
@@ -15039,6 +15090,7 @@ AE77C2,22-21246,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE77C4,22-21248,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE77C8,23-21251,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE77CB,23-21254,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE77CC,23-21255,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE77CD,23-21256,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE77D0,23-21259,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE77D1,23-21260,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
@@ -15494,6 +15546,7 @@ E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,F
 E400B3,4111,Mexican Air Force,Embraer ERJ-145MP,E145,Mil,Surveillance,Eye In The Sky,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E400B4,4101,Mexican Air Force,Embraer ERJ-145SA,E145,Mil,Eye In The Sky,Airborne Early Warning,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
+E40489,5719,Brazilian Air Force,Embraer EMB.314 Super Tucano A-29,E314,Mil,Display Team,Aerobatics,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E47DFD,PR-DPF,Brazilian Federal Police,Embraer ERJ-145 ER,E145,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
 E47EEC,PR-BBS,Grupo Safra,Boeing 737NG-BBJ2,B737,Civ,Climate Crisis,Boeing Business Jet,Man Made Climate Change,As Seen on TV,https://xkcd.com/1732
@@ -15514,6 +15567,7 @@ E49182,2901,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,
 E49210,2853,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E49376,EB-2005,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
 E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
+E494A3,FAB2855,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E494D4,PP-FOY,Brazilian Federal Police,B350C Super King Air,B350,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
 E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
@@ -15555,57 +15609,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-738A92,545,Israeli Air Force,Lockheed KC-130H Hercules,C130,Mil,Air2Air,Tactical Airlift,Air Corps,Other Air Forces,https://w.wiki/7ok9
-A0C62D,N149XA,Eastern Air Express,Boeing 737-400,B734,Civ,Guantanamo,ICE,Deportation Flight,Hired Gun,https://w.wiki/DyRz
-A1AC1A,N207AX,Omni Air International,Boeing 767 224ER,B762,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
-A5B769,N468AX,Omni Air International,Boeing 767 36NER,B763,Civ,Guantanamo,GTMO,Offshore Detention,Hired Gun,https://w.wiki/CzEu
-E40489,5719,Brazilian Air Force,Embraer EMB.314 Super Tucano A-29,E314,Mil,Display Team,Aerobatics,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
-AE5A62,15-72374,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AE47F0,07-20051,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE09BC,91-26335,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE73EC,170193,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-AE603B,17-20972,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE5789,14-20665,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE4836,08-20101,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE63E9,63-8133,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE5ACA,15-20744,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE73DE,170179,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-AE56CC,13-20612,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
-AE0E8A,88-26039,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE5ABB,15-20729,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE484E,08-20125,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-3E92A1,31+16,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
-AE62A2,165079,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE50E7,10-20316,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE5AC7,15-20741,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE73F9,170206,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-AE7420,170245,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-AE5A7D,15-72401,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-3FBC55,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
-AE6D4C,170154,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-E494A3,FAB2855,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
-AE4889,09-20218,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE5645,11-20411,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE535F,12-20467,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE51D1,11-20422,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-ADFED2,85-51264,United States Army,Beech C-12U Huron,BE20,Mil,Priority Air Transport,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
-AE6268,163612,United States Navy,McDonnell Douglas T-45C Goshawk,HAWK,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/6iuV
-AE59D2,14-08457,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
-AE0C6B,93-26493,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE77CC,23-21255,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
-AE03DC,165352,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
-AE63EF,62-03691,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE4E67,168240,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE73DC,170177,United States Navy,Agusta Philadelphia TH-73A Thrasher,A119,Mil,Chopper,Training Wheels,In The Navy,United States Navy,https://w.wiki/CkJD
-AE0094,67-14837,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE00FB,65-10350,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE6BC6,13-20582,United States Army,Sikorsky MH-60M Black Hawk,H60,Mil,Get To The Choppa,Special Ops,Night Stalkers,Toy Soldiers,https://w.wiki/3nxX
-AE0106,68-8168,USAF,Northrop T-38C Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE2056,14-72327,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
-AE5D5C,16-20851,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-AE50DC,10-20284,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
-896C30,1228,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
-AE6400,68-8204,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE63FB,68-8139,USAF,Northrop T-38A Talon,T38,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,USAF,https://w.wiki/7y3F
-AE6CF9,19-02917,United States Army,Boeing-Vertol MH-47G Chinook,H47,Mil,Special Operations Aviation,Twin Rotor,Night Stalkers,Toy Soldiers,https://w.wiki/3kWt
-AE5EEC,162675,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
