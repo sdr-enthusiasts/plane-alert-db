@@ -4990,7 +4990,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 479555,LN-BSG,Babcock Scandinavian AirAmbulance,B200GT Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://babcocknordics.com/
 479B34,LN-ORB,Norwegian Police,AgustaWestland AW.169,A169,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/2p83fxmr
 479C1E,LN-ORA,Norwegian Police,AgustaWestland AW.169,A169,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/2p83fxmr
-47A0C6,LN-DPS,Royal Norwegian Air Force Historic Flight,Candair T33 Silver Star,T33,Civ,Historic,Canuck,Jet Fighter,Historic,https://www.historicalsquadron.com/
+47A0C6,LN-DPS,Royal Norwegian Air Force Historic Flight,Canadair T33 Silver Star,T33,Civ,Historic,Canuck,Jet Fighter,Historic,https://www.historicalsquadron.com/
 47A1CE,LN-OOZ,Norsk Luftambulanse,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 47A20D,LN-OOW,Norsk Luftambulanse,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 47A210,LN-OOV,Norsk Luftambulanse,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
@@ -8347,7 +8347,6 @@ A4E704,N415DF,Cal Fire,North American Rockwell OV-10A Bronco,V10,Gov,Flying Fire
 A4E742,N415FT,Financial Technology Partners,Gulfstream G650,GLF6,Civ,Bizjet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://www.ftpartners.com/
 A4E85D,N415TA,Top Aces Inc,Douglas A-4N Ayit,A4,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://www.topaces.com
 A4EB97,N416NA,NASA,Bell UH-1B Iroquois,UH1,Gov,SCE To Aux,Recovery,Wallops Flight Facility,Distinctive,https://www.nasa.gov
-A4EC77,N416X,Boeing,Candair T33 Mk3,T33,Civ,Testbed,Radar,One Ping Only Vasily,Distinctive,https://cdn.jetphotos.com/full/6/17868_1607897976.jpg
 A4EE26,N417AE,Air Evac Lifeteam,Bell Jet Ranger,B06,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://lifeteam.net/home
 A4EE4C,N417BT,Bridger AeroSpace,Canadair CL-215,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://www.bridgeraerospace.com
 A4EF4E,N417NA,NASA,Bell UH-1H Iroquois,UH1,Gov,SCE To Aux,Recovery,Wallops Flight Facility,Distinctive,https://www.nasa.gov
@@ -15609,3 +15608,13 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+A086B5,N133DV,Ace Maker Aviation,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+ACF167,N933GC,ACV Group,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A3943A,N33HW,C4AF T33 Jet,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A08741,N133KK,Whirlpool Services,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A52FBE,N433RD,Silverjet,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A0F57D,N161AZ,Dillon Aero,Canadair CT-133 MK3 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A79EE1,N590RC,South Florida Vintage Warbird Preservation Society,Canadair CT-133-AN MK3 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A1052C,N165KK,Trojan Aviation,Canadair CT-133 Silver Star,T33,Civ,Training Wheels,Canuck,Zoomies,Historic,https://w.wiki/E4Lr
+A66155,N51Z,Private,North American/Spillers P-51A-1NA Mustang,P51,Civ,War Bird,Restoration,Shiny,Historic,https://www.mustangsmustangs.com/p-51/survivors/serial/43-6006
+ADD6FC,N991GM,MCAviation,North American AT-6C Texan,T6,Civ,Training Wheels,Advanced Trainer,I Am Old,Historic,https://w.wiki/4nze
