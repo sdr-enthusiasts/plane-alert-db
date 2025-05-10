@@ -40,14 +40,19 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A1C8,A7-CGC,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1C9,A7-CGD,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1CA,A7-CGE,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CB,A7-CGF,Qatar Executive,Gulfstream Aerospace G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1CC,A7-CGG,Qatar Executive,Gulfstream G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1CD,A7-CGH,Qatar Executive,Gulfstream Aerospace G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D2,A7-CGN,Qatar Executive,Gulfstream Aerospace G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D4,A7-CGP,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D5,A7-CGQ,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D6,A7-CGR,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1D7,A7-CGS,Qatar Executive,Gulfstream G500,GLF5,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A1D9,A7-CGU,Qatar Executive,Gulfstream Aerospace G650 ER,GLF6,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1DA,A7-CHA,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1DB,A7-CHB,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1DC,A7-CHC,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
+06A36E,A7-CHG,Qatar Executive,Gulfstream Aerospace G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 07C024,5A-EWX,Libyan National Army,Ilyushin IL-76TD,IL76,Civ,Asks No Questions,Arms Embargo,Fell Of The Back Of An Illyushin,Da Comrade,https://tinyurl.com/yt8u994n
 0852F2,PH-STB,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 0A4022,7T-WID,Algerian Air Force,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Dstq
@@ -1444,6 +1449,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 47A3BB,LN-OOO,Norsk Luftambulanse,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 47A48C,LN-SAA,Babcock Scandinavian AirAmbulance,Cessna Citation Latitude,C68A,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://babcocknordics.com/
 47B1E8,LN-TER,Blom Geomatics,Cessna 208B-EX Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://blom.no/
+47B9F4,LN-LOL,Blom Geomatics,Textron Aviation 208 EX,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://en.wikipedia.org/wiki/Blom
 47BC85,LN-DHY,Royal Norwegian Air Force Historic Flight,FFA Vampire FB.6,VAMP,Civ,Historic,Twin Boom,Jet Fighter,Historic,https://www.historicalsquadron.com/
 47BF10,LN-OUK,Norsk Luftambulanse,Eurocopter EC135 T3H,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 47BF37,LN-OUJ,Norsk Luftambulanse,Eurocopter EC135 T3,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
@@ -1813,6 +1819,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4D2359,9H-ELF,Air X Charter,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4D2376,9H-DGM,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
 4D403F,3A-MGA,Monaco Royal Family,Dassault Falcon 8X,FA8X,Civ,Royalty,Grimaldi,Princess Grace,Don't you know who I am?,https://en.wikipedia.org/wiki/House_of_Grimaldi
+5000D1,T7-ONE,Corporate Jet Lebanon Ltd,Dassault Falcon 2000LX,F2TH,Civ,Man Made Climate Change,Must Be Nice,Climate Crisis,Climate Crisis,https://en.wikipedia.org/wiki/Dassault_Falcon_2000
 50011F,T7-PAL,Arab Wings Ltd,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 500124,T7-MAK,Avcon Jet SRL,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 50012E,T7-GSA,ACASS Canada,Boeing 737NG-BBJ,B738,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -2290,6 +2297,7 @@ A0CEA5,N151HR,Dakota Territory Air Museum,North American P-51D Mustang,P51,Civ,W
 A0CEFA,N151MA,ISR Platforms,Diamond Aircraft DA-42,DA42,Civ,ISR,SAR,Training,Hired Gun,https://w.wiki/BCFo
 A0CF7A,N151SD,Floyd Mayweather,Gulfstream G-IV,GLF4,Civ,Bizjet,Fisticuffs,Harry Potter,Don't you know who I am?,https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.
 A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War Bird,Shiny,Tempus Fugit,Historic,https://w.wiki/3nth
+A0D062,N1511A,Atlas Air,Boeing 767 383ERBDSF,B763,Civ,Cargo,GTMO,Gun Runner,Hired Gun,https://w.wiki/DmJF
 A0D223,N152FJ,Victory Outreach,Dassault Falcon 50,FA50,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A0D267,N152JB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
 A0D65A,N153LM,SkyLens,Piper PA-23 Aztec 250F,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
