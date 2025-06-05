@@ -5935,6 +5935,16 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 505C07,OM-BYB,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana Caputova,Government,Governments,https://www.vlada.gov.sk
 505C08,OM-BYC,Government of Slovakia,Fokker F100,F100,Gov,Slovakia,Zuzana Caputova,Government,Governments,https://www.vlada.gov.sk
 505C09,OM-BYK,Government of Slovakia,Airbus ACJ319-115X,A319,Gov,Slovakia,Zuzana Caputova,Government,Governments,https://www.vlada.gov.sk
+505DF4,OM-ATT,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E14,OM-ATP,Air Transport Europe,Agusta A109K2,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E34,OM-ATQ,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E8B,OM-ATK,Air Transport Europe,Agusta A109K2,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E8D,OM-ATM,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E8E,OM-ATN,Air Transport Europe,Cessna Citation Bravo,C55B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E95,OM-ATU,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505E97,OM-ATW,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505F1D,OM-ATX,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
+505F54,OM-ATZ,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
 505F68,2721,Slovak Air Force,LET L-410 UVP-E20,L410,Mil,Cargo,Chonky Boy,Transport Wing,Other Air Forces,https://w.wiki/4$vA
 505F6A,2718,Slovak Air Force,LET L-410 UVP-E20,L410,Mil,Bizjet,Must Be Nice,Ahoj,Other Air Forces,https://en.wikipedia.org/wiki/Slovenian_Air_Force_and_Air_Defence
 505F6B,2901,Slovak Air Force,LET L-410 UVP-E20,L410,Mil,Cargo,Chonky Boy,Transport Wing,Other Air Forces,https://w.wiki/4$vA
@@ -15726,13 +15736,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-505E34,OM-ATQ,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E97,OM-ATW,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505F54,OM-ATZ,Air Transport Europe,Airbus Helicopters H135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E8E,OM-ATN,Air Transport Europe,Cessna Citation Bravo,C55B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505F1D,OM-ATX,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E95,OM-ATU,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505DF4,OM-ATT,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E8D,OM-ATM,Air Transport Europe,Bell 429 GlobalRanger,B429,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E14,OM-ATP,Air Transport Europe,Agusta A109K2,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
-505E8B,OM-ATK,Air Transport Europe,Agusta A109K2,A109,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ate.sk/en/
