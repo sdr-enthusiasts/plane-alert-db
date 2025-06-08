@@ -3726,7 +3726,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407887,G-SAEB,RAF,Supermarine Spitfire LFXVI,SPIT,Mil,War Bird,Fighter,WW2,Historic,https://en.wikipedia.org/wiki/Supermarine_Spitfire_(late_Merlin-powered_variants)
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4078A4,G-POLW,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
-4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4078B9,G-SHMB,Steve Hartley,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Distinctive,https://w.wiki/EQZf
 4078EB,G-GWMB,Hinton Skydiving Centre,PAC 750XL,P750,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://en.wikipedia.org/wiki/PAC_P-750_XSTOL
 407908,G-VNAV,Flight Calibration Services,Diamond Aircraft DA62,DA62,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com
 407910,G-NCKS,Private,Westland Lynx AH7,LYNX,Civ,Chopper,Go Fast,Rare,Joe Cool,https://en.wikipedia.org/wiki/Westland_Lynx
@@ -5868,7 +5868,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4D0294,LX-LAA,Luxembourg Air Ambulance,Learjet 45XR,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
 4D0295,LX-LAR,Luxembourg Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lar.lu/en
 4D02CB,LX-FPP,Diamond Executive Aviation,B200T Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
-4D02F6,LX-STN,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+4D02F6,LX-STN,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://w.wiki/EQZf
 4D03C0,LX-N90442,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03C1,LX-N90443,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03C2,LX-N90444,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
@@ -7841,7 +7841,7 @@ A24F04,N248PH,PHI Health,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Savi
 A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Touring,Joe Cool,https://w.wiki/4nF6
 A25188,N249BA,Boeing,Boeing 747 Dreamlifter,BLCF,Civ,Absolute Unit,How Does It Fly,Heavy Lift,Distinctive,https://en.wikipedia.org/wiki/Boeing_Dreamlifter
 A251BB,N249DB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
-A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://w.wiki/EQZf
 A255B4,N25FT,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A255DD,N25HJ,FlyHondaJet,Honda Jet,HDJT,Civ,How Does It Fly,I'd Get That Seen Too,Bizjet,Bizjets,https://flyhondajet.com/
 A25674,N25PK,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
@@ -8257,7 +8257,7 @@ A47AAF,N388TD,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump John
 A47B5A,N3880,Mark Zuckerberg,Gulfstream G700,GA7C,Civ,Zuck,Facebook,Metaverse? LOL,Don't you know who I am?,https://en.wikipedia.org/wiki/Mark_Zuckerberg
 A47CBC,N389AC,Aero Flite,Bombardier CL-415 T,CL2T,Gov,Super Scooper,Air Attack,Wildfire,Aerial Firefighter,https://fireaviation.com/tag/aero-flite
 A47DD0,N389MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
-A480A1,N39BZ,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A480A1,N39BZ,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://w.wiki/EQZf
 A481FD,N39RX,Methodist Air Care,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airbus.com/newsroom/stories/hems-methodist-aircare.html
 A4834A,N390FD,Contra Costa County Consolidated Fire Department,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.cccfpd.org
 A483E0,N390MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
@@ -8472,7 +8472,7 @@ A536DE,N435NA,NASA,Eurocopter EC135,EC35,Gov,SCE To Aux,Astronauts,Shuttle Landi
 A539B9,N436DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A53A95,N436NA,NASA,Lockheed HC-130H Hercules,C130,Gov,SCE To Aux,Airborne Science,Wallops Flight Facility,Distinctive,https://www.nasa.gov
 A53D70,N437DF,Cal Fire,Grumman S-2F 3AT Tracker,S2P,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
-A53FD8,N43722,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://en.wikipedia.org/wiki/Aero_L-39_Albatros
+A53FD8,N43722,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Joe Cool,https://w.wiki/EQZf
 A54261,N438RV,REVA Air Ambulance,Learjet 45,LJ45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 A54419,N43860,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 A545BA,N439NA,NASA,Lockheed NC-130H Hercules,C130,Gov,SCE To Aux,Airborne Science,Armstrong Flight Research Center,Distinctive,https://www.nasa.gov
@@ -15737,3 +15737,5 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+A7C192,N59925,Fogle Air,Boeing Stearman A75N1 Kaydet,ST75,Civ,Radial Engine,Biplane,Retired Life,Historic,https://w.wiki/BJBE
+AD0756,N939CM,U S Leaseco,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Private Jet Fighter,Zoomies,https://w.wiki/EQZf
