@@ -24,16 +24,16 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15741** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15746** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15741)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15746)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12080)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12084)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4443)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4448)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8636)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (930)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1732)
@@ -62,7 +62,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |As Seen on TV|Companies and Brands|492|
 |Big Hello|Large Helicopters (sic)|106|
 |Bizjets|Fancy pants planes for fancy pants people|67|
-|CAP|Civil Air Patrol.|14|
+|CAP|Civil Air Patrol.|15|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|196|
 |Coastguard|Coastguard, Customs and Border Patrols|448|
 |Da Comrade|Russian or Soviet Aircraft|91|
@@ -77,9 +77,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Governments|Aircraft registered to Governments|265|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|262|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|310|
-|Historic|It's older than I am and most likely has a prop.|514|
+|Historic|It's older than I am and most likely has a prop.|515|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|24|
-|Joe Cool|Cool Planes. Or at least I think they are cool.|249|
+|Joe Cool|Cool Planes. Or at least I think they are cool.|252|
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|41|
