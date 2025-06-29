@@ -22,7 +22,7 @@ jobs:
           persist-credentials: true
 
       - name: Download artifact
-        uses: dawidd6/action-download-artifact@v10
+        uses: dawidd6/action-download-artifact@v11
         with:
           name: check_derivatives_change
           workflow: check_derivatives_change.yml
