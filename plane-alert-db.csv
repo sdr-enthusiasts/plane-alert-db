@@ -2161,7 +2161,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3CF775,D-CVAB,Volkswagen Air Service,Pilatus PC-24,PC24,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3CF8BE,D-CVMS,Volkswagen Air Service,Pilatus PC-24,PC24,Civ,Dieselgate,Not A Car,Wolfsburg,As Seen on TV,https://de.wikipedia.org/wiki/Volkswagen_Airservice
 3D0073,D-CYKP,Tyrol Air Ambulance,Cessna Citation Bravo,C55B,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.taa.at/en/air-ambulance
-3D05CC,D-EALG,Private,Lake Buccaneer LA-4-200,LA4,Civ,Amphibian,Seaplane,Nice Weather For Ducks,Joe Cool,https://en.wikipedia.org/wiki/Lake_Buccaneer
+3D05CC,D-EALG,Private,Lake Buccaneer LA-4-200,LA4,Civ,Amphibian,Seaplane,Nice Weather For Ducks,Joe Cool,https://w.wiki/F72R
 3D069D,D-EATH,Private Owner,Piper PA-28 Cherokee,P28A,Civ,Wheelbarrow,Jesus He Knows Me,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Death_(Discworld)
 3D0983,D-EBVV,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
 3D0B74,D-ECOY,Private,FWP P.149 D,P149,Civ,Liason,History,Trainer,Historic,https://en.wikipedia.org/wiki/Piaggio_P.149
@@ -3061,7 +3061,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4009E6,ZJ708,Defense Helicopter Flying School,Bell Griffin HT1,B412,Mil,L-Plate,Training Wheels,Huey,Watch Me Fly,https://w.wiki/4mcw
 4009FD,G-SPHU,Scotlands Charity Air Ambulance,Eurocopter EC135,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.scaa.org.uk
 400A18,G-NWEM,North West Air Ambulance,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.nwairambulance.org.uk/
-400A31,G-YAKN,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+400A31,G-YAKN,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 400A63,G-NWAE,North West Air Ambulance,Eurocopter EC135 T2,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.nwairambulance.org.uk/
 400A64,G-POLJ,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 400A75,G-RAFK,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
@@ -3292,12 +3292,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 40391A,G-LFVB,The Fighter Collection,Supermarine Spitfire LFVb,SPIT,Civ,Historic,War Bird,EP120,Historic,https://fighter-collection.com/cft/spitfire-ep120/
 40395D,G-MYTY,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
 40396E,G-BVTX,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-403978,G-YAKI,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+403978,G-YAKI,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 4039A0,G-OSIS,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/Diwz
 4039A3,G-WHOG,Private,CFM Streak Shadow,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/CFM_Shadow
 4039B3,G-ISDN,Private,Boeing Stearman B75 Kaydet,ST75,Civ,Radial Engine,Biplane,Wing Walk,Historic,https://w.wiki/BJBE
 4039E9,G-SIII,Private,Extra EA-300,E300,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4nF6
-4039F4,G-BVXK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4039F4,G-BVXK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 403A07,G-BVZZ,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403A16,G-REDX,Private,Experimental Aviation Berkut,BKUT,Civ,Whoosh,Shiny,Canards,Joe Cool,https://en.wikipedia.org/wiki/Berkut_360
 403A2C,G-RRGN,Rolls Royce,Supermarine Spitfire PRXIX,SPIT,Civ,Griffon,Photo Recon,War Bird,Historic,http://www.warbirdregistry.org/spitregistry/spitfire-ps853.html
@@ -3309,7 +3309,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403B11,G-MIII,Private Owner,Extra EA-300L,E300,Civ,Aerobatics,Do A Barrel Roll,Bicycle Made For Two,Joe Cool,https://en.wikipedia.org/wiki/Extra_EA-300
 403B14,G-BWHI,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403B1A,G-BWHU,Private,Westland Scout AH.1,SCOU,Civ,Chopper,Get To The Choppa,Speak Up Sonny,Joe Cool,https://en.wikipedia.org/wiki/Westland_Scout
-403B6A,G-YAKX,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+403B6A,G-YAKX,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 403BA8,G-BWMX,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403BB9,G-BWNK,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403BBB,G-BWNT,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3347,7 +3347,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 403DED,G-PVET,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403DF3,G-BXHF,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403E00,G-BXIA,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
-403E17,G-BXJB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+403E17,G-BXJB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 403E19,G-BXNN,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 403E4D,G-CIAO,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 403E59,G-VALS,Private,Pietenpol Aircamper,CAMP,Civ,Highwing,Homebuild,I Am Old,Historic,https://en.wikipedia.org/wiki/Pietenpol_Air_Camper
@@ -3377,11 +3377,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 40472C,G-POLU,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 404736,G-HRLI,Private,Hawker Hurricane,HURI,Civ,Historic,War Bird,WW2,Historic,https://w.wiki/4o4R
 404737,G-FCUK,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/Diwz
-40474C,G-CBOZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+40474C,G-CBOZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 404772,G-ZZLE,Gazelle Squadron Display Team,Aerospatiale Gazelle SA31B,GAZL,Civ,Do A Barrel Roll,Chopper,Whirly Bird,Aerobatic Teams,https://gazellesquadron.co.uk/node/homepage
 404788,G-CBPM,Private,Yakovlev Yak-50,YK50,Civ,Do A Barrel Roll,Vashe Zdorovye,Aerobatics,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-50_(1975)
-40478A,G-YAKC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-404792,G-OUGH,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+40478A,G-YAKC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+404792,G-OUGH,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 4047BF,G-CBTB,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://w.wiki/4o4G
 40481E,G-POLG,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 40483D,G-HDAE,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3392,7 +3392,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 404923,G-IOIA,Private,3i Sky Arrow 650T,SKAR,Civ,Pusher Prop,Bicycle Made For Two,Of course it's Italian,You came here in that thing?,https://en.wikipedia.org/wiki/3I_Sky_Arrow
 40497E,G-CCFO,Private,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/Diwz
 40499A,G-POLB,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
-4049FA,G-CCJK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4049FA,G-CCJK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 404A2E,G-POLD,National Police Air Service,Eurocopter EC135,EC35,Pol,Eye In The Sky,Police Squad,Bobby On The Beat,UK National Police Air Service,https://www.npas.police.uk/what-we-do
 404A42,G-EHMF,Private,Isaacs Fury II,IFUR,Civ,Hawker Fury,Biplane,Replica,Historic,https://en.wikipedia.org/wiki/Isaacs_Fury
 404A7D,G-CCOG,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quik
@@ -3401,7 +3401,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 404C5F,G-ITWB,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 404CE3,G-CDDP,Private,Laser Z-230,LAKR,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4o4r
 404CEC,G-CDGD,Private,Mainair Sports Pegasus Quik,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Pegasus_Quik
-404D7C,G-CDJJ,Digitakumi Ltd,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+404D7C,G-CDJJ,Digitakumi Ltd,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 404E15,G-EEKY,Horizon Flight Training,Piper PA-28 Cherokee,P28A,Civ,Revenge Of The Nerds,Training Wheels,Vanity Plate,Vanity Plate,https://youtu.be/1mRG2oAQhso
 404E86,G-HHII,Flyaspitfire.com,Hawker Hurricane IIb (2 Seat),HURI,Civ,Unicorn,Bicycle Made For Two,WW2,Historic,https://flyaspitfire.com/hurricane-be505
 404F0C,G-NHAB,Great North Air Ambulance Service,Eurocopter AS365 N2 Dauphin,AS65,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.greatnorthairambulance.co.uk/
@@ -3411,7 +3411,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 40510C,G-CEHR,Private,Auster Aircraft Auster AOP9,AUS9,Civ,Highwing,Observation,I Am Old,Historic,https://w.wiki/4yjC
 40522C,G-CERD,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 405358,ZJ165,Royal Navy Fleet Air Arm,AS365 Dauphin,AS65,Mil,Whirly Bird,Royal Navy,Find Fix And Stike,Royal Navy Fleet Air Arm,https://youtu.be/Lgz9k46o7tI
-4053CB,G-YAKF,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4053CB,G-YAKF,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 405580,G-SMMB,Marine Scotland,Cessna F406 Caravan II,F406,Gov,Fisheries,Marine Patrol,Surveillance,Dogs with Jobs,https://w.wiki/4$Pk
 405588,G-RIDA,National Grid,Eurocopter AS355 Twin Squirrel,AS55,Civ,Overload,Choppa,Wichita Lineman,Dogs with Jobs,https://www.nationalgrid.com/uk/electricity-transmission
 405667,G-SBOL,Private,Steen Skybolt 1-A,BOLT,Civ,Biplane,Aerobatics,Homebuild,Joe Cool,https://en.wikipedia.org/wiki/Steen_Skybolt
@@ -4614,7 +4614,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 440136,OE-EMD,The Flying Bulls,Pilatus PC-6,PC6T,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 44018B,OE-XFB,The Flying Bulls,Eurocopter EC135,EC35,Civ,Chopper,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440264,OE-EDM,The Flying Bulls,Cessna 208 Caravan Amphibian,C208,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
-4402D1,OE-AHH,Private,Aerostar Yak-52 TW,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+4402D1,OE-AHH,Private,Aerostar Yak-52 TW,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 440322,OE-ESA,The Flying Bulls,North American T-28B,T28,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440323,OE-EAS,The Flying Bulls,Vought F4U Corsair,CORS,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 440327,OE-BXG,Austrian Police,Eurocopter EC135 P2,EC35,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/ywbmh3ds
@@ -4732,7 +4732,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 44C1EA,G-17,Belgian Federal Police,MD 900 Explorer,EXPL,Pol,Police Squad,You Aint Seen Me Right,NOTAR,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Belgium)
 44C2C1,OO-PVA,Private,Tipsy Nipper T66,NIPR,Civ,Wee,Eensy Weensy,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Tipsy_Nipper
 44C9F2,OO-ROR,Private,Stampe et Renard SV-4 C,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
-44CAB3,OO-RUS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+44CAB3,OO-RUS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 44CB2C,OO-RYL,Dream Flight Factory,North American TF-51D Mustang,P51,Civ,Two Seater,Shiny,Scat VII,Historic,https://w.wiki/3nth
 44CCB8,OO-SEX,Skydive Center Spa,Cessna 208 B,C208,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydivespa.be/en/
 44CEC2,OO-SVB,Private,Stampe et Renard SV-4 B,SV4,Civ,Biplane,Basic Trainer,Historic,Historic,https://w.wiki/4nzh
@@ -4742,9 +4742,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 44DA74,OO-VST,Vansteelandt Aerial Survey,Tecnam P.2006T,P06T,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.vansteelandt.be/
 44DE02,OO-WPB,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 44E2C9,OO-XVI,Private,Supermarine Spitfire FXVIe,SPIT,Civ,War Bird,Fighter,Merlin,Historic,https://w.wiki/4yd8
-44E42B,OO-YAK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-44E576,OO-YKV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-44E6D6,OO-YVV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+44E42B,OO-YAK,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+44E576,OO-YKV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+44E6D6,OO-YVV,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 44F024,FB-14,Belgian Air Component,F-16BM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
 44F025,FB-15,Belgian Air Component,F-16 Fighting Falcon,F16,Mil,You Just Lost A Refinery,Fighter Jet,Luchtcomponent,Other Air Forces,https://w.wiki/3iQf
 44F027,FB-17,Belgian Air Component,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Luchtcomponent,Other Air Forces,https://www.mil.be/nl/over-defensie/luchtcomponent
@@ -4961,7 +4961,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4712A3,HA-HBN,Hungarian Air Ambulance,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://youtu.be/CF6UAHZjSNM
 47134D,HA-HIB,Skydive Hibaldstow,Dornier Do 28 D2 Skyservant,D28D,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.skydiving.co.uk/
 471454,HA-HSE,Arctic Group,Mil Mi-8T,MI8,Civ,Extreme Weather,Polar Explorer,Brrrrrrrrrrrrrrr,Dogs with Jobs,http://www.articgroup.ch
-47242D,HA-NSF,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+47242D,HA-NSF,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 473B2E,2-SOAR,Private,Alouette Astazou SA.318C,ALO3,Civ,Hot And High,Helicopter,Engine Swap,Joe Cool,https://en.wikipedia.org/wiki/A%C3%A9rospatiale_Alouette_II
 473D31,HA-XEN,Private,Genevation Aircraft GenPro,GPRO,Civ,Aerobatics,All Carbon,Next Generation,Joe Cool,https://genevation.hu/
 477FC9,R-900,Hungarian Security Police,MD 900 Explorer,EXPL,Pol,Police Squad,Ment,NOTAR,Police Forces,https://en.wikipedia.org/wiki/Rend%C5%91rs%C3%A9g
@@ -5279,12 +5279,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 484FA9,PH-EBR,Exxaero,Dassault Falcon 900,F900,Civ,Bizjet,Must Be Nice,Man Made Climate Change,Bizjets,https://w.wiki/52ik
 484FD6,PH-FBH,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
 484FD7,PH-DCG,Dutch Caribbean Coastguard,AgustaWestland AW.139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/5J$W
-484FF6,PH-DTW,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-484FF7,PH-DTM,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-484FF8,PH-DTX,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-484FFC,PH-KWI,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-484FFD,PH-YAX,Private,Aerostar Yak-52,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
-485013,PH-DTY,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+484FF6,PH-DTW,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+484FF7,PH-DTM,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+484FF8,PH-DTX,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+484FFC,PH-KWI,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+484FFD,PH-YAX,Private,Aerostar Yak-52,YK52,Civ,Aerobatics,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+485013,PH-DTY,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 4850A1,P4-XTL,Comlux Aviation,Boeing 777-LR,B77L,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://aviapages.com/aircraft/p4-xtl
 4850AD,P4-LAS,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
 4850BA,P4-LAC,Lynden Air Cargo,L-100-30 Hercules,C130,Civ,Cargo,Brrrrrrrrrrrrrrr,Remote Locations,Distinctive,https://w.wiki/Cub9
@@ -5391,7 +5391,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
 48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48DCD1,SP-YGS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+48DCD1,SP-YGS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 490752,CS-AZR,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 490758,CS-AZX,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 49102A,CS-DAJ,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -5928,9 +5928,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 502C65,YL-KSM,Baltic Bees display team,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Display Team,Aerobatics,Aerobatic Teams,https://en.wikipedia.org/wiki/Baltic_Bees_Jet_Team
 502FA7,25,Latvian Air Force,Antonov An-2 R,AN2,Mil,Indestructible,Biplane,All For Latvia,Other Air Forces,https://w.wiki/4nEV
 503C0C,LY-CCP,Private,Yakovlev Yak-18T,Y18T,Civ,You Came Here In That Thing,Vashe Zdorovye,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-18T
-503C27,LY-NXC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+503C27,LY-NXC,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 503D0E,LY-AUS,Private,Yakovlev Yak-54B,YK54,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Yakovlev_Yak-54
-503D91,LY-HLZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+503D91,LY-HLZ,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 503DAC,LY-VEN,United Nations,Airbus A320-233,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503DAF,LY-VEW,United Nations,Airbus A320-214,A320,Gov,United Nations,World Police,International Peace,Quango,https://www.un.org/en
 503FD2,07 BLUE,Lithuanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,LK KOP,Other Air Forces,https://en.wikipedia.org/wiki/Lithuanian_Air_Force
@@ -7493,7 +7493,7 @@ A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War
 A0D049,N1510L,Dallas Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://dallaspolice.net
 A0D062,N1511A,Atlas Air,Boeing 767 383ERBDSF,B763,Civ,Cargo,GTMO,Gun Runner,Hired Gun,https://w.wiki/DmJF
 A0D223,N152FJ,Victory Outreach,Dassault Falcon 50,FA50,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
-A0D267,N152JB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+A0D267,N152JB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 A0D65A,N153LM,SkyLens,Piper PA-23 Aztec 250F,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
 A0D6E8,N153SD,Jackson County Sheriff,OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://co.jackson.ms.us/149/Sheriff
 A0D90E,N154AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Georgia Peach,Big Hello,https://w.wiki/B3LE
@@ -9330,7 +9330,7 @@ A942AA,N696TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsig
 A943AE,N6962R,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Olga,Big Hello,https://w.wiki/B3LE
 A943B9,N69622,Keystone Aerial Surveys,Cessna 310Q,C310,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.kasurveys.com/
 A947B9,N69745,Private,Stinson Reliant V-77,RELI,Civ,You Came Here In That Thing,Radial Engine,Fixed Gear,Joe Cool,https://w.wiki/CzGQ
-A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://en.wikipedia.org/wiki/Yakovlev_Yak-52
+A94C7E,N699DP,Private,Aerostar Yak-52 TW,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 A9503C,N7DW,Private,DHC-1 Super Chipmunk,DHC1,Civ,Aerobatics,Single Seater,Pass The Sick Bag,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 A950B0,N7JM,Joyce Meyer,Gulfstream G-IV,GLF4,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A950C0,N7KC,Kenny Chesney,Dassault Falcon 900,F900,Civ,Bizjet,Country Music,Vanity Plate,Don't you know who I am?,https://en.wikipedia.org/wiki/Kenny_Chesney
@@ -15779,3 +15779,19 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+A005F0,N100NR,Private,Jonker JS-1C Revelation,GLID,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/F6$v
+A5E76F,N48NC,Private,Schleicher ASH 31 Mi,AS31,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/DmTL
+A05C54,N122NH,Private,Jonker JS-3 Rapture,GLID,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/DLWi
+ACA270,N913GK,Private,Jonker JS-3 Rapture,GLID,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/DLWi
+A31478,N298PA,Private,Schleicher ASG 32 Mi,A32P,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/F72m
+A062C7,N124CG,Private,Schleicher ASW 24,AS24,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/F74T
+A1523E,N1842Z,Vermont Skydiving Adventures,Cessna 210 Centurion,C210,Civ,Skydive,Perfectly Serviceable Aircraft,Jump Johnny Jump,Perfectly Serviceable Aircraft,https://www.vermont-skydiving.com/
+AD82FB,N97TF,Terell Enterprises,Lake LA-250 Renegade,LA25,Civ,Amphibian,Seaplane,Nice Weather For Ducks,Joe Cool,https://w.wiki/F72Q
+A6BC9A,N533LP,FRG III,Pipistrel Alpha Trainer,PIAT,Civ,Spaceship Design,Advanced Composites,Light Sport Aircraft,You came here in that thing?,https://w.wiki/B7TZ
+010087,SU-BEW,Egyptian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://en.wikipedia.org/wiki/Egyptian_Air_Force
+A6C946,N5361V,Philadelplhia Glider Council,Grob G103 Twin Astir,G103,Civ,Where Is The Engine,Glider,Aura take the wheel,You came here in that thing?,https://w.wiki/F73T
+A4C929,N4071M,High Exposure,Piper PA-12,PA12,Civ,Snow Sea and Land,Light Utility,I am Old,Historic,https://w.wiki/D5qQ
+A00A9B,N101YK,N101YK,Aerostar Yak-52TD,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+AC8A47,N907MG,JF Aerosports,Pitts Special S-1S,PTS1,Civ,Biplane,Do A Barrel Roll,Aerobatics,Joe Cool,https://w.wiki/F74R
+AB8326,N8407,Experimental Aircraft Association,Ford 4-AT-E Trimotor,TRIM,Civ,I am Old,The Safest Airliner Around,Eastern Air Transport,Historic,https://w.wiki/F74U
+A1BD38,N211,Experimental Aircraft Association,Spirit of St. Louis,ZZZZ,Civ,I am Old,Reproduction,Scratch-built,Historic,https://w.wiki/F74Z
