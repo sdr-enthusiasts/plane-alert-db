@@ -569,7 +569,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 401148,G-BPYR,2 Excel Aviation,Piper PA-31 Navajo C,PA31,Civ,Surveillance,ISR,Covert,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
 401151,G-ETPJ,Empire Test Pilots School,AW.109,A109,Civ,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://www.qinetiq.com/en/what-we-do/services-and-products/etps
 401166,G-IASC,IAS Medical Ltd,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
-401187,G-MACH,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260
+401187,G-MACH,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://w.wiki/FE2M
 40118A,G-TWSR,Private,Silence Aircraft Twister,TWST,Civ,Not A Spitfire,Twister,I Want One Of Those,Joe Cool,https://silence-aircraft.de/en/aircraft
 4011AF,G-CEGP,IAS Medical Ltd,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.iasmedical.com
 401200,G-ABLS,Private,De Havilland DH-80A Puss Moth,DH80,Civ,Biplane,History,Old Stuff,Historic,https://en.wikipedia.org/wiki/De_Havilland_Puss_Moth
@@ -1085,7 +1085,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 40759B,G-WKTG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
 4075AD,G-WSEX,Historic Helicopters,Westland Wessex HU.5,WESX,Civ,The Last Of Us,Mae West,Rejuvenated,Historic,https://www.historichelicopters.com/Pages/32/Navy-Wessex.html
 407637,G-WKTH,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
-40764B,G-RAZI,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260
+40764B,G-RAZI,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://w.wiki/FE2M
 407672,G-CKYP,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
 407685,G-EMSS,Babcock MCS Onshore,Eurocopter EC145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.babcockinternational.com/what-we-do/aviation
 4076AB,G-CKZJ,Private,BB 26E Hot Air Balloon,BALL,Civ,Up Up And Away,Hot Air Balloon,Thank You Montgolfier Brothers,Gas Bags,https://youtu.be/5akEgsZSfhg
@@ -2318,6 +2318,7 @@ A0CF95,N151TF,Triple Tree Aerodrome Inc,North American P-51D Mustang,P51,Civ,War
 A0D062,N1511A,Atlas Air,Boeing 767 383ERBDSF,B763,Civ,Cargo,GTMO,Gun Runner,Hired Gun,https://w.wiki/DmJF
 A0D223,N152FJ,Victory Outreach,Dassault Falcon 50,FA50,Civ,Jesus He Knows Me,Church Of Private Jets,Send NO Money,Jesus he Knows me,https://rationalwiki.org/wiki/Main_Page
 A0D267,N152JB,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
+A0D347,N152TA,Tuck Aerial Surveys,Cessna 208B Caravan,C208,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tuckmapping.com/equipment/aircraft/
 A0D65A,N153LM,SkyLens,Piper PA-23 Aztec 250F,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.skylensaerial.com
 A0D90E,N154AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Georgia Peach,Big Hello,https://w.wiki/B3LE
 A0DAC5,N154TS,Falcon Aviation Holdings,Boeing 737-89L,B738,Civ,Elon Musk,SpaceX,Toys4Billionaires,Don't you know who I am?,https://youtu.be/bvim4rsNHkQ
@@ -2433,6 +2434,7 @@ A16534,N1895T,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate
 A16681,N19H,Hubbard Broadcasting Inc,Gulfstream G500,GLF5,Civ,Bizjet,Radio,Where All Minneapolis Dances,As Seen on TV,https://en.wikipedia.org/wiki/Hubbard_Broadcasting
 A16692,N19HS,Starbucks,Gulfstream G650 ER,GLF6,Civ,Kara Thrace,Coffee,Multinational,As Seen on TV,https://en.wikipedia.org/wiki/Starbucks
 A16971,N190PA,Phoenix Air,Gulfstream III,GLF3,Civ,Hired Gun,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
+A169D5,N190TA,Tuck Aerial Surveys,Piper PA-31-310 Navajo Panther,PA31,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tuckmapping.com/equipment/aircraft/
 A16AAD,N1901G,Chevron USA,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 A16B47,N1905W,Whirlpool Corp,Gulfstream G550,GLF5,Civ,Domestic Applicances,Washer,White Goods,As Seen on TV,https://en.wikipedia.org/wiki/Whirlpool_Corporation
 A16D84,N191ST,Kactus Capital Management,Dassault Falcon 7X,FA7X,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
@@ -2445,6 +2447,7 @@ A170DF,N192PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,D
 A171A2,N192WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A17496,N193PA,Phoenix Air,Gulfstream 1,G159,Civ,Historic,Government Contractor,Dirty Business,Hired Gun,https://phoenixair.com/
 A174C8,N193RA,Metrea,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+A174FA,N193TA,Tuck Aerial Surveys,Cessna U206G Stationair II,C206,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://tuckmapping.com/equipment/aircraft/
 A17559,N193WW,Win Aviation,Short SC.7 Skyvan,SC7,Civ,Para Ops Training,Military Contractor,Hired Gun,Perfectly Serviceable Aircraft,https://w.wiki/Dt5y
 A1770A,N194AC,Erickson Air-Crane,S-64E Skycrane,S64,Civ,Skycrane,Thunderbird 2,Delilah,Big Hello,https://w.wiki/B3LE
 A1774A,N194CS,Northeast Montana State Air Ambulance,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.nemtstatair.com/
@@ -2593,6 +2596,7 @@ A25530,N25AL,Private,Aero L-39C Albatros,L39,Civ,Do A Barrel Roll,Jet Trainer,Pr
 A255B4,N25FT,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
 A255DD,N25HJ,FlyHondaJet,Honda Jet,HDJT,Civ,How Does It Fly,I'd Get That Seen Too,Bizjet,Bizjets,https://flyhondajet.com/
 A25674,N25PK,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
+A25709,N25VJ,Volavento,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A2574B,N25Y,The Flying Bulls,Lockheed P-38 Lightning,P38,Civ,Already Has Wings,Display Team,Aerobatics,Aerobatic Teams,https://www.flyingbulls.at/en
 A2575B,N25YR,CAF/Yellow Rose Wing,North American TB-25N Mitchell,B25,Civ,Bomber,WW2,Yellow Rose,Historic,https://w.wiki/7o3m
 A25952,N250UT,Beta Air,Beta Air Alia-250,ZZZZ,Civ,VTOL,Prototype,From The Future,Distinctive,https://www.beta.team/aircraft/
@@ -2601,6 +2605,7 @@ A263EB,N253PC,Classic Air Medical,Pilatus PC-12 45,PC12,Civ,Air Ambo,Medical Eva
 A26A5E,N255DB,Private,Stinson Sentinel L-5,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A26B9C,N255RV,REVA Air Ambulance,Learjet 55,LJ55,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.flyreva.com/
 A27072,N2562M,Pacific Fleet Aviation,Piper PA-23-250,PA27,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.eagleview.com/
+A2729E,N257MM,Millen Aviaiton,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Joe Cool,https://w.wiki/B3L6
 A277B3,N2581B,Private,Stinson Sentinel OY-1,L5,Civ,Liason,History,Speak Up Sonny,Historic,https://w.wiki/CzGU
 A278F9,N259AM,Air Methods Corp,Eurocopter EC-130 B4,EC30,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A27D74,N26JH,Private,DHC-1 Chipmunk 22,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -3407,6 +3412,7 @@ A7A2BE,N591SR,ISR Platforms,Bombardier Global 6000,GLEX,Civ,ISR,SAR,Training,Hir
 A7A4D8,N592AC,West Michigan Air Care,Eurocopter MBB-BK 117 C-2 (EC145),EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.aircare.org/
 A7ACDA,N594GA,Nestle Purina Petcare,Gulfstream G500,GA5C,Civ,Nestle is Evil,Pet Food,Meow,As Seen on TV,https://www.zmescience.com/science/nestle-company-pollution-children/
 A7B4B1,N596LF,Life Flight,AgustaWestland AW.119,A119,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lifeflight.org
+A7B4C5,N596MA,Private,SIAI-Marchetti SF.260,F260,Civ,Ciao,Aerobatics,Do A Barrel Roll,Joe Cool,https://w.wiki/FE2M
 A7BF85,N599H,Honeywell International,Gulfstream G550,GLF5,Civ,Aerospace,Controls,Conglomerate,As Seen on TV,https://www.honeywell.com/us/en
 A7C080,N599TA,LSU,Learjet 45,LJ45,Civ,Geaux Tigers,The Other Football,Mike the Tiger,Football,https://w.wiki/D2TB
 A7C192,N59925,Fogle Air,Boeing Stearman A75N1 Kaydet,ST75,Civ,Radial Engine,Biplane,Retired Life,Historic,https://w.wiki/BJBE
