@@ -28,7 +28,7 @@ jobs:
             !plane_images.csv
           separator: ","
 
-      - uses: actions/setup-python@v5.6.0
+      - uses: actions/setup-python@v6.0.0
         if: steps.changed-files.outputs.any_changed == 'true'
         with:
           python-version: "3.10"
