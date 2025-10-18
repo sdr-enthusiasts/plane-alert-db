@@ -37,6 +37,6 @@ jobs:
         run: python ./scripts/update_readme.py
 
       - name: Commit derivative CSV files
-        uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        uses: stefanzweifel/git-auto-commit-action@v7.0.0
         with:
           commit_message: "refactor: update derivative databases."
