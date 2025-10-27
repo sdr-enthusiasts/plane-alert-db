@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15834** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15841** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15834)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15841)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12160)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12161)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4511)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8651)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8658)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (931)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1741)
 
@@ -96,7 +96,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|176|
-|Toy Soldiers|Armies from around the world.|1060|
+|Toy Soldiers|Armies from around the world.|1067|
 |UAV|It's not natural, I tell 'ya!|64|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
