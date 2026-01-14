@@ -24,19 +24,19 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15889** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15913** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15889)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15913)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12174)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12176)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4509)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8708)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4530)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8709)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (931)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1741)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1743)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -67,7 +67,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Coastguard|Coastguard, Customs and Border Patrols|448|
 |Da Comrade|Russian or Soviet Aircraft|92|
 |Dictator Alert|People of potentially questionable morals and values|326|
-|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|212|
+|Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|217|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|212|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|81|
 |Flying Doctors|Air Ambulance and Medical Flights|823|
@@ -76,7 +76,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
 |Governments|Aircraft registered to Governments|267|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|265|
-|Hired Gun|Why do the dirty work when someone else can do it for you?|314|
+|Hired Gun|Why do the dirty work when someone else can do it for you?|330|
 |Historic|It's older than I am and most likely has a prop.|543|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|24|
 |Joe Cool|Cool Planes. Or at least I think they are cool.|262|
@@ -100,9 +100,9 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UAV|It's not natural, I tell 'ya!|64|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
-|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|264|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|265|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|645|
-|USAF|Aircraft of the United States Air Force|2449|
+|USAF|Aircraft of the United States Air Force|2451|
 |Vanity Plate|Distinctive registrations|78|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|112|
