@@ -24,7 +24,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15913** unique aircraft in **51** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15913** unique aircraft in **52** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15913)
@@ -66,7 +66,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|196|
 |Coastguard|Coastguard, Customs and Border Patrols|448|
 |Da Comrade|Russian or Soviet Aircraft|92|
-|Dictator Alert|People of potentially questionable morals and values|326|
+|Dictator Alert|People of potentially questionable morals and values|310|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|217|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|212|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|81|

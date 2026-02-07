@@ -283,11 +283,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 090088,D2-ANG,Gov of Angola,Bombardier Global 6000,GLEX,Gov,Dictator Alert,Agostinho Neto,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0900AE,D2-EEA,Gov of Angola,DHC-8-402,DH8D,Gov,Dictator Alert,Agostinho Neto,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0900B5,D2-EEB,Gov of Angola,DHC-8-402Q,DH8D,Gov,Dictator Alert,Agostinho Neto,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-09A01A,C5-RTG,Gov of Gambia,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Adama Barrow,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-09A01B,C5-GAF,Gov of Gambia,Boeing 727,B721,Gov,Dictator Alert,Adama Barrow,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+09A01A,C5-RTG,Gov of Gambia,Ilyushin IL-62M,IL62,Gov,Government,Adama Barrow,Free And Fair Elections,Head of State,https://data.dictatoralert.org/dictatorships
+09A01B,C5-GAF,Gov of Gambia,Boeing 727,B721,Gov,Government,Adama Barrow,Free And Fair Elections,Head of State,https://data.dictatoralert.org/dictatorships
 09A01E,C5-AFT,Government of the Gambia,Canadair Challenger 601,CL60,Gov,The Gambia,Adama Barrow,Government,Governments,https://en.wikipedia.org/wiki/The_Gambia
-09A027,C5-GOG,Gov of Gambia,Boeing 727,B721,Gov,Dictator Alert,Adama Barrow,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-09A042,C5NBB,Gov of Gambia,Canadair Challenger 601,CL60,Gov,Dictator Alert,Adama Barrow,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+09A027,C5-GOG,Gov of Gambia,Boeing 727,B721,Gov,Government,Adama Barrow,Free And Fair Elections,Head of State,https://data.dictatoralert.org/dictatorships
+09A042,C5NBB,Gov of Gambia,Canadair Challenger 601,CL60,Gov,Government,Adama Barrow,Free And Fair Elections,Head of State,https://data.dictatoralert.org/dictatorships
 09C008,XT-BFA,Gov of Burkina Faso,Boeing 727,B722,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Burkina_Faso
 0A4005,7T-VPR,Gov of Algeria,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Abdelmadjid Tebboune,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 0A4006,7T-VPS,Gov of Algeria,Gulfstream G-IV SP,GLF4,Gov,Dictator Alert,Abdelmadjid Tebboune,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -369,7 +369,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0BA036,FAH080,Honduran Air Force,Beech King Air C90B,BE9L,Mil,Surveillance,Eye In The Sky,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0BA039,FAH990,Honduran Air Force,Airbus EC-145,EC45,Mil,Light Utility,Medevac,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 0BAFA1,FAH-001,Honduran Air Force,Embraer Legacy 600,E35L,Gov,Bizjet,FAH,Wrong Turn at Albuquerque,Other Air Forces,https://w.wiki/4nE6
-0C204E,HP-1A,Gov of Panama,Embraer Legacy 600,E35L,Gov,Government,Panama,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Politics_of_Panama
+0C204E,HP-1A,Gov of Panama,Embraer Legacy 600,E35L,Gov,Government,Panama,Free And Fair Elections,Head of State,https://en.wikipedia.org/wiki/Politics_of_Panama
 0C20EA,AN-401,Panamanian Coastguard,B350 Super King Air,B350,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Panamanian_Public_Forces
 0D003F,XC-UJB,Mexican Air Force,Boeing 737,B733,Mil,Strategic Transport,Military Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D00D0,XC-PFT,Mexican Federal Police,Grumman GII,GLF2,Pol,Police Squad,Los Judis,Bizjet,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_(Mexico)
@@ -5370,8 +5370,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 489ED5,SP-HXZ,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489ED7,SP-HXY,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 489ED8,SP-HXV,Polish Medical Air Service,Eurocopter EC135 P2+,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
-48AD06,SP-LIG,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48AD06,SP-LIG,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
 48B2D0,SP-MXR,Polish Medical Air Rescue,Learjet 75 Liberty,LJ75,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.lpr.com.pl/en/home-page/
 48B9C9,SP-OOK,Smart Jet,Beechjet 400XP,BE40,Civ,Spy Vs Spy,Ghostly,Vanity Plate,Vanity Plate,https://www.smart-jet.pl/fleet
 48B9E6,SP-OPG,Opegieka,Vulcanair P.68C,P68,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://opegieka.pl
@@ -5393,11 +5393,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48D8E1,1502,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E2,1503,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E4,1505,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
-48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D961,0002,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
-48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Dictator Alert,https://w.wiki/4nEk
+48D960,0001,Polish Air Force,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48D961,0002,Polish Government,Gulfstream G550,GLF5,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48D980,0110,Polish Government,Boeing 737NG,B738,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48D981,0112,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48D982,0111,Polish Air Force,Boeing 737NG-BBJ2,B738,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
 48DCD1,SP-YGS,Private,Aerostar Yak-52,YK52,Civ,Vashe Zdorovye,Basic Trainer,Soviet Union,Da Comrade,https://w.wiki/F73q
 490752,CS-AZR,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 490758,CS-AZX,Private,OGMA DHC-1 Chipmunk T20,DHC1,Civ,Jump Johnny Jump,Obrigado,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
@@ -5915,7 +5915,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 5001B4,T7-RTX,Corporate,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 500207,T7-HHHH,Sorens Aero,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 500259,T7-AFS,Franklin Biotech Group,Honda HA-420 Elite,HDJT,Civ,Honda Jet,Bunch of Bankers,Aaaaaaaand its gone,As Seen on TV,https://w.wiki/4vbz
-501D13,9A-CRO,Gov of Croatia,Bombardier Challenger 604,CL60,Gov,Government,Must Be Nice,Free And Fair Election,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Croatia
+501D13,9A-CRO,Gov of Croatia,Bombardier Challenger 604,CL60,Gov,Government,Must Be Nice,Free And Fair Election,Head of State,https://en.wikipedia.org/wiki/Government_of_Croatia
 501E10,9A-HBA,Croatian Police,Eurocopter EC135 P2,EC35,Pol,Police Squad,Policija,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Croatia
 501E17,9A-HBB,Croatian Police,Eurocopter EC135 P2,EC35,Pol,Police Squad,Policija,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Croatia
 501E36,9A-HRP,Croatian Police,AgustaWestland AW.139,A139,Pol,Police Squad,Policija,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Croatia
@@ -6912,7 +6912,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 800187,KE-3605,Indian Security Police,Embraer Legacy 600,E35L,Pol,Police Squad,You Aint Seen Me Right,Surveillance,Police Forces,https://tinyurl.com/2p9cypsw
 8001DE,VT-UAB,Government of Uttarakhand,B200 Super King Air,BE20,Gov,Uttarakhand,Gurmit Singh,Government,Governments,https://uk.gov.in
 8002CC,K3602,Indian Air Force,Embraer Legacy 600,E35L,Mil,Cargo,Troop Transport,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
-8002CD,K3603,Gov of India,Embraer Legacy 600,E35L,Gov,Dictator Alert,Narendra Modi,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8002CD,K3603,Gov of India,Embraer Legacy 600,E35L,Gov,Government,Narendra Modi,Free And Fair Elections,Head of State,https://data.dictatoralert.org/dictatorships
 8002F6,K5012,Indian Air Force,Boeing 737NG-BBJ,B737,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
 8002F7,K5013,Indian Air Force,Boeing 737NG-BBJ,B737,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
 8002FB,K5014,Indian Air Force,Boeing 737NG-BBJ,B737,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
@@ -15910,5 +15910,5 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 E909FB,CX-CIB,Government Of Uruguay,BAe 125 700A,H25B,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://w.wiki/3QbW
 E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
-E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
-E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://w.wiki/B3LJ
+E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
+E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
