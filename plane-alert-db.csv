@@ -5553,7 +5553,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4AAB05,SE-JXE,Svensk Luftambulans,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://svenskluftambulans.se/
 4AAB06,SE-JXF,Svensk Luftambulans,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://svenskluftambulans.se/
 4AACD0,SE-KFP,Babcock Scandinavian AirAmbulance,B200C Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://babcocknordics.com/
-4AB241,SE-LRA,SAAB Aircraft AB,Saab 2000,SB20,Civ,Aerospace,Defense,Bizjet,As Seen on TV,https://w.wiki/4nsD
+4AB241,SE-LRA,SAAB Aircraft,Saab 2000,SB20,Civ,Aerospace,Defense,Bizjet,As Seen on TV,https://w.wiki/4nsD
+4AB296,SE-LTV,SAAB Aircraft,Saab 2000,SB20,Civ,Aerospace,Defense,Bizjet,As Seen on TV,https://w.wiki/4nsD
 4AB2D6,SE-LVV,Babcock Scandinavian AirAmbulance,B200 Super King Air,BE20,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://babcocknordics.com/
 4AB421,SE-MAA,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
 4AB422,SE-MAB,Swedish Coast Guard,DHC-8-315 MPA,DH8C,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.kustbevakningen.se/en/
@@ -5570,10 +5571,30 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4AC9A4,SE-RMD,Swedish Air Force Historic Flight,J 32 Saab 32 Lansen,SB32,Civ,Old,Fighter,Fika,Historic,https://www.swafhf.com/j32-lansen
 4AC9A5,SE-RME,Swedish Air Force Historic Flight,J 32 Saab 32 Lansen,SB32,Civ,Old,Fighter,Fika,Historic,https://www.swafhf.com/j32-lansen
 4AC9A9,SE-RMI,Swedish Air Force Historic Flight,Cessna Citation II,C550,Civ,Bizjet,Smakar det sa kostar det,Fika,Historic,https://www.swafhf.com
+4AC9AB,SE-RMK,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
 4AC9B4,SE-RMT,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
 4AC9B6,SE-RMV,SAAB Aircraft,Bombardier Global 6000,GLEX,Civ,Bizjet,Jet Fighter,Missiles,As Seen on TV,https://www.saab.com/products/air
-4ACAC1,SE-RVA,Swedish Air Ambulance,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.airamb.se/en/home
-4ACAC5,SE-RVE,Swedish Air Ambulance,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,http://www.airamb.se/en/home
+4ACAC1,SE-RVA,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4ACAC2,SE-RVB,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4ACAC3,SE-RVC,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4ACAC4,SE-RVD,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4ACAC5,SE-RVE,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4ACAC6,SE-RVF,Svenskt Ambulansflyg,Pilatus PC-24,PC24,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.svenskt-ambulansflyg.se/
+4AEC62,35-195,Swedish Air Force,Learjet 35,LJ35,Mil,Shapeshifter,Target Practice,Testbed,Other Air Forces,https://testandevaluation.fmv.se/
+4AEC63,35-075,Swedish Air Force,Learjet 35,LJ35,Mil,Shapeshifter,Target Practice,Testbed,Other Air Forces,https://testandevaluation.fmv.se/
+4AECB9,40198,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECBA,40199,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECBB,40200,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECBD,40205,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECBE,40206,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECBF,40207,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECC0,40208,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECC5,40211,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECC6,40212,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECC7,40213,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECCA,60-296,Swedish Air Force,Learjet 60,LJ60,Mil,Shapeshifter,Target Practice,Testbed,Other Air Forces,https://testandevaluation.fmv.se/
+4AECCB,40214,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
+4AECCC,40216,Swedish Air Force,Grob G120TP,G12T,Mil,Training Wheels,Bicycle Made For Two,To Fly Fight And Win,Other Air Forces,https://w.wiki/DixW
 4AE175,SE-XKU,Private,DHC-1 Chipmunk 20,DHC1,Civ,Air Experience Flight,Jump Johnny Jump,Air Training Corps,Jump Johnny Jump,https://youtu.be/JMz_gONS8X0
 4AE2A9,SE-XUI,Private,SAAB MFI-15,MF17,Civ,Basic Trainer,Safari,Nope Mobile,You came here in that thing?,https://w.wiki/4ydC
 4B0B4F,HB-EHJ,Verein der Freunde des Fieseler Storch,Fieseler Fi 156C-3 Storch,F156,Civ,Liason,Highwing,STOL,Historic,https://en.wikipedia.org/wiki/Fieseler_Fi_156_Storch
