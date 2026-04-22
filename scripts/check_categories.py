@@ -41,6 +41,6 @@ if __name__ == "__main__":
             )
         )
 
-        sys.stdout.write(f"The files contain invalid or new Categories:\n")
+        sys.stdout.write("The files contain invalid or new Categories:\n")
         sys.exit(1)
     logging.info("Categories check good!")

@@ -32,13 +32,13 @@ def is_valid_url(url, allow_nans=False):
 
 
 def is_hex(string):
-    """Check if a string is a hexidecimal string.
+    """Check if a string is a hexadecimal string.
 
     Args:
         string (str): The string to check.
 
     Returns:
-        boolean: True if the string is a hexidecimal string, False otherwise.
+        boolean: True if the string is a hexadecimal string, False otherwise.
     """
     try:
         int(string, 16)
@@ -115,24 +115,24 @@ def contains_bad_links(df, allow_nans=False):
 
 
 def contains_valid_ICAO_hexes(df):
-    """Check if all the values in the '$ICAO' data series are hexidecimal strings.
+    """Check if all the values in the '$ICAO' data series are hexadecimal strings.
 
     Args:
         df (pandas.Series): The '$ICAO' data series to check.
 
     Raises:
-        Exception: When the data series has invalid hexidecimal values.
+        Exception: When the data series has invalid hexadecimal values.
     """
     invalid_hexes = df[~df["$ICAO"].apply(is_hex).astype(bool)]["$ICAO"]
     if len(invalid_hexes) > 0:
         db_name = df.name if hasattr(df, "name") else "database"
         error_strings = (
-            ["value", "is", "a hexidecimal"]
+            ["value", "is", "a hexadecimal"]
             if invalid_hexes.shape[0] == 1
-            else ["values", "are", "hexidecimals"]
+            else ["values", "are", "hexadecimals"]
         )
         logging.error(
-            f"The '{db_name}' database contains non-hexidecimal '$ICAO' values."
+            f"The '{db_name}' database contains non-hexadecimal '$ICAO' values."
         )
         sys.stdout.write(
             f"The {db_name} database has '{invalid_hexes.shape[0]}' '$ICAO' "
@@ -157,17 +157,14 @@ if __name__ == "__main__":
         )
         sys.exit(1)
 
-    # Preform database checks.
+    # Perform database checks.
     contains_duplicate_ICAOs(main_df)
-    contains_valid_ICAO_hexes(
-        main_df
-    )
+    contains_valid_ICAO_hexes(main_df)
     # contains_duplicate_regs(
     #     main_df
     # )  # NOTE: This is commented out because there are duplicates.
     # contains_bad_links(main_df)
     logging.info("The main database is valid.")
-
 
     ##########################################
     # Check 'plane_images.csv' db.           #

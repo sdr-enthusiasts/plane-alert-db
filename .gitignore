@@ -8,3 +8,5 @@ james-planes-new-items.csv
 # IDE
 .vscode
 *.code-workspace
+.direnv
+.pre-commit-config.yaml

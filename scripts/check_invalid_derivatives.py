@@ -1,5 +1,4 @@
-"""Checks whether the PR includes invalid derivative files.
-"""
+"""Checks whether the PR includes invalid derivative files."""
 
 import logging
 import os
