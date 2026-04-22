@@ -2,13 +2,13 @@
 
 We love your input! 🚀 We want to make contributing to this project as easy and transparent as possible, whether it's:
 
--   [Reporting a bug](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=bug&template=bug_report.yml).
--   Discussing the current state of the code.
--   [Submitting a fix](https://github.com/sdr-enthusiasts/plane-alert-db/compare).
--   [Proposing new features](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
--   [Reviewing pull requests](https://github.com/sdr-enthusiasts/plane-alert-db/pulls).
--   Adding new planes or images.
--   Becoming a maintainer.
+- [Reporting a bug](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=bug&template=bug_report.yml).
+- Discussing the current state of the code.
+- [Submitting a fix](https://github.com/sdr-enthusiasts/plane-alert-db/compare).
+- [Proposing new features](https://github.com/sdr-enthusiasts/plane-alert-db/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
+- [Reviewing pull requests](https://github.com/sdr-enthusiasts/plane-alert-db/pulls).
+- Adding new planes or images.
+- Becoming a maintainer.
 
 ## We Develop with Github
 
@@ -18,15 +18,15 @@ We use github to host code, track issues and feature requests, and accept pull r
 
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)). We actively welcome your pull requests:
 
-1.  Fork the repo and create your branch from `main`.
-2.  Create a new feature branch (e.g. `patch`) to implement your changes on.
-3.  Make your changes.
-4.  Add tests if you've added code that should be tested.
-5.  If you've changed the internal working of the repository, update the documentation.
-6.  Ensure the test suite passes.
-7.  Make sure your code lints.
-8.  Issue that pull request!
-9.  Merge your feature branch into your own `main` branch, so you don't have to wait for the PR to be merged.
+1. Fork the repo and create your branch from `main`.
+2. Create a new feature branch (e.g. `patch`) to implement your changes on.
+3. Make your changes.
+4. Add tests if you've added code that should be tested.
+5. If you've changed the internal working of the repository, update the documentation.
+6. Ensure the test suite passes.
+7. Make sure your code lints.
+8. Issue that pull request!
+9. Merge your feature branch into your own `main` branch, so you don't have to wait for the PR to be merged.
 
 ## Important Development Notes
 
@@ -34,9 +34,9 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 
 Refer to the [README](README.md) for details on contributing to the following main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv)
--   [plane-alert-pia.csv](plane-alert-pia.csv)
--   [plane_images.csv](plane_images.csv)
+- [plane-alert-db.csv](plane-alert-db.csv)
+- [plane-alert-pia.csv](plane-alert-pia.csv)
+- [plane_images.csv](plane_images.csv)
 
 Please note that other databases are automatically generated via [GitHub Actions](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) and should not be manually edited.
 
@@ -65,13 +65,13 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 **Great Bug Reports** tend to have:
 
--   A quick summary and/or background.
--   Steps to reproduce:
-    -   Be specific!
-    -   Give sample code if you can. [A stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that _anyone_ with a base R setup can run to reproduce the error.
--   What you expected would happen
--   What actually happens.
--   Notes (possibly including why you think this might be happening, or stuff you tried that didn't work).
+- A quick summary and/or background.
+- Steps to reproduce:
+  - Be specific!
+  - Give sample code if you can. [A stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that _anyone_ with a base R setup can run to reproduce the error.
+- What you expected would happen
+- What actually happens.
+- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work).
 
 People _love_ thorough bug reports. I'm not even kidding.
 

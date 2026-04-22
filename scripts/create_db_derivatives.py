@@ -1,7 +1,7 @@
 """This script creates (derivative) category and images CSV database files from the main
 'plane-alert-db.csv' database file. The categories are created based on the 'CMPG'
 column, while images are added using the 'plane_images.csv' reference file. Based on the
-'plane-alert-db.csv' database file, missing records are added and/or extra records are 
+'plane-alert-db.csv' database file, missing records are added and/or extra records are
 removed from the 'plane_images.csv' reference file.
 """
 
@@ -68,7 +68,6 @@ if __name__ == "__main__":
         )
     logging.info("Category and category images CSV files created successfully.")
 
-
     logging.info("Creating the main database images csv file...")
     main_images_df = pd.merge(df, images_df, how="left", on="$ICAO")
     main_images_df["#CMPG"] = main_images_df["#CMPG"].fillna("#N/A")
@@ -84,11 +83,7 @@ if __name__ == "__main__":
     logging.info(
         "Check for new ICAOs in DB file and add them to the images reference file..."
     )
-    plane_alert_df = (
-        df["$ICAO"]
-        .drop_duplicates()
-        .reset_index(drop=True)
-    )
+    plane_alert_df = df["$ICAO"].drop_duplicates().reset_index(drop=True)
     logging.info(f"ICAOs retrieved from DB file: ({plane_alert_df.shape[0]}).")
     logging.info(f"ICAOs retrieved from 'plane_images.csv ({images_df.shape[0]}).")
     new_ICAOs_df = plane_alert_df[~plane_alert_df.isin(images_df["$ICAO"])]
@@ -139,7 +134,7 @@ if __name__ == "__main__":
         ].index.tolist()
         for item in extra_icao_df:
             icao_to_remove = images_df.loc[item, "$ICAO"]  # Get the hex to be removed
-            logging.info(f"Removing ICAO: {icao_to_remove}") # Log it
+            logging.info(f"Removing ICAO: {icao_to_remove}")  # Log it
 
             if "plane_images_df" in locals():
                 plane_images_df = plane_images_df.drop(item)

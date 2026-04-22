@@ -1,4 +1,4 @@
-"""Check whether the interesting planes given by James in 
+"""Check whether the interesting planes given by James in
 https://github.com/sdr-enthusiasts/plane-alert-db/issues/24 are already in the main
 databases.
 """
@@ -16,7 +16,6 @@ if __name__ == "__main__":
     logging.info("Reading 'plane-alert-db' csv file...")
     main_df = pd.read_csv("plane-alert-db.csv")
     logging.info("'plane-alert-db' csv file read successfully.")
-
 
     logging.info(
         f"Get new items in 'james-planes' database ({james_planes_df.shape[0]})..."

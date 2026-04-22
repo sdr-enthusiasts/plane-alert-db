@@ -14,7 +14,7 @@ with open(r"plane_images.csv", "r") as images:
         jpcount += line.count(search_text)
 
 if jpcount > 0:
-    logging.info(f"Occurences of /400/ found: {jpcount}")
+    logging.info(f"Occurrences of /400/ found: {jpcount}")
     logging.info("Replacing '/400/' paths with '/full/'.")
     with open(r"plane_images.csv", "r") as images:
         data = images.read()

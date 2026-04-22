@@ -1,5 +1,5 @@
 """A list of interesting planes given by James in
-https://github.com/sdr-enthusiasts/plane-alert-db/issues/24. 
+https://github.com/sdr-enthusiasts/plane-alert-db/issues/24.
 
 It looks like James got this list from the RadarAtlas extension using the CRX viewer
 extension.

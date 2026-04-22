@@ -91,9 +91,7 @@ with open("readme.mustache", "r") as template:
                     "flying_doctors_count": category_df[
                         category_df["Category"] == "Flying Doctors"
                     ].shape[0],
-                    "gaf_count": category_df[
-                        category_df["Category"] == "GAF"
-                    ].shape[0],
+                    "gaf_count": category_df[category_df["Category"] == "GAF"].shape[0],
                     "gas_bags_count": category_df[
                         category_df["Category"] == "Gas Bags"
                     ].shape[0],
@@ -133,9 +131,7 @@ with open("readme.mustache", "r") as template:
                     "psa_count": category_df[
                         category_df["Category"] == "Perfectly Serviceable Aircraft"
                     ].shape[0],
-                    "pia_count": category_df[
-                        category_df["Category"] == "PIA"
-                    ].shape[0],
+                    "pia_count": category_df[category_df["Category"] == "PIA"].shape[0],
                     "police_forces_count": category_df[
                         category_df["Category"] == "Police Forces"
                     ].shape[0],
@@ -151,9 +147,7 @@ with open("readme.mustache", "r") as template:
                     "radiohead_count": category_df[
                         category_df["Category"] == "Radiohead"
                     ].shape[0],
-                    "raf_count": category_df[category_df[
-                        "Category"] == "RAF"
-                    ].shape[0],
+                    "raf_count": category_df[category_df["Category"] == "RAF"].shape[0],
                     "royal_aircraft_count": category_df[
                         category_df["Category"] == "Royal Aircraft"
                     ].shape[0],
@@ -166,9 +160,7 @@ with open("readme.mustache", "r") as template:
                     "special_forces_count": category_df[
                         category_df["Category"] == "Special Forces"
                     ].shape[0],
-                    "uav_count": category_df[
-                        category_df["Category"] == "UAV"
-                    ].shape[0],
+                    "uav_count": category_df[category_df["Category"] == "UAV"].shape[0],
                     "uk_police_count": category_df[
                         category_df["Category"] == "UK National Police Air Service"
                     ].shape[0],
@@ -181,9 +173,9 @@ with open("readme.mustache", "r") as template:
                     "us_navy_count": category_df[
                         category_df["Category"] == "United States Navy"
                     ].shape[0],
-                    "usaf_count": category_df[
-                        category_df["Category"] == "USAF"
-                    ].shape[0],
+                    "usaf_count": category_df[category_df["Category"] == "USAF"].shape[
+                        0
+                    ],
                     "vanity_plate_count": category_df[
                         category_df["Category"] == "Vanity Plate"
                     ].shape[0],
@@ -196,9 +188,7 @@ with open("readme.mustache", "r") as template:
                     "zoomies_count": category_df[
                         category_df["Category"] == "Zoomies"
                     ].shape[0],
-                    "cap_count": category_df[
-                        category_df["Category"] == "CAP"
-                    ].shape[0],
+                    "cap_count": category_df[category_df["Category"] == "CAP"].shape[0],
                 },
             )
         )

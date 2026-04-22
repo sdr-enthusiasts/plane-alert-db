@@ -1,13 +1,13 @@
 documentation:
-- any: 
-  - changed-files:
-    - any-glob-to-any-file: ['readme.mustache']
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: ["readme.mustache"]
 images:
-- any:
-  - changed-files:
-    - any-glob-to-any-file: ['plane_images.csv']
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: ["plane_images.csv"]
 planes:
-- all:
-  - changed-files:
-    - any-glob-to-any-file: ['*.csv'] 
-    - any-glob-to-any-file: ['!plane_images.csv']
+  - all:
+      - changed-files:
+          - any-glob-to-any-file: ["*.csv"]
+          - any-glob-to-any-file: ["!plane_images.csv"]
