@@ -6763,8 +6763,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CF850,A27-18,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
 7CF854,A27-10,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
 7CF855,A27-21,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
-7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
-7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CF864,A39-001,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF865,A39-002,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF866,A39-003,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
@@ -6989,7 +6989,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 8007B9,VT-ELX,Geological Survey of India,DHC-6 Twin Otter 300,DHC6,Civ,Aerial Survey,Measuring Stick,Trundle Wheel,Ptolemy would be proud,https://www.gsi.gov.in/
 800B69,VT-UPJ,Government of Uttar Pradesh,B200 Super King Air,BE20,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
 800C0E,VT-SNT,Sun TV Network,Bombardier Global 6000,GLEX,Civ,Bizjet,Sun TV,Tamil,As Seen on TV,https://en.wikipedia.org/wiki/Sun_TV_Network
-800C3D,VT-ALW,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
+800C3D,K7067,Indian Air Force,Boeing 777-300ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 800D31,VT-HCA,Government of Haryana,B200GT Super King Air,BE20,Gov,Haryana,Bandaru Dattatreya,Government,Governments,https://haryana.gov.in
 800E2A,IN226,Indian Navy,Dornier Do 228-201,D228,Mil,Surveillance,Maritime Patrol,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
 800E3D,VP905,Indian Air Force Vintage Flight,Douglas C-47A Dakota,DC3,Mil,Historic,Dakota,Srinagar,Historic,https://tinyurl.com/ys43nfbw
@@ -15206,7 +15206,7 @@ AE6A99,20-21171,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6AA1,168694,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA3,168696,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA4,168697,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE6AA5,168689,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE6AA5,168698,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AB0,168709,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AB9,170002,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -15897,20 +15897,20 @@ E400B3,4111,Mexican Air Force,Embraer ERJ-145MP,E145,Mil,Surveillance,Eye In The
 E400B4,4101,Mexican Air Force,Embraer ERJ-145SA,E145,Mil,Eye In The Sky,Airborne Early Warning,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
 E40489,5719,Brazilian Air Force,Embraer EMB.314 Super Tucano A-29,E314,Mil,Display Team,Aerobatics,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
-E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E47DFD,PR-DPF,Brazilian Federal Police,Embraer ERJ-145 ER,E145,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
 E47EEC,PR-BBS,Grupo Safra,Boeing 737NG-BBJ2,B737,Civ,Climate Crisis,Boeing Business Jet,Man Made Climate Change,As Seen on TV,https://xkcd.com/1732
-E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
-E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Roraima
-E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Lula da Silva,Government,Governments,http://www.parana.pr.gov.br
+E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Roraima
+E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
 E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48421,PR-PFN,Brazilian Federal Police,Embraer ERJ-145 LR,E145,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
-E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
+E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Lula da Silva,Government,Governments,https://www.ceara.gov.br
 E48A7E,PR-HGR,Brazilian Fire Service,AS350 Squirrel B2,AS50,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Military_Firefighters_Corps
 E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B42,TT-3107,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
-E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
+E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Bahia
 E48E9F,PR-DOA,Brazilian Federal Police,Cessna 208 Caravan,C208,Pol,Police Squad,Policia,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Federal_Police_of_Brazil
 E49181,2902,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E49182,2901,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
@@ -15959,3 +15959,23 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
+AE4E6E,168280,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE64C1,168689,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53F1,168306,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53EE,168292,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53F5,168324,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+A9DE55,N735HH,Optic Air,Cessna 182 Skylane,C182,Civ,Aerial Survey,Measuring Stick,Is This My Good Side,Ptolemy would be proud,https://www.opticair.net
+407DFC,G-GBNI,Government of the United Kingdom,Airbus A321neo,A21N,Gov,VIP Transport,Governments,Keir Starmer,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
+C2B233,140115,Royal Canadian Air Force,Lockheed CP-140M Aurora,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://w.wiki/BxdK
+C2BB25,147301,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BB75,147309,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BBA7,147314,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BB57,147306,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2C377,330004,Royal Canadian Air Force,Airbus A330-200,A332,Mil,Tactical Airlift,Cargo,VIP Transport,Other Air Forces,https://w.wiki/9Jrr
+C01393,C-FHKS,Royal Canadian Mounted Police,Sikorsky UH-60A Blackhawk,H60,Pol,Police Squad,Mountie,Surveillance,Police Forces,https://www.rcmp-grc.gc.ca
+E483BA,2590,Brazilian Air Force,Embraer EMB-190 VC-2,E190,Mil,VIP Transport,Brazil,Lula da Silva,Governments,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+ADAB40,N980BC,Jet Rider LLC,Super King Air 350,B350,Pol,Police Lease,Eye In The Sky,Hired Gun,Police Forces,https://www.planelogger.com/Airline/Fleet/Jet_Rider_LLC/127911
+71BE43,22-001,Government of South Korea,Boeing 747-8B5,B748,Gov,Corporate Dictatorship,Annyeonghasimnikka,Government,Governments,https://en.wikipedia.org/wiki/Government_of_South_Korea
+7CFA93,A62-001,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CFA94,A62-002,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CFA96,A62-003,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
