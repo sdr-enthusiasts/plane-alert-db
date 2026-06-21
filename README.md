@@ -24,16 +24,16 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15984** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15985** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15984)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15985)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
 -   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12215)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4540)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4541)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8759)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (939)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1746)
@@ -70,7 +70,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|219|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|212|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|81|
-|Flying Doctors|Air Ambulance and Medical Flights|827|
+|Flying Doctors|Air Ambulance and Medical Flights|828|
 |Football|Actual, Aussie Rules or American. We don't discriminate.|22|
 |GAF|Aircraft of the German Air Force|414|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
