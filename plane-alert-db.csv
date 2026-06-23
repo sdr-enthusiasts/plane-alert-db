@@ -3790,6 +3790,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407DFC,G-GBNI,Government of the United Kingdom,Airbus A321neo,A21N,Gov,VIP Transport,Governments,Keir Starmer,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407FD7,G-RESA,HM Coastguard,Leonardo AW139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+408095,G-EHAT,Essex and Herts Air Ambulance,Leonardo AW169,A169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.ehaat.org
 4176E2,2,Myanmar Air Force,Fokker F70,F70,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 424059,VP-BNZ,Gazpromavia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -4530,6 +4532,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C92C,ZM498,Royal Air Force,Airbus Jupiter HT1,EC45,Mil,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://w.wiki/4mcw
 43C92D,ZM499,Royal Air Force,Airbus Jupiter HT1,EC45,Mil,L-Plate,Training Wheels,Chopper,Watch Me Fly,https://w.wiki/4mcw
 43C933,ZM705,Army Air Corps,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corps,http://torinak.com/qaop#!tomahawk
+43C937,ZM709,Army Air Corps,Westland WAH-64D Apache AH1,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Longbow,Army Air Corps,http://torinak.com/qaop#!tomahawk
 43C93A,ZM712,Army Air Corps,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corps,http://torinak.com/qaop#!tomahawk
 43C93C,ZM714,Army Air Corps,AH-64E Apache,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Guardian,Army Air Corps,http://torinak.com/qaop#!tomahawk
 43C960,ZB131,Qatar Emiri Air Force,British Aerospace Hawk Mk167,HAWK,Mil,Joint Hawk Training Squadron,Jet Trainer,Do A Barrel Roll,Other Air Forces,https://w.wiki/4ntJ
@@ -15984,6 +15987,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-407FD7,G-RESA,HM Coastguard,Leonardo AW139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
-408095,G-EHAT,Essex and Herts Air Ambulance,Leonardo AW169,A169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.ehaat.org
-43C937,ZM709,Army Air Corps,Westland WAH-64D Apache AH1,H64,Mil,Brrrrrrrrrrrrrrrrrrrrrrt,Gunship,Longbow,Army Air Corps,http://torinak.com/qaop#!tomahawk
