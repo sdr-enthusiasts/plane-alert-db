@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **16935** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **16959** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (16935)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (16959)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
 -   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12322)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4555)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (9667)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (9691)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (949)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1764)
 
@@ -102,7 +102,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Ukraine|Aircraft from Ukraine|36|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|271|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|647|
-|USAF|Aircraft of the United States Air Force|2460|
+|USAF|Aircraft of the United States Air Force|2484|
 |Vanity Plate|Distinctive registrations|78|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|114|
