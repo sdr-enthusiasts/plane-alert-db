@@ -24,18 +24,18 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **16959** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **16986** unique aircraft in **54** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (16959)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (16986)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
 -   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12322)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4555)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (9691)
--   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (949)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4557)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (9711)
+-   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (954)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1764)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
@@ -64,7 +64,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Bizjets|Fancy pants planes for fancy pants people|67|
 |CAP|Civil Air Patrol.|18|
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|196|
-|Coastguard|Coastguard, Customs and Border Patrols|457|
+|Coastguard|Coastguard, Customs and Border Patrols|458|
 |Da Comrade|Russian or Soviet Aircraft|92|
 |Dictator Alert|People of potentially questionable morals and values|315|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|729|
@@ -83,12 +83,12 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|39|
-|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2294|
-|Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2311|
+|Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|203|
 |Oxcart|Intelligence gathering aircraft|770|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
-|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|931|
+|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|936|
 |Ptolemy would be proud|Mapping and Aerial Survey aircraft.|239|
 |Quango|NATO, United Nations, World Bank etc.|33|
 |Radiohead|Very Very special aircraft. Think VC25.|6|
