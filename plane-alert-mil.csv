@@ -190,7 +190,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 0D0AB0,3973,Mexican Air Force,B350 Super King Air,B350,Mil,Surveillance,Eye In The Sky,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 0D0B28,ANX-1260,Mexican Navy,Cessna 208B-EX Caravan,C208,Mil,Light Transport,Utility,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
 0D0E26,ANX-1231,Mexican Navy,Bombardier DHC-8 202,DH8B,Mil,VIP Transport,Bizjet,Armada de Mexico,Other Navies,https://w.wiki/4mmQ
+0D8212,2803,Venezuelan Air Force,Shaanxi Y-8F-200W,AN12,Mil,Cargo,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 0D8213,2410,Venezuelan Air Force,Shaanxi Y-8F-200W,AN12,Mil,Trainer,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
+0D8216,2509,Venezuelan Air Force,Shaanxi Y-8F-200W,AN12,Mil,Cargo,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
+0D8218,1192,Venezuelan Air Force,Shaanxi Y-8F-200W,AN12,Mil,Cargo,Bolivarian Military Aviation,The Paladin Of The Sovereign Space,Other Air Forces,https://w.wiki/4n52
 10166,SU-BRR,Egyptian Air Force,CASA C-295 M,C295,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://w.wiki/4$Pn
 10177,SU-BRU,Egyptian Air Force,CASA C-295 M,C295,Mil,Cargo,Airlift,Higher And Higher For The Sake Of Glory,Other Air Forces,https://w.wiki/4$Pn
 10A493,927,Pakistan Army,B200 Super King Air,BE20,Mil,Light Transport,Utility,Fixed Wing,Toy Soldiers,https://w.wiki/4myg
@@ -466,6 +469,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 1528A0,RF-75936,Russian Air Force,Ilyushin IL-20 M,IL18,Mil,COMINT,ELINT,Oxcart,Other Air Forces,https://w.wiki/Dst7
 1528A1,RF-75937,Russian Air Force,Ilyushin IL-18 D,IL18,Mil,Indestructible,Vashe Zdorovye,Coot,Other Air Forces,https://w.wiki/Dst7
 1528A3,RF-75939,Russian Air Force,Ilyushin IL-18 D,IL18,Mil,Indestructible,Vashe Zdorovye,Coot,Other Air Forces,https://w.wiki/Dst7
+152A26,RF-76326,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 152AF2,RF-76530,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 152AF5,RF-76533,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 152AFA,RA-76538,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
@@ -534,6 +538,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 152BE5,RF-76773,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 152BE8,RA-76776,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 152BEB,RF-76779,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+152C1C,RF-76828,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 15333D,RF-78653,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 15333E,RF-78654,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 15333F,RF-78655,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Modernised,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
@@ -668,6 +673,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 15537B,RF-86907,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 15537C,RF-86908,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 15537E,RA-86910,Russian Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+15538D,RF-86925,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 155982,RF-88450,Russian Navy,Beriev Be-200ES,BER2,Mil,Amphibian,Like A Duck To Water,Altair,Other Navies,https://w.wiki/4nsE
 156000,RF-90338,Russian Air Force,Antonov An-72,AN72,Mil,Cargo,Vashe Zdorovye,Cheburashka,Other Air Forces,https://w.wiki/Czj9
 1560C6,RF-90310,Russian Air Force,Antonov An-26,AN26,Mil,Got It Where It Counts,Vashe Zdorovye,Curl,Other Air Forces,https://w.wiki/Diwo
@@ -836,10 +842,32 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 1576EB,RF-95979,Russian Air Force,Ilyushin IL-20 M,IL18,Mil,COMINT,ELINT,Oxcart,Other Air Forces,https://w.wiki/Dst7
 1576EC,RF-95980,Russian Air Force,Ilyushin IL-20 M,IL18,Mil,COMINT,ELINT,Oxcart,Other Air Forces,https://w.wiki/Dst7
 194E97,RF-85655,Russian Air Force,Tupolev Tu-154 M-LK1,T154,Mil,Astronaut Training,Buran,Careless,Other Air Forces,https://w.wiki/Czj9
+1B266D,RF-75353,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1B2A23,RF-76323,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 1B4F60,RF-85856,Russian Navy,Tupolev Tu-154 M,T154,Mil,Military Transport,Workhorse,Careless,Other Navies,https://w.wiki/4nsE
+1B6C03,RF-76803,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1C333A,RF-78654,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D2B01,RF-76545,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D2BE4,RF-76772,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D333C,RF-78652,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D333D,RF-78653,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3340,RF-78656,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3341,RF-78657,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3343,RF-78659,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3344,RF-78660,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3345,RF-78661,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3346,RF-78662,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 1D3348,RF-78664,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D3349,RF-78665,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D334A,RF-78666,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1D33F5,RF-78837,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1F2BCA,RF-76746,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1F333F,RF-78655,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1F3342,RF-78658,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
+1F3395,RF-78741,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 1F632C,90924,Russian Air Force,Ilyushin IL-20 M,IL18,Mil,COMINT,ELINT,Oxcart,Other Air Forces,https://w.wiki/Dst7
 1F6FA9,RF-94121,Russian Navy,Tupolev Tu-142,TU95,Mil,Cold Warrior,Bear,Da Comrade,Other Air Forces,https://en.wikipedia.org/wiki/Tupolev_Tu-142
+1F7040,RF-94272,Russian Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 31FED7,MM81600,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 31FEF5,MM81592,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33F10E,MM81597,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
@@ -3391,6 +3419,13 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 506F24,L1-01,Slovenian Air Force,Dassault Falcon 2000EX,F2TH,Mil,Bizjet,Must Be Nice,Ahoj,Other Air Forces,https://en.wikipedia.org/wiki/Slovenian_Air_Force_and_Air_Defence
 507FA1,07 WHITE,Uzbek Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Strategic Airlift,Other Air Forces,https://w.wiki/4nFR
 507FA2,08 WHITE,Uzbek Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,Strategic Airlift,Other Air Forces,https://w.wiki/4nFR
+50807F,76658,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+508131,76413,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+50FF3A,76699,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+50FF3B,76683,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+50FFC0,76697,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+50FFE2,76655,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+50FFEE,76661,Ukraine Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Ukraine,https://en.wikipedia.org/wiki/Ukrainian_Air_Force
 511122,44 BLACK,Estonian Air Force,C-145A Combat Coyote,M28,Mil,Military Transport,Rugged,Home To The Stars,Other Air Forces,https://w.wiki/4mej
 68324F,21,Kazakhstan Air Defense Forces,Airbus A400M Atlas,A400,Mil,Tactical Airlift,Military Transport,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A400M_Atlas
 683D00,3972,Mexican Air Force,Beech B300 Super King Air,BE30,Mil,Utility,Light Transport,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
@@ -3550,14 +3585,27 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 78C84D,B-4082,Chinese Air Force,Boeing 737NG,B738,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 78CCAF,B-4083,Chinese Air Force,Boeing 737NG,B738,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 78CF95,LH94007,Chinese Army,Shaanxi Y-8,AN12,Mil,Military Transport,Vashe Zdorovye,PLA,Toy Soldiers,https://w.wiki/4meK
+791369,21046,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 79141C,21047,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+79193A,30073,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+791CAD,30074,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 791CF7,B-4662,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 79819F,B-4091,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C104,21043,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+79C23C,21041,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D0,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 79C7D1,B-4018,Chinese Air Force,Boeing 737,B733,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A2432,82131,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A2433,82132,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A2434,82133,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4201,20641,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4203,20643,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4205,20545,Chinese Air Force,Ilyushin IL-76TD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4207,20550,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A420C,21146,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4221,21042,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4222,30071,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4230,30072,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4243,11053,Chinese Air Force,Xian Y-20,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4245,11053,Chinese Air Force,Xian Y-20,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4246,11055,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -3570,6 +3618,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7A425D,11152,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A425E,11153,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A425F,11155,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4262,30518,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4265,31110,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A426E,11159,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A427A,B-4086,Chinese Air Force,Boeing 737NG,B738,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A427F,20047,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -3581,7 +3631,22 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7A4286,20046,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4288,20140,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
 7A4289,20049,Chinese Air Force,Xian Y-20 A,Y20,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A4298,30720,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A429A,53053,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A429C,30177,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A429E,30174,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A429F,30171,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A42A3,30079,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A42A4,30075,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A431A,82011,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A431B,82018,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A431C,82013,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A432D,82015,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A43F0,30475,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7A43F1,30476,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7AA30B,B-4074,Chinese Air Force,Xian Y-7G,AN24,Mil,Military Transport,Kunpeng,PLAAF,Other Air Forces,https://w.wiki/4meN
+7B005F,21048,Chinese Air Force,Ilyushin IL-76,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7B059F,9231,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7B0949,B-4065,Chinese Air Force,Bombardier Challenger 700,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0A1B,B-4066,Chinese Air Force,Bombardier Challenger 870,CRJ7,Mil,Reconnaissance,SIGINT,PLAAF,Oxcart,https://w.wiki/4meN
 7B0B31,B-4092,Chinese Air Force,Airbus A319 115,A319,Mil,Ni Hao,VIP Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
@@ -3597,6 +3662,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7BB0E3,B-4025,Chinese Air Force,Boeing 737NG,B737,Mil,Maritime Patrol,Military Transport,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BBA29,21140,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BBC74,21045,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
+7BCA5D,30515,Chinese Air Force,Shaanxi Y-8,AN12,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7BE903,21049,Chinese Air Force,Ilyushin IL-76MD,IL76,Mil,Cargo,Chonky Boy,PLAAF,Other Air Forces,https://w.wiki/4meN
 7C01FD,VH-AOF,Royal Australian Air Force,New Zealand Aerospace Airtrainer CT/4A,CT4,Mil,Basic Trainer,L-Plate,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7C0258,VH-AQY,Royal Australian Air Force,New Zealand Aerospace Airtrainer CT/4A,CT4,Mil,Basic Trainer,L-Plate,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
