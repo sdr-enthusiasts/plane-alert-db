@@ -24,16 +24,16 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **17077** unique aircraft in **54** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **17081** unique aircraft in **54** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (17077)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (17081)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
 -   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12322)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4577)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4581)
 -   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (9782)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (954)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1764)
@@ -77,7 +77,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Governments|Aircraft registered to Governments|273|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|265|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|335|
-|Historic|It's older than I am and most likely has a prop.|546|
+|Historic|It's older than I am and most likely has a prop.|550|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|24|
 |Joe Cool|Cool Planes. Or at least I think they are cool.|264|
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
