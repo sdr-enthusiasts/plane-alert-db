@@ -2892,6 +2892,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 46788F,CC-2,Finnish Air Force,CASA C-295 M,C295,Mil,Cargo,Chonky Boy,Quality Is Our Strength,Other Air Forces,https://en.wikipedia.org/wiki/Finnish_Air_Force
 468077,4119,French Army,Aerospatiale Gazelle SA342,GAZL,Mil,Aller a la Choppa,Armee De Terre,Honneur et Patrie,Toy Soldiers,https://www.defense.gouv.fr/terre
 4680D1,HAF352C,Hellenic Air Force,Embraer ERJ-135,E135,Mil,Bizjet,VIP,Always Dominate the Heights,Other Air Forces,https://en.wikipedia.org/wiki/Hellenic_Air_Force
+477F85,610,Hungarian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Magyar Legiero,Other Air Forces,https://en.wikipedia.org/wiki/Hungarian_Air_Force
+477F86,611,Hungarian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Magyar Legiero,Other Air Forces,https://en.wikipedia.org/wiki/Hungarian_Air_Force
 477FF1,SAC-01,SAC Heavy Airlift Wing,Boeing C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
 477FF2,SAC-02,SAC Heavy Airlift Wing,Boeing C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
 477FF3,SAC-03,SAC Heavy Airlift Wing,Boeing C-17A Globemaster III,C17,Mil,Globemaster,Cargo,SAC,Other Air Forces,https://en.wikipedia.org/wiki/Strategic_Airlift_Capability
@@ -3219,6 +3221,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 497C9E,24814,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 497C9F,24815,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 497CC0,19205,Portuguese Navy,Westland Lynx Mk95 Super,LYNX,Mil,Maritime Patrol,ASW,Wiling To Do Well,Other Navies,https://w.wiki/53bf
+497CDC,26901,Portuguese Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Chappy,Other Air Forces,https://www.emfa.pt/
+497CDD,26902,Portuguese Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Chappy,Other Air Forces,https://www.emfa.pt/
+497CDE,26903,Portuguese Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Chappy,Other Air Forces,https://www.emfa.pt/
+497CDF,26904,Portuguese Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,Chappy,Other Air Forces,https://www.emfa.pt/
 497CE3,24816,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 497CE4,24817,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 498421,3085,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
@@ -3248,6 +3254,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4984B5,0481,Czech Air Force,CASA C-295 MW,C295,Mil,Tactical Airlift,Cargo,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 4984B6,482,Czech Air Force,CASA C-295 MW,C295,Mil,Tactical Airlift,Cargo,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 4984EA,0478,Czech Air Force,Aero L-39 Albatros,L39,Mil,Jet Trainer,Do A Barrel Roll,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
+4984F0,0520,Czech Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 4A35A7,1104,Romanian Air Force,Antonov An-30,AN30,Mil,Aerial Cartography,Photo Recon,Forțele Aeriene Române,Oxcart,https://w.wiki/DstX
 4A35AC,2703,Romanian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,Chonky Boy,Forțele Aeriene Române,Other Air Forces,https://en.wikipedia.org/wiki/Romanian_Air_Force
 4A3618,1122,Romanian Air Force,Cessna Citation V,C560,Mil,VIP Transport,Must Be Nice,Forțele Aeriene Române,Other Air Forces,https://w.wiki/4z6w
@@ -9813,7 +9820,12 @@ E49182,2901,Brazilian Air Force,Airbus A330 243,A332,Mil,Cargo,Tactical Airlift,
 E49210,2853,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E49376,EB-2005,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
 E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Observation,Toy Soldiers,https://en.wikipedia.org/wiki/Brazilian_Army
+E494A2,FAB2854,Brazilian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E494A3,FAB2855,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E494A4,FAB2856,Brazilian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E494A5,FAB2857,Brazilian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E494A6,FAB2858,Brazilian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E494A7,FAB2859,Brazilian Air Force,Embraer C-390 Millennium,E390,Mil,Cargo,Tactical Airlift,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E8065E,E-304,Chilean Army,Cessna Citation Sovereign,C680,Mil,Chile,Ejército de Chile,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Army
 E8068F,FAC404,Chilean Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
