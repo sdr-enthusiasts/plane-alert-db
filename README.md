@@ -24,7 +24,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **17300** unique aircraft in **54** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **17300** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (17300)
@@ -88,7 +88,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Oxcart|Intelligence gathering aircraft|772|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
-|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|938|
+|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|939|
 |Ptolemy would be proud|Mapping and Aerial Survey aircraft.|243|
 |Quango|NATO, United Nations, World Bank etc.|33|
 |Radiohead|Very Very special aircraft. Think VC25.|6|
