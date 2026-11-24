@@ -24,7 +24,7 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **17300** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **17300** unique aircraft in **54** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
 -   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (17300)
@@ -76,7 +76,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
 |Governments|Aircraft registered to Governments|273|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|265|
-|Hired Gun|Why do the dirty work when someone else can do it for you?|335|
+|Hired Gun|Why do the dirty work when someone else can do it for you?|334|
 |Historic|It's older than I am and most likely has a prop.|579|
 |Jesus he Knows me|Aircraft owned and operated by religious organisations|24|
 |Joe Cool|Cool Planes. Or at least I think they are cool.|264|
@@ -86,7 +86,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2419|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|202|
 |Oxcart|Intelligence gathering aircraft|772|
-|Papers Please|Immigration enforcement aircraft. The documented kind.|0|
+|Papers Please|Immigration enforcement aircraft. The documented kind.|1|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|939|
