@@ -86,7 +86,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2419|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|202|
 |Oxcart|Intelligence gathering aircraft|772|
-|Papers Please|Immigration enforcement aircraft. The documented kind.||
+|Papers Please|Immigration enforcement aircraft. The documented kind.|0|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|939|
