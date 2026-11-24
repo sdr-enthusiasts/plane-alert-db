@@ -199,6 +199,9 @@ with open("readme.mustache", "r") as template:
                     "cap_count": category_df[
                         category_df["Category"] == "CAP"
                     ].shape[0],
+                    "papers_count": category_df[
+                        category_df["Category"] == "Papers Please"
+                    ],shape[0],
                 },
             )
         )
