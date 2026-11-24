@@ -201,7 +201,7 @@ with open("readme.mustache", "r") as template:
                     ].shape[0],
                     "papers_count": category_df[
                         category_df["Category"] == "Papers Please"
-                    ],shape[0],
+                    ].shape[0],
                 },
             )
         )
