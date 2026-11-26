@@ -673,8 +673,11 @@ A00137,N1NJ,New Jersey State Police,AgustaWestland AW.139,A139,Pol,Police Squad,
 A00196,N1SD,Pinellas County Sheriff,Airbus AS-350B2,AS50,Pol,Police Squad,Copper Chopper,Surveillance,Police Forces,https://www.pinellassheriff.gov
 A00399,N10NT,Ontario Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.opp.ca
 A026A2,N109FB,Phoenix Police Dept,AgustaWestland AW.109E,A109,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.phoenix.gov/police
+A026E0,N109HP,Florida Highway Patrol,Cessna 208B Grand Caravan,C208,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=109HP
 A02B2D,N11PP,US Department of the Interior,Bell 412 EP,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://w.wiki/8o8W
 A02B6E,N11SD,Harris County Sheriff's Office,Cirrus SR-22,SR22,Pol,Police Squad,The Cops,Speed Enforced by Aircraft,Police Forces,https://w.wiki/CuLA
+A02DC7,N110SD,Pinal County Sheriff's Office,Bell UH-1V Iroquois,UH1,Pol,Police Squad,Pinal County Sheriff,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=110SD
+A04B7F,N118SD,Pinal County Sheriff's Office,Bell OH-58 Kiowa,B06,Pol,Police Squad,Pinal County Sheriff,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=118SD
 A052F7,N12SP,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 A06006,N123NC,North Carolina Highway Patrol,Bell 206A,B06,Pol,Barney in a Beehive,Not Quite Mayberry,Esse Quam Videri,Police Forces,https://w.wiki/A$BB
 A0644D,N124TX,Texas Department of Public Safety,Eurocopter AS350 Squirrel B2,AS50,Pol,Police Squad,Spectre 219,Speed Enforced by Aircraft,Police Forces,https://w.wiki/7kcW
@@ -684,6 +687,7 @@ A0967B,N137PD,Puerto Rico Police Dept,Bell 407,B407,Pol,Police Squad,The Cops,Co
 A09A32,N138PD,Puerto Rico Police Dept,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Puerto_Rico_Police
 A09DE9,N139PD,Puerto Rico Police Dept,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Puerto_Rico_Police
 A0ACF4,N1423W,Maricopa County Sheriff,Cessna 206H,C206,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.mcso.org/
+A0B702,N145TX,Texas Department of Public Safety,Eurocopter EC145,EC45,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=145TX
 A0D049,N1510L,Dallas Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://dallaspolice.net
 A0D6E8,N153SD,Jackson County Sheriff,OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://co.jackson.ms.us/149/Sheriff
 A0E760,N1576F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
@@ -693,6 +697,7 @@ A0FABE,N162ST,Michigan State Police,C90 King Air,BE9L,Pol,Police Squad,The Cops,
 A1058A,N165PD,Puerto Rico Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Puerto_Rico_Police
 A110AF,N168PD,Puerto Rico Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Puerto_Rico_Police
 A11E2D,N171PD,Suffolk County Police Dept,Eurocopter EC145 C-2,EC45,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://suffolkpd.org
+A123F3,N1727L,Texas Department of Public Safety,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=1727L
 A1299C,N174SC,Seminole County Sheriff's Office,Airbus Helicopters Squirrel AS.350 B3e (H125),AS50,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.seminolesheriff.org
 A12D53,N175SC,Seminole County Sheriff's Office,Airbus Helicopters Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.seminolesheriff.org
 A1441C,N1808,Gwinnett County Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.gwinnettcounty.com/web/gwinnett/Departments/Police
@@ -703,23 +708,31 @@ A1A29E,N204TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B3,AS
 A1A990,N206NY,New York Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www1.nyc.gov/site/nypd/index.page
 A1BDCC,N211FX,Fairfax County Police,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://tinyurl.com/yj6n346n
 A1C183,N212FX,Fairfax County Police,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://tinyurl.com/yj6n346n
+A1CDD4,N215TX,Texas Department of Public Safety,Cessna 208 Caravan,C208,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=215TX
 A1D296,N2163J,Portland Police Bureau,Cessna 182 Skylane,C182,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.portlandoregon.gov/police
 A1DA3B,N21844,Los Angeles Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A1DCB0,N219TX,Texas Department of Public Safety,Pilatus PC-12,PC12,Pol,Police Squad,Spectre 219,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/Pilatus_PC-12
 A1DFFB,N22PP,United States Park Police,Bell 412,B412,Pol,Police Squad,The Cops,Huey,Police Forces,https://en.wikipedia.org/wiki/United_States_Park_Police
 A1E29F,N220SP,Kentucky State Police,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,http://kentuckystatepolice.org
+A1ECAF,N223FM,Texas Department of Public Safety,Bell 407,B407,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=223FM
 A1F0C0,N224KB,Pasadena Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofpasadena.net/police
 A1F4DD,N225PD,Baton Rouge Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.brla.gov/203/Police-Department
 A1F894,N226PD,Anaheim Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.anaheim.net/171/Police-Department
 A1FC32,N227ND,Hillsborough County Sheriff,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,Copper Chopper,Surveillance,Police Forces,https://teamhcso.com/
+A1FCC1,N227TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=227TX
 A1FFB4,N228LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A2036B,N229LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A2147B,N233JP,Las Vegas PD,Bell UH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Las_Vegas_Metropolitan_Police_Department
 A2256B,N2374F,Houston Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police
 A22F44,N24SP,Kentucky State Police,Beech C-12L Huron,BE20,Pol,Police Squad,The Cops,Surveillance,Police Forces,http://kentuckystatepolice.org
+A23CE3,N243TX,Texas Department of Public Safety,Pilatus PC-12/47E,PC12,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=243TX
+A255E2,N25HP,Florida Highway Patrol,Cessna 182T Skylane,C182,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=25HP
 A257BE,N250CP,Cullman Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://cullmanal.gov/depts/cpd/
+A2791B,N259BW,Pinal County Sheriff's Office,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Pinal County Sheriff,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=259BW
 A27E80,N26VA,Virginia State Police,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.vsp.virginia.gov
+A299BB,N267HP,Florida Highway Patrol,Cessna 172S Skyhawk,C172,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=267HP
 A299F9,N267LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
+A29D72,N268HP,Florida Highway Patrol,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=268HP
 A2C518,N278KC,Cullman Police Dept,Hughes OH-6A Cayuse,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://cullmanal.gov/depts/cpd/
 A2C934,N279PD,Sacramento Police Dept,Bell 505 Jet Ranger X,B505,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofsacramento.org/police
 A2CC9E,N28LB,Long Beach Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.longbeach.gov/police
@@ -735,6 +748,7 @@ A3323A,N305DK,Washington State Patrol,Cessna 206H Stationaire,C206,Pol,Rain Spot
 A34FD3,N312SD,Harris County Sheriff's Office,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil
 A37A70,N323LA,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
 A385E3,N326PD,Anaheim Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.anaheim.net/171/Police-Department
+A3917E,N329TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=329TX
 A39D3F,N332AB,Kansas City Police Dept,Hughes OH-6A Cayuse,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.kcpd.org
 A3BAD1,N3399,Indianapolis PD,Bell 206A Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://tinyurl.com/28bfj8u6
 A3E5EE,N350MP,Memphis Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://memphispolice.org
@@ -747,6 +761,7 @@ A3FC14,N356LC,Lake County Sheriff's Department,Eurocopter EC120B,EC20,Pol,Police
 A3FF4D,N357FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A406BB,N359FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A40B91,N36SP,Kentucky State Police,Gates C-21A,LJ35,Pol,Police Squad,The Cops,Surveillance,Police Forces,http://kentuckystatepolice.org
+A411C2,N361TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=361TX
 A46018,N381MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
 A463CF,N382MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
 A46786,N383MD,Maryland State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://mdsp.maryland.gov/Pages/default.aspx
@@ -779,8 +794,10 @@ A50456,N422PD,New York Police Dept,Bell 412,B412,Pol,Police Squad,The Cops,Huey,
 A50F7B,N425PD,Jackson Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.jacksonms.gov/departments/jackson-police-department
 A52461,N430NY,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 A524BC,N430SP,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
+A524DD,N430TX,Texas Department of Public Safety,Cessna 208 Caravan,C208,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=430TX
 A52BCF,N432NY,New York State Police,Bell 430,B430,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 A534D3,N4343Z,Hood River County Sheriff,Piper PA-18 Super Cub,PA18,Pol,Eye In The Sky,Creeperplane,Surveillance,Police Forces,https://www.hoodriversheriff.com
+A582A3,N454TB,Texas Department of Public Safety,Beechcraft King Air 350,B350,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=454TB
 A5E9ED,N480PQ,Plaquemines Parish Sheriff's Office,Enstrom 480 B,EN48,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://w.wiki/7r3v
 A63673,N5NJ,New Jersey State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.njsp.org
 A638D5,N50NT,Ontario Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.opp.ca
@@ -788,6 +805,7 @@ A63E64,N501HP,Honolulu Police Dept,MD 369,H500,Pol,Police Squad,Makai,Copper Cho
 A63EC8,N501MP,Mesa Police Dept,Cessna 172 Skyhawk,C172,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.mesaazpolice.gov/about-mesa-pd/air-support-unit
 A6421B,N502HP,Honolulu Police Dept,MD 369,H500,Pol,Police Squad,Makai,Copper Chopper,Police Forces,https://www.honolulupd.org
 A64662,N503PH,Miami Dade Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.miamidade.gov/global/police/home.page
+A64989,N504HP,Florida Highway Patrol,Pilatus PC-12/45,PC12,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=504HP
 A64D15,N505FW,Fort Worth Police Dept,Bell 505 Jet Ranger X,B505,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://police.fortworthtexas.gov
 A64DA4,N505MP,Mesa Police Dept,MD 369E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mesaazpolice.gov/about-mesa-pd/air-support-unit
 A64E14,N505SA,New Mexico State Police,Seabird Seeker SB7L-360A,SB7,Pol,Police Squad,The Cops,Nope Mobile,Police Forces,https://en.wikipedia.org/wiki/New_Mexico_State_Police
@@ -799,18 +817,21 @@ A66A94,N512TP,Tampa Police Dept,Bell 407,B407,Pol,Police Squad,The Cops,Copper C
 A67194,N514PD,Detroit Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://detroitmi.gov/departments/police-department
 A68235,N5185G,Las Vegas Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Las_Vegas_Metropolitan_Police_Department
 A68DEE,N521PD,Hawthorne Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://hawthornepolice.com
+A6A56C,N5271B,Texas Department of Public Safety,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=5271B
 A6A642,N5277F,Houston Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police
 A6A665,N5278F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
 A6A688,N5279F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
 A6A904,N5280F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
 A6A990,N5284F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
 A6B27A,N530X,Oxford Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.oxfordms.net/departments/police-department
+A6B4E1,N531HP,Florida Highway Patrol,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=531HP
 A6D692,N54LE,Wilmington Police Dept,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.wilmingtonnc.gov/departments/police-department
 A6E5EC,N54331,Little Rock Police Dept,Bell TH-67A Creek,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.littlerock.gov/for-residents/police-department
 A70362,N551CP,City of Columbus Division of Police,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A70713,N552CH,Orange County Sheriff's Office,Bell 407 GXi,B407,Pol,Police Squad,The Cops,Ghetto Bird,Police Forces,https://www.ocso.com/en-us
 A70AD0,N553CP,City of Columbus Division of Police,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A70F83,N554NR,MD DNR Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://dnr.maryland.gov/nrp/Pages/default.aspx
+A71774,N556TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=556TX
 A719AC,N557CP,City of Columbus Division of Police,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.columbus.gov/police
 A724A9,N56AZ,Arizona Department of Public Safety,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 A75995,N573AG,San Antonio Police Dept,Airbus EC-120,EC20,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sa.gov/Directory/Departments/SAPD/About/Divisions
@@ -824,6 +845,7 @@ A7DB1B,N605PD,Nassau County Police Dept,Bell 407,B407,Pol,Police Squad,The Cops,
 A7DED2,N606PD,Nassau County Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.pdcn.org
 A7EE03,N61SP,New York State Police,Bell UH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 A7F075,N610TP,Tampa Police Dept,Bell 206L Long Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.tampa.gov/police
+A7F332,N611HP,Florida Highway Patrol,Cessna 182T Skylane,C182,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=611HP
 A816BC,N620FB,Phoenix Police Dept,Pilatus PC-12 47E,PC12,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.phoenix.gov/police
 A81A73,N621FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
 A81E2A,N622FB,Phoenix Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.phoenix.gov/police
@@ -839,21 +861,25 @@ A8D33A,N668PD,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police 
 A8DA5E,N67LE,Wilmington Police Dept,Bell OH-58C Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.wilmingtonnc.gov/departments/police-department
 A8DD56,N670SP,Louisiana Department of Public Safety,Bell JUH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Louisiana_Department_of_Public_Safety_%26_Corrections
 A8DF6D,N67099,Spartanburg County Sheriff,Bell 206A,B06,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://w.wiki/A$BB
+A8EC53,N674TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=674TX
 A8F547,N67662,Austin Police Dept,Bell TH-67A Creek,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.austintexas.gov/department/police
 A92BFF,N690PD,Kansas City Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.kcpd.org
 A9336D,N692PD,Kansas City Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.kcpd.org
 A95111,N7NJ,New Jersey State Police,AgustaWestland AW.139,A139,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.njsp.org
 A9697F,N7050F,Houston Police Department,Gippsaero GA-8 Airvan,GA8,Pol,Police Squad,The Cops,Speed Enforced by Aircraft,Police Forces,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
+A96B95,N706HP,Florida Highway Patrol,Cessna R182 Skylane RG,C82R,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=706HP
 A97023,N707SD,San Diego Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sandiego.gov/police
 A973DA,N708SD,San Diego Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sandiego.gov/police
 A97791,N709SD,San Diego Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sandiego.gov/police
 A97DA1,N710SD,San Diego Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sandiego.gov/police
+A98438,N712HP,Florida Highway Patrol,Bell 407,B407,Pol,Police Squad,Florida Highway Patrol,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=712HP
 A9A1F0,N72HP,Ohio Highway Patrol,Airbus AS350B3,AS50,Pol,The Flying Wheel,Copper Chopper,Eye in the Sky,Police Forces,https://w.wiki/DLVm
 A9A470,N720KC,Oklahoma City Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.okc.gov/departments/police
 A9D056,N731SD,Harris County Sheriff's Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,Abel5,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
 A9ED9D,N739MR,Portland Police Bureau,Cessna 172 Skyhawk,C172,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.portlandoregon.gov/police
 AA4682,N761NY,New York State Police,Sikorsky S-76,S76,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://troopers.ny.gov
 AA60E2,N768ST,Michigan State Police,Bell UH-1H Iroquois,UH1,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.michigan.gov/msp
+AA74E9,N773HP,Florida Highway Patrol,Cessna T206H Turbo Stationair,T206,Pol,Eye In The Sky,Florida Highway Patrol,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=773HP
 AA9BC3,N783AZ,Arizona Department of Public Safety,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 AADE5D,N8NF,Pasadena Police Dept,Bell 206B Jet Ranger,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.cityofpasadena.net/police
 AAE0C2,N80NT,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.lapdonline.org
@@ -862,6 +888,7 @@ AAF591,N805MP,Miami Dade Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police S
 AAF948,N806MP,Miami Dade Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.miamidade.gov/global/police/home.page
 AAFCFF,N807MP,Miami Dade Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.miamidade.gov/global/police/home.page
 AB11C9,N812LE,Maricopa County Sheriff,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
+AB2C8A,N819TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=819TX
 AB322C,N820PM,San Antonio Police Dept,Airbus EC-120,EC20,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.sa.gov/Directory/Departments/SAPD/About/Divisions
 AB3630,N821SP,Massachusetts State Police,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://tinyurl.com/4xx2ba66
 AB3861,N822AZ,Arizona Department of Public Safety,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
@@ -872,6 +899,7 @@ AB4176,N824TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B3,AS
 AB448D,N825MM,Massachusetts State Police,Eurocopter EC135 T2,EC35,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mass.gov/orgs/massachusetts-state-police
 AB486E,N826PD,Anaheim Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.anaheim.net/171/Police-Department
 AB4C7E,N827ST,MI State Police,Bell UH-1H Iroquois,UH1,Pol,Police Squad,Los Judis,Copper Chopper,Police Forces,"https://www.michigan.gov/msp/0,4643,7-123-72297_25680---,00.html"
+AB4C9B,N827TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=827TX
 AB74FF,N8372F,Houston Police Department,MD Helicopters 369 E,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police/divisions/air_support/index.htm
 AB7545,N8374F,City of Houston Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.houstontx.gov/police
 AB9074,N844TX,Texas Department of Public Safety,Eurocopter Squirrel AS.350 B3,AS50,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.dps.texas.gov/section/aircraft-operations-division
@@ -920,9 +948,12 @@ ACA3C6,N913WB,Los Angeles Police Dept,Eurocopter AS350 Squirrel,AS50,Pol,Police 
 ACAAD2,N915SD,Harris County Sheriff's Office,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/OH-58_Kiowa
 ACB5AC,N918PD,New York City Police Dept,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www1.nyc.gov/site/nypd/index.page
 ACC1F9,N921AZ,Arizona Department of Public Safety,B200 Super King Air,BE20,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://www.azdps.gov/organization/asd/aviation
+ACE158,N929TX,Texas Department of Public Safety,Airbus AS350 B3 Ecureuil,AS50,Pol,Police Squad,Texas DPS,Copper Chopper,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=929TX
 ACE6F2,N930PD,Cullman Police Dept,Bell OH-58A Kiowa,B06,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://cullmanal.gov/depts/cpd/
 AD19F8,N943TB,Arizona Department of Public Safety,Bell 429 GlobalRanger,B429,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.azdps.gov/organization/asd/aviation
 AD3CE5,N952JH,Los Angeles County Sheriff's Dept,Eurocopter AS332 Super Puma,AS32,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://lasd.org/
+AD4CB0,N956TX,Texas Department of Public Safety,Cessna 208 Caravan,C208,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=956TX
+AD7B9D,N968TX,Texas Department of Public Safety,Cessna 208 Caravan,C208,Pol,Eye In The Sky,Texas DPS,Surveillance,Papers Please,https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=968TX
 AD9ECA,N977MS,Maricopa County Sheriff,Bell 407,B407,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.mcso.org/
 ADAB40,N980BC,Jet Rider LLC,Super King Air 350,B350,Pol,Police Lease,Eye In The Sky,Hired Gun,Police Forces,https://www.planelogger.com/Airline/Fleet/Jet_Rider_LLC/127911
 ADC302,N986SD,Oxford Police Dept,MD 369,H500,Pol,Police Squad,The Cops,Copper Chopper,Police Forces,https://www.oxfordms.net/departments/police-department
